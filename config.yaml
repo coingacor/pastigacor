@@ -67,7 +67,7 @@ proxy-groups:
 proxy-providers:
   GROUP_0:
     type: file
-    url: "https://raw.githubusercontent.com/songtao1873/clash/main/subscription/0.yaml"
+    url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/Subs/US.yaml"
     interval: 2000
     path: subscription/0.yaml
     health-check:
