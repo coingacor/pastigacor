@@ -82,4 +82,12 @@ rules:
   - DOMAIN-SUFFIX,bing.com,PROXY
 
   - GEOIP,CN,DIRECT
+  - RULE-SET,IKLANRUSAK,REJECT
   - MATCH,PROXY
+rule-providers:
+  IKLANRUSAK:
+    behavior: "classical" 
+    type: http
+    url: "https://raw.githubusercontent.com/Arifinfarm/clashmy/main/rule_provider/娜诶弗伊 哦艾诶.yaml"
+    path: ./IKLANRUSAK.yaml
+    interval: 999999
