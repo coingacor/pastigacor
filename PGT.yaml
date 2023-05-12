@@ -125,23 +125,66 @@ dns:
     - "*.ffxiv.com"
     - "*.mcdn.bilivideo.cn"
     - +.media.dssott.com
-
-proxy-providers:
-  US12:
-    type: file
-    url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/Subs/USA.yaml"
-    interval: 150
-    path: Subs/USA.yaml
-    health-check:
-      enable: true
-      interval: 150
-      url: "http://www.msftconnecttest.com/connecttest.txt"
-
+proxies:
+  - {name: 🇯🇵 152.69.197.60:1069, server: 152.69.197.60, port: 1069, type: vmess, uuid: ac8e26fe-8150-4b60-ae64-82fc77eba2cf, alterId: 0, cipher: auto, network: tcp}
+  - {name: 🇺🇸 Server WD, server: 137.175.52.20, port: 33002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_239, server: 137.175.69.234, port: 44920, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_341, server: 137.175.57.17, port: 53940, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_238, server: 137.175.15.197, port: 43487, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_242, server: 137.175.41.196, port: 50004, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.41.197, server: 137.175.41.197, port: 50004, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_342, server: 137.175.52.22, port: 33002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_340, server: 137.175.1.8, port: 53403, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.15.198, server: 137.175.15.198, port: 43487, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_241, server: 137.175.5.49, port: 42329, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US-137.175.9.195-1885, server: "", port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: 137.175.9.195, network: ws, ws-opts: {path: /path/1683543024453, headers: {Host: 137.175.9.195}}, udp: true}
+  - {name: 🇺🇸 US-137.175.9.195-0098, server: www.71891316.xyz, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: 137.175.9.195, network: ws, ws-opts: {path: /path/1683543024453, headers: {Host: 137.175.9.195}}, udp: true}
+  - {name: 🇺🇸 137.175.18.91, server: 137.175.18.91, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.9.193, server: 137.175.9.193, port: 57402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_237, server: 137.175.18.86, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.52.17, server: 137.175.52.17, port: 33002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.57.20, server: 137.175.57.20, port: 53940, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.18.90, server: 137.175.18.90, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.52.22, server: 137.175.52.22, port: 33002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.3.231, server: 137.175.3.231, port: 53042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.52.18, server: 137.175.52.18, port: 33002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.3.232, server: 137.175.3.232, port: 53042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.18.89, server: 137.175.18.89, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.1.8, server: 137.175.1.8, port: 53403, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_236, server: 137.175.18.88, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.9.194, server: 137.175.9.194, port: 57402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.15.242, server: 137.175.15.242, port: 45232, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
 proxy-groups:
   - name: SERVER_TUNDAGAN
     type: select
-    use:
-      - US12
+    proxies:
+      - 🇺🇸 137.175.52.20
+      - 🇺🇸 US_239
+      - 🇺🇸 US_341
+      - 🇺🇸 US_238
+      - 🇺🇸 US_242
+      - 🇺🇸 137.175.41.197
+      - 🇺🇸 US_342
+      - 🇺🇸 US_340
+      - 🇺🇸 137.175.15.198
+      - 🇺🇸 US_241
+      - 🇺🇸 US-137.175.9.195-1885
+      - 🇺🇸 US-137.175.9.195-0098
+      - 🇺🇸 137.175.18.91
+      - 🇺🇸 137.175.9.193
+      - 🇺🇸 US_237
+      - 🇺🇸 137.175.52.17
+      - 🇺🇸 137.175.57.20
+      - 🇺🇸 137.175.18.90
+      - 🇺🇸 137.175.52.22
+      - 🇺🇸 137.175.3.231
+      - 🇺🇸 137.175.52.18
+      - 🇺🇸 137.175.3.232
+      - 🇺🇸 137.175.18.89
+      - 🇺🇸 137.175.1.8
+      - 🇺🇸 US_236
+      - 🇺🇸 137.175.9.194
+      - 🇺🇸 137.175.15.242
       - LOAD-BALANCE
       - BEST-PING
       - FALLBACK
@@ -152,21 +195,98 @@ proxy-groups:
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     proxies:
-      - US12
+      - 🇺🇸 137.175.52.20
+      - 🇺🇸 US_239
+      - 🇺🇸 US_341
+      - 🇺🇸 US_238
+      - 🇺🇸 US_242
+      - 🇺🇸 137.175.41.197
+      - 🇺🇸 US_342
+      - 🇺🇸 US_340
+      - 🇺🇸 137.175.15.198
+      - 🇺🇸 US_241
+      - 🇺🇸 US-137.175.9.195-1885
+      - 🇺🇸 US-137.175.9.195-0098
+      - 🇺🇸 137.175.18.91
+      - 🇺🇸 137.175.9.193
+      - 🇺🇸 US_237
+      - 🇺🇸 137.175.52.17
+      - 🇺🇸 137.175.57.20
+      - 🇺🇸 137.175.18.90
+      - 🇺🇸 137.175.52.22
+      - 🇺🇸 137.175.3.231
+      - 🇺🇸 137.175.52.18
+      - 🇺🇸 137.175.3.232
+      - 🇺🇸 137.175.18.89
+      - 🇺🇸 137.175.1.8
+      - 🇺🇸 US_236
+      - 🇺🇸 137.175.9.194
+      - 🇺🇸 137.175.15.242
   - name: BEST-PING
     type: url-test
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     tolerance: 50
     proxies:
-      - US12
+      - 🇺🇸 137.175.52.20
+      - 🇺🇸 US_239
+      - 🇺🇸 US_341
+      - 🇺🇸 US_238
+      - 🇺🇸 US_242
+      - 🇺🇸 137.175.41.197
+      - 🇺🇸 US_342
+      - 🇺🇸 US_340
+      - 🇺🇸 137.175.15.198
+      - 🇺🇸 US_241
+      - 🇺🇸 US-137.175.9.195-1885
+      - 🇺🇸 US-137.175.9.195-0098
+      - 🇺🇸 137.175.18.91
+      - 🇺🇸 137.175.9.193
+      - 🇺🇸 US_237
+      - 🇺🇸 137.175.52.17
+      - 🇺🇸 137.175.57.20
+      - 🇺🇸 137.175.18.90
+      - 🇺🇸 137.175.52.22
+      - 🇺🇸 137.175.3.231
+      - 🇺🇸 137.175.52.18
+      - 🇺🇸 137.175.3.232
+      - 🇺🇸 137.175.18.89
+      - 🇺🇸 137.175.1.8
+      - 🇺🇸 US_236
+      - 🇺🇸 137.175.9.194
+      - 🇺🇸 137.175.15.242
   - name: FALLBACK
     type: fallback
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     proxies:
-      - US12
-
+      - 🇺🇸 137.175.52.20
+      - 🇺🇸 US_239
+      - 🇺🇸 US_341
+      - 🇺🇸 US_238
+      - 🇺🇸 US_242
+      - 🇺🇸 137.175.41.197
+      - 🇺🇸 US_342
+      - 🇺🇸 US_340
+      - 🇺🇸 137.175.15.198
+      - 🇺🇸 US_241
+      - 🇺🇸 US-137.175.9.195-1885
+      - 🇺🇸 US-137.175.9.195-0098
+      - 🇺🇸 137.175.18.91
+      - 🇺🇸 137.175.9.193
+      - 🇺🇸 US_237
+      - 🇺🇸 137.175.52.17
+      - 🇺🇸 137.175.57.20
+      - 🇺🇸 137.175.18.90
+      - 🇺🇸 137.175.52.22
+      - 🇺🇸 137.175.3.231
+      - 🇺🇸 137.175.52.18
+      - 🇺🇸 137.175.3.232
+      - 🇺🇸 137.175.18.89
+      - 🇺🇸 137.175.1.8
+      - 🇺🇸 US_236
+      - 🇺🇸 137.175.9.194
+      - 🇺🇸 137.175.15.242
 rules:
   - RULE-SET,IKLANRUSAK,REJECT
   - MATCH,SERVER_TUNDAGAN
