@@ -151,20 +151,20 @@ proxy-groups:
     strategy: consistent-hashing
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
-    proxies:
+    use:
       - US1
   - name: BEST-PING
     type: url-test
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     tolerance: 50
-    proxies:
+    use:
       - US1
   - name: FALLBACK
     type: fallback
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
-    proxies:
+    use:
       - US1
 rules:
   - RULE-SET,IKLANRUSAK,REJECT
