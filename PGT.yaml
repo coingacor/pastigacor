@@ -129,9 +129,9 @@ dns:
 proxy-providers:
   US12:
     type: file
-    url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/Subs/US1.yaml"
+    url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/Subs/USA.yaml"
     interval: 150
-    path: Subs/US1.yaml
+    path: Subs/USA.yaml
     health-check:
       enable: true
       interval: 150
