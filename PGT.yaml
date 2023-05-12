@@ -126,17 +126,6 @@ dns:
     - "*.mcdn.bilivideo.cn"
     - +.media.dssott.com
 
-proxy-providers:
-  US1:
-    type: file
-    url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/Subs/US1.yaml"
-    interval: 150
-    path: Subs/US1.yaml
-    health-check:
-      enable: true
-      interval: 150
-      url: "http://www.msftconnecttest.com/connecttest.txt"
-
 proxy-groups:
   - name: SERVER_TUNDAGAN
     type: select
@@ -166,6 +155,17 @@ proxy-groups:
     interval: 150
     proxies:
       - US1
+
+proxy-providers:
+  US1:
+    type: file
+    url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/Subs/US1.yaml"
+    interval: 150
+    path: Subs/US1.yaml
+    health-check:
+      enable: true
+      interval: 150
+      url: "http://www.msftconnecttest.com/connecttest.txt"
 rules:
   - RULE-SET,IKLANRUSAK,REJECT
   - MATCH,SERVER_TUNDAGAN
