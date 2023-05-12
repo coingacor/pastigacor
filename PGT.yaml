@@ -129,9 +129,9 @@ dns:
 proxy-providers:
   US1:
     type: file
-    url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/Subs/US1.yml"
+    url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/Subs/US1.yaml"
     interval: 150
-    path: Subs/US1.yml
+    path: Subs/US1.yaml
     health-check:
       enable: true
       interval: 150
@@ -151,20 +151,20 @@ proxy-groups:
     strategy: consistent-hashing
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
-    use:
+    proxies:
       - US1
   - name: BEST-PING
     type: url-test
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     tolerance: 50
-    use:
+    proxies:
       - US1
   - name: FALLBACK
     type: fallback
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
-    use:
+    proxies:
       - US1
 rules:
   - RULE-SET,IKLANRUSAK,REJECT
