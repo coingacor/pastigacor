@@ -1,0 +1,298 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: false
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+  store-fake-ip: true
+dns:
+  enable: true
+  ipv6: false
+  use-host: true
+  enhanced-mode: fake-ip
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - https://cloudflare-dns.com/dns-query
+  default-nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.example"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - time.*.com
+    - time.*.gov
+    - time.*.edu.cn
+    - time.*.apple.com
+    - time1.*.com
+    - time2.*.com
+    - time3.*.com
+    - time4.*.com
+    - time5.*.com
+    - time6.*.com
+    - time7.*.com
+    - ntp.*.com
+    - ntp1.*.com
+    - ntp2.*.com
+    - ntp3.*.com
+    - ntp4.*.com
+    - ntp5.*.com
+    - ntp6.*.com
+    - ntp7.*.com
+    - "*.time.edu.cn"
+    - "*.ntp.org.cn"
+    - +.pool.ntp.org
+    - time1.cloud.tencent.com
+    - music.163.com
+    - "*.music.163.com"
+    - "*.126.net"
+    - musicapi.taihe.com
+    - music.taihe.com
+    - songsearch.kugou.com
+    - trackercdn.kugou.com
+    - "*.kuwo.cn"
+    - api-jooxtt.sanook.com
+    - api.joox.com
+    - joox.com
+    - y.qq.com
+    - "*.y.qq.com"
+    - streamoc.music.tc.qq.com
+    - mobileoc.music.tc.qq.com
+    - isure.stream.qqmusic.qq.com
+    - dl.stream.qqmusic.qq.com
+    - aqqmusic.tc.qq.com
+    - amobile.music.tc.qq.com
+    - "*.xiami.com"
+    - "*.music.migu.cn"
+    - music.migu.cn
+    - "*.msftconnecttest.com"
+    - "*.msftncsi.com"
+    - msftconnecttest.com
+    - msftncsi.com
+    - localhost.ptlogin2.qq.com
+    - localhost.sec.qq.com
+    - +.srv.nintendo.net
+    - +.stun.playstation.net
+    - xbox.*.microsoft.com
+    - xnotify.xboxlive.com
+    - +.battlenet.com.cn
+    - +.wotgame.cn
+    - +.wggames.cn
+    - +.wowsgame.cn
+    - +.wargaming.net
+    - proxy.golang.org
+    - stun.*.*
+    - stun.*.*.*
+    - +.stun.*.*
+    - +.stun.*.*.*
+    - +.stun.*.*.*.*
+    - heartbeat.belkin.com
+    - "*.linksys.com"
+    - "*.linksyssmartwifi.com"
+    - "*.router.asus.com"
+    - mesu.apple.com
+    - swscan.apple.com
+    - swquery.apple.com
+    - swdownload.apple.com
+    - swcdn.apple.com
+    - swdist.apple.com
+    - lens.l.google.com
+    - stun.l.google.com
+    - +.nflxvideo.net
+    - "*.square-enix.com"
+    - "*.finalfantasyxiv.com"
+    - "*.ffxiv.com"
+    - "*.mcdn.bilivideo.cn"
+    - +.media.dssott.com
+proxies:
+  - {name: 🇺🇸 137.175.52.20, server: 137.175.52.20, port: 33002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_239, server: 137.175.69.234, port: 44920, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_341, server: 137.175.57.17, port: 53940, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_238, server: 137.175.15.197, port: 43487, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_242, server: 137.175.41.196, port: 50004, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.41.197, server: 137.175.41.197, port: 50004, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_342, server: 137.175.52.22, port: 33002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_340, server: 137.175.1.8, port: 53403, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.15.198, server: 137.175.15.198, port: 43487, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_241, server: 137.175.5.49, port: 42329, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US-137.175.9.195-1885, server: "", port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: 137.175.9.195, network: ws, ws-opts: {path: /path/1683543024453, headers: {Host: 137.175.9.195}}, udp: true}
+  - {name: 🇺🇸 US-137.175.9.195-0098, server: www.71891316.xyz, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: 137.175.9.195, network: ws, ws-opts: {path: /path/1683543024453, headers: {Host: 137.175.9.195}}, udp: true}
+  - {name: 🇺🇸 137.175.18.91, server: 137.175.18.91, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.9.193, server: 137.175.9.193, port: 57402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_237, server: 137.175.18.86, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.52.17, server: 137.175.52.17, port: 33002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.57.20, server: 137.175.57.20, port: 53940, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.18.90, server: 137.175.18.90, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.52.22, server: 137.175.52.22, port: 33002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.3.231, server: 137.175.3.231, port: 53042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.52.18, server: 137.175.52.18, port: 33002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.3.232, server: 137.175.3.232, port: 53042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.18.89, server: 137.175.18.89, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.1.8, server: 137.175.1.8, port: 53403, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 US_236, server: 137.175.18.88, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.9.194, server: 137.175.9.194, port: 57402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: 🇺🇸 137.175.15.242, server: 137.175.15.242, port: 45232, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+proxy-groups:
+  - name: iQ9_SERVERS
+    type: select
+    proxies:
+      - 🇺🇸 137.175.52.20
+      - 🇺🇸 US_239
+      - 🇺🇸 US_341
+      - 🇺🇸 US_238
+      - 🇺🇸 US_242
+      - 🇺🇸 137.175.41.197
+      - 🇺🇸 US_342
+      - 🇺🇸 US_340
+      - 🇺🇸 137.175.15.198
+      - 🇺🇸 US_241
+      - 🇺🇸 US-137.175.9.195-1885
+      - 🇺🇸 US-137.175.9.195-0098
+      - 🇺🇸 137.175.18.91
+      - 🇺🇸 137.175.9.193
+      - 🇺🇸 US_237
+      - 🇺🇸 137.175.52.17
+      - 🇺🇸 137.175.57.20
+      - 🇺🇸 137.175.18.90
+      - 🇺🇸 137.175.52.22
+      - 🇺🇸 137.175.3.231
+      - 🇺🇸 137.175.52.18
+      - 🇺🇸 137.175.3.232
+      - 🇺🇸 137.175.18.89
+      - 🇺🇸 137.175.1.8
+      - 🇺🇸 US_236
+      - 🇺🇸 137.175.9.194
+      - 🇺🇸 137.175.15.242
+      - LOAD-BALANCE
+      - BEST-PING
+      - FALLBACK
+      - DIRECT
+  - name: LOAD-BALANCE
+    type: load-balance
+    strategy: consistent-hashing
+    url: http://www.msftconnecttest.com/connecttest.txt
+    interval: 150
+    proxies:
+      - 🇺🇸 137.175.52.20
+      - 🇺🇸 US_239
+      - 🇺🇸 US_341
+      - 🇺🇸 US_238
+      - 🇺🇸 US_242
+      - 🇺🇸 137.175.41.197
+      - 🇺🇸 US_342
+      - 🇺🇸 US_340
+      - 🇺🇸 137.175.15.198
+      - 🇺🇸 US_241
+      - 🇺🇸 US-137.175.9.195-1885
+      - 🇺🇸 US-137.175.9.195-0098
+      - 🇺🇸 137.175.18.91
+      - 🇺🇸 137.175.9.193
+      - 🇺🇸 US_237
+      - 🇺🇸 137.175.52.17
+      - 🇺🇸 137.175.57.20
+      - 🇺🇸 137.175.18.90
+      - 🇺🇸 137.175.52.22
+      - 🇺🇸 137.175.3.231
+      - 🇺🇸 137.175.52.18
+      - 🇺🇸 137.175.3.232
+      - 🇺🇸 137.175.18.89
+      - 🇺🇸 137.175.1.8
+      - 🇺🇸 US_236
+      - 🇺🇸 137.175.9.194
+      - 🇺🇸 137.175.15.242
+  - name: BEST-PING
+    type: url-test
+    url: http://www.msftconnecttest.com/connecttest.txt
+    interval: 150
+    tolerance: 50
+    proxies:
+      - 🇺🇸 137.175.52.20
+      - 🇺🇸 US_239
+      - 🇺🇸 US_341
+      - 🇺🇸 US_238
+      - 🇺🇸 US_242
+      - 🇺🇸 137.175.41.197
+      - 🇺🇸 US_342
+      - 🇺🇸 US_340
+      - 🇺🇸 137.175.15.198
+      - 🇺🇸 US_241
+      - 🇺🇸 US-137.175.9.195-1885
+      - 🇺🇸 US-137.175.9.195-0098
+      - 🇺🇸 137.175.18.91
+      - 🇺🇸 137.175.9.193
+      - 🇺🇸 US_237
+      - 🇺🇸 137.175.52.17
+      - 🇺🇸 137.175.57.20
+      - 🇺🇸 137.175.18.90
+      - 🇺🇸 137.175.52.22
+      - 🇺🇸 137.175.3.231
+      - 🇺🇸 137.175.52.18
+      - 🇺🇸 137.175.3.232
+      - 🇺🇸 137.175.18.89
+      - 🇺🇸 137.175.1.8
+      - 🇺🇸 US_236
+      - 🇺🇸 137.175.9.194
+      - 🇺🇸 137.175.15.242
+  - name: FALLBACK
+    type: fallback
+    url: http://www.msftconnecttest.com/connecttest.txt
+    interval: 150
+    proxies:
+      - 🇺🇸 137.175.52.20
+      - 🇺🇸 US_239
+      - 🇺🇸 US_341
+      - 🇺🇸 US_238
+      - 🇺🇸 US_242
+      - 🇺🇸 137.175.41.197
+      - 🇺🇸 US_342
+      - 🇺🇸 US_340
+      - 🇺🇸 137.175.15.198
+      - 🇺🇸 US_241
+      - 🇺🇸 US-137.175.9.195-1885
+      - 🇺🇸 US-137.175.9.195-0098
+      - 🇺🇸 137.175.18.91
+      - 🇺🇸 137.175.9.193
+      - 🇺🇸 US_237
+      - 🇺🇸 137.175.52.17
+      - 🇺🇸 137.175.57.20
+      - 🇺🇸 137.175.18.90
+      - 🇺🇸 137.175.52.22
+      - 🇺🇸 137.175.3.231
+      - 🇺🇸 137.175.52.18
+      - 🇺🇸 137.175.3.232
+      - 🇺🇸 137.175.18.89
+      - 🇺🇸 137.175.1.8
+      - 🇺🇸 US_236
+      - 🇺🇸 137.175.9.194
+      - 🇺🇸 137.175.15.242
+rules:
+  - RULE-SET,IKLANRUSAK,REJECT
+  - MATCH,iQ9_SERVERS
+rule-providers:
+  IKLANRUSAK:
+    behavior: "classical" 
+    type: http
+    url: "https://raw.githubusercontent.com/Arifinfarm/clashmy/main/rule_provider/娜诶弗伊 哦艾诶.yaml"
+    path: ./IKLANRUSAK.yaml
+    interval: 999999
