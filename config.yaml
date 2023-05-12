@@ -11,15 +11,6 @@ external-controller: 0.0.0.0:9090
 secret: ""
 bind-address: "*"
 unified-delay: true
-proxy-groups:
-  - name: PROXY
-    type: select
-    use:
-      - GROUP_0
-      # - GROUP_1
-      # - GROUP_2
-      # - GROUP_3
-      # - GROUP_4
 dns:
   enable: true
   ipv6: false
@@ -132,12 +123,21 @@ dns:
     - "*.mcdn.bilivideo.cn"
     - +.media.dssott.com
 ####################################################################################################
+proxy-groups:
+  - name: PROXY
+    type: select
+    use:
+      - GROUP_0
+      # - GROUP_1
+      # - GROUP_2
+      # - GROUP_3
+      # - GROUP_4
 proxy-providers:
   GROUP_0:
     type: file
     url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/Subs/US.yaml"
     interval: 150
-    # path: Subs/US.yaml
+    path: Subs/US.yaml
     health-check:
       enable: true
       interval: 150
