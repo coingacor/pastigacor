@@ -158,6 +158,8 @@ proxy-groups:
   - name: SERVER_TUNDAGAN
     type: select
     proxies:
+      - 🇯🇵 152.69.197.60:1069
+      - 🇺🇸 Server WD
       - 🇺🇸 137.175.52.20
       - 🇺🇸 US_239
       - 🇺🇸 US_341
@@ -195,6 +197,8 @@ proxy-groups:
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     proxies:
+      - 🇯🇵 152.69.197.60:1069
+      - 🇺🇸 Server WD
       - 🇺🇸 137.175.52.20
       - 🇺🇸 US_239
       - 🇺🇸 US_341
@@ -228,6 +232,8 @@ proxy-groups:
     interval: 150
     tolerance: 50
     proxies:
+      - 🇯🇵 152.69.197.60:1069
+      - 🇺🇸 Server WD
       - 🇺🇸 137.175.52.20
       - 🇺🇸 US_239
       - 🇺🇸 US_341
@@ -260,6 +266,8 @@ proxy-groups:
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     proxies:
+      - 🇯🇵 152.69.197.60:1069
+      - 🇺🇸 Server WD
       - 🇺🇸 137.175.52.20
       - 🇺🇸 US_239
       - 🇺🇸 US_341
