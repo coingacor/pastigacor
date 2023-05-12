@@ -1,6 +1,4 @@
 proxies:
-  - {name: "[🇺🇸]38.54.250.55:51431(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 38.54.250.55, port: 51431, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, network: tcp}
-  - {name: "[🇺🇸]23.224.15.180:50002(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 23.224.15.180, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, network: tcp}
   - {name: "[🇺🇸]172.247.67.22:42940(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 172.247.67.22, port: 42940, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, network: tcp}
   - {name: "[🇺🇸]142.4.126.74:31002(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 142.4.126.74, port: 31002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, network: tcp}
   - {name: "[🇺🇸]142.4.97.73:44942(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 142.4.97.73, port: 44942, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, network: tcp}
