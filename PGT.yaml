@@ -152,20 +152,20 @@ proxy-groups:
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     proxies:
-      - US1
+      - US12
   - name: BEST-PING
     type: url-test
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     tolerance: 50
     proxies:
-      - US1
+      - US12
   - name: FALLBACK
     type: fallback
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     proxies:
-      - US1
+      - US12
 
 rules:
   - RULE-SET,IKLANRUSAK,REJECT
