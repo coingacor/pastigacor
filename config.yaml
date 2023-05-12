@@ -137,7 +137,7 @@ proxy-providers:
     type: file
     url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/Subs/US.yaml"
     interval: 150
-    path: Subs/US.yaml
+    # path: Subs/US.yaml
     health-check:
       enable: true
       interval: 150
