@@ -141,7 +141,7 @@ proxy-groups:
   - name: SERVER_TUNDAGAN
     type: select
     use:
-      - US1
+      - US12
       - LOAD-BALANCE
       - BEST-PING
       - FALLBACK
