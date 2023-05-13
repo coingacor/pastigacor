@@ -154,6 +154,7 @@ proxies:
   - {name: 🇺🇸 US_236, server: 137.175.18.88, port: 42002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
   - {name: 🇺🇸 137.175.9.194, server: 137.175.9.194, port: 57402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
   - {name: 🇺🇸 137.175.15.242, server: 137.175.15.242, port: 45232, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {"name":"🇺🇸 San Jose","type":"vmess","server":"156.251.135.11","port":53302,"cipher":"auto","uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"tls":false,"skip-cert-verify":true,"servername":"","network":"tcp"}
 proxy-groups:
   - name: SERVER_TUNDAGAN
     type: select
@@ -186,6 +187,7 @@ proxy-groups:
       - 🇺🇸 US_236
       - 🇺🇸 137.175.9.194
       - 🇺🇸 137.175.15.242
+      - 🇺🇸 San Jose
       - LOAD-BALANCE
       - BEST-PING
       - FALLBACK
@@ -224,6 +226,7 @@ proxy-groups:
       - 🇺🇸 US_236
       - 🇺🇸 137.175.9.194
       - 🇺🇸 137.175.15.242
+      - 🇺🇸 San Jose
   - name: BEST-PING
     type: url-test
     url: http://www.msftconnecttest.com/connecttest.txt
@@ -258,6 +261,7 @@ proxy-groups:
       - 🇺🇸 US_236
       - 🇺🇸 137.175.9.194
       - 🇺🇸 137.175.15.242
+      - 🇺🇸 San Jose
   - name: FALLBACK
     type: fallback
     url: http://www.msftconnecttest.com/connecttest.txt
@@ -291,6 +295,7 @@ proxy-groups:
       - 🇺🇸 US_236
       - 🇺🇸 137.175.9.194
       - 🇺🇸 137.175.15.242
+      - 🇺🇸 San Jose
 rules:
   - RULE-SET,IKLANRUSAK,REJECT
   - MATCH,SERVER_TUNDAGAN
