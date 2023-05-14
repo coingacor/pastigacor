@@ -1,0 +1,267 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: false
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+  store-fake-ip: true
+dns:
+  enable: true
+  ipv6: false
+  use-host: true
+  enhanced-mode: fake-ip
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - https://cloudflare-dns.com/dns-query
+  default-nameserver:
+    - 1.1.1.1
+    - 8.8.8.8
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.example"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - time.*.com
+    - time.*.gov
+    - time.*.edu.cn
+    - time.*.apple.com
+    - time1.*.com
+    - time2.*.com
+    - time3.*.com
+    - time4.*.com
+    - time5.*.com
+    - time6.*.com
+    - time7.*.com
+    - ntp.*.com
+    - ntp1.*.com
+    - ntp2.*.com
+    - ntp3.*.com
+    - ntp4.*.com
+    - ntp5.*.com
+    - ntp6.*.com
+    - ntp7.*.com
+    - "*.time.edu.cn"
+    - "*.ntp.org.cn"
+    - +.pool.ntp.org
+    - time1.cloud.tencent.com
+    - music.163.com
+    - "*.music.163.com"
+    - "*.126.net"
+    - musicapi.taihe.com
+    - music.taihe.com
+    - songsearch.kugou.com
+    - trackercdn.kugou.com
+    - "*.kuwo.cn"
+    - api-jooxtt.sanook.com
+    - api.joox.com
+    - joox.com
+    - y.qq.com
+    - "*.y.qq.com"
+    - streamoc.music.tc.qq.com
+    - mobileoc.music.tc.qq.com
+    - isure.stream.qqmusic.qq.com
+    - dl.stream.qqmusic.qq.com
+    - aqqmusic.tc.qq.com
+    - amobile.music.tc.qq.com
+    - "*.xiami.com"
+    - "*.music.migu.cn"
+    - music.migu.cn
+    - "*.msftconnecttest.com"
+    - "*.msftncsi.com"
+    - msftconnecttest.com
+    - msftncsi.com
+    - localhost.ptlogin2.qq.com
+    - localhost.sec.qq.com
+    - +.srv.nintendo.net
+    - +.stun.playstation.net
+    - xbox.*.microsoft.com
+    - xnotify.xboxlive.com
+    - +.battlenet.com.cn
+    - +.wotgame.cn
+    - +.wggames.cn
+    - +.wowsgame.cn
+    - +.wargaming.net
+    - proxy.golang.org
+    - stun.*.*
+    - stun.*.*.*
+    - +.stun.*.*
+    - +.stun.*.*.*
+    - +.stun.*.*.*.*
+    - heartbeat.belkin.com
+    - "*.linksys.com"
+    - "*.linksyssmartwifi.com"
+    - "*.router.asus.com"
+    - mesu.apple.com
+    - swscan.apple.com
+    - swquery.apple.com
+    - swdownload.apple.com
+    - swcdn.apple.com
+    - swdist.apple.com
+    - lens.l.google.com
+    - stun.l.google.com
+    - +.nflxvideo.net
+    - "*.square-enix.com"
+    - "*.finalfantasyxiv.com"
+    - "*.ffxiv.com"
+    - "*.mcdn.bilivideo.cn"
+    - +.media.dssott.com
+proxies:
+  - {name: "[🇺🇸]107.167.16.214:33589(8c679b81-84fc-43ce-9553-ddca575a6949)", server: 107.167.16.214, port: 33589, type: vmess, uuid: 8c679b81-84fc-43ce-9553-ddca575a6949, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]45.86.11.148:39182(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 45.86.11.148, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]167.88.63.79:8091(PCnnH6SQSnfoS27)", server: 167.88.63.79, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: "[🇺🇸]23.224.171.67:44552(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 23.224.171.67, port: 44552, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]173.82.55.92:34412(82620a6e-dbfd-4d57-8a59-9004a4bb9e92)", server: 173.82.55.92, port: 34412, type: vmess, uuid: 82620a6e-dbfd-4d57-8a59-9004a4bb9e92, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]64.32.20.42:54042(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 64.32.20.42, port: 54042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]108.166.203.181:44945(268a491b-764c-44d1-81a4-30de16130867)", server: 108.166.203.181, port: 44945, type: vmess, uuid: 268a491b-764c-44d1-81a4-30de16130867, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]23.234.198.83:34888(a9abf3e7-87f4-473d-8d03-2f26ca4b3583)", server: 23.234.198.83, port: 34888, type: vmess, uuid: a9abf3e7-87f4-473d-8d03-2f26ca4b3583, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]38.64.138.145:8009(XKFKl2rULjIp74)", server: 38.64.138.145, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: "[🇺🇸]142.4.118.100:51040(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 142.4.118.100, port: 51040, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]38.75.136.102:443(pKEW8JPByTVTLtM)", server: 38.75.136.102, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: "[🇺🇸]198.16.45.166:53392(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 198.16.45.166, port: 53392, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]64.32.4.35:43166(8653004f-de67-44c2-9cce-e0830933fb03)", server: 64.32.4.35, port: 43166, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]169.197.141.187:8888(Y6R9pAtvxxzmGC)", server: 169.197.141.187, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "[🇺🇸]45.88.176.50:54774(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 45.88.176.50, port: 54774, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]45.86.11.226:39182(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 45.86.11.226, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]167.88.63.79:8881(kDWvXYZoTBcGkC4)", server: 167.88.63.79, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: "[🇺🇸]142.4.118.103:51040(418048af-a293-4b99-9b0c-98ca3580dd24)", server: 142.4.118.103, port: 51040, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]64.32.21.246:44313(57f93e92-ebb9-4f16-9bdc-8225d2010995)", server: 64.32.21.246, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "[🇺🇸]38.75.137.9:8080(KixLvKzwjekG00rm)", server: 38.75.137.9, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+
+proxy-groups:
+  - name: SERVER_PRIBADI
+    type: select
+    proxies:
+      - "[🇺🇸]107.167.16.214:33589(8c679b81-84fc-43ce-9553-ddca575a6949)"
+      - "[🇺🇸]45.86.11.148:39182(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]167.88.63.79:8091(PCnnH6SQSnfoS27)"
+      - "[🇺🇸]23.224.171.67:44552(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]173.82.55.92:34412(82620a6e-dbfd-4d57-8a59-9004a4bb9e92)"
+      - "[🇺🇸]64.32.20.42:54042(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]108.166.203.181:44945(268a491b-764c-44d1-81a4-30de16130867)"
+      - "[🇺🇸]23.234.198.83:34888(a9abf3e7-87f4-473d-8d03-2f26ca4b3583)"
+      - "[🇺🇸]38.64.138.145:8009(XKFKl2rULjIp74)"
+      - "[🇺🇸]142.4.118.100:51040(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]38.75.136.102:443(pKEW8JPByTVTLtM)"
+      - "[🇺🇸]198.16.45.166:53392(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]64.32.4.35:43166(8653004f-de67-44c2-9cce-e0830933fb03)"
+      - "[🇺🇸]169.197.141.187:8888(Y6R9pAtvxxzmGC)"
+      - "[🇺🇸]45.88.176.50:54774(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]45.86.11.226:39182(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]167.88.63.79:8881(kDWvXYZoTBcGkC4)"
+      - "[🇺🇸]142.4.118.103:51040(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]64.32.21.246:44313(57f93e92-ebb9-4f16-9bdc-8225d2010995)"
+      - "[🇺🇸]38.75.137.9:8080(KixLvKzwjekG00rm)"
+      - LOAD-BALANCE
+      - BEST-PING
+      - FALLBACK
+      - DIRECT
+  - name: LOAD-BALANCE
+    type: load-balance
+    strategy: consistent-hashing
+    url: http://www.msftconnecttest.com/connecttest.txt
+    interval: 150
+    proxies:
+      - "[🇺🇸]107.167.16.214:33589(8c679b81-84fc-43ce-9553-ddca575a6949)"
+      - "[🇺🇸]45.86.11.148:39182(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]167.88.63.79:8091(PCnnH6SQSnfoS27)"
+      - "[🇺🇸]23.224.171.67:44552(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]173.82.55.92:34412(82620a6e-dbfd-4d57-8a59-9004a4bb9e92)"
+      - "[🇺🇸]64.32.20.42:54042(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]108.166.203.181:44945(268a491b-764c-44d1-81a4-30de16130867)"
+      - "[🇺🇸]23.234.198.83:34888(a9abf3e7-87f4-473d-8d03-2f26ca4b3583)"
+      - "[🇺🇸]38.64.138.145:8009(XKFKl2rULjIp74)"
+      - "[🇺🇸]142.4.118.100:51040(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]38.75.136.102:443(pKEW8JPByTVTLtM)"
+      - "[🇺🇸]198.16.45.166:53392(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]64.32.4.35:43166(8653004f-de67-44c2-9cce-e0830933fb03)"
+      - "[🇺🇸]169.197.141.187:8888(Y6R9pAtvxxzmGC)"
+      - "[🇺🇸]45.88.176.50:54774(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]45.86.11.226:39182(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]167.88.63.79:8881(kDWvXYZoTBcGkC4)"
+      - "[🇺🇸]142.4.118.103:51040(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]64.32.21.246:44313(57f93e92-ebb9-4f16-9bdc-8225d2010995)"
+      - "[🇺🇸]38.75.137.9:8080(KixLvKzwjekG00rm)"
+
+  - name: BEST-PING
+    type: url-test
+    url: http://www.msftconnecttest.com/connecttest.txt
+    interval: 150
+    tolerance: 50
+    proxies:
+      - "[🇺🇸]107.167.16.214:33589(8c679b81-84fc-43ce-9553-ddca575a6949)"
+      - "[🇺🇸]45.86.11.148:39182(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]167.88.63.79:8091(PCnnH6SQSnfoS27)"
+      - "[🇺🇸]23.224.171.67:44552(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]173.82.55.92:34412(82620a6e-dbfd-4d57-8a59-9004a4bb9e92)"
+      - "[🇺🇸]64.32.20.42:54042(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]108.166.203.181:44945(268a491b-764c-44d1-81a4-30de16130867)"
+      - "[🇺🇸]23.234.198.83:34888(a9abf3e7-87f4-473d-8d03-2f26ca4b3583)"
+      - "[🇺🇸]38.64.138.145:8009(XKFKl2rULjIp74)"
+      - "[🇺🇸]142.4.118.100:51040(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]38.75.136.102:443(pKEW8JPByTVTLtM)"
+      - "[🇺🇸]198.16.45.166:53392(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]64.32.4.35:43166(8653004f-de67-44c2-9cce-e0830933fb03)"
+      - "[🇺🇸]169.197.141.187:8888(Y6R9pAtvxxzmGC)"
+      - "[🇺🇸]45.88.176.50:54774(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]45.86.11.226:39182(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]167.88.63.79:8881(kDWvXYZoTBcGkC4)"
+      - "[🇺🇸]142.4.118.103:51040(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]64.32.21.246:44313(57f93e92-ebb9-4f16-9bdc-8225d2010995)"
+      - "[🇺🇸]38.75.137.9:8080(KixLvKzwjekG00rm)"
+
+  - name: FALLBACK
+    type: fallback
+    url: http://www.msftconnecttest.com/connecttest.txt
+    interval: 150
+    proxies:
+      - "[🇺🇸]107.167.16.214:33589(8c679b81-84fc-43ce-9553-ddca575a6949)"
+      - "[🇺🇸]45.86.11.148:39182(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]167.88.63.79:8091(PCnnH6SQSnfoS27)"
+      - "[🇺🇸]23.224.171.67:44552(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]173.82.55.92:34412(82620a6e-dbfd-4d57-8a59-9004a4bb9e92)"
+      - "[🇺🇸]64.32.20.42:54042(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]108.166.203.181:44945(268a491b-764c-44d1-81a4-30de16130867)"
+      - "[🇺🇸]23.234.198.83:34888(a9abf3e7-87f4-473d-8d03-2f26ca4b3583)"
+      - "[🇺🇸]38.64.138.145:8009(XKFKl2rULjIp74)"
+      - "[🇺🇸]142.4.118.100:51040(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]38.75.136.102:443(pKEW8JPByTVTLtM)"
+      - "[🇺🇸]198.16.45.166:53392(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]64.32.4.35:43166(8653004f-de67-44c2-9cce-e0830933fb03)"
+      - "[🇺🇸]169.197.141.187:8888(Y6R9pAtvxxzmGC)"
+      - "[🇺🇸]45.88.176.50:54774(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]45.86.11.226:39182(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]167.88.63.79:8881(kDWvXYZoTBcGkC4)"
+      - "[🇺🇸]142.4.118.103:51040(418048af-a293-4b99-9b0c-98ca3580dd24)"
+      - "[🇺🇸]64.32.21.246:44313(57f93e92-ebb9-4f16-9bdc-8225d2010995)"
+      - "[🇺🇸]38.75.137.9:8080(KixLvKzwjekG00rm)"
+
+rules:
+  - RULE-SET,IKLANRUSAK,REJECT
+  - MATCH,SERVER_PRIBADI
+rule-providers:
+  IKLANRUSAK:
+    behavior: "classical" 
+    type: http
+    url: "https://raw.githubusercontent.com/Arifinfarm/clashmy/main/rule_provider/娜诶弗伊 哦艾诶.yaml"
+    path: ./IKLANRUSAK.yaml
+    interval: 999999
