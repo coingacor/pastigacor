@@ -127,118 +127,118 @@ dns:
     - +.media.dssott.com'
 
 proxies:
-- {name: "192.74.231.172 - San Jose - PEG TECH INC", server: 192.74.231.172, port: 49202, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "38.63.17.164 - San Jose - PEG TECH INC", server: 38.63.17.164, port: 50702, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "192.74.242.138 - San Jose - PEG TECH INC", server: 192.74.242.138, port: 44667, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "142.4.100.34 - Nanjing - PEG TECH INC", server: 142.4.100.34, port: 45409, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "38.64.138.145 - Chicago - GTHost", server: 38.64.138.145, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-- {name: "38.64.138.145 - Chicago - GTHost", server: 38.64.138.145, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-- {name: "38.64.138.145 - Chicago - GTHost", server: 38.64.138.145, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-- {name: "23.234.198.83 - Santa Clara - Multacom Corporation", server: 23.234.198.83, port: 34888, type: vmess, uuid: a9abf3e7-87f4-473d-8d03-2f26ca4b3583, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "171.22.134.4 - Los Angeles - DediPath", server: 171.22.134.4, port: 53433, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "96.43.94.83 - Los Angeles - Multacom Corporation", server: 96.43.94.83, port: 3003, type: vmess, uuid: 9da89a4a-232a-4aa4-8de0-9a16921dc802, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /, headers: {Host: ""}}, udp: true}
-- {name: "67.21.91.136 - Los Angeles - Sharktech", server: 67.21.91.136, port: 30983, type: vmess, uuid: ec186cad-56ac-42b3-8309-184d0e748b04, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "67.21.89.136 - Los Angeles - Sharktech", server: 67.21.89.136, port: 46866, type: vmess, uuid: b697d727-cf6c-41dd-a0de-c7a9478e4a4a, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "67.21.77.73 - Los Angeles - Sharktech", server: 67.21.77.73, port: 47140, type: vmess, uuid: fabb30e8-3a2c-4149-9651-2758f7712481, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "67.21.77.72 - Los Angeles - Sharktech", server: 67.21.77.72, port: 47140, type: vmess, uuid: fabb30e8-3a2c-4149-9651-2758f7712481, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "67.21.64.38 - Los Angeles - Sharktech", server: 67.21.64.38, port: 47074, type: vmess, uuid: b74f4afa-1a57-4aff-b7e5-8ad5ea33566f, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "66.151.211.147 - Los Angeles - Internap Holding LLC", server: 66.151.211.147, port: 41632, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "64.32.4.35 - Chicago - Sharktech", server: 64.32.4.35, port: 43166, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "64.32.3.233 - Chicago - Sharktech", server: 64.32.3.233, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "64.32.24.210 - Chicago - Sharktech", server: 64.32.24.210, port: 48659, type: vmess, uuid: cff9d860-7330-4ee1-b072-7142ddf1571d, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "64.32.21.246 - Chicago - Sharktech", server: 64.32.21.246, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "64.32.21.245 - Chicago - Sharktech", server: 64.32.21.245, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "64.32.21.241 - Chicago - Sharktech", server: 64.32.21.241, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "64.32.20.97 - Chicago - Sharktech", server: 64.32.20.97, port: 40039, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "64.32.20.43 - Chicago - Sharktech", server: 64.32.20.43, port: 54042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "64.32.20.42 - Chicago - Sharktech", server: 64.32.20.42, port: 54042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "64.32.20.34 - Chicago - Sharktech", server: 64.32.20.34, port: 54042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.92.160.186 - Los Angeles - DediPath", server: 45.92.160.186, port: 58402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.92.160.182 - Los Angeles - DediPath", server: 45.92.160.182, port: 58402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.92.160.181 - Los Angeles - DediPath", server: 45.92.160.181, port: 58402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.9 - Los Angeles - DediPath", server: 45.88.176.9, port: 53332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.7 - Los Angeles - DediPath", server: 45.88.176.7, port: 53332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.53 - Los Angeles - DediPath", server: 45.88.176.53, port: 54774, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: dp3.yxjnode.com, udp: true}
-- {name: "45.88.176.50 - Los Angeles - DediPath", server: 45.88.176.50, port: 54774, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: www.44716766.xyz, udp: true}
-- {name: "45.88.176.43 - Los Angeles - DediPath", server: 45.88.176.43, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.42 - Los Angeles - DediPath", server: 45.88.176.42, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.4 - Los Angeles - DediPath", server: 45.88.176.4, port: 53332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.39 - Los Angeles - DediPath", server: 45.88.176.39, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.34 - Los Angeles - DediPath", server: 45.88.176.34, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: new8.huvicloud.com, udp: true}
-- {name: "45.88.176.27 - Los Angeles - DediPath", server: 45.88.176.27, port: 41092, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.24 - Los Angeles - DediPath", server: 45.88.176.24, port: 41092, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.23 - Los Angeles - DediPath", server: 45.88.176.23, port: 41092, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.22 - Los Angeles - DediPath", server: 45.88.176.22, port: 41092, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.19 - Los Angeles - DediPath", server: 45.88.176.19, port: 41092, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.88.176.11 - Los Angeles - DediPath", server: 45.88.176.11, port: 53332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.86.11.245 - Secaucus - DediPath LLC", server: 45.86.11.245, port: 41823, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.86.11.231 - Secaucus - DediPath LLC", server: 45.86.11.231, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.86.11.229 - Secaucus - DediPath LLC", server: 45.86.11.229, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.86.11.226 - Secaucus - DediPath LLC", server: 45.86.11.226, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.86.11.158 - Secaucus - DediPath LLC", server: 45.86.11.158, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.86.11.157 - Secaucus - DediPath LLC", server: 45.86.11.157, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.86.11.152 - Secaucus - DediPath LLC", server: 45.86.11.152, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.86.11.148 - Secaucus - DediPath LLC", server: 45.86.11.148, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.86.11.147 - Secaucus - DediPath LLC", server: 45.86.11.147, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.86.11.144 - Secaucus - DediPath LLC", server: 45.86.11.144, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: vus3.0bad.com, udp: true}
-- {name: "45.83.117.170 - Los Angeles - DediPath", server: 45.83.117.170, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.58.186.85 - Los Angeles - Sharktech", server: 45.58.186.85, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.58.186.83 - Los Angeles - Sharktech", server: 45.58.186.83, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.58.186.81 - Los Angeles - Sharktech", server: 45.58.186.81, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.58.180.174 - Kwun Tong - Sharktech UDomain", server: 45.58.180.174, port: 55211, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.58.180.173 - Kwun Tong - Sharktech UDomain", server: 45.58.180.173, port: 55211, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.58.180.143 - Kwun Tong - Sharktech UDomain", server: 45.58.180.143, port: 55211, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.15.185.11 - Los Angeles - DediPath", server: 45.15.185.11, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: dp3.yxjnode.com, udp: true}
-- {name: "45.15.185.10 - Los Angeles - DediPath", server: 45.15.185.10, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: vus5.0bad.com, udp: true}
-- {name: "45.15.147.130 - Los Angeles - DediPath", server: 45.15.147.130, port: 53332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: dp3.yxjnode.com, udp: true}
-- {name: "45.15.144.73 - Los Angeles - DediPath", server: 45.15.144.73, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.15.144.71 - Los Angeles - DediPath", server: 45.15.144.71, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: dp3.yxjnode.com, udp: true}
-- {name: "45.136.235.56 - Los Angeles - DediPath", server: 45.136.235.56, port: 51338, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.136.235.13 - Los Angeles - DediPath", server: 45.136.235.13, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.72470068.xyz, network: ws, ws-opts: {path: /path/1684054651861, headers: {Host: www.72470068.xyz}}, udp: true}
-- {name: "45.136.235.11 - Los Angeles - DediPath", server: 45.136.235.11, port: 41632, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.136.235.10 - Los Angeles - DediPath", server: 45.136.235.10, port: 41632, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.12.144.83 - Los Angeles - DediPath", server: 45.12.144.83, port: 47127, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.12.144.82 - Los Angeles - DediPath", server: 45.12.144.82, port: 47127, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.12.144.80 - Los Angeles - DediPath", server: 45.12.144.80, port: 47127, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.12.144.79 - Los Angeles - DediPath", server: 45.12.144.79, port: 47127, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.12.112.114 - Los Angeles - DediPath", server: 45.12.112.114, port: 54774, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.12.112.102 - Los Angeles - DediPath", server: 45.12.112.102, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.12.112.101 - Los Angeles - DediPath", server: 45.12.112.101, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "45.12.112.100 - Los Angeles - DediPath", server: 45.12.112.100, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
-- {name: "38.91.102.74 - Seattle - GTHost", server: 38.91.102.74, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-- {name: "38.91.102.72 - Seattle - GTHost", server: 38.91.102.72, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-- {name: "38.91.102.124 - Seattle - GTHost", server: 38.91.102.124, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-- {name: "38.91.102.123 - Seattle - GTHost", server: 38.91.102.123, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-- {name: "38.91.101.159 - New York - GTHost", server: 38.91.101.159, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-- {name: "38.91.101.159 - New York - GTHost", server: 38.91.101.159, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
-- {name: "38.91.101.159 - New York - GTHost", server: 38.91.101.159, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
-- {name: "38.75.137.9 - Los Angeles - GTHost", server: 38.75.137.9, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-- {name: "38.75.137.9 - Los Angeles - GTHost", server: 38.75.137.9, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-- {name: "38.75.137.9 - Los Angeles - GTHost", server: 38.75.137.9, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
-- {name: "38.75.137.9 - Los Angeles - GTHost", server: 38.75.137.9, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
-- {name: "38.75.136.34 - Los Angeles - GTHost", server: 38.75.136.34, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
-- {name: "38.75.136.21 - Los Angeles - GTHost", server: 38.75.136.21, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
-- {name: "38.75.136.21 - Los Angeles - GTHost", server: 38.75.136.21, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-- {name: "38.75.136.21 - Los Angeles - GTHost", server: 38.75.136.21, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
-- {name: "38.75.136.21 - Los Angeles - GTHost", server: 38.75.136.21, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-- {name: "38.75.136.102 - Los Angeles - GTHost", server: 38.75.136.102, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
-- {name: "38.75.136.102 - Los Angeles - GTHost", server: 38.75.136.102, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
-- {name: "38.75.136.102 - Los Angeles - GTHost", server: 38.75.136.102, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
-- {name: "38.75.136.102 - Los Angeles - GTHost", server: 38.75.136.102, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
-- {name: "38.75.136.102 - Los Angeles - GTHost", server: 38.75.136.102, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
-- {name: "38.68.135.18 - Dallas - GTHost", server: 38.68.135.18, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: "192.74.231.172 - San Jose - PEG TECH INC", server: 192.74.231.172, port: 49202, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "38.63.17.164 - San Jose - PEG TECH INC", server: 38.63.17.164, port: 50702, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "192.74.242.138 - San Jose - PEG TECH INC", server: 192.74.242.138, port: 44667, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "142.4.100.34 - Nanjing - PEG TECH INC", server: 142.4.100.34, port: 45409, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "38.64.138.145 - Chicago - GTHost1", server: 38.64.138.145, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: "38.64.138.145 - Chicago - GTHost2", server: 38.64.138.145, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: "38.64.138.145 - Chicago - GTHost3", server: 38.64.138.145, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "23.234.198.83 - Santa Clara - Multacom Corporation", server: 23.234.198.83, port: 34888, type: vmess, uuid: a9abf3e7-87f4-473d-8d03-2f26ca4b3583, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "171.22.134.4 - Los Angeles - DediPath", server: 171.22.134.4, port: 53433, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "96.43.94.83 - Los Angeles - Multacom Corporation", server: 96.43.94.83, port: 3003, type: vmess, uuid: 9da89a4a-232a-4aa4-8de0-9a16921dc802, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /, headers: {Host: ""}}, udp: true}
+  - {name: "67.21.91.136 - Los Angeles - Sharktech", server: 67.21.91.136, port: 30983, type: vmess, uuid: ec186cad-56ac-42b3-8309-184d0e748b04, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "67.21.89.136 - Los Angeles - Sharktech", server: 67.21.89.136, port: 46866, type: vmess, uuid: b697d727-cf6c-41dd-a0de-c7a9478e4a4a, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "67.21.77.73 - Los Angeles - Sharktech", server: 67.21.77.73, port: 47140, type: vmess, uuid: fabb30e8-3a2c-4149-9651-2758f7712481, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "67.21.77.72 - Los Angeles - Sharktech", server: 67.21.77.72, port: 47140, type: vmess, uuid: fabb30e8-3a2c-4149-9651-2758f7712481, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "67.21.64.38 - Los Angeles - Sharktech", server: 67.21.64.38, port: 47074, type: vmess, uuid: b74f4afa-1a57-4aff-b7e5-8ad5ea33566f, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "66.151.211.147 - Los Angeles - Internap Holding LLC", server: 66.151.211.147, port: 41632, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "64.32.4.35 - Chicago - Sharktech", server: 64.32.4.35, port: 43166, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "64.32.3.233 - Chicago - Sharktech", server: 64.32.3.233, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "64.32.24.210 - Chicago - Sharktech", server: 64.32.24.210, port: 48659, type: vmess, uuid: cff9d860-7330-4ee1-b072-7142ddf1571d, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "64.32.21.246 - Chicago - Sharktech", server: 64.32.21.246, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "64.32.21.245 - Chicago - Sharktech", server: 64.32.21.245, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "64.32.21.241 - Chicago - Sharktech", server: 64.32.21.241, port: 44313, type: vmess, uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "64.32.20.97 - Chicago - Sharktech", server: 64.32.20.97, port: 40039, type: vmess, uuid: c1bad9a6-1482-4941-a0c4-e85f3cbbcb5a, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "64.32.20.43 - Chicago - Sharktech", server: 64.32.20.43, port: 54042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "64.32.20.42 - Chicago - Sharktech", server: 64.32.20.42, port: 54042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "64.32.20.34 - Chicago - Sharktech", server: 64.32.20.34, port: 54042, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.92.160.186 - Los Angeles - DediPath", server: 45.92.160.186, port: 58402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.92.160.182 - Los Angeles - DediPath", server: 45.92.160.182, port: 58402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.92.160.181 - Los Angeles - DediPath", server: 45.92.160.181, port: 58402, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.9 - Los Angeles - DediPath", server: 45.88.176.9, port: 53332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.7 - Los Angeles - DediPath", server: 45.88.176.7, port: 53332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.53 - Los Angeles - DediPath", server: 45.88.176.53, port: 54774, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: dp3.yxjnode.com, udp: true}
+  - {name: "45.88.176.50 - Los Angeles - DediPath", server: 45.88.176.50, port: 54774, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: www.44716766.xyz, udp: true}
+  - {name: "45.88.176.43 - Los Angeles - DediPath", server: 45.88.176.43, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.42 - Los Angeles - DediPath", server: 45.88.176.42, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.4 - Los Angeles - DediPath", server: 45.88.176.4, port: 53332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.39 - Los Angeles - DediPath", server: 45.88.176.39, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.34 - Los Angeles - DediPath", server: 45.88.176.34, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: new8.huvicloud.com, udp: true}
+  - {name: "45.88.176.27 - Los Angeles - DediPath", server: 45.88.176.27, port: 41092, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.24 - Los Angeles - DediPath", server: 45.88.176.24, port: 41092, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.23 - Los Angeles - DediPath", server: 45.88.176.23, port: 41092, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.22 - Los Angeles - DediPath", server: 45.88.176.22, port: 41092, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.19 - Los Angeles - DediPath", server: 45.88.176.19, port: 41092, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.88.176.11 - Los Angeles - DediPath", server: 45.88.176.11, port: 53332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.86.11.245 - Secaucus - DediPath LLC", server: 45.86.11.245, port: 41823, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.86.11.231 - Secaucus - DediPath LLC", server: 45.86.11.231, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.86.11.229 - Secaucus - DediPath LLC", server: 45.86.11.229, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.86.11.226 - Secaucus - DediPath LLC", server: 45.86.11.226, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.86.11.158 - Secaucus - DediPath LLC", server: 45.86.11.158, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.86.11.157 - Secaucus - DediPath LLC", server: 45.86.11.157, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.86.11.152 - Secaucus - DediPath LLC", server: 45.86.11.152, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.86.11.148 - Secaucus - DediPath LLC", server: 45.86.11.148, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.86.11.147 - Secaucus - DediPath LLC", server: 45.86.11.147, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.86.11.144 - Secaucus - DediPath LLC", server: 45.86.11.144, port: 39182, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: vus3.0bad.com, udp: true}
+  - {name: "45.83.117.170 - Los Angeles - DediPath", server: 45.83.117.170, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.58.186.85 - Los Angeles - Sharktech", server: 45.58.186.85, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.58.186.83 - Los Angeles - Sharktech", server: 45.58.186.83, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.58.186.81 - Los Angeles - Sharktech", server: 45.58.186.81, port: 51140, type: vmess, uuid: 4a138e19-0595-4d51-83c6-fd276cf7d307, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.58.180.174 - Kwun Tong - Sharktech UDomain", server: 45.58.180.174, port: 55211, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.58.180.173 - Kwun Tong - Sharktech UDomain", server: 45.58.180.173, port: 55211, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.58.180.143 - Kwun Tong - Sharktech UDomain", server: 45.58.180.143, port: 55211, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.15.185.11 - Los Angeles - DediPath", server: 45.15.185.11, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: dp3.yxjnode.com, udp: true}
+  - {name: "45.15.185.10 - Los Angeles - DediPath", server: 45.15.185.10, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: vus5.0bad.com, udp: true}
+  - {name: "45.15.147.130 - Los Angeles - DediPath", server: 45.15.147.130, port: 53332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: dp3.yxjnode.com, udp: true}
+  - {name: "45.15.144.73 - Los Angeles - DediPath", server: 45.15.144.73, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.15.144.71 - Los Angeles - DediPath", server: 45.15.144.71, port: 54492, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: dp3.yxjnode.com, udp: true}
+  - {name: "45.136.235.56 - Los Angeles - DediPath", server: 45.136.235.56, port: 51338, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.136.235.13 - Los Angeles - DediPath", server: 45.136.235.13, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.72470068.xyz, network: ws, ws-opts: {path: /path/1684054651861, headers: {Host: www.72470068.xyz}}, udp: true}
+  - {name: "45.136.235.11 - Los Angeles - DediPath", server: 45.136.235.11, port: 41632, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.136.235.10 - Los Angeles - DediPath", server: 45.136.235.10, port: 41632, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.12.144.83 - Los Angeles - DediPath", server: 45.12.144.83, port: 47127, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.12.144.82 - Los Angeles - DediPath", server: 45.12.144.82, port: 47127, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.12.144.80 - Los Angeles - DediPath", server: 45.12.144.80, port: 47127, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.12.144.79 - Los Angeles - DediPath", server: 45.12.144.79, port: 47127, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.12.112.114 - Los Angeles - DediPath", server: 45.12.112.114, port: 54774, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.12.112.102 - Los Angeles - DediPath", server: 45.12.112.102, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.12.112.101 - Los Angeles - DediPath", server: 45.12.112.101, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "45.12.112.100 - Los Angeles - DediPath", server: 45.12.112.100, port: 40002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
+  - {name: "38.91.102.74 - Seattle - GTHost", server: 38.91.102.74, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "38.91.102.72 - Seattle - GTHost", server: 38.91.102.72, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: "38.91.102.124 - Seattle - GTHost", server: 38.91.102.124, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: "38.91.102.123 - Seattle - GTHost", server: 38.91.102.123, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: "38.91.101.159 - New York - GTHost1", server: 38.91.101.159, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: "38.91.101.159 - New York - GTHost2", server: 38.91.101.159, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: "38.91.101.159 - New York - GTHost3", server: 38.91.101.159, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: "38.75.137.9 - Los Angeles - GTHost1", server: 38.75.137.9, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "38.75.137.9 - Los Angeles - GTHost2", server: 38.75.137.9, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "38.75.137.9 - Los Angeles - GTHost3", server: 38.75.137.9, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: "38.75.137.9 - Los Angeles - GTHost4", server: 38.75.137.9, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: "38.75.136.34 - Los Angeles - GTHost", server: 38.75.136.34, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: "38.75.136.21 - Los Angeles - GTHost1", server: 38.75.136.21, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: "38.75.136.21 - Los Angeles - GTHost2", server: 38.75.136.21, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: "38.75.136.21 - Los Angeles - GTHost3", server: 38.75.136.21, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: "38.75.136.21 - Los Angeles - GTHost4", server: 38.75.136.21, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: "38.75.136.102 - Los Angeles - GTHost1", server: 38.75.136.102, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: "38.75.136.102 - Los Angeles - GTHost2", server: 38.75.136.102, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: "38.75.136.102 - Los Angeles - GTHost3", server: 38.75.136.102, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: "38.75.136.102 - Los Angeles - GTHost4", server: 38.75.136.102, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: "38.75.136.102 - Los Angeles - GTHost5", server: 38.75.136.102, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: "38.68.135.18 - Dallas - GTHost", server: 38.68.135.18, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
 proxy-groups:
   - name: GUNUNG-TILU
     type: select
     proxies:
       - "192.74.231.172 - San Jose - PEG TECH INC"
       - "38.63.17.164 - San Jose - PEG TECH INC"
-      - "192.74.242.138 - San Jose - PEG TECH INC "
+      - "192.74.242.138 - San Jose - PEG TECH INC"
       - "142.4.100.34 - Nanjing - PEG TECH INC"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "23.234.198.83 - Santa Clarita - Multacom Corporation"
+      - "38.64.138.145 - Chicago - GTHost1"
+      - "38.64.138.145 - Chicago - GTHost2"
+      - "38.64.138.145 - Chicago - GTHost3"
+      - "23.234.198.83 - Santa Clara - Multacom Corporation"
       - "171.22.134.4 - Los Angeles - DediPath"
       - "96.43.94.83 - Los Angeles - Multacom Corporation"
       - "67.21.91.136 - Los Angeles - Sharktech"
@@ -289,9 +289,9 @@ proxy-groups:
       - "45.58.186.85 - Los Angeles - Sharktech"
       - "45.58.186.83 - Los Angeles - Sharktech"
       - "45.58.186.81 - Los Angeles - Sharktech"
-      - "45.58.180.174 - Kwun Tong - Sharktech"
-      - "45.58.180.173 - Kwun Tong - Sharktech"
-      - "45.58.180.143 - Kwun Tong - Sharktech"
+      - "45.58.180.174 - Kwun Tong - Sharktech UDomain"
+      - "45.58.180.173 - Kwun Tong - Sharktech UDomain"
+      - "45.58.180.143 - Kwun Tong - Sharktech UDomain"
       - "45.15.185.11 - Los Angeles - DediPath"
       - "45.15.185.10 - Los Angeles - DediPath"
       - "45.15.147.130 - Los Angeles - DediPath"
@@ -313,23 +313,23 @@ proxy-groups:
       - "38.91.102.72 - Seattle - GTHost"
       - "38.91.102.124 - Seattle - GTHost"
       - "38.91.102.123 - Seattle - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
+      - "38.91.101.159 - New York - GTHost1"
+      - "38.91.101.159 - New York - GTHost2"
+      - "38.91.101.159 - New York - GTHost3"
+      - "38.75.137.9 - Los Angeles - GTHost1"
+      - "38.75.137.9 - Los Angeles - GTHost2"
+      - "38.75.137.9 - Los Angeles - GTHost3"
+      - "38.75.137.9 - Los Angeles - GTHost4"
       - "38.75.136.34 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
+      - "38.75.136.21 - Los Angeles - GTHost1"
+      - "38.75.136.21 - Los Angeles - GTHost2"
+      - "38.75.136.21 - Los Angeles - GTHost3"
+      - "38.75.136.21 - Los Angeles - GTHost4"
+      - "38.75.136.102 - Los Angeles - GTHost1"
+      - "38.75.136.102 - Los Angeles - GTHost2"
+      - "38.75.136.102 - Los Angeles - GTHost3"
+      - "38.75.136.102 - Los Angeles - GTHost4"
+      - "38.75.136.102 - Los Angeles - GTHost5"
       - "38.68.135.18 - Dallas - GTHost"
       - LOAD-BALANCE
       - BEST-PING
@@ -343,12 +343,12 @@ proxy-groups:
     proxies:
       - "192.74.231.172 - San Jose - PEG TECH INC"
       - "38.63.17.164 - San Jose - PEG TECH INC"
-      - "192.74.242.138 - San Jose - PEG TECH INC "
+      - "192.74.242.138 - San Jose - PEG TECH INC"
       - "142.4.100.34 - Nanjing - PEG TECH INC"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "23.234.198.83 - Santa Clarita - Multacom Corporation"
+      - "38.64.138.145 - Chicago - GTHost1"
+      - "38.64.138.145 - Chicago - GTHost2"
+      - "38.64.138.145 - Chicago - GTHost3"
+      - "23.234.198.83 - Santa Clara - Multacom Corporation"
       - "171.22.134.4 - Los Angeles - DediPath"
       - "96.43.94.83 - Los Angeles - Multacom Corporation"
       - "67.21.91.136 - Los Angeles - Sharktech"
@@ -399,9 +399,9 @@ proxy-groups:
       - "45.58.186.85 - Los Angeles - Sharktech"
       - "45.58.186.83 - Los Angeles - Sharktech"
       - "45.58.186.81 - Los Angeles - Sharktech"
-      - "45.58.180.174 - Kwun Tong - Sharktech"
-      - "45.58.180.173 - Kwun Tong - Sharktech"
-      - "45.58.180.143 - Kwun Tong - Sharktech"
+      - "45.58.180.174 - Kwun Tong - Sharktech UDomain"
+      - "45.58.180.173 - Kwun Tong - Sharktech UDomain"
+      - "45.58.180.143 - Kwun Tong - Sharktech UDomain"
       - "45.15.185.11 - Los Angeles - DediPath"
       - "45.15.185.10 - Los Angeles - DediPath"
       - "45.15.147.130 - Los Angeles - DediPath"
@@ -423,23 +423,23 @@ proxy-groups:
       - "38.91.102.72 - Seattle - GTHost"
       - "38.91.102.124 - Seattle - GTHost"
       - "38.91.102.123 - Seattle - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
+      - "38.91.101.159 - New York - GTHost1"
+      - "38.91.101.159 - New York - GTHost2"
+      - "38.91.101.159 - New York - GTHost3"
+      - "38.75.137.9 - Los Angeles - GTHost1"
+      - "38.75.137.9 - Los Angeles - GTHost2"
+      - "38.75.137.9 - Los Angeles - GTHost3"
+      - "38.75.137.9 - Los Angeles - GTHost4"
       - "38.75.136.34 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
+      - "38.75.136.21 - Los Angeles - GTHost1"
+      - "38.75.136.21 - Los Angeles - GTHost2"
+      - "38.75.136.21 - Los Angeles - GTHost3"
+      - "38.75.136.21 - Los Angeles - GTHost4"
+      - "38.75.136.102 - Los Angeles - GTHost1"
+      - "38.75.136.102 - Los Angeles - GTHost2"
+      - "38.75.136.102 - Los Angeles - GTHost3"
+      - "38.75.136.102 - Los Angeles - GTHost4"
+      - "38.75.136.102 - Los Angeles - GTHost5"
       - "38.68.135.18 - Dallas - GTHost"
 
 
@@ -451,12 +451,12 @@ proxy-groups:
     proxies:
       - "192.74.231.172 - San Jose - PEG TECH INC"
       - "38.63.17.164 - San Jose - PEG TECH INC"
-      - "192.74.242.138 - San Jose - PEG TECH INC "
+      - "192.74.242.138 - San Jose - PEG TECH INC"
       - "142.4.100.34 - Nanjing - PEG TECH INC"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "23.234.198.83 - Santa Clarita - Multacom Corporation"
+      - "38.64.138.145 - Chicago - GTHost1"
+      - "38.64.138.145 - Chicago - GTHost2"
+      - "38.64.138.145 - Chicago - GTHost3"
+      - "23.234.198.83 - Santa Clara - Multacom Corporation"
       - "171.22.134.4 - Los Angeles - DediPath"
       - "96.43.94.83 - Los Angeles - Multacom Corporation"
       - "67.21.91.136 - Los Angeles - Sharktech"
@@ -507,9 +507,9 @@ proxy-groups:
       - "45.58.186.85 - Los Angeles - Sharktech"
       - "45.58.186.83 - Los Angeles - Sharktech"
       - "45.58.186.81 - Los Angeles - Sharktech"
-      - "45.58.180.174 - Kwun Tong - Sharktech"
-      - "45.58.180.173 - Kwun Tong - Sharktech"
-      - "45.58.180.143 - Kwun Tong - Sharktech"
+      - "45.58.180.174 - Kwun Tong - Sharktech UDomain"
+      - "45.58.180.173 - Kwun Tong - Sharktech UDomain"
+      - "45.58.180.143 - Kwun Tong - Sharktech UDomain"
       - "45.15.185.11 - Los Angeles - DediPath"
       - "45.15.185.10 - Los Angeles - DediPath"
       - "45.15.147.130 - Los Angeles - DediPath"
@@ -531,23 +531,23 @@ proxy-groups:
       - "38.91.102.72 - Seattle - GTHost"
       - "38.91.102.124 - Seattle - GTHost"
       - "38.91.102.123 - Seattle - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
+      - "38.91.101.159 - New York - GTHost1"
+      - "38.91.101.159 - New York - GTHost2"
+      - "38.91.101.159 - New York - GTHost3"
+      - "38.75.137.9 - Los Angeles - GTHost1"
+      - "38.75.137.9 - Los Angeles - GTHost2"
+      - "38.75.137.9 - Los Angeles - GTHost3"
+      - "38.75.137.9 - Los Angeles - GTHost4"
       - "38.75.136.34 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
+      - "38.75.136.21 - Los Angeles - GTHost1"
+      - "38.75.136.21 - Los Angeles - GTHost2"
+      - "38.75.136.21 - Los Angeles - GTHost3"
+      - "38.75.136.21 - Los Angeles - GTHost4"
+      - "38.75.136.102 - Los Angeles - GTHost1"
+      - "38.75.136.102 - Los Angeles - GTHost2"
+      - "38.75.136.102 - Los Angeles - GTHost3"
+      - "38.75.136.102 - Los Angeles - GTHost4"
+      - "38.75.136.102 - Los Angeles - GTHost5"
       - "38.68.135.18 - Dallas - GTHost"
 
   - name: FALLBACK
@@ -557,12 +557,12 @@ proxy-groups:
     proxies:
       - "192.74.231.172 - San Jose - PEG TECH INC"
       - "38.63.17.164 - San Jose - PEG TECH INC"
-      - "192.74.242.138 - San Jose - PEG TECH INC "
+      - "192.74.242.138 - San Jose - PEG TECH INC"
       - "142.4.100.34 - Nanjing - PEG TECH INC"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "38.64.138.145 - Chicago - GTHost"
-      - "23.234.198.83 - Santa Clarita - Multacom Corporation"
+      - "38.64.138.145 - Chicago - GTHost1"
+      - "38.64.138.145 - Chicago - GTHost2"
+      - "38.64.138.145 - Chicago - GTHost3"
+      - "23.234.198.83 - Santa Clara - Multacom Corporation"
       - "171.22.134.4 - Los Angeles - DediPath"
       - "96.43.94.83 - Los Angeles - Multacom Corporation"
       - "67.21.91.136 - Los Angeles - Sharktech"
@@ -613,9 +613,9 @@ proxy-groups:
       - "45.58.186.85 - Los Angeles - Sharktech"
       - "45.58.186.83 - Los Angeles - Sharktech"
       - "45.58.186.81 - Los Angeles - Sharktech"
-      - "45.58.180.174 - Kwun Tong - Sharktech"
-      - "45.58.180.173 - Kwun Tong - Sharktech"
-      - "45.58.180.143 - Kwun Tong - Sharktech"
+      - "45.58.180.174 - Kwun Tong - Sharktech UDomain"
+      - "45.58.180.173 - Kwun Tong - Sharktech UDomain"
+      - "45.58.180.143 - Kwun Tong - Sharktech UDomain"
       - "45.15.185.11 - Los Angeles - DediPath"
       - "45.15.185.10 - Los Angeles - DediPath"
       - "45.15.147.130 - Los Angeles - DediPath"
@@ -637,23 +637,23 @@ proxy-groups:
       - "38.91.102.72 - Seattle - GTHost"
       - "38.91.102.124 - Seattle - GTHost"
       - "38.91.102.123 - Seattle - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.91.101.159 - New York - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
-      - "38.75.137.9 - Los Angeles - GTHost"
+      - "38.91.101.159 - New York - GTHost1"
+      - "38.91.101.159 - New York - GTHost2"
+      - "38.91.101.159 - New York - GTHost3"
+      - "38.75.137.9 - Los Angeles - GTHost1"
+      - "38.75.137.9 - Los Angeles - GTHost2"
+      - "38.75.137.9 - Los Angeles - GTHost3"
+      - "38.75.137.9 - Los Angeles - GTHost4"
       - "38.75.136.34 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.21 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
-      - "38.75.136.102 - Los Angeles - GTHost"
+      - "38.75.136.21 - Los Angeles - GTHost1"
+      - "38.75.136.21 - Los Angeles - GTHost2"
+      - "38.75.136.21 - Los Angeles - GTHost3"
+      - "38.75.136.21 - Los Angeles - GTHost4"
+      - "38.75.136.102 - Los Angeles - GTHost1"
+      - "38.75.136.102 - Los Angeles - GTHost2"
+      - "38.75.136.102 - Los Angeles - GTHost3"
+      - "38.75.136.102 - Los Angeles - GTHost4"
+      - "38.75.136.102 - Los Angeles - GTHost5"
       - "38.68.135.18 - Dallas - GTHost"
 
 rules:
