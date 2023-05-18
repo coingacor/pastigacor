@@ -588,6 +588,6 @@ rule-providers:
   IKLANRUSAK:
     behavior: "classical" 
     type: http
-    url: "https://raw.githubusercontent.com/Arifinfarm/clashmy/main/rule_provider/娜诶弗伊 哦艾诶.yaml"
+    url: "https://raw.githubusercontent.com/ucuwardani/KelasServer/main/%E5%A8%9C%E8%AF%B6%E5%BC%97%E4%BC%8A%20%E5%93%A6%E8%89%BE%E8%AF%B6.yaml?token=GHSAT0AAAAAACCUMM737E42WDUEQMFISAJGZDGWM4A"
     path: ./IKLANRUSAK.yaml
     interval: 999999
