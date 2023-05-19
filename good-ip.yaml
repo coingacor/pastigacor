@@ -128,18 +128,20 @@ dns:
     - "*.mcdn.bilivideo.cn"
     - +.media.dssott.com
 proxies:
-  - {name: US-142.0.129.173 - San Jose, server: 142.0.129.173, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.84971233.xyz, network: ws, ws-opts: {path: /, headers: {Host: www.84971233.xyz}}, udp: true}
-  - {name: US-142.0.130.58 - San Jose, server: 142.0.130.58, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /, headers: {Host: ""}}, udp: true}
-  - {name: US-142.0.132.45 - San Jose, server: 142.0.132.45, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: www.45022499.xyz, network: ws, ws-opts: {path: /, headers: {Host: www.45022499.xyz}}, udp: true}
-  - {name: US-142.0.137.9 - Shanghai, server: 142.0.137.9, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, tls: true, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /, headers: {Host: ""}}, udp: true}
+  - {name: US-209.141.60.31-14768, server: streaming.teacher2040.com, port: 43500, type: trojan, password: D44B7434-927C-AE52-D51F-A790C19ED74A, skip-cert-verify: true, sni: "", udp: true}
+  - {name: US-209.141.60.31-0163, server: 209.141.60.31, port: 43500, type: trojan, password: D44B7434-927C-AE52-D51F-A790C19ED74A, skip-cert-verify: true, sni: streaming.teacher2040.com, udp: true}
+  - {name: US-192.9.130.66-0682, server: us.disnet.gq, port: 443, type: trojan, password: 7c7e0edb-c45a-4c07-b66a-69b191179349, skip-cert-verify: true, sni: "", udp: true}
+  - {name: US-138.197.5.103-0678, server: us.blazeppn.info, port: 443, type: trojan, password: xxoo, skip-cert-verify: true, sni: us.blazeppn.info, udp: true}
+  - {name: US-38.60.38.201-14133, server: ss3.zwtg888.com, port: 443, type: trojan, password: a45e9868-639b-35b6-9b28-5ec454144085, skip-cert-verify: true, sni: ss3.zwtg888.com, udp: true}
 proxy-groups:
   - name: GOOD-IP
     type: select
     proxies:
-      - US-142.0.129.173 - San Jose
-      - US-142.0.130.58 - San Jose
-      - US-142.0.132.45 - San Jose
-      - US-142.0.137.9 - Shanghai
+      - US-209.141.60.31-14768
+      - US-209.141.60.31-0163
+      - US-192.9.130.66-0682
+      - US-138.197.5.103-0678
+      - US-38.60.38.201-14133
       - LOAD-BALANCE
       - BEST-PING
       - FALLBACK
@@ -150,29 +152,32 @@ proxy-groups:
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - US-142.0.129.173 - San Jose
-      - US-142.0.130.58 - San Jose
-      - US-142.0.132.45 - San Jose
-      - US-142.0.137.9 - Shanghai
+      - US-209.141.60.31-14768
+      - US-209.141.60.31-0163
+      - US-192.9.130.66-0682
+      - US-138.197.5.103-0678
+      - US-38.60.38.201-14133
   - name: BEST-PING
     type: url-test
     url: http://hi.bonds.id/ping
     interval: 300
     tolerance: 50
     proxies:
-      - US-142.0.129.173 - San Jose
-      - US-142.0.130.58 - San Jose
-      - US-142.0.132.45 - San Jose
-      - US-142.0.137.9 - Shanghai
+      - US-209.141.60.31-14768
+      - US-209.141.60.31-0163
+      - US-192.9.130.66-0682
+      - US-138.197.5.103-0678
+      - US-38.60.38.201-14133
   - name: FALLBACK
     type: fallback
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-      - US-142.0.129.173 - San Jose
-      - US-142.0.130.58 - San Jose
-      - US-142.0.132.45 - San Jose
-      - US-142.0.137.9 - Shanghai
+      - US-209.141.60.31-14768
+      - US-209.141.60.31-0163
+      - US-192.9.130.66-0682
+      - US-138.197.5.103-0678
+      - US-38.60.38.201-14133
 rules:
   - RULE-SET,IKLANRUSAK,REJECT
   - MATCH,GOOD-IP
