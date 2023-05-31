@@ -134,7 +134,7 @@ proxies:
 - {name: "163.123.192.155 - Scottsdale - Tempest Hosting LLC", server: 163.123.192.155, port: 443, type: trojan, password: 1113a9fa-c6ee-4929-ae93-d29d024b1728, sni: download.xn--mes358a9urctx.com, skip-cert-verify: true}
 - {name: "173.82.51.118 - Los Angeles - Multacom Corporation", server: 173.82.51.118, port: 57912, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 173.82.51.118}}
 - {name: "38.63.0.69 - San Jose - PEG TECH INC", server: 38.63.0.69, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: 38.63.0.69}}
-- {name: "216.52.183.243 - New York - Dedicated.com", server: 216.52.183.243, port: "80/?plugin=obfs%3Bobfs", type: ss, cipher: aes-128-gcm, password: "83XvX4Vo%*3a"}
+- {name: "216.52.183.243 - New York - Dedicated.com", server: 216.52.183.243, port: "80", type: ss, cipher: aes-128-gcm, password: "83XvX4Vo%*3a"}
 - {name: "167.88.61.50 - Santa Clara - GlobalTeleHost Corp", server: 167.88.61.50, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
 - {name: "167.88.63.60 - Atlanta - GTHost", server: 167.88.63.60, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
 - {name: "5.181.234.254 - New York - M247 Europe SRL", server: 5.181.234.254, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: "G!yBwPWH3Vao"}
