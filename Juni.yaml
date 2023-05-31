@@ -147,8 +147,6 @@ proxies:
 - {name: "45.11.3.187 - Los Angeles - Wowrack.com", server: 45.11.3.187, port: 23456, type: ss, cipher: aes-256-gcm, password: 05230715}
 - {name: "38.68.134.71 - Dallas - GTHost", server: 38.68.134.71, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
 - {name: "45.35.84.162 - Dallas - Psychz Networks Dallas", server: 45.35.84.162, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ws, tls: true, ws-headers: {Host: usa-dallas.lvuft.com}}
-- {name: "216.201.28.24 - Celina - Com", server: streaming-1-route.teacher2050.com, port: 31222, type: vmess, uuid: B8AAA6E1-F0B3-B9EC-3DFC-BB226C167B33, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: streaming-1-route.teacher2050.com}}
-- {name: "216.201.28.24 - Celina - Com", server: streaming-1-route.teacher2050.com, port: 31222, type: vmess, uuid: B8AAA6E1-F0B3-B9EC-3DFC-BB226C167B33, alterId: 0, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: streaming-1-route.teacher2050.com}}
 - {name: "45.35.84.162 - Dallas - Psychz Networks Dallas", server: usa-dallas.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ws, tls: true, ws-headers: {Host: usa-dallas.lvuft.com}}
 - {name: "169.197.142.99 - Santa Clara - GLOBALTELEHOST Corp", server: 169.197.142.99, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
 - {name: "104.166.135.10 - Paris - Zenlayer INC", server: 104.166.135.10, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ws, tls: true, ws-headers: {Host: ahdaeph8.com}}
@@ -191,8 +189,6 @@ proxy-groups:
       - '45.11.3.187 - Los Angeles - Wowrack.com'
       - '38.68.134.71 - Dallas - GTHost'
       - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '216.201.28.24 - Celina - Com'
-      - '216.201.28.24 - Celina - Com'
       - '45.35.84.162 - Dallas - Psychz Networks Dallas'
       - '169.197.142.99 - Santa Clara - GLOBALTELEHOST Corp'
       - '104.166.135.10 - Paris - Zenlayer Inc'
@@ -232,8 +228,6 @@ proxy-groups:
       - '45.11.3.187 - Los Angeles - Wowrack.com'
       - '38.68.134.71 - Dallas - GTHost'
       - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '216.201.28.24 - Celina - Com'
-      - '216.201.28.24 - Celina - Com'
       - '45.35.84.162 - Dallas - Psychz Networks Dallas'
       - '169.197.142.99 - Santa Clara - GLOBALTELEHOST Corp'
       - '104.166.135.10 - Paris - Zenlayer Inc'
@@ -273,8 +267,6 @@ proxy-groups:
       - '45.11.3.187 - Los Angeles - Wowrack.com'
       - '38.68.134.71 - Dallas - GTHost'
       - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '216.201.28.24 - Celina - Com'
-      - '216.201.28.24 - Celina - Com'
       - '45.35.84.162 - Dallas - Psychz Networks Dallas'
       - '169.197.142.99 - Santa Clara - GLOBALTELEHOST Corp'
       - '104.166.135.10 - Paris - Zenlayer Inc'
@@ -313,8 +305,6 @@ proxy-groups:
       - '45.11.3.187 - Los Angeles - Wowrack.com'
       - '38.68.134.71 - Dallas - GTHost'
       - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '216.201.28.24 - Celina - Com'
-      - '216.201.28.24 - Celina - Com'
       - '45.35.84.162 - Dallas - Psychz Networks Dallas'
       - '169.197.142.99 - Santa Clara - GLOBALTELEHOST Corp'
       - '104.166.135.10 - Paris - Zenlayer Inc'
