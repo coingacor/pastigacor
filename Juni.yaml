@@ -247,17 +247,17 @@ proxies:
    - {"name":"45.88.176.43 - Los Angeles - IP Volume LTD - Bad IP","type":"vmess","server":"45.88.176.43","port":54492,"udp":true,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"cipher":"auto","network":"tcp"} 
    - {"name":"45.88.176.7 - Los Angeles - IP Volume LTD - Bad IP","type":"vmess","server":"45.88.176.7","port":53332,"udp":true,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"cipher":"auto","network":"tcp"} 
    - {"name":"45.88.176.9 - Los Angeles - IP Volume LTD - Bad IP","type":"vmess","server":"45.88.176.9","port":53332,"udp":true,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"cipher":"auto","network":"tcp"} 
-   - {"name":"5.78.63.45 - Portland - Hetzner Online GmbH - Bad IP","type":"vmess","server":"5.78.63.45","port":28635,"udp":true,"uuid":"0e8ec3a5-27a1-4e78-9e48-ee4347e92ee2","alterId":0,"cipher":"auto","network":"http"} 
-   - {"name":"5.78.63.45 - Portland - Hetzner Online GmbH - Bad IP","type":"vmess","server":"5.78.63.45","port":47783,"udp":true,"uuid":"5b4203d5-422f-4ce4-ca25-ecdbfee45a46","alterId":0,"cipher":"auto","network":"http"} 
-   - {"name":"5.161.106.72 - Ashburn - Hetzner Online GmbH - Bad IP","type":"vmess","server":"5.161.106.72","port":50978,"udp":true,"uuid":"89e6248b-0152-4317-a6ed-b6a0cf41f2cb","alterId":0,"cipher":"auto","network":"http"} 
-   - {"name":"5.161.106.72 - Ashburn - Hetzner Online GmbH - Bad IP","type":"vmess","server":"5.161.106.72","port":40969,"udp":true,"uuid":"2fb9f60e-d4dc-458b-e3b2-d9b44f9bbd9e","alterId":0,"cipher":"auto","network":"http"} 
+   - {"name":"5.78.63.45:28635 - Portland - Hetzner Online GmbH - Bad IP","type":"vmess","server":"5.78.63.45","port":28635,"udp":true,"uuid":"0e8ec3a5-27a1-4e78-9e48-ee4347e92ee2","alterId":0,"cipher":"auto","network":"http"} 
+   - {"name":"5.78.63.45:47783 - Portland - Hetzner Online GmbH - Bad IP","type":"vmess","server":"5.78.63.45","port":47783,"udp":true,"uuid":"5b4203d5-422f-4ce4-ca25-ecdbfee45a46","alterId":0,"cipher":"auto","network":"http"} 
+   - {"name":"5.161.106.7:250978 - Ashburn - Hetzner Online GmbH - Bad IP","type":"vmess","server":"5.161.106.72","port":50978,"udp":true,"uuid":"89e6248b-0152-4317-a6ed-b6a0cf41f2cb","alterId":0,"cipher":"auto","network":"http"} 
+   - {"name":"5.161.106.72:40969 - Ashburn - Hetzner Online GmbH - Bad IP","type":"vmess","server":"5.161.106.72","port":40969,"udp":true,"uuid":"2fb9f60e-d4dc-458b-e3b2-d9b44f9bbd9e","alterId":0,"cipher":"auto","network":"http"} 
    - {"name":"89.116.38.178 - New York - Clouvider Limited - Bad IP","type":"vmess","server":"89.116.38.178","port":3456,"udp":true,"uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":0,"cipher":"auto","network":"tcp"} 
    - {"name":"89.116.38.188 - New York - Clouvider Limited - Bad IP","type":"vmess","server":"89.116.38.188","port":3456,"udp":true,"uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":0,"cipher":"auto","network":"tcp"} 
    - {"name":"89.116.38.198 - New York - Clouvider Limited - Bad IP","type":"vmess","server":"89.116.38.198","port":3456,"udp":true,"uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":0,"cipher":"auto","network":"tcp"} 
    - {"name":"89.116.38.206 - New York - Clouvider Limited - Bad IP","type":"vmess","server":"89.116.38.206","port":3456,"udp":true,"uuid":"32e49539-f569-403d-b4b6-a8978c040d5d","alterId":0,"cipher":"auto","network":"tcp"} 
-   - {"name":"96.43.86.4 - Los Angeles - Multacom Corporation - Bad IP","type":"vmess","server":"96.43.86.4","port":443,"udp":true,"uuid":"6b8bacb5-75b2-4a17-9d32-3d75b100e61e","alterId":0,"cipher":"auto","network":"tcp"} 
-   - {"name":"96.43.86.4 - Los Angeles - Multacom Corporation - Bad IP","type":"vmess","server":"96.43.86.4","port":80,"udp":true,"uuid":"3fd6c07a-a946-4c3c-8565-3bb35d0096c5","alterId":0,"cipher":"auto","network":"tcp"} 
-   - {"name":"96.43.86.4 - Los Angeles - Multacom Corporation - Bad IP","type":"vmess","server":"96.43.86.4","port":17129,"udp":true,"uuid":"e67d0104-9de3-4a5a-9141-be673fbf094e","alterId":0,"cipher":"auto","network":"tcp"} 
+   - {"name":"96.43.86.4:443 - Los Angeles - Multacom Corporation - Bad IP","type":"vmess","server":"96.43.86.4","port":443,"udp":true,"uuid":"6b8bacb5-75b2-4a17-9d32-3d75b100e61e","alterId":0,"cipher":"auto","network":"tcp"} 
+   - {"name":"96.43.86.4:80 - Los Angeles - Multacom Corporation - Bad IP","type":"vmess","server":"96.43.86.4","port":80,"udp":true,"uuid":"3fd6c07a-a946-4c3c-8565-3bb35d0096c5","alterId":0,"cipher":"auto","network":"tcp"} 
+   - {"name":"96.43.86.4:17129 - Los Angeles - Multacom Corporation - Bad IP","type":"vmess","server":"96.43.86.4","port":17129,"udp":true,"uuid":"e67d0104-9de3-4a5a-9141-be673fbf094e","alterId":0,"cipher":"auto","network":"tcp"} 
    - {"name":"vps29.imhup.com - Dallas - ColoCrossing - Bad IP","type":"vmess","server":"vps29.imhup.com","port":20000,"udp":true,"uuid":"1ed3c3dd-ff8d-4ae4-b4fb-d84a3400c227","alterId":0,"cipher":"auto","network":"tcp"} 
 proxy-groups:
   - name: JUNI
@@ -388,13 +388,17 @@ proxy-groups:
       - '45.88.176.43 - Los Angeles - IP Volume LTD - Bad IP' 
       - '45.88.176.7 - Los Angeles - IP Volume LTD - Bad IP' 
       - '45.88.176.9 - Los Angeles - IP Volume LTD - Bad IP' 
-      - '5.78.63.45 - Portland - Hetzner Online GmbH - Bad IP' 
-      - '5.161.106.72 - Ashburn - Hetzner Online GmbH - Bad IP' 
+      - '5.78.63.45:28635 - Portland - Hetzner Online GmbH - Bad IP' 
+      - '5.78.63.45:47783 - Portland - Hetzner Online GmbH - Bad IP' 
+      - '5.161.106.7:250978 - Ashburn - Hetzner Online GmbH - Bad IP' 
+      - '5.161.106.72:40969 - Ashburn - Hetzner Online GmbH - Bad IP' 
       - '89.116.38.178 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.188 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.198 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.206 - New York - Clouvider Limited - Bad IP' 
-      - '96.43.86.4 - Los Angeles - Multacom Corporation - Bad IP' 
+      - '96.43.86.4:443 - Los Angeles - Multacom Corporation - Bad IP' 
+      - '96.43.86.4:80 - Los Angeles - Multacom Corporation - Bad IP' 
+      - '96.43.86.4:17129 - Los Angeles - Multacom Corporation - Bad IP' 
       - 'vps29.imhup.com - Dallas - ColoCrossing - Bad IP'
   - name: LOAD-BALANCE
     type: load-balance
@@ -403,7 +407,7 @@ proxy-groups:
     interval: 150
     proxies:
       - '192.74.236.140 - San Jose - Peg Tech - Bad IP' 
-      - '142.4.118.123 - San Jose - Peg Tech - Bad IP'
+      - '142.4.118.123 - San Jose - Peg Tech - Bad IP' 
       - '104.194.224.93 - Los Angeles - Multacom Corporation - Bad IP' 
       - '107.148.5.161 - San Jose - Pegtechinc-ap-03 - Bad IP' 
       - '107.148.202.140 - San Jose - Peg Tech - Bad IP' 
@@ -523,14 +527,18 @@ proxy-groups:
       - '45.88.176.43 - Los Angeles - IP Volume LTD - Bad IP' 
       - '45.88.176.7 - Los Angeles - IP Volume LTD - Bad IP' 
       - '45.88.176.9 - Los Angeles - IP Volume LTD - Bad IP' 
-      - '5.78.63.45 - Portland - Hetzner Online GmbH - Bad IP' 
-      - '5.161.106.72 - Ashburn - Hetzner Online GmbH - Bad IP' 
+      - '5.78.63.45:28635 - Portland - Hetzner Online GmbH - Bad IP' 
+      - '5.78.63.45:47783 - Portland - Hetzner Online GmbH - Bad IP' 
+      - '5.161.106.7:250978 - Ashburn - Hetzner Online GmbH - Bad IP' 
+      - '5.161.106.72:40969 - Ashburn - Hetzner Online GmbH - Bad IP' 
       - '89.116.38.178 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.188 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.198 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.206 - New York - Clouvider Limited - Bad IP' 
-      - '96.43.86.4 - Los Angeles - Multacom Corporation - Bad IP' 
-      - 'vps29.imhup.com - Dallas - ColoCrossing - Bad IP' 
+      - '96.43.86.4:443 - Los Angeles - Multacom Corporation - Bad IP' 
+      - '96.43.86.4:80 - Los Angeles - Multacom Corporation - Bad IP' 
+      - '96.43.86.4:17129 - Los Angeles - Multacom Corporation - Bad IP' 
+      - 'vps29.imhup.com - Dallas - ColoCrossing - Bad IP'
   - name: BEST-PING
     type: url-test
     url: http://www.msftconnecttest.com/connecttest.txt
@@ -658,21 +666,25 @@ proxy-groups:
       - '45.88.176.43 - Los Angeles - IP Volume LTD - Bad IP' 
       - '45.88.176.7 - Los Angeles - IP Volume LTD - Bad IP' 
       - '45.88.176.9 - Los Angeles - IP Volume LTD - Bad IP' 
-      - '5.78.63.45 - Portland - Hetzner Online GmbH - Bad IP' 
-      - '5.161.106.72 - Ashburn - Hetzner Online GmbH - Bad IP' 
+      - '5.78.63.45:28635 - Portland - Hetzner Online GmbH - Bad IP' 
+      - '5.78.63.45:47783 - Portland - Hetzner Online GmbH - Bad IP' 
+      - '5.161.106.7:250978 - Ashburn - Hetzner Online GmbH - Bad IP' 
+      - '5.161.106.72:40969 - Ashburn - Hetzner Online GmbH - Bad IP' 
       - '89.116.38.178 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.188 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.198 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.206 - New York - Clouvider Limited - Bad IP' 
-      - '96.43.86.4 - Los Angeles - Multacom Corporation - Bad IP' 
-      - 'vps29.imhup.com - Dallas - ColoCrossing - Bad IP' 
+      - '96.43.86.4:443 - Los Angeles - Multacom Corporation - Bad IP' 
+      - '96.43.86.4:80 - Los Angeles - Multacom Corporation - Bad IP' 
+      - '96.43.86.4:17129 - Los Angeles - Multacom Corporation - Bad IP' 
+      - 'vps29.imhup.com - Dallas - ColoCrossing - Bad IP'
   - name: FALLBACK
     type: fallback
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     proxies:
       - '192.74.236.140 - San Jose - Peg Tech - Bad IP' 
-      - '142.4.118.123 - San Jose - Peg Tech - Bad IP'
+      - '142.4.118.123 - San Jose - Peg Tech - Bad IP' 
       - '104.194.224.93 - Los Angeles - Multacom Corporation - Bad IP' 
       - '107.148.5.161 - San Jose - Pegtechinc-ap-03 - Bad IP' 
       - '107.148.202.140 - San Jose - Peg Tech - Bad IP' 
@@ -792,14 +804,18 @@ proxy-groups:
       - '45.88.176.43 - Los Angeles - IP Volume LTD - Bad IP' 
       - '45.88.176.7 - Los Angeles - IP Volume LTD - Bad IP' 
       - '45.88.176.9 - Los Angeles - IP Volume LTD - Bad IP' 
-      - '5.78.63.45 - Portland - Hetzner Online GmbH - Bad IP' 
-      - '5.161.106.72 - Ashburn - Hetzner Online GmbH - Bad IP' 
+      - '5.78.63.45:28635 - Portland - Hetzner Online GmbH - Bad IP' 
+      - '5.78.63.45:47783 - Portland - Hetzner Online GmbH - Bad IP' 
+      - '5.161.106.7:250978 - Ashburn - Hetzner Online GmbH - Bad IP' 
+      - '5.161.106.72:40969 - Ashburn - Hetzner Online GmbH - Bad IP' 
       - '89.116.38.178 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.188 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.198 - New York - Clouvider Limited - Bad IP' 
       - '89.116.38.206 - New York - Clouvider Limited - Bad IP' 
-      - '96.43.86.4 - Los Angeles - Multacom Corporation - Bad IP' 
-      - 'vps29.imhup.com - Dallas - ColoCrossing - Bad IP' 
+      - '96.43.86.4:443 - Los Angeles - Multacom Corporation - Bad IP' 
+      - '96.43.86.4:80 - Los Angeles - Multacom Corporation - Bad IP' 
+      - '96.43.86.4:17129 - Los Angeles - Multacom Corporation - Bad IP' 
+      - 'vps29.imhup.com - Dallas - ColoCrossing - Bad IP'
 rules:
   - RULE-SET,IKLANRUSAK,REJECT
   - MATCH,JUNI
