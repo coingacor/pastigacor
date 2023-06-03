@@ -126,200 +126,44 @@ dns:
     - "*.mcdn.bilivideo.cn"
     - +.media.dssott.com
 proxies:
-- {name: "142.0.133.53 - San Jose - PEG TECH INC", server: 142.0.133.53, port: 50044, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 142.0.133.53}}
-- {name: "170.178.167.144 - Los Angeles - Sharktech", server: 170.178.167.144, port: 50002, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 170.178.167.144}}
-- {name: "45.58.178.33 - Los Angeles - Sharktech", server: 45.58.178.33, port: 57788, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 45.58.178.33}}
-- {name: "163.123.192.154 - Scottsdale - Tempest Hosting LLC", server: 163.123.192.154, port: 443, type: trojan, password: 1113a9fa-c6ee-4929-ae93-d29d024b1728, sni: download.xn--mes358a9urctx.com, skip-cert-verify: true}
-- {name: "23.224.8.38 - Scottsdale - Cnservers LLC", server: 23.224.8.38, port: 55332, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 23.224.8.38}}
-- {name: "163.123.192.155 - Scottsdale - Tempest Hosting LLC", server: 163.123.192.155, port: 443, type: trojan, password: 1113a9fa-c6ee-4929-ae93-d29d024b1728, sni: download.xn--mes358a9urctx.com, skip-cert-verify: true}
-- {name: "173.82.51.118 - Los Angeles - Multacom Corporation", server: 173.82.51.118, port: 57912, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 173.82.51.118}}
-- {name: "38.63.0.69 - San Jose - PEG TECH INC", server: 38.63.0.69, port: 443, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: 38.63.0.69}}
-- {name: "216.52.183.243 - New York - Dedicated.com", server: 216.52.183.243, port: "80", type: ss, cipher: aes-128-gcm, password: "83XvX4Vo%*3a"}
-- {name: "167.88.61.50 - Santa Clara - GlobalTeleHost Corp", server: 167.88.61.50, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-- {name: "167.88.63.60 - Atlanta - GTHost", server: 167.88.63.60, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: "5.181.234.254 - New York - M247 Europe SRL", server: 5.181.234.254, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: "G!yBwPWH3Vao"}
-- {name: "38.68.135.18 - Dallas - GTHost", server: 38.68.135.18, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-- {name: "34.215.130.186 - Portland - Amazon.com Inc", server: 34.215.130.186, port: 10089, type: vmess, uuid: 3608c9dc-1eeb-48b0-b570-43074b4a0c9e, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 34.215.130.186}}
-- {name: "38.114.114.69 - Los Angeles - GTHost", server: 38.114.114.69, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-- {name: "38.143.66.20 - Seattle - GTHost", server: 38.143.66.20, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-- {name: "38.114.114.67 - Los Angeles - GTHost", server: 38.114.114.67, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG}
-- {name: "38.68.135.19 - Dallas - GTHost", server: 38.68.135.19, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: "45.11.3.187 - Los Angeles - Wowrack.com", server: 45.11.3.187, port: 23456, type: ss, cipher: aes-256-gcm, password: 05230715}
-- {name: "38.68.134.71 - Dallas - GTHost", server: 38.68.134.71, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-- {name: "45.35.84.162 - Dallas - Psychz Networks Dallas", server: 45.35.84.162, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ws, tls: true, ws-headers: {Host: usa-dallas.lvuft.com}}
-- {name: "45.35.84.162 - Dallas - Psychz Networks Dallas", server: usa-dallas.lvuft.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ws, tls: true, ws-headers: {Host: usa-dallas.lvuft.com}}
-- {name: "169.197.142.99 - Santa Clara - GLOBALTELEHOST Corp", server: 169.197.142.99, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: "104.166.135.10 - Paris - Zenlayer INC", server: 104.166.135.10, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ws, tls: true, ws-headers: {Host: ahdaeph8.com}}
-- {name: "104.166.135.10 - Paris - Zenlayer INC", server: ahdaeph8.com, port: 443, type: vmess, uuid: aba50dd4-5484-3b05-b14a-4661caf862d5, alterId: 4, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /ws, tls: true, ws-headers: {Host: ahdaeph8.com}}
-- {name: "167.88.63.59 - Atlanta - GTHost", server: 167.88.63.59, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-- {name: "165.232.134.123 - Santa Clara - DigitalOcean LLC", server: 2.zhoushuren.me, port: 58850, type: trojan, password: 431218b0-8b07-4d71-89a4-c20aa92fce30, skip-cert-verify: true}
-- {name: "43.153.0.85 - Santa Clara - Shenzhen Tencent", server: mg.txy.a.node1.jijio.stream, port: 38999, type: vmess, uuid: adc570f1-d591-4a5a-93f0-0013bba3f116, alterId: 0, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: true, ws-headers: {Host: mg.txy.a.node1.jijio.stream}}
-- {name: "64.32.4.36 - Chicago - Sharktech", server: 64.32.4.36, port: 443, type: vmess, uuid: 8653004f-de67-44c2-9cce-e0830933fb03, alterId: 64, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /path/1685361567761, tls: true, ws-headers: {Host: www.57588776.xyz}}
-- {name: "198.46.174.158 - Alexandria - ColoCrossing", server: us9.ss361.xyz, port: 2095, type: vmess, uuid: 600d53b5-b034-4889-80ec-3817c5658e3d, alterId: 64, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: us9.ss361.xyz}}
-- {name: "158.101.7.8 - Phoenix - Oracle Corporation", server: 158.101.7.8, port: 80, type: vmess, uuid: 95b45c49-f5c0-4959-bb64-2b8fbc4a869c, alterId: 64, cipher: auto, skip-cert-verify: true, network: ws, ws-path: /, tls: false, ws-headers: {Host: 158.101.7.8}}
-- {name: "192.74.237.50 - San Jose - PEG TECH INC", server: 192.74.237.50, port: 30003, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 192.74.237.50}}
-- {name: "192.74.231.172 - San Jose - PEG TECH INC", server: 192.74.231.172, port: 49202, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-verify: true, network: tcp, ws-path: /, tls: false, ws-headers: {Host: 192.74.231.172}}
-
+   - {"name":" 192.74.236.140 - San Jose - Peg Tech - Bad IP","type":"vmess","server":"192.74.236.140","port":48123,"udp":true,"password":"418048af-a293-4b99-9b0c-98ca3580dd24","skip-cert-verify":true,"network":"tcp"} 
+   - {"name":" 142.4.118.123 - San Jose - Peg Tech - Bad IP","type":"vmess","server":"142.4.118.123","port":40349,"udp":true,"password":"418048af-a293-4b99-9b0c-98ca3580dd24","skip-cert-verify":true,"network":"tcp"} 
 proxy-groups:
-  - name: Bulan_Juni
+  - name: JUNI
     type: select
     proxies:
+      - DIRECT
       - LOAD-BALANCE
       - BEST-PING
       - FALLBACK
-      - DIRECT
-      - '142.0.133.53 - San Jose - PEG TECH INC'
-      - '170.178.167.144 - Los Angeles - Sharktech'
-      - '45.58.178.33 - Los Angeles - Sharktech'
-      - '163.123.192.154 - Scottsdale - Tempest Hosting LLC'
-      - '23.224.8.38 - Scottsdale - Cnservers LLC'
-      - '163.123.192.155 - Scottsdale - Tempest Hosting LLC'
-      - '173.82.51.118 - Los Angeles - Multacom Corporation'
-      - '38.63.0.69 - San Jose - PEG TECH INC'
-      - '216.52.183.243 - New York - Dedicated.com'
-      - '167.88.61.50 - Santa Clara - GlobalTeleHost Corp'
-      - '167.88.63.60 - Atlanta - GTHost'
-      - '5.181.234.254 - New York - M247 Europe SRL'
-      - '38.68.135.18 - Dallas - GTHost'
-      - '34.215.130.186 - Portland - Amazon.com Inc.'
-      - '38.114.114.69 - Los Angeles - GTHost'
-      - '38.143.66.20 - Seattle - GTHost'
-      - '38.114.114.67 - Los Angeles - GTHost'
-      - '38.68.135.19 - Dallas - GTHost'
-      - '45.11.3.187 - Los Angeles - Wowrack.com'
-      - '38.68.134.71 - Dallas - GTHost'
-      - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '169.197.142.99 - Santa Clara - GLOBALTELEHOST Corp'
-      - '104.166.135.10 - Paris - Zenlayer Inc'
-      - '104.166.135.10 - Paris - Zenlayer Inc'
-      - '167.88.63.59 - Atlanta - GTHost'
-      - '165.232.134.123 - Santa Clara - DigitalOcean LLC'
-      - '43.153.0.85 - Santa Clara - Shenzhen Tencent'
-      - '64.32.4.36 - Chicago - Sharktech'
-      - '198.46.174.158 - Alexandria - ColoCrossing'
-      - '158.101.7.8 - Phoenix - Oracle Corporation'
-      - '192.74.237.50 - San Jose - PEG TECH INC'
-      - '192.74.231.172 - San Jose - PEG TECH INC'
+      - '192.74.236.140 - San Jose - Peg Tech - Bad IP' 
+      - '142.4.118.123 - San Jose - Peg Tech - Bad IP' 
   - name: LOAD-BALANCE
     type: load-balance
     strategy: consistent-hashing
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     proxies:
-      - '142.0.133.53 - San Jose - PEG TECH INC'
-      - '170.178.167.144 - Los Angeles - Sharktech'
-      - '45.58.178.33 - Los Angeles - Sharktech'
-      - '163.123.192.154 - Scottsdale - Tempest Hosting LLC'
-      - '23.224.8.38 - Scottsdale - Cnservers LLC'
-      - '163.123.192.155 - Scottsdale - Tempest Hosting LLC'
-      - '173.82.51.118 - Los Angeles - Multacom Corporation'
-      - '38.63.0.69 - San Jose - PEG TECH INC'
-      - '216.52.183.243 - New York - Dedicated.com'
-      - '167.88.61.50 - Santa Clara - GlobalTeleHost Corp'
-      - '167.88.63.60 - Atlanta - GTHost'
-      - '5.181.234.254 - New York - M247 Europe SRL'
-      - '38.68.135.18 - Dallas - GTHost'
-      - '34.215.130.186 - Portland - Amazon.com Inc.'
-      - '38.114.114.69 - Los Angeles - GTHost'
-      - '38.143.66.20 - Seattle - GTHost'
-      - '38.114.114.67 - Los Angeles - GTHost'
-      - '38.68.135.19 - Dallas - GTHost'
-      - '45.11.3.187 - Los Angeles - Wowrack.com'
-      - '38.68.134.71 - Dallas - GTHost'
-      - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '169.197.142.99 - Santa Clara - GLOBALTELEHOST Corp'
-      - '104.166.135.10 - Paris - Zenlayer Inc'
-      - '104.166.135.10 - Paris - Zenlayer Inc'
-      - '167.88.63.59 - Atlanta - GTHost'
-      - '165.232.134.123 - Santa Clara - DigitalOcean LLC'
-      - '43.153.0.85 - Santa Clara - Shenzhen Tencent'
-      - '64.32.4.36 - Chicago - Sharktech'
-      - '198.46.174.158 - Alexandria - ColoCrossing'
-      - '158.101.7.8 - Phoenix - Oracle Corporation'
-      - '192.74.237.50 - San Jose - PEG TECH INC'
-      - '192.74.231.172 - San Jose - PEG TECH INC'
+      - '192.74.236.140 - San Jose - Peg Tech - Bad IP' 
+      - '142.4.118.123 - San Jose - Peg Tech - Bad IP' 
   - name: BEST-PING
     type: url-test
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     tolerance: 50
     proxies:
-      - '142.0.133.53 - San Jose - PEG TECH INC'
-      - '170.178.167.144 - Los Angeles - Sharktech'
-      - '45.58.178.33 - Los Angeles - Sharktech'
-      - '163.123.192.154 - Scottsdale - Tempest Hosting LLC'
-      - '23.224.8.38 - Scottsdale - Cnservers LLC'
-      - '163.123.192.155 - Scottsdale - Tempest Hosting LLC'
-      - '173.82.51.118 - Los Angeles - Multacom Corporation'
-      - '38.63.0.69 - San Jose - PEG TECH INC'
-      - '216.52.183.243 - New York - Dedicated.com'
-      - '167.88.61.50 - Santa Clara - GlobalTeleHost Corp'
-      - '167.88.63.60 - Atlanta - GTHost'
-      - '5.181.234.254 - New York - M247 Europe SRL'
-      - '38.68.135.18 - Dallas - GTHost'
-      - '34.215.130.186 - Portland - Amazon.com Inc.'
-      - '38.114.114.69 - Los Angeles - GTHost'
-      - '38.143.66.20 - Seattle - GTHost'
-      - '38.114.114.67 - Los Angeles - GTHost'
-      - '38.68.135.19 - Dallas - GTHost'
-      - '45.11.3.187 - Los Angeles - Wowrack.com'
-      - '38.68.134.71 - Dallas - GTHost'
-      - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '169.197.142.99 - Santa Clara - GLOBALTELEHOST Corp'
-      - '104.166.135.10 - Paris - Zenlayer Inc'
-      - '104.166.135.10 - Paris - Zenlayer Inc'
-      - '167.88.63.59 - Atlanta - GTHost'
-      - '165.232.134.123 - Santa Clara - DigitalOcean LLC'
-      - '43.153.0.85 - Santa Clara - Shenzhen Tencent'
-      - '64.32.4.36 - Chicago - Sharktech'
-      - '198.46.174.158 - Alexandria - ColoCrossing'
-      - '158.101.7.8 - Phoenix - Oracle Corporation'
-      - '192.74.237.50 - San Jose - PEG TECH INC'
-      - '192.74.231.172 - San Jose - PEG TECH INC'
+      - '192.74.236.140 - San Jose - Peg Tech - Bad IP' 
+      - '142.4.118.123 - San Jose - Peg Tech - Bad IP' 
   - name: FALLBACK
     type: fallback
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     proxies:
-      - '142.0.133.53 - San Jose - PEG TECH INC'
-      - '170.178.167.144 - Los Angeles - Sharktech'
-      - '45.58.178.33 - Los Angeles - Sharktech'
-      - '163.123.192.154 - Scottsdale - Tempest Hosting LLC'
-      - '23.224.8.38 - Scottsdale - Cnservers LLC'
-      - '163.123.192.155 - Scottsdale - Tempest Hosting LLC'
-      - '173.82.51.118 - Los Angeles - Multacom Corporation'
-      - '38.63.0.69 - San Jose - PEG TECH INC'
-      - '216.52.183.243 - New York - Dedicated.com'
-      - '167.88.61.50 - Santa Clara - GlobalTeleHost Corp'
-      - '167.88.63.60 - Atlanta - GTHost'
-      - '5.181.234.254 - New York - M247 Europe SRL'
-      - '38.68.135.18 - Dallas - GTHost'
-      - '34.215.130.186 - Portland - Amazon.com Inc.'
-      - '38.114.114.69 - Los Angeles - GTHost'
-      - '38.143.66.20 - Seattle - GTHost'
-      - '38.114.114.67 - Los Angeles - GTHost'
-      - '38.68.135.19 - Dallas - GTHost'
-      - '45.11.3.187 - Los Angeles - Wowrack.com'
-      - '38.68.134.71 - Dallas - GTHost'
-      - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '45.35.84.162 - Dallas - Psychz Networks Dallas'
-      - '169.197.142.99 - Santa Clara - GLOBALTELEHOST Corp'
-      - '104.166.135.10 - Paris - Zenlayer Inc'
-      - '104.166.135.10 - Paris - Zenlayer Inc'
-      - '167.88.63.59 - Atlanta - GTHost'
-      - '165.232.134.123 - Santa Clara - DigitalOcean LLC'
-      - '43.153.0.85 - Santa Clara - Shenzhen Tencent'
-      - '64.32.4.36 - Chicago - Sharktech'
-      - '198.46.174.158 - Alexandria - ColoCrossing'
-      - '158.101.7.8 - Phoenix - Oracle Corporation'
-      - '192.74.237.50 - San Jose - PEG TECH INC'
-      - '192.74.231.172 - San Jose - PEG TECH INC'
+      - '192.74.236.140 - San Jose - Peg Tech - Bad IP' 
+      - '142.4.118.123 - San Jose - Peg Tech - Bad IP' 
 rules:
   - RULE-SET,IKLANRUSAK,REJECT
-  - MATCH,Bulan_Juni
+  - MATCH,JUNI
 rule-providers:
   IKLANRUSAK:
     behavior: "classical" 
