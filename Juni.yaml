@@ -126,8 +126,8 @@ dns:
     - "*.mcdn.bilivideo.cn"
     - +.media.dssott.com
 proxies:
-   - {"name":" 192.74.236.140 - San Jose - Peg Tech - Bad IP","type":"vmess","server":"192.74.236.140","port":48123,"udp":true,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","skip-cert-verify":true,"network":"tcp"} 
-   - {"name":" 142.4.118.123 - San Jose - Peg Tech - Bad IP","type":"vmess","server":"142.4.118.123","port":40349,"udp":true,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","skip-cert-verify":true,"network":"tcp"} 
+   - {"name":" 192.74.236.140 - San Jose - Peg Tech - Bad IP","type":"vmess","server":"192.74.236.140","port":48123,"udp":true,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"cipher":"auto","network":"tcp"} 
+   - {"name":" 142.4.118.123 - San Jose - Peg Tech - Bad IP","type":"vmess","server":"142.4.118.123","port":40349,"udp":true,"uuid":"418048af-a293-4b99-9b0c-98ca3580dd24","alterId":64,"cipher":"auto","network":"tcp"} 
 proxy-groups:
   - name: JUNI
     type: select
