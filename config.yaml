@@ -57,25 +57,25 @@ proxies:
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 172.106.13.203:23521 South Carolina	Fort Lawn	TruVista Communications
+  - name: 🇺🇲 172.106.13.203:23521 South Carolina	Fort Lawn	TruVista Communications
     server: 172.106.13.203
     port: 23521
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 37.221.193.221:14285 Arizona	Flagstaff	Suddenlink Communications
+  - name: 🇺🇲 37.221.193.221:14285 Arizona	Flagstaff	Suddenlink Communications
     server: 37.221.193.221
     port: 14285
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 195.154.43.198:33302 Virginia	Ashburn	ec2-54-174-114-172.compute-1.amazonaws.com
+  - name: 🇺🇲 195.154.43.198:33302 Virginia	Ashburn	ec2-54-174-114-172.compute-1.amazonaws.com
     server: 195.154.43.198
     port: 33302
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 67.216.255.202 - Texas, Diana - ETEX COMMUNICATIONS, LLC
+  - name: 🇺🇲 67.216.255.202 - Texas, Diana - ETEX COMMUNICATIONS, LLC
     server: 66.29.128.245
     port: 17613
     type: socks5
@@ -87,17 +87,7 @@ proxy-groups:
     type: select
     proxies:
       - DIRECT
-      - 104.157.18.109 - Edmonton - TELUS
-      - 162.252.95.2 - Hampton - RURALWAVE
-      - 184.94.183.214 - St. Mary's - QUADRO
-      - 72.142.123.76 - Mississauga - Rogers Cable
-      - 99.246.236.173 - Mississauga L5M - Rogers Cable
-      - 99.246.236.173 - Innisfil - Rogers Cable
-      - 99.224.58.233 - Toronto - Rogers Cable
-      - 99.227.74.226 - Scarborough - Rogers Cable
-      - Ocm3 1
-      - Ocm3 2
-      - 67.216.255.202 - Texas, Diana - ETEX COMMUNICATIONS, LLC
+      
 rules:
   - DOMAIN-SUFFIX,us.criteo.net,REJECT
   - DOMAIN-SUFFIX,zem.outbrainimg.com,REJECT
