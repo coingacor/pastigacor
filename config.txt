@@ -9,7 +9,7 @@ socks5://172.106.13.203:23521/#172.106.13.203%3A23521%20South%20Carolina%09Fort%
 socks5://37.221.193.221:14285/#37.221.193.221%3A14285%20Arizona%09Flagstaff%09Suddenlink%20Communications
 socks5://195.154.43.198:33302/#195.154.43.198%3A33302%20Virginia%09Ashburn%09ec2-54-174-114-172.compute-1.amazonaws.com
 socks5://162.0.220.215:13154/#%F0%9F%87%BA%F0%9F%87%B8%2067.216.255.17%20-%20Texas%2C%20Diana%20-%20ETEX%20Communications%20
-
+socks5://51.254.149.59:14039/#51.254.149.59%3A14039%20Ontario%09Toronto%09Rogers%20Communications%20Canada%20Inc
 
 socks5://162.19.7.48:17226/#162.19.7.48%3A17226%20Ontario%09Toronto%09Bell%20Canada
 socks5://51.83.116.10:47253/#51.83.116.10%3A47253%20Quebec%09Mont-Laurier%09BLU%20Fibre%20Networks%20inc.
