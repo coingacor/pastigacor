@@ -15,83 +15,118 @@ hosts:
 
 
 proxies:
-  - name: 🇺🇲 76.164.124.125 - Conroe - Consolidated Communications
+  - name: 🇺🇸 76.164.124.125 - Conroe - Consolidated Communications
     server: 174.138.176.76
     port: 24245
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇲 74.221.155.181 - Unknown - ETEX Communication 
+  - name: 🇺🇸 74.221.155.181 - Unknown - ETEX Communication 
     server: 38.91.107.224
     port: 12906
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇲 74.221.155.181 - Hackleburg - Tombigbee Communications
+  - name: 🇺🇸 74.221.155.181 - Hackleburg - Tombigbee Communications
     server: 172.106.19.156
     port: 47302
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇲 172.106.19.157:62938 Cambridge - Bay Country Communications, Inc.
+  - name: 🇺🇸 172.106.19.157:62938 Cambridge - Bay Country Communications, Inc.
     server: 172.106.19.157
     port: 62938
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇲 66.29.128.245:32337 Hyde park - Comcast Cable Communications, LLC
+  - name: 🇺🇸 66.29.128.245:32337 Hyde park - Comcast Cable Communications, LLC
     server: 66.29.128.245
     port: 32337
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇲 172.106.19.157:17304 Texas	Amarillo	NTS Communications, LLC
+  - name: 🇺🇸 172.106.19.157:17304 Texas	Amarillo	NTS Communications, LLC
     server: 172.106.19.157
     port: 17304
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇲 162.0.220.217:33306 South Carolina	Hilton Head Island 	Hargray Communications Group, Inc.
+  - name: 🇺🇸 162.0.220.217:33306 South Carolina	Hilton Head Island 	Hargray Communications Group, Inc.
     server: 162.0.220.217
     port: 33306
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇲 172.106.13.203:23521 South Carolina	Fort Lawn	TruVista Communications
+  - name: 🇺🇸 172.106.13.203:23521 South Carolina	Fort Lawn	TruVista Communications
     server: 172.106.13.203
     port: 23521
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇲 37.221.193.221:14285 Arizona	Flagstaff	Suddenlink Communications
+  - name: 🇺🇸 37.221.193.221:14285 Arizona	Flagstaff	Suddenlink Communications
     server: 37.221.193.221
     port: 14285
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇲 195.154.43.198:33302 Virginia	Ashburn	ec2-54-174-114-172.compute-1.amazonaws.com
+  - name: 🇺🇸 195.154.43.198:33302 Virginia	Ashburn	ec2-54-174-114-172.compute-1.amazonaws.com===
     server: 195.154.43.198
     port: 33302
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇲 67.216.255.202 - Texas, Diana - ETEX COMMUNICATIONS, LLC
-    server: 66.29.128.245
-    port: 17613
+  - name: 🇨🇦 162.19.7.48:17226 Ontario	Toronto	Bell Canada
+    server: 162.19.7.48
+    port: 17226
+    type: socks5
+    skip-cert-verify: true
+    udp: true
+  - name: 🇨🇦 51.83.116.10:47253 Quebec Mont-Laurier	BLU Fibre Networks inc.
+    server: 51.83.116.10
+    port: 47253
+    type: socks5
+    skip-cert-verify: true
+    udp: true
+  - name: 🇨🇦 51.83.116.4:54236 Quebec	Beauharnois	bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca
+    server: 51.83.116.4
+    port: 54236
+    type: socks5
+    skip-cert-verify: true
+    udp: true
+  - name: 🇨🇦 89.58.45.94:37456 British Columbia	Vancouver	S01067483c24d3dd4.vc.shawcable.net
+    server: 89.58.45.94
+    port: 37456
+    type: socks5
+    skip-cert-verify: true
+    udp: true
+  - name: 🇨🇦 51.83.116.10:33503 Quebec	Mont-Laurier	CTAL BLU Fibre Networks
+    server: 51.83.116.10
+    port: 33503
     type: socks5
     skip-cert-verify: true
     udp: true
 
-socks5://162.19.7.48:17226/#162.19.7.48:17226 Ontario	Toronto	Bell Canada
-socks5://51.83.116.10:47253/#51.83.116.10:47253 Quebec	Mont-Laurier	BLU Fibre Networks inc.
-socks5://51.83.116.4:54236/#51.83.116.4:54236 Quebec	Beauharnois	bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca
-socks5://89.58.45.94:37456/#89.58.45.94:37456 British Columbia	Vancouver	S01067483c24d3dd4.vc.shawcable.net
-socks5://51.83.116.10:33503/#51.83.116.10:33503 Quebec	Mont-Laurier	CTAL BLU Fibre Networks
 proxy-groups:
   - name: CANADA
     type: select
     proxies:
       - DIRECT
+      - 🇺🇸 76.164.124.125 - Conroe - Consolidated Communications 
+      - 🇺🇸 74.221.155.181 - Unknown - ETEX Communication  
+      - 🇺🇸 74.221.155.181 - Hackleburg - Tombigbee Communications 
+      - 🇺🇸 172.106.19.157:62938 Cambridge - Bay Country Communications, Inc. 
+      - 🇺🇸 66.29.128.245:32337 Hyde park - Comcast Cable Communications, LLC 
+      - 🇺🇸 172.106.19.157:17304 Texas	Amarillo	NTS Communications, LLC 
+      - 🇺🇸 162.0.220.217:33306 South Carolina	Hilton Head Island 	Hargray Communications Group, Inc. 
+      - 🇺🇸 172.106.13.203:23521 South Carolina	Fort Lawn	TruVista Communications 
+      - 🇺🇸 37.221.193.221:14285 Arizona	Flagstaff	Suddenlink Communications 
+      - 🇺🇸 195.154.43.198:33302 Virginia	Ashburn	ec2-54-174-114-172.compute-1.amazonaws.com=== 
+      - 🇨🇦 162.19.7.48:17226 Ontario	Toronto	Bell Canada 
+      - 🇨🇦 51.83.116.10:47253 Quebec Mont-Laurier	BLU Fibre Networks inc. 
+      - 🇨🇦 51.83.116.4:54236 Quebec	Beauharnois	bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca 
+      - 🇨🇦 89.58.45.94:37456 British Columbia	Vancouver	S01067483c24d3dd4.vc.shawcable.net 
+      - 🇨🇦 51.83.116.10:33503 Quebec	Mont-Laurier	CTAL BLU Fibre Networks
+
       
 rules:
   - DOMAIN-SUFFIX,us.criteo.net,REJECT
