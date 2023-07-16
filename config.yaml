@@ -111,7 +111,7 @@ proxies:
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇨🇦 72.139.119.210 - Innisfil - Toronto - unallocated-static.rogers.com
+  - name: 🇨🇦 72.139.119.210 - Innisfil - unallocated-static.rogers.com
     server: 212.83.142.100
     port: 38316
     type: socks5
