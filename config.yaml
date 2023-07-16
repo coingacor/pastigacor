@@ -15,63 +15,63 @@ hosts:
 
 
 proxies:
-  - name: 104.157.18.109 - Edmonton - TELUS
-    server: 212.83.143.60
-    port: 10565
+  - name: 🇺🇲 76.164.124.125 - Conroe - Consolidated Communications
+    server: 174.138.176.76
+    port: 24245
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 162.252.95.2 - Hampton - RURALWAVE
-    server: 212.83.143.60
-    port: 28129
+  - name: 🇺🇲 74.221.155.181 - Unknown - ETEX Communication 
+    server: 38.91.107.224
+    port: 12906
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 184.94.183.214 - St. Mary's - QUADRO
-    server: 212.83.143.103
-    port: 55487
+  - name: 🇺🇲 74.221.155.181 - Hackleburg - Tombigbee Communications
+    server: 172.106.19.156
+    port: 47302
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 72.142.123.76 - Mississauga - Rogers Cable
-    server: 51.83.116.3
-    port: 39137
+  - name: 🇺🇲 172.106.19.157:62938 Cambridge - Bay Country Communications, Inc.
+    server: 172.106.19.157
+    port: 62938
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 99.246.236.173 - Mississauga L5M - Rogers Cable
-    server: 212.83.138.245
-    port: 46851
+  - name: 🇺🇲 66.29.128.245:32337 Hyde park - Comcast Cable Communications, LLC
+    server: 66.29.128.245
+    port: 32337
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 99.246.236.173 - Innisfil - Rogers Cable
-    server: 51.83.116.7
-    port: 24589
+  - name: 🇺🇲 172.106.19.157:17304 Texas	Amarillo	NTS Communications, LLC
+    server: 172.106.19.157
+    port: 17304
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 99.224.58.233 - Toronto - Rogers Cable
-    server: 162.19.7.46
-    port: 12712
+  - name: 🇺🇲 162.0.220.217:33306 South Carolina	Hilton Head Island 	Hargray Communications Group, Inc.
+    server: 162.0.220.217
+    port: 33306
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 99.227.74.226 - Scarborough - Rogers Cable
-    server: 195.154.43.86
-    port: 60324
+  - name: 172.106.13.203:23521 South Carolina	Fort Lawn	TruVista Communications
+    server: 172.106.13.203
+    port: 23521
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: Ocm3 1
-    server: 162.0.220.218
-    port: 54993
+  - name: 37.221.193.221:14285 Arizona	Flagstaff	Suddenlink Communications
+    server: 37.221.193.221
+    port: 14285
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: Ocm3 2
-    server: 209.159.153.19
-    port: 29987
+  - name: 195.154.43.198:33302 Virginia	Ashburn	ec2-54-174-114-172.compute-1.amazonaws.com
+    server: 195.154.43.198
+    port: 33302
     type: socks5
     skip-cert-verify: true
     udp: true
