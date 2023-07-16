@@ -124,8 +124,6 @@ proxies:
     skip-cert-verify: true
     udp: true
 
-212.83.142.158:15983
-
 proxy-groups:
   - name: CANADA
     type: select
