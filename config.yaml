@@ -123,7 +123,6 @@ proxies:
     type: socks5
     skip-cert-verify: true
     udp: true
-
 proxy-groups:
   - name: CANADA
     type: select
