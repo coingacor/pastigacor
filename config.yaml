@@ -117,6 +117,14 @@ proxies:
     type: socks5
     skip-cert-verify: true
     udp: true
+  - name: 🇨🇦 72.138.88.162 - Ottawa - unallocated-static.rogers.com
+    server: 212.83.142.158
+    port: 15983
+    type: socks5
+    skip-cert-verify: true
+    udp: true
+
+212.83.142.158:15983
 
 proxy-groups:
   - name: CANADA
@@ -139,7 +147,8 @@ proxy-groups:
       - 🇨🇦 89.58.45.94:37456 British Columbia	Vancouver	S01067483c24d3dd4.vc.shawcable.net 
       - 🇨🇦 51.83.116.10:33503 Quebec	Mont-Laurier	CTAL BLU Fibre Networks
       - 🇨🇦 99.233.223.251 - Innisfil - cpe5896302f04a5-cm5896302f04a3.cpe.net.cable.rogers.com
-      - 🇨🇦 72.139.119.210 - Innisfil - Toronto - unallocated-static.rogers.com
+      - 🇨🇦 72.139.119.210 - Innisfil - unallocated-static.rogers.com
+      - 🇨🇦 72.138.88.162 - Ottawa - unallocated-static.rogers.com
       
 rules:
   - DOMAIN-SUFFIX,us.criteo.net,REJECT
