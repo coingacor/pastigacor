@@ -82,6 +82,11 @@ proxies:
     skip-cert-verify: true
     udp: true
 
+socks5://162.19.7.48:17226/#162.19.7.48:17226 Ontario	Toronto	Bell Canada
+socks5://51.83.116.10:47253/#51.83.116.10:47253 Quebec	Mont-Laurier	BLU Fibre Networks inc.
+socks5://51.83.116.4:54236/#51.83.116.4:54236 Quebec	Beauharnois	bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca
+socks5://89.58.45.94:37456/#89.58.45.94:37456 British Columbia	Vancouver	S01067483c24d3dd4.vc.shawcable.net
+socks5://51.83.116.10:33503/#51.83.116.10:33503 Quebec	Mont-Laurier	CTAL BLU Fibre Networks
 proxy-groups:
   - name: CANADA
     type: select
