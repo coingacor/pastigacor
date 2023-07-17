@@ -1,14 +1,3 @@
-socks5://174.138.176.76:24245/#%5BUS%5D%2076.164.124.125%20-%20Conroe%20-%20Consolidated%20Communications
-socks5://38.91.107.224:12906/#%5BUS%5D%2074.221.155.181%20-%20Unknown%20-%20ETEX%20Communication%20
-socks5://172.106.19.156:47302/#%5BUS%5D%2074.221.155.181%20-%20Hackleburg%20-%20Tombigbee%20Communications
-socks5://172.106.19.157:62938/#172.106.19.157%3A62938%20Cambridge%20-%20Bay%20Country%20Communications%2C%20Inc.
-socks5://66.29.128.245:32337/#66.29.128.245%3A32337%20Hyde%20park%20-%20Comcast%20Cable%20Communications%2C%20LLC
-socks5://172.106.19.157:17304/#172.106.19.157%3A17304%20Texas%09Amarillo%09NTS%20Communications%2C%20LLC
-socks5://162.0.220.217:33306/#162.0.220.217%3A33306South%20Carolina%09Hilton%20Head%20Island%09Hargray%20Communications%20Group%2C%20Inc.
-socks5://172.106.13.203:23521/#172.106.13.203%3A23521%20South%20Carolina%09Fort%20Lawn%09TruVista%20Communications
-socks5://37.221.193.221:14285/#37.221.193.221%3A14285%20Arizona%09Flagstaff%09Suddenlink%20Communications
-socks5://195.154.43.198:33302/#195.154.43.198%3A33302%20Virginia%09Ashburn%09ec2-54-174-114-172.compute-1.amazonaws.com
-socks5://162.0.220.215:13154/#%F0%9F%87%BA%F0%9F%87%B8%2067.216.255.17%20-%20Texas%2C%20Diana%20-%20ETEX%20Communications%20
 
 socks5://51.254.149.59:14039/#51.254.149.59%3A14039%20Ontario%09Toronto%09Rogers%20Communications%20Canada%20Inc
 socks5://162.19.7.48:17226/#162.19.7.48%3A17226%20Ontario%09Toronto%09Bell%20Canada
