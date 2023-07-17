@@ -7,3 +7,5 @@ socks5://190.2.136.36:29622/#190.2.136.36%3A29622%20Canada%09Quebec%09Riviere-Ro
 socks5://212.83.142.149:47215/#212.83.142.149%3A47215%20Canada%09Ontario%09Lucan%09dhcp-40-10-0-3-33-24.cpe.quadro.net
 socks5://51.254.149.59:10612/#51.254.149.59%3A10612%20Canada%09British%20Columbia%09Vancouver%09TELUS%20Communications%20Inc
 socks5://89.58.45.94:34060/#89.58.45.94%3A34060%20Canada%09Alberta%09Edmonton%09173-181-129-248-ent-barlow-staticipwest.wireless.telus.com
+socks5://51.254.167.45:55774/#51.254.167.45%3A55774%7CCanada%7CBritish%20Columbia%7CUnknown%7CUnknown%7CRogers%20Communications%20Canada%20Inc.%7C%2072.143.225.60%20%7C
+socks5://51.83.116.7:24589/#51.83.116.7%3A24589%7CCanada%7COntario%7CInnisfil%7CL9S%7Ccpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com%7C%2099.255.171.241
