@@ -13,3 +13,4 @@ socks5://51.83.116.10:47253/#51.83.116.10%3A47253%20Quebec%09Mont-Laurier%09BLU%
 socks5://51.83.116.4:54236/#51.83.116.4%3A54236%20Quebec%09Beauharnois%09bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca
 socks5://89.58.45.94:37456/#89.58.45.94%3A37456%20British%20Columbia%09Vancouver%09S01067483c24d3dd4.vc.shawcable.net
 socks5://51.83.116.10:33503/#51.83.116.10%3A33503%20Quebec%09Mont-Laurier%09CTAL%20BLU%20Fibre%20Networks
+socks5://51.254.167.45:56979/#51.254.167.45%3A56979%7CCanada%7COntario%7CToronto%7CM4P%7CRogers%20Communications%20Canada%20Inc.%7C%2024.114.49.86
