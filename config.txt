@@ -13,5 +13,4 @@ socks5://51.83.116.10:47253/#51.83.116.10%3A47253%20Quebec%09Mont-Laurier%09BLU%
 socks5://51.83.116.4:54236/#51.83.116.4%3A54236%20Quebec%09Beauharnois%09bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca
 socks5://89.58.45.94:37456/#89.58.45.94%3A37456%20British%20Columbia%09Vancouver%09S01067483c24d3dd4.vc.shawcable.net
 socks5://51.83.116.10:33503/#51.83.116.10%3A33503%20Quebec%09Mont-Laurier%09CTAL%20BLU%20Fibre%20Networks
-socks5://162.0.220.215:13154/#%F0%9F%87%BA%F0%9F%87%B8%2067.216.255.17%20-%20Texas%2C%20Diana%20-%20ETEX%20Communications%20
 socks5://212.83.142.158:15983/#212.83.142.158%3A15983%7CCanada%7COntario%7COttawa%7CK1S%7Cunallocated-static.rogers.com%7C%2072.138.88.162%20%7CTime%20View%2017%2F07%2F2023%2005%3A34%3A24%20%7CBlack%20List%20No
