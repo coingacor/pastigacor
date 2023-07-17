@@ -11,7 +11,11 @@ socks5://195.154.43.198:33302/#195.154.43.198%3A33302%20Virginia%09Ashburn%09ec2
 socks5://162.19.7.48:17226/#162.19.7.48%3A17226%20Ontario%09Toronto%09Bell%20Canada
 socks5://51.83.116.10:47253/#51.83.116.10%3A47253%20Quebec%09Mont-Laurier%09BLU%20Fibre%20Networks%20inc.
 socks5://51.83.116.4:54236/#51.83.116.4%3A54236%20Quebec%09Beauharnois%09bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca
+
 socks5://89.58.45.94:37456/#89.58.45.94%3A37456%20British%20Columbia%09Vancouver%09S01067483c24d3dd4.vc.shawcable.net
+
 socks5://51.83.116.10:33503/#51.83.116.10%3A33503%20Quebec%09Mont-Laurier%09CTAL%20BLU%20Fibre%20Networks
+
 socks5://51.254.167.45:56979/#51.254.167.45%3A56979%7CCanada%7COntario%7CToronto%7CM4P%7CRogers%20Communications%20Canada%20Inc.%7C%2024.114.49.86
+
 socks5://212.83.143.49:14863/#212.83.143.49%3A14863%7CCanada%7COntario%7CToronto%7CM2L%7Ccpe5c7d7dc2d0ec-cm5c7d7dc2d0ea.cpe.net.cable.rogers.com%7C%2099.240.234.81
