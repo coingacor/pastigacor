@@ -14,3 +14,4 @@ socks5://51.83.116.4:54236/#51.83.116.4%3A54236%20Quebec%09Beauharnois%09bras-ba
 socks5://51.83.116.10:33503/#51.83.116.10%3A33503%20Quebec%09Mont-Laurier%09CTAL%20BLU%20Fibre%20Networks
 socks5://51.254.167.45:56979/#51.254.167.45%3A56979%7CCanada%7COntario%7CToronto%7CM4P%7CRogers%20Communications%20Canada%20Inc.%7C%2024.114.49.86
 socks5://212.83.143.49:14863/#212.83.143.49%3A14863%7CCanada%7COntario%7CToronto%7CM2L%7Ccpe5c7d7dc2d0ec-cm5c7d7dc2d0ea.cpe.net.cable.rogers.com%7C%2099.240.234.81
+socks5://46.105.76.41:17367/#%F0%9F%87%A8%F0%9F%87%A6%20134.65.183.206%20-%20Mont%20Laurier%20-%20Blu%20Fibre
