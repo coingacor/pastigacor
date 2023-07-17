@@ -75,10 +75,6 @@ proxies:
     type: socks5
     skip-cert-verify: true
     udp: true
-  - name: 🇺🇸 172.106.13.202:41374
-    server: 172.106.13.202
-    port: 41374
-    type: socks5
   - name: 🇨🇦 162.19.7.48:17226 Ontario	Toronto	Bell Canada
     server: 162.19.7.48
     port: 17226
@@ -142,7 +138,6 @@ proxy-groups:
       - 🇺🇸 172.106.13.203:23521 South Carolina	Fort Lawn	TruVista Communications 
       - 🇺🇸 37.221.193.221:14285 Arizona	Flagstaff	Suddenlink Communications 
       - 🇺🇸 195.154.43.198:33302 Virginia	Ashburn	ec2-54-174-114-172.compute-1.amazonaws.com===
-      - 🇺🇸 172.106.13.202:41374
       - 🇨🇦 162.19.7.48:17226 Ontario	Toronto	Bell Canada 
       - 🇨🇦 51.83.116.10:47253 Quebec Mont-Laurier	BLU Fibre Networks inc. 
       - 🇨🇦 51.83.116.4:54236 Quebec	Beauharnois	bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca 
