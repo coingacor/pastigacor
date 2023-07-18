@@ -153,6 +153,7 @@ proxy-groups:
       - 🇨🇦 99.233.223.251 - Innisfil - cpe5896302f04a5-cm5896302f04a3.cpe.net.cable.rogers.com
       - 🇨🇦 72.139.119.210 - Innisfil - unallocated-static.rogers.com
       - 🇨🇦 72.138.88.162 - Ottawa - unallocated-static.rogers.com
+      - 🇨🇦 Canada|Ontario|Innisfil|L9S|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com| 99.255.171.241
       
 rules:
   - DOMAIN-SUFFIX,us.criteo.net,REJECT
