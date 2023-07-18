@@ -7,3 +7,8 @@ socks5://190.2.136.36:15085/#190.2.136.36%3A15085%09Canada%09Quebec%09Qu%C3%A9be
 socks5://212.83.138.245:48819/#212.83.138.245%3A48819%09Canada%09Ontario%09Mississauga%09cpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com
 socks5://212.83.143.103:33913/#212.83.143.103%3A33913%09Canada%09Ontario%09Milton%09bras-base-mltnon2526w-grc-62-67-71-155-122.dsl.bell.ca
 socks5://212.83.142.149:18650/#99.249.13.99%20-%20Bolton%20-%20Rogers%20Cable%20
+socks5://46.105.76.41:60310#46.105.76.41:60310%7CCanada%7CQuebec%7CMont-Laurier%7CJ9L%7CBLU%20Fibre%20Networks%20inc%7C%20216.39.226.235
+socks5://212.83.142.114:38175#212.83.142.114:38175%7CCanada%7COntario%7CCambridge%7CN1R%7Ccpe08a7c0a03bbe-cm08a7c0a03bbc.cpe.net.cable.rogers.com%7C%2099.255.0.169
+socks5://212.83.143.118:36956#212.83.143.118:36956%7CCanada%7COntario%7CToronto%7CM6G%7CRogers%20Communications%20Canada%20Inc.%7C%20173.34.42.44
+socks5://162.19.7.59:17957#162.19.7.59:17957%7CCanada%7COntario%7CNorth%20York%7CM4A%7Cunallocated-static.datacentres.rogers.com%7C%2072.142.134.194
+socks5://212.83.143.49:35072#212.83.143.49:35072%7CCanada%7COntario%7CRichmond%20Hill%7CL4C%7CRogers%20Communications%20Canada%20Inc.%7C%2099.229.126.4
