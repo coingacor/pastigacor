@@ -1,1 +1,2 @@
-socks5://162.19.7.59:17957/#162.19.7.59%3A17957%7CCanada%7COntario%7CNorth%20York%7CM4A%7Cunallocated-static.datacentres.rogers.com%7C%2072.142.134.194
+socks5://162.19.7.59:17957/#%F0%9F%87%A8%F0%9F%87%A6%2072.142.134.194%7COntario%7CSushiBlast%2CAnimalBlast%7Chttp%3A%2F%2Ft.me%2Fcoingacor9
+socks5://212.83.143.49:35072/#%F0%9F%87%A8%F0%9F%87%A6%2099.229.126.4%7COntario%7CAnimalBlast%7Chttp%3A%2F%2Ft.me%2Fcoingacor9
