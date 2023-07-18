@@ -1,16 +1,2 @@
-socks5://51.83.116.4:54236/#51.83.116.4%3A54236%20Quebec%09Beauharnois%09bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca
-socks5://209.159.153.21:62977/#209.159.153.21%3A62977%20United%20States%09Tennessee%09Memphis%0974-93-128-254-memphis-tn.hfc.comcastbusiness.net
 socks5://104.200.17.112:5252/#104.200.17.112%3A5252%20United%20States%09Texas%09Richardson%09colibricomunicaciones.com
-socks5://212.83.143.60:47039/#212.83.143.60%3A47039%20Canada%09Ontario%09Toronto%09unallocated-static.rogers.com
-socks5://190.2.136.36:36333/#190.2.136.36%3A36333%20Canada%09Quebec%09Riviere-Rouge%09BLU%20Fibre%20Networks%20inc
-socks5://190.2.136.36:29622/#190.2.136.36%3A29622%20Canada%09Quebec%09Riviere-Rouge%09BLU%20Fibre%20Networks%20inc.
-socks5://212.83.142.149:47215/#212.83.142.149%3A47215%20Canada%09Ontario%09Lucan%09dhcp-40-10-0-3-33-24.cpe.quadro.net
-socks5://51.254.149.59:10612/#51.254.149.59%3A10612%20Canada%09British%20Columbia%09Vancouver%09TELUS%20Communications%20Inc
-socks5://89.58.45.94:34060/#89.58.45.94%3A34060%20Canada%09Alberta%09Edmonton%09173-181-129-248-ent-barlow-staticipwest.wireless.telus.com
-socks5://51.254.167.45:55774/#51.254.167.45%3A55774%7CCanada%7CBritish%20Columbia%7CUnknown%7CUnknown%7CRogers%20Communications%20Canada%20Inc.%7C%2072.143.225.60%20%7C
 socks5://51.83.116.7:24589/#51.83.116.7%3A24589%7CCanada%7COntario%7CInnisfil%7CL9S%7Ccpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com%7C%2099.255.171.241
-socks5://51.83.116.6:61476/#51.83.116.6%3A61476%7CCanada%7COntario%7CToronto%7CM4G%7Cunallocated-static.rogers.com%7C%2072.139.28.42
-socks5://212.83.143.49:48256/#212.83.143.49%3A48256%7CCanada%7COntario%7CToronto%7CM2L%7Ccpe5c7d7dc2d0ec-cm5c7d7dc2d0ea.cpe.net.cable.rogers.com%7C%2099.240.234.81
-socks5://195.154.43.86:14539/#195.154.43.86%3A14539%7CCanada%7CBritish%20Columbia%7CLangley%7CV2Y%7Cs206-116-19-26.bc.hsia.telus.net%7C%20206.116.19.26
-socks5://51.83.116.3:36052/#51.83.116.3%3A36052%7CCanada%7COntario%7CMississauga%7CL5N%7Cunallocated-static.rogers.com%7C%2072.142.123.76
-socks5://212.83.142.149:15640/#212.83.142.149%3A15640%7CCanada%7COntario%7CBolton%7CL7E%7Ccpe9050cade2233-cm9050cade2230.cpe.net.cable.rogers.com%7C%2099.249.13.99
