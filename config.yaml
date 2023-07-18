@@ -123,6 +123,13 @@ proxies:
     type: socks5
     skip-cert-verify: true
     udp: true
+  - name: 🇨🇦 Canada|Ontario|Innisfil|L9S|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com| 99.255.171.241
+    server: 51.83.116.7
+    port: 24589
+    type: socks5
+    skip-cert-verify: true
+    udp: true
+
 proxy-groups:
   - name: CANADA
     type: select
