@@ -1,2 +1,1 @@
-socks5://195.154.43.86:14539/#195.154.43.86%3A14539%7CCanada%7CBritish%20Columbia%7CLangley%7CV2Y%7Cs206-116-19-26.bc.hsia.telus.net%7C%20206.116.19.26
-socks5://212.83.142.149:15640/#212.83.142.149%3A15640%7CCanada%7COntario%7CBolton%7CL7E%7Ccpe9050cade2233-cm9050cade2230.cpe.net.cable.rogers.com%7C%2099.249.13.99
+socks5://162.19.7.59:17957/#162.19.7.59%3A17957%7CCanada%7COntario%7CNorth%20York%7CM4A%7Cunallocated-static.datacentres.rogers.com%7C%2072.142.134.194
