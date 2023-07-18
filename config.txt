@@ -6,3 +6,4 @@ socks5://190.2.136.36:25074/#190.2.136.36%3A25074%09Canada%09Quebec%09Notre-Dame
 socks5://190.2.136.36:15085/#190.2.136.36%3A15085%09Canada%09Quebec%09Qu%C3%A9bec%09TELUS%20Communications%20Inc
 socks5://212.83.138.245:48819/#212.83.138.245%3A48819%09Canada%09Ontario%09Mississauga%09cpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com
 socks5://212.83.143.103:33913/#212.83.143.103%3A33913%09Canada%09Ontario%09Milton%09bras-base-mltnon2526w-grc-62-67-71-155-122.dsl.bell.ca
+socks5://212.83.142.149:18650/#99.249.13.99%20-%20Bolton%20-%20Rogers%20Cable%20
