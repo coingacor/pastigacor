@@ -12,3 +12,5 @@ socks5://212.83.142.114:38175#212.83.142.114:38175%7CCanada%7COntario%7CCambridg
 socks5://212.83.143.118:36956#212.83.143.118:36956%7CCanada%7COntario%7CToronto%7CM6G%7CRogers%20Communications%20Canada%20Inc.%7C%20173.34.42.44
 socks5://162.19.7.59:17957#162.19.7.59:17957%7CCanada%7COntario%7CNorth%20York%7CM4A%7Cunallocated-static.datacentres.rogers.com%7C%2072.142.134.194
 socks5://212.83.143.49:35072#212.83.143.49:35072%7CCanada%7COntario%7CRichmond%20Hill%7CL4C%7CRogers%20Communications%20Canada%20Inc.%7C%2099.229.126.4
+socks5://212.83.143.49:15754#Canada%7COntario%7CToronto%7CM5P%7C198-58-210-90.on.cable.ebox.net%7C198.58.210.90
+socks5://212.83.143.97:15343#Canada%7COntario%7COttawa%7CK2P%7C23-233-24-15.cpe.pppoe.ca%7C%2023.233.24.15
