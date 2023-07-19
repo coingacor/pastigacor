@@ -15,143 +15,95 @@ hosts:
 
 
 proxies:
-  - name: 🇺🇸 76.164.124.125 - Conroe - Consolidated Communications
-    server: 174.138.176.76
-    port: 24245
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸 74.221.155.181 - Unknown - ETEX Communication 
-    server: 38.91.107.224
-    port: 12906
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸 74.221.155.181 - Hackleburg - Tombigbee Communications
-    server: 172.106.19.156
-    port: 47302
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸 172.106.19.157:62938 Cambridge - Bay Country Communications, Inc.
-    server: 172.106.19.157
-    port: 62938
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸 66.29.128.245:32337 Hyde park - Comcast Cable Communications, LLC
-    server: 66.29.128.245
-    port: 32337
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸 172.106.19.157:17304 Texas	Amarillo	NTS Communications, LLC
-    server: 172.106.19.157
-    port: 17304
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸 162.0.220.217:33306 South Carolina	Hilton Head Island 	Hargray Communications Group, Inc.
-    server: 162.0.220.217
-    port: 33306
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸 172.106.13.203:23521 South Carolina	Fort Lawn	TruVista Communications
-    server: 172.106.13.203
-    port: 23521
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸 37.221.193.221:14285 Arizona	Flagstaff	Suddenlink Communications
-    server: 37.221.193.221
-    port: 14285
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇺🇸 195.154.43.198:33302 Virginia	Ashburn	ec2-54-174-114-172.compute-1.amazonaws.com===
-    server: 195.154.43.198
-    port: 33302
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇨🇦 162.19.7.48:17226 Ontario	Toronto	Bell Canada
-    server: 162.19.7.48
-    port: 17226
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇨🇦 51.83.116.10:47253 Quebec Mont-Laurier	BLU Fibre Networks inc.
-    server: 51.83.116.10
-    port: 47253
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇨🇦 51.83.116.4:54236 Quebec	Beauharnois	bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca
-    server: 51.83.116.4
-    port: 54236
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇨🇦 89.58.45.94:37456 British Columbia	Vancouver	S01067483c24d3dd4.vc.shawcable.net
-    server: 89.58.45.94
-    port: 37456
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇨🇦 51.83.116.10:33503 Quebec	Mont-Laurier	CTAL BLU Fibre Networks
-    server: 51.83.116.10
-    port: 33503
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇨🇦 99.233.223.251 - Innisfil - cpe5896302f04a5-cm5896302f04a3.cpe.net.cable.rogers.com
-    server: 212.83.143.147
-    port: 33675
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇨🇦 72.139.119.210 - Innisfil - unallocated-static.rogers.com
-    server: 212.83.142.100
-    port: 38316
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇨🇦 72.138.88.162 - Ottawa - unallocated-static.rogers.com
-    server: 212.83.142.158
-    port: 15983
-    type: socks5
-    skip-cert-verify: true
-    udp: true
-  - name: 🇨🇦 Canada|Ontario|Innisfil|L9S|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com| 99.255.171.241
+  - name: 51.83.116.7:24589#51.83.116.7:24589|Canada|Ontario|Innisfil|L9S|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com||99.255.171.241
     server: 51.83.116.7
     port: 24589
     type: socks5
-
+    skip-cert-verify: false
+  - name: 162.19.7.49:20917#162.19.7.49:20917|Canada|Ontario|Brampton|Rogers Communications|Canada|Inc
+    server: 162.19.7.49
+    port: 20917
+    type: socks5
+    skip-cert-verify: false
+  - name: 51.83.116.8:15452#51.83.116.8:15452|Canada|Quebec|Mont-Laurier|CTAL
+    server: 51.83.116.8
+    port: 15452
+    type: socks5
+    skip-cert-verify: false
+  - name: 51.83.116.10:13241#51.83.116.10:13241|Canada|Quebec|Mont-Laurier|CTAL
+    server: 51.83.116.10
+    port: 13241
+    type: socks5
+    skip-cert-verify: false
+  - name: 212.83.142.114:38625#212.83.142.114:38625|Canada|Quebec|Montreal|bras-vprn-mtrlpq5114w-lp130-06-174-94-87-202.dsl.bell.ca
+    server: 212.83.142.114
+    port: 38625
+    type: socks5
+    skip-cert-verify: false
+  - name: 195.154.43.189:58431#195.154.43.189:58431|Canada|Ontario|Mississauga|higdon.me
+    server: 195.154.43.189
+    port: 58431
+    type: socks5
+    skip-cert-verify: false
+  - name: 190.2.136.36:62800#190.2.136.36:62800|Canada|Prince|Edward|Island|Kensington|xplornet|Communications|Inc.
+    server: 190.2.136.36
+    port: 62800
+    type: socks5
+    skip-cert-verify: false
+  - name: 212.83.143.147:14599#212.83.143.147:14599|Canada|British|Columbia|Sidney|S0106c8fb2655119c.gv.shawcable.net
+    server: 212.83.143.147
+    port: 14599
+    type: socks5
+    skip-cert-verify: false
+  - name: 212.83.143.103:12664#212.83.143.103:12664|Canada|Ontario|Barrie|Rogers Communications|Canada|Inc
+    server: 212.83.143.103
+    port: 12664
+    type: socks5
+    skip-cert-verify: false
+  - name: 51.83.116.3:22417#51.83.116.3:22417|Canada|Ontario|Mississauga|unallocated-static.rogers.com
+    server: 51.83.116.3
+    port: 22417
+    type: socks5
+    skip-cert-verify: false
+  - name: 51.254.149.60:10134#51.254.149.60:10134|Canada|Ontario|Guelph|cpe9050cab90573-cm9050cab90570.sdns.net.rogers.com
+    server: 51.254.149.60
+    port: 10134
+    type: socks5
+    skip-cert-verify: false
+  - name: 195.154.43.86:12288#195.154.43.86:12288|Canada|Ontario|Scarborough|cpeac202e1587f3-cmac202e1587f0.sdns.net.rogers.com
+    server: 195.154.43.86
+    port: 12288
+    type: socks5
+    skip-cert-verify: false
+  - name: 195.154.43.86:46531#195.154.43.86:46531|Canada|Ontario|Brampton|cpe906cac537cef-cmf81d0fae8fc0.sdns.net.rogers.com
+    server: 195.154.43.86
+    port: 46531
+    type: socks5
+    skip-cert-verify: false
+  - name: 212.83.138.245:59068#212.83.138.245:59068|Canada|Ontario|Mississauga|cpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com
+    server: 212.83.138.245
+    port: 59068
+    type: socks5
+    skip-cert-verify: false
 proxy-groups:
-  - name: CANADA
+  - name: CUAN
     type: select
     proxies:
       - DIRECT
-      - 🇺🇸 76.164.124.125 - Conroe - Consolidated Communications 
-      - 🇺🇸 74.221.155.181 - Unknown - ETEX Communication  
-      - 🇺🇸 74.221.155.181 - Hackleburg - Tombigbee Communications 
-      - 🇺🇸 172.106.19.157:62938 Cambridge - Bay Country Communications, Inc. 
-      - 🇺🇸 66.29.128.245:32337 Hyde park - Comcast Cable Communications, LLC 
-      - 🇺🇸 172.106.19.157:17304 Texas	Amarillo	NTS Communications, LLC 
-      - 🇺🇸 162.0.220.217:33306 South Carolina	Hilton Head Island 	Hargray Communications Group, Inc. 
-      - 🇺🇸 172.106.13.203:23521 South Carolina	Fort Lawn	TruVista Communications 
-      - 🇺🇸 37.221.193.221:14285 Arizona	Flagstaff	Suddenlink Communications 
-      - 🇺🇸 195.154.43.198:33302 Virginia	Ashburn	ec2-54-174-114-172.compute-1.amazonaws.com===
-      - 🇨🇦 162.19.7.48:17226 Ontario	Toronto	Bell Canada 
-      - 🇨🇦 51.83.116.10:47253 Quebec Mont-Laurier	BLU Fibre Networks inc. 
-      - 🇨🇦 51.83.116.4:54236 Quebec	Beauharnois	bras-base-bhnspq4002w-grc-03-209-226-233-180.dsl.bell.ca 
-      - 🇨🇦 89.58.45.94:37456 British Columbia	Vancouver	S01067483c24d3dd4.vc.shawcable.net 
-      - 🇨🇦 51.83.116.10:33503 Quebec	Mont-Laurier	CTAL BLU Fibre Networks
-      - 🇨🇦 99.233.223.251 - Innisfil - cpe5896302f04a5-cm5896302f04a3.cpe.net.cable.rogers.com
-      - 🇨🇦 72.139.119.210 - Innisfil - unallocated-static.rogers.com
-      - 🇨🇦 72.138.88.162 - Ottawa - unallocated-static.rogers.com
-      - 🇨🇦 Canada|Ontario|Innisfil|L9S|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com| 99.255.171.241
+      - 51.83.116.7:24589#51.83.116.7:24589|Canada|Ontario|Innisfil|L9S|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com||99.255.171.241
+      - 162.19.7.49:20917#162.19.7.49:20917|Canada|Ontario|Brampton|Rogers Communications|Canada|Inc
+      - 51.83.116.8:15452#51.83.116.8:15452|Canada|Quebec|Mont-Laurier|CTAL
+      - 51.83.116.10:13241#51.83.116.10:13241|Canada|Quebec|Mont-Laurier|CTAL
+      - 212.83.142.114:38625#212.83.142.114:38625|Canada|Quebec|Montreal|bras-vprn-mtrlpq5114w-lp130-06-174-94-87-202.dsl.bell.ca
+      - 195.154.43.189:58431#195.154.43.189:58431|Canada|Ontario|Mississauga|higdon.me
+      - 190.2.136.36:62800#190.2.136.36:62800|Canada|Prince|Edward|Island|Kensington|xplornet|Communications|Inc.
+      - 212.83.143.147:14599#212.83.143.147:14599|Canada|British|Columbia|Sidney|S0106c8fb2655119c.gv.shawcable.net
+      - 212.83.143.103:12664#212.83.143.103:12664|Canada|Ontario|Barrie|Rogers Communications|Canada|Inc
+      - 51.83.116.3:22417#51.83.116.3:22417|Canada|Ontario|Mississauga|unallocated-static.rogers.com
+      - 51.254.149.60:10134#51.254.149.60:10134|Canada|Ontario|Guelph|cpe9050cab90573-cm9050cab90570.sdns.net.rogers.com
+      - 195.154.43.86:12288#195.154.43.86:12288|Canada|Ontario|Scarborough|cpeac202e1587f3-cmac202e1587f0.sdns.net.rogers.com
+      - 195.154.43.86:46531#195.154.43.86:46531|Canada|Ontario|Brampton|cpe906cac537cef-cmf81d0fae8fc0.sdns.net.rogers.com
+      - 212.83.138.245:59068#212.83.138.245:59068|Canada|Ontario|Mississauga|cpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com
       
 rules:
   - DOMAIN-SUFFIX,us.criteo.net,REJECT
@@ -189,7 +141,7 @@ rules:
   - DOMAIN-KEYWORD,playstore,REJECT
   - DOMAIN-KEYWORD,digitalturbine,REJECT
   - DOMAIN-SUFFIX,soom.la,REJECT
-  - MATCH,CANADA
+  - MATCH,CUAN
 rule-providers:
   IKLANRUSAK:
     behavior: "classical" 
