@@ -127,8 +127,6 @@ proxies:
     server: 51.83.116.7
     port: 24589
     type: socks5
-    skip-cert-verify: true
-    udp: true
 
 proxy-groups:
   - name: CANADA
