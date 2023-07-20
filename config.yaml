@@ -65,6 +65,11 @@ proxies:
     port: 14085
     type: socks5
     skip-cert-verify: false
+  - name: 162.0.220.217:62141|United States|Oklahoma|Bixby|74008|olp-216-14-155-140.olp.net| 216.14.155.140
+    server: 162.0.220.217
+    port: 62141
+    type: socks5
+    skip-cert-verify: false
 proxy-groups:
   - name: CUAN
     type: select
@@ -79,6 +84,7 @@ proxy-groups:
       - 195.154.43.86:60942#195.154.43.86:60942|Canada|British Columbia|Langley|s206-116-19-26.bc.hsia.telus.net
       - 162.19.7.61:55243#162.19.7.61:55243|Canada|Alberta|Calgary|Bell Canada
       - 190.2.136.36:14085#190.2.136.36:14085|Canada|Ontario|Pembroke|NRTC Communications
+      - 162.0.220.217:62141|United States|Oklahoma|Bixby|74008|olp-216-14-155-140.olp.net| 216.14.155.140
       - DIRECT
       
 rules:
