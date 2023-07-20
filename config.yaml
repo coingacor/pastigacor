@@ -74,7 +74,7 @@ proxies:
     type: socks5
     skip-cert-verify: false
 proxy-groups:
-  - name: FASTSSH-SSHKIT-HOWDY
+  - name: CUAN
     type: select
     proxies:
       - 195.154.43.189:58431#195.154.43.189:58431|Canada|Ontario|Mississauga|higdon.me
