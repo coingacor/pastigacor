@@ -15,95 +15,79 @@ hosts:
 
 
 proxies:
-  - name: 51.83.116.7:24589#51.83.116.7:24589|Canada|Ontario|Innisfil|L9S|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com||99.255.171.241
-    server: 51.83.116.7
-    port: 24589
-    type: socks5
-    skip-cert-verify: false
-  - name: 162.19.7.49:20917#162.19.7.49:20917|Canada|Ontario|Brampton|Rogers Communications|Canada|Inc
-    server: 162.19.7.49
-    port: 20917
-    type: socks5
-    skip-cert-verify: false
-  - name: 51.83.116.8:15452#51.83.116.8:15452|Canada|Quebec|Mont-Laurier|CTAL
-    server: 51.83.116.8
-    port: 15452
-    type: socks5
-    skip-cert-verify: false
-  - name: 51.83.116.10:13241#51.83.116.10:13241|Canada|Quebec|Mont-Laurier|CTAL
-    server: 51.83.116.10
-    port: 13241
-    type: socks5
-    skip-cert-verify: false
-  - name: 212.83.142.114:38625#212.83.142.114:38625|Canada|Quebec|Montreal|bras-vprn-mtrlpq5114w-lp130-06-174-94-87-202.dsl.bell.ca
-    server: 212.83.142.114
-    port: 38625
-    type: socks5
-    skip-cert-verify: false
   - name: 195.154.43.189:58431#195.154.43.189:58431|Canada|Ontario|Mississauga|higdon.me
     server: 195.154.43.189
     port: 58431
     type: socks5
     skip-cert-verify: false
-  - name: 190.2.136.36:62800#190.2.136.36:62800|Canada|Prince|Edward|Island|Kensington|xplornet|Communications|Inc.
+    
+  - name: 212.83.138.172:36140#212.83.138.172:36140|Canada|Ontario|Brampton|unallocated-static.rogers.com
+    server: 212.83.138.172
+    port: 36140
+    type: socks5
+    skip-cert-verify: false
+    
+  - name: 51.83.116.9:40962#51.83.116.9:40962|Canada|Quebec|Mont-Laurier|BLU Fibre Networks inc
+    server: 51.83.116.9
+    port: 40962
+    type: socks5
+    skip-cert-verify: false
+    
+  - name: 51.83.116.8:27371#51.83.116.8:27371|Canada|Quebec|Riviere-Rouge|BLU Fibre Networks inc
+    server: 51.83.116.8
+    port: 27371
+    type: socks5
+    skip-cert-verify: false
+    
+  - name: 190.2.136.36:34956#190.2.136.36:34956|Canada|Quebec|Beaux-Rivages--Lac-des-Ecorces--Val-Barrette|BLU Fibre Networks inc
     server: 190.2.136.36
-    port: 62800
+    port: 34956
     type: socks5
     skip-cert-verify: false
-  - name: 212.83.143.147:14599#212.83.143.147:14599|Canada|British|Columbia|Sidney|S0106c8fb2655119c.gv.shawcable.net
-    server: 212.83.143.147
-    port: 14599
-    type: socks5
-    skip-cert-verify: false
-  - name: 212.83.143.103:12664#212.83.143.103:12664|Canada|Ontario|Barrie|Rogers Communications|Canada|Inc
-    server: 212.83.143.103
-    port: 12664
-    type: socks5
-    skip-cert-verify: false
-  - name: 51.83.116.3:22417#51.83.116.3:22417|Canada|Ontario|Mississauga|unallocated-static.rogers.com
-    server: 51.83.116.3
-    port: 22417
-    type: socks5
-    skip-cert-verify: false
-  - name: 51.254.149.60:10134#51.254.149.60:10134|Canada|Ontario|Guelph|cpe9050cab90573-cm9050cab90570.sdns.net.rogers.com
+    
+  - name: 51.254.149.60:42670#51.254.149.60:42670|Canada|Quebec|Riviere-Rouge|BLU Fibre Networks inc
     server: 51.254.149.60
-    port: 10134
+    port: 42670
     type: socks5
     skip-cert-verify: false
-  - name: 195.154.43.86:12288#195.154.43.86:12288|Canada|Ontario|Scarborough|cpeac202e1587f3-cmac202e1587f0.sdns.net.rogers.com
+    
+  - name: 51.254.149.59:52150#51.254.149.59:52150|Canada|British Columbia|Courtenay|d172-218-107-132.bchsia.telus.net
+    server: 51.254.149.59
+    port: 52150
+    type: socks5
+    skip-cert-verify: false
+    
+  - name: 195.154.43.86:60942#195.154.43.86:60942|Canada|British Columbia|Langley|s206-116-19-26.bc.hsia.telus.net
     server: 195.154.43.86
-    port: 12288
+    port: 60942
     type: socks5
     skip-cert-verify: false
-  - name: 195.154.43.86:46531#195.154.43.86:46531|Canada|Ontario|Brampton|cpe906cac537cef-cmf81d0fae8fc0.sdns.net.rogers.com
-    server: 195.154.43.86
-    port: 46531
+    
+  - name: 162.19.7.61:55243#162.19.7.61:55243|Canada|Alberta|Calgary|Bell Canada
+    server: 162.19.7.61
+    port: 55243
     type: socks5
     skip-cert-verify: false
-  - name: 212.83.138.245:59068#212.83.138.245:59068|Canada|Ontario|Mississauga|cpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com
-    server: 212.83.138.245
-    port: 59068
+  - name: 190.2.136.36:14085#190.2.136.36:14085|Canada|Ontario|Pembroke|NRTC Communications
+    server: 190.2.136.36
+    port: 14085
     type: socks5
     skip-cert-verify: false
 proxy-groups:
-  - name: CUAN
+  - name: FASTSSH-SSHKIT-HOWDY
     type: select
     proxies:
-      - DIRECT
-      - 51.83.116.7:24589#51.83.116.7:24589|Canada|Ontario|Innisfil|L9S|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com||99.255.171.241
-      - 162.19.7.49:20917#162.19.7.49:20917|Canada|Ontario|Brampton|Rogers Communications|Canada|Inc
-      - 51.83.116.8:15452#51.83.116.8:15452|Canada|Quebec|Mont-Laurier|CTAL
-      - 51.83.116.10:13241#51.83.116.10:13241|Canada|Quebec|Mont-Laurier|CTAL
-      - 212.83.142.114:38625#212.83.142.114:38625|Canada|Quebec|Montreal|bras-vprn-mtrlpq5114w-lp130-06-174-94-87-202.dsl.bell.ca
       - 195.154.43.189:58431#195.154.43.189:58431|Canada|Ontario|Mississauga|higdon.me
-      - 190.2.136.36:62800#190.2.136.36:62800|Canada|Prince|Edward|Island|Kensington|xplornet|Communications|Inc.
-      - 212.83.143.147:14599#212.83.143.147:14599|Canada|British|Columbia|Sidney|S0106c8fb2655119c.gv.shawcable.net
-      - 212.83.143.103:12664#212.83.143.103:12664|Canada|Ontario|Barrie|Rogers Communications|Canada|Inc
-      - 51.83.116.3:22417#51.83.116.3:22417|Canada|Ontario|Mississauga|unallocated-static.rogers.com
-      - 51.254.149.60:10134#51.254.149.60:10134|Canada|Ontario|Guelph|cpe9050cab90573-cm9050cab90570.sdns.net.rogers.com
-      - 195.154.43.86:12288#195.154.43.86:12288|Canada|Ontario|Scarborough|cpeac202e1587f3-cmac202e1587f0.sdns.net.rogers.com
-      - 195.154.43.86:46531#195.154.43.86:46531|Canada|Ontario|Brampton|cpe906cac537cef-cmf81d0fae8fc0.sdns.net.rogers.com
-      - 212.83.138.245:59068#212.83.138.245:59068|Canada|Ontario|Mississauga|cpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com
+      - 212.83.138.172:36140#212.83.138.172:36140|Canada|Ontario|Brampton|unallocated-static.rogers.com
+      - 51.83.116.9:40962#51.83.116.9:40962|Canada|Quebec|Mont-Laurier|BLU Fibre Networks inc
+      - 51.83.116.8:27371#51.83.116.8:27371|Canada|Quebec|Riviere-Rouge|BLU Fibre Networks inc
+      - 190.2.136.36:34956#190.2.136.36:34956|Canada|Quebec|Beaux-Rivages--Lac-des-Ecorces--Val-Barrette|BLU Fibre Networks inc
+      - 51.254.149.60:42670#51.254.149.60:42670|Canada|Quebec|Riviere-Rouge|BLU Fibre Networks inc
+      - 51.254.149.59:52150#51.254.149.59:52150|Canada|British Columbia|Courtenay|d172-218-107-132.bchsia.telus.net
+      - 195.154.43.86:60942#195.154.43.86:60942|Canada|British Columbia|Langley|s206-116-19-26.bc.hsia.telus.net
+      - 162.19.7.61:55243#162.19.7.61:55243|Canada|Alberta|Calgary|Bell Canada
+      - 190.2.136.36:14085#190.2.136.36:14085|Canada|Ontario|Pembroke|NRTC Communications
+      - DIRECT
       
 rules:
   - DOMAIN-SUFFIX,us.criteo.net,REJECT
