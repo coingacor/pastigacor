@@ -70,10 +70,16 @@ proxies:
     port: 62141
     type: socks5
     skip-cert-verify: false
+  - name: 209.159.153.19:50541|United States|Florida|Sarasota|34237|c-98-56-68-159.hsd1.fl.comcast.net| 98.56.68.159
+    server: 209.159.153.19
+    port: 50541
+    type: socks5
+    skip-cert-verify: false
 proxy-groups:
   - name: CUAN
     type: select
     proxies:
+      - DIRECT
       - 195.154.43.189:58431#195.154.43.189:58431|Canada|Ontario|Mississauga|higdon.me
       - 212.83.138.172:36140#212.83.138.172:36140|Canada|Ontario|Brampton|unallocated-static.rogers.com
       - 51.83.116.9:40962#51.83.116.9:40962|Canada|Quebec|Mont-Laurier|BLU Fibre Networks inc
@@ -85,7 +91,7 @@ proxy-groups:
       - 162.19.7.61:55243#162.19.7.61:55243|Canada|Alberta|Calgary|Bell Canada
       - 190.2.136.36:14085#190.2.136.36:14085|Canada|Ontario|Pembroke|NRTC Communications
       - 162.0.220.217:62141|United States|Oklahoma|Bixby|74008|olp-216-14-155-140.olp.net| 216.14.155.140
-      - DIRECT
+      - 209.159.153.19:50541|United States|Florida|Sarasota|34237|c-98-56-68-159.hsd1.fl.comcast.net| 98.56.68.159
       
 rules:
   - DOMAIN-SUFFIX,us.criteo.net,REJECT
