@@ -136,7 +136,7 @@ proxies:
     skip-cert-verify: true
     udp: true
 proxy-groups:
-  - name: FASTSSH-SSHKIT-HOWDY
+  - name: CUAN
     type: select
     proxies:
       - 51.83.116.7:24589#51.83.116.7:24589|Ontario|Innisfil|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com
