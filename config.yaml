@@ -139,6 +139,7 @@ proxy-groups:
   - name: CUAN
     type: select
     proxies:
+      - DIRECT
       - 51.83.116.7:24589#51.83.116.7:24589|Ontario|Innisfil|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com
       - 162.19.7.48:57105#162.19.7.48:57105|Ontario|Toronto|cpe00fc8d424ba3-cm00fc8d424ba0.cpe.net.cable.rogers.com
       - 195.154.43.86:39244#195.154.43.86:39244|Ontario|Brampton|cpe906cac537cef-cmf81d0fae8fc0.sdns.net.rogers.com
@@ -159,8 +160,7 @@ proxy-groups:
       - 66.29.128.244:34168#66.29.128.244:34168|Florida|Ormond|Beach|050-088-045-190.res.spectrum.com
       - 66.29.128.245:14271#66.29.128.245:14271|California|Beaumont|Frontier Communications Solutions
       - 209.159.153.21:61452#209.159.153.21:61452|Indiana|Newburgh|d179-68-217-153.evv.wideopenwest.com
-      - DIRECT
-      
+
 rules:
   - DOMAIN-SUFFIX,us.criteo.net,REJECT
   - DOMAIN-SUFFIX,zem.outbrainimg.com,REJECT
