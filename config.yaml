@@ -99,6 +99,24 @@ proxies:
     type: socks5
     skip-cert-verify: false
     
+  - name: 195.154.43.86:15955
+    server: 195.154.43.86
+    port: 15955
+    type: socks5
+    skip-cert-verify: false
+    
+  - name: 212.83.143.60:63350
+    server: 212.83.143.60
+    port: 63350
+    type: socks5
+    skip-cert-verify: false
+    
+  - name: 212.83.138.172:29239
+    server: 212.83.138.172
+    port: 29239
+    type: socks5
+    skip-cert-verify: false
+    
   - name: 37.221.193.221:26954|California|Hemet|IONOS|SE
     server: 37.221.193.221
     port: 26954
@@ -154,6 +172,9 @@ proxy-groups:
       - 162.19.7.46:36023|Quebec|Saint-Lin-Laurentides|modemcable076.168-160-184.mc.videotron.ca
       - 212.83.143.97:49680|Ontario|Mississauga|CIK Telecom INC
       - 51.83.116.7:58142|Ontario|Mississauga|bras-base-malton2265w-grc-07-70-30-117-46.dsl.bell.ca
+      - 195.154.43.86:15955
+      - 212.83.138.172:29239
+      - 212.83.143.60:63350
       - 37.221.193.221:26954|California|Hemet|IONOS|SE
       - 37.221.193.221:32338|New|Jersey|Swedesboro|c-73-160-111-61.hsd1.nj.comcast.net
       - 38.91.107.224:15827|South|Carolina|Beaufort|Hargray Communications Group Inc.
