@@ -12,6 +12,9 @@ socks5://89.58.45.94:42171/#89.58.45.94%3A42171%20Alberta%09Edmonton%09173-181-1
 socks5://162.19.7.46:36023/#162.19.7.46%3A36023%20Quebec%09Saint-Lin-Laurentides%09modemcable076.168-160-184.mc.videotron.ca
 socks5://212.83.143.97:49680/#212.83.143.97%3A49680%20Ontario%09Mississauga%09CIK%20Telecom%20INC
 socks5://51.83.116.7:58142/#51.83.116.7%3A58142%20Ontario%09Mississauga%09bras-base-malton2265w-grc-07-70-30-117-46.dsl.bell.ca
+socks5://195.154.43.86:15955/#195.154.43.86%3A15955%20Ontario%09Toronto%09unallocated-static.rogers.com
+socks5://212.83.143.60:63350/#212.83.143.60%3A63350%20Ontario%09Toronto%09unallocated-static.rogers.com
+socks5://212.83.138.172:29239/#212.83.138.172%3A29239%20Ontario%09Toronto%09unallocated-static.rogers.com
 socks5://37.221.193.221:26954/#37.221.193.221%3A26954%20California%09Hemet%09IONOS%20SE
 socks5://37.221.193.221:32338/#37.221.193.221%3A32338%20New%20Jersey%09Swedesboro%09c-73-160-111-61.hsd1.nj.comcast.net
 socks5://38.91.107.224:15827/#38.91.107.224%3A15827%20South%20Carolina%09Beaufort%09Hargray%20Communications%20Group%2C%20Inc
