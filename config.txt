@@ -1,4 +1,3 @@
-Eric Erdiana:
 socks5://51.83.116.7:24589/#51.83.116.7%3A24589%20Ontario%09Innisfil%09cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com
 socks5://162.19.7.48:57105/#162.19.7.48%3A57105%20Ontario%09Toronto%09cpe00fc8d424ba3-cm00fc8d424ba0.cpe.net.cable.rogers.com
 socks5://195.154.43.86:39244/#195.154.43.86%3A39244%20Ontario%09Brampton%09cpe906cac537cef-cmf81d0fae8fc0.sdns.net.rogers.com
