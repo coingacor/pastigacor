@@ -145,6 +145,7 @@ proxies:
     port: 10427
     type: socks5
     skip-cert-verify: false
+    
 proxy-groups:
   - name: CUAN
     type: select
