@@ -15,149 +15,154 @@ hosts:
 
 
 proxies:
-  - name:  51.83.116.7:24589|Ontario|Innisfil|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com
-    server: 51.83.116.7
-    port: 24589
+  - name: Canada%7COntario%7CMississauga%7CL5N%7Cunallocated-static.rogers.com%7C%2072.142.123.76%20
+    server: 51.83.116.3
+    port: 60175
     type: socks5
     skip-cert-verify: false
-    
-  - name:  162.19.7.48:57105|Ontario|Toronto|cpe00fc8d424ba3-cm00fc8d424ba0.cpe.net.cable.rogers.com
-    server: 162.19.7.48
-    port: 57105
-    type: socks5
-    skip-cert-verify: false
-    
-  - name:  195.154.43.86:39244|Ontario|Brampton|cpe906cac537cef-cmf81d0fae8fc0.sdns.net.rogers.com
-    server: 195.154.43.86
-    port: 39244
-    type: socks5
-    skip-cert-verify: false
-    
-  - name:  212.83.142.100:41075|Ontario|Etobicoke|unallocated-static.rogers.com
-    server: 212.83.142.100
-    port: 41075
-    type: socks5
-    skip-cert-verify: false
-    
-  - name:  212.83.142.100:11928|Ontario|Brampton|cpe00fc8d4b7313-cm00fc8d4b7310.cpe.net.cable.rogers.com
-    server: 212.83.142.100
-    port: 11928
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 212.83.143.103:18962|Ontario|Richmond|Hill|cpe989d5df212a7-cm989d5df212a5.cpe.net.cable.rogers.com
-    server: 212.83.143.103
-    port: 18962
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 212.83.143.103:61850|Ontario|Barrie|Rogers Communications Canada Inc.
-    server: 212.83.143.103
-    port: 61850
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 51.83.116.8:49656|Quebec|Ferme-Neuve|BLU Fibre Networks Inc
-    server: 51.83.116.8
-    port: 49656
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 190.2.136.35:49724|Quebec|Montreal|BLU Fibre Networks Inc
-    server: 190.2.136.35
-    port: 49724
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 190.2.136.36:47872|Quebec|L%27Ascension|BLU Fibre Networks Inc
-    server: 190.2.136.36
-    port: 47872
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 89.58.45.94:42171|Alberta|Edmonton|173-181-129-248-ent-barlow-staticipwest.wireless.telus.com
-    server: 89.58.45.94
-    port: 42171
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 162.19.7.46:36023|Quebec|Saint-Lin-Laurentides|modemcable076.168-160-184.mc.videotron.ca
-    server: 162.19.7.46
-    port: 36023
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 212.83.143.97:49680|Ontario|Mississauga|CIK Telecom INC
+  - name: Canada%7COntario%7COttawa%7CK1R%7Ccpe9050ca26ed93-cm9050ca26ed90.sdns.net.rogers.com%7C%20174.115.203.28
     server: 212.83.143.97
-    port: 49680
+    port: 61482
     type: socks5
     skip-cert-verify: false
-    
-  - name: 51.83.116.7:58142|Ontario|Mississauga|bras-base-malton2265w-grc-07-70-30-117-46.dsl.bell.ca
-    server: 51.83.116.7
-    port: 58142
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 195.154.43.86:15955
-    server: 195.154.43.86
-    port: 15955
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 212.83.143.60:63350
+  - name: Canada%7COntario%7CInnisfil%7CL9S%7Ccpe64777d56dd33-cm64777d56dd30.sdns.net.rogers.com%7C%2099.233.208.94
     server: 212.83.143.60
-    port: 63350
+    port: 15019
     type: socks5
     skip-cert-verify: false
-    
-  - name: 212.83.138.172:29239
-    server: 212.83.138.172
-    port: 29239
+  - name: Canada%7COntario%7CScarborough%7CM1M%7Ccpea84e3fc92a93-cma84e3fc92a90.cpe.net.cable.rogers.com%7C%2099.237.199.249
+    server: 212.83.143.147
+    port: 14611
     type: socks5
     skip-cert-verify: false
-    
-  - name: 37.221.193.221:26954|California|Hemet|IONOS|SE
+  - name: Canada%7COntario%7CMitchell%2FOntario%7CN0K%7Cdhcp-40-10-0-6-79-47.cpe.quadro.net%20184.94.190.39
+    server: 212.83.143.60
+    port: 35841
+    type: socks5
+    skip-cert-verify: false
+  - name: Canada%7COntario%7CSt.%20Marys%7CN4x%7Cdhcp-40-10-0-3-33-2.cpe.quadro.net%7C%20184.94.177.138%20
+    server: 67.213.212.51
+    port: 20813
+    type: socks5
+    skip-cert-verify: false
+  - name: Canada%7COntario%7CKirkton%7CN0K%7Cdhcp-40-10-0-3-32-64.cpe.quadro.net%7C%20184.94.183.94%20
+    server: 51.83.116.2
+    port: 29428
+    type: socks5
+    skip-cert-verify: false
+  - name: Canada%7COntario%7CStratford%7CN5A%7Cdhcp-40-10-0-3-35-51.cpe.quadro.net%7C%20184.94.177.124
+    server: 67.213.212.47
+    port: 18920
+    type: socks5
+    skip-cert-verify: false
+  - name: United%20States%7CTexas%7CHumble%7C77396%7Cc-73-232-183-220.hsd1.tx.comcast.net%7C%2073.232.183.220%20
+    server: 51.254.149.59
+    port: 18259
+    type: socks5
+    skip-cert-verify: false
+  - name: United%20States%7CFlorida%7CJacksonville%7C32255%7Cc-73-171-144-54.hsd1.fl.comcast.net%7C%2073.171.144.54
     server: 37.221.193.221
-    port: 26954
+    port: 17383
     type: socks5
     skip-cert-verify: false
-    
-  - name: 37.221.193.221:32338|New|Jersey|Swedesboro|c-73-160-111-61.hsd1.nj.comcast.net
+  - name: United%20States%7CNew%20Jersey%7CCinnaminson%7C08077%7Cc-73-198-120-49.hsd1.nj.comcast.net%7C%2073.198.120.49
+    server: 67.213.212.48
+    port: 16579
+    type: socks5
+    skip-cert-verify: false
+  - name: United%20States%7CTexas%7CPasadena%7C77502%7C50-252-62-130-static.hfc.comcastbusiness.net%7C%2050.252.62.130%20
+    server: 67.213.212.51
+    port: 60014
+    type: socks5
+    skip-cert-verify: false
+  - name: United%20States%7CMassachusetts%7CCambridge%7C02139%7C96-67-60-230-static.hfc.comcastbusiness.net%7C%2096.67.60.230
+    server: 209.159.153.19
+    port: 10427
+    type: socks5
+    skip-cert-verify: false
+    - name: Canada%7COntario%7CMississauga%7CL5N%7Cunallocated-static.rogers.com%7C%2072.142.123.76%20
+    server: 51.83.116.3
+    port: 60175
+    type: socks5
+    skip-cert-verify: false
+  - name: Canada%7COntario%7COttawa%7CK1R%7Ccpe9050ca26ed93-cm9050ca26ed90.sdns.net.rogers.com%7C%20174.115.203.28
+    server: 212.83.143.97
+    port: 61482
+    type: socks5
+    skip-cert-verify: false
+  - name: Canada%7COntario%7CInnisfil%7CL9S%7Ccpe64777d56dd33-cm64777d56dd30.sdns.net.rogers.com%7C%2099.233.208.94
+    server: 212.83.143.60
+    port: 15019
+    type: socks5
+    skip-cert-verify: false
+  - name: Canada%7COntario%7CScarborough%7CM1M%7Ccpea84e3fc92a93-cma84e3fc92a90.cpe.net.cable.rogers.com%7C%2099.237.199.249
+    server: 212.83.143.147
+    port: 14611
+    type: socks5
+    skip-cert-verify: false
+  - name: Canada%7COntario%7CMitchell%2FOntario%7CN0K%7Cdhcp-40-10-0-6-79-47.cpe.quadro.net%20184.94.190.39
+    server: 212.83.143.60
+    port: 35841
+    type: socks5
+    skip-cert-verify: false
+  - name: Canada%7COntario%7CSt.%20Marys%7CN4x%7Cdhcp-40-10-0-3-33-2.cpe.quadro.net%7C%20184.94.177.138%20
+    server: 67.213.212.51
+    port: 20813
+    type: socks5
+    skip-cert-verify: false
+  - name: Canada%7COntario%7CKirkton%7CN0K%7Cdhcp-40-10-0-3-32-64.cpe.quadro.net%7C%20184.94.183.94%20
+    server: 51.83.116.2
+    port: 29428
+    type: socks5
+    skip-cert-verify: false
+  - name: Canada%7COntario%7CStratford%7CN5A%7Cdhcp-40-10-0-3-35-51.cpe.quadro.net%7C%20184.94.177.124
+    server: 67.213.212.47
+    port: 18920
+    type: socks5
+    skip-cert-verify: false
+  - name: United%20States%7CTexas%7CHumble%7C77396%7Cc-73-232-183-220.hsd1.tx.comcast.net%7C%2073.232.183.220%20
+    server: 51.254.149.59
+    port: 18259
+    type: socks5
+    skip-cert-verify: false
+  - name: United%20States%7CFlorida%7CJacksonville%7C32255%7Cc-73-171-144-54.hsd1.fl.comcast.net%7C%2073.171.144.54
     server: 37.221.193.221
-    port: 32338
+    port: 17383
     type: socks5
     skip-cert-verify: false
-    
-  - name: 38.91.107.224:15827|South|Carolina|Beaufort|Hargray Communications Group Inc.
-    server: 38.91.107.224
-    port: 15827
+  - name: United%20States%7CNew%20Jersey%7CCinnaminson%7C08077%7Cc-73-198-120-49.hsd1.nj.comcast.net%7C%2073.198.120.49
+    server: 67.213.212.48
+    port: 16579
     type: socks5
     skip-cert-verify: false
-    
-  - name: 66.29.128.244:34168|Florida|Ormond|Beach|050-088-045-190.res.spectrum.com
-    server: 66.29.128.244
-    port: 34168
+  - name: United%20States%7CTexas%7CPasadena%7C77502%7C50-252-62-130-static.hfc.comcastbusiness.net%7C%2050.252.62.130%20
+    server: 67.213.212.51
+    port: 60014
     type: socks5
     skip-cert-verify: false
-    
-  - name: 66.29.128.245:14271|California|Beaumont|Frontier Communications Solutions
-    server: 66.29.128.245
-    port: 14271
+  - name: United%20States%7CMassachusetts%7CCambridge%7C02139%7C96-67-60-230-static.hfc.comcastbusiness.net%7C%2096.67.60.230
+    server: 209.159.153.19
+    port: 10427
     type: socks5
     skip-cert-verify: false
-    
-  - name: 209.159.153.21:61452|Indiana|Newburgh|d179-68-217-153.evv.wideopenwest.com
-    server: 209.159.153.21
-    port: 61452
-    type: socks5
-    skip-cert-verify: false
-    
 proxy-groups:
   - name: CUAN
     type: select
     proxies:
       - DIRECT
+      - Canada%7COntario%7CMississauga%7CL5N%7Cunallocated-static.rogers.com%7C%2072.142.123.76%20
+      - Canada%7COntario%7COttawa%7CK1R%7Ccpe9050ca26ed93-cm9050ca26ed90.sdns.net.rogers.com%7C%20174.115.203.28
+      - Canada%7COntario%7CInnisfil%7CL9S%7Ccpe64777d56dd33-cm64777d56dd30.sdns.net.rogers.com%7C%2099.233.208.94
+      - Canada%7COntario%7CScarborough%7CM1M%7Ccpea84e3fc92a93-cma84e3fc92a90.cpe.net.cable.rogers.com%7C%2099.237.199.249
+      - Canada%7COntario%7CMitchell%2FOntario%7CN0K%7Cdhcp-40-10-0-6-79-47.cpe.quadro.net%20184.94.190.39
+      - Canada%7COntario%7CSt.%20Marys%7CN4x%7Cdhcp-40-10-0-3-33-2.cpe.quadro.net%7C%20184.94.177.138%20
+      - Canada%7COntario%7CKirkton%7CN0K%7Cdhcp-40-10-0-3-32-64.cpe.quadro.net%7C%20184.94.183.94%20
+      - Canada%7COntario%7CStratford%7CN5A%7Cdhcp-40-10-0-3-35-51.cpe.quadro.net%7C%20184.94.177.124
+      - United%20States%7CTexas%7CHumble%7C77396%7Cc-73-232-183-220.hsd1.tx.comcast.net%7C%2073.232.183.220%20
+      - United%20States%7CFlorida%7CJacksonville%7C32255%7Cc-73-171-144-54.hsd1.fl.comcast.net%7C%2073.171.144.54
+      - United%20States%7CNew%20Jersey%7CCinnaminson%7C08077%7Cc-73-198-120-49.hsd1.nj.comcast.net%7C%2073.198.120.49
+      - United%20States%7CTexas%7CPasadena%7C77502%7C50-252-62-130-static.hfc.comcastbusiness.net%7C%2050.252.62.130%20
+      - United%20States%7CMassachusetts%7CCambridge%7C02139%7C96-67-60-230-static.hfc.comcastbusiness.net%7C%2096.67.60.230
       - 51.83.116.7:24589|Ontario|Innisfil|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com
       - 162.19.7.48:57105|Ontario|Toronto|cpe00fc8d424ba3-cm00fc8d424ba0.cpe.net.cable.rogers.com
       - 195.154.43.86:39244|Ontario|Brampton|cpe906cac537cef-cmf81d0fae8fc0.sdns.net.rogers.com
