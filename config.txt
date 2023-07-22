@@ -21,3 +21,16 @@ socks5://38.91.107.224:15827/#38.91.107.224%3A15827%20South%20Carolina%09Beaufor
 socks5://66.29.128.244:34168/#66.29.128.244%3A34168%20Florida%09Ormond%20Beach%09050-088-045-190.res.spectrum.com
 socks5://66.29.128.245:14271/#66.29.128.245%3A14271%20California%09Beaumont%09Frontier%20Communications%20Solutions
 socks5://209.159.153.21:61452/#209.159.153.21%3A61452%20Indiana%09Newburgh%09d179-68-217-153.evv.wideopenwest.com
+socks5://51.83.116.3:60175/#Canada%7COntario%7CMississauga%7CL5N%7Cunallocated-static.rogers.com%7C%2072.142.123.76%20
+socks5://212.83.143.97:61482/#Canada%7COntario%7COttawa%7CK1R%7Ccpe9050ca26ed93-cm9050ca26ed90.sdns.net.rogers.com%7C%20174.115.203.28
+socks5://212.83.143.60:15019/#Canada%7COntario%7CInnisfil%7CL9S%7Ccpe64777d56dd33-cm64777d56dd30.sdns.net.rogers.com%7C%2099.233.208.94
+socks5://212.83.143.147:14611/#Canada%7COntario%7CScarborough%7CM1M%7Ccpea84e3fc92a93-cma84e3fc92a90.cpe.net.cable.rogers.com%7C%2099.237.199.249
+socks5://212.83.143.60:35841/#Canada%7COntario%7CMitchell%2FOntario%7CN0K%7Cdhcp-40-10-0-6-79-47.cpe.quadro.net%20184.94.190.39
+socks5://67.213.212.51:20813/#Canada%7COntario%7CSt.%20Marys%7CN4X%7Cdhcp-40-10-0-3-33-2.cpe.quadro.net%7C%20184.94.177.138%20
+socks5://51.83.116.2:29428/#Canada%7COntario%7CKirkton%7CN0K%7Cdhcp-40-10-0-3-32-64.cpe.quadro.net%7C%20184.94.183.94%20
+socks5://67.213.212.47:18920/#Canada%7COntario%7CStratford%7CN5A%7Cdhcp-40-10-0-3-35-51.cpe.quadro.net%7C%20184.94.177.124
+socks5://51.254.149.59:18259/#United%20States%7CTexas%7CHumble%7C77396%7Cc-73-232-183-220.hsd1.tx.comcast.net%7C%2073.232.183.220%20
+socks5://37.221.193.221:17383/#United%20States%7CFlorida%7CJacksonville%7C32255%7Cc-73-171-144-54.hsd1.fl.comcast.net%7C%2073.171.144.54
+socks5://67.213.212.48:16579/#United%20States%7CNew%20Jersey%7CCinnaminson%7C08077%7Cc-73-198-120-49.hsd1.nj.comcast.net%7C%2073.198.120.49
+socks5://67.213.212.51:60014/#United%20States%7CTexas%7CPasadena%7C77502%7C50-252-62-130-static.hfc.comcastbusiness.net%7C%2050.252.62.130%20
+socks5://209.159.153.19:10427/#United%20States%7CMassachusetts%7CCambridge%7C02139%7C96-67-60-230-static.hfc.comcastbusiness.net%7C%2096.67.60.230
