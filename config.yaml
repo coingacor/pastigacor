@@ -308,6 +308,7 @@ rules:
   - DOMAIN-KEYWORD,playstore,REJECT
   - DOMAIN-KEYWORD,digitalturbine,REJECT
   - DOMAIN-SUFFIX,soom.la,REJECT
+  - DOMAIN-SUFFIX,fonts.gstatic.com,REJECT
   - MATCH,CUAN
 rule-providers:
   IKLANRUSAK:
