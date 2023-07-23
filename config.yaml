@@ -15,6 +15,17 @@ hosts:
 
 
 proxies:
+  - name: belanda
+    server: 45.199.138.29
+    port: 48344
+    type: vmess
+    uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa
+    alterId: 64
+    cipher: auto
+    tls: false
+    skip-cert-verify: true
+    servername: ""
+    udp: true
   - name: Canada Ontario Mississauga L5N unallocated-static.rogers.com 72.142.123.76
     server: 51.83.116.3
     port: 60175
@@ -234,6 +245,7 @@ proxy-groups:
     type: select
     proxies:
       - DIRECT
+      - belanda
       - Canada Ontario Mississauga L5N unallocated-static.rogers.com 72.142.123.76
       - Canada Ontario Ottawa K1R cpe9050ca26ed93-cm9050ca26ed90.sdns.net.rogers.com 174.115.203.28
       - Canada Ontario Innisfil L9S cpe64777d56dd33-cm64777d56dd30.sdns.net.rogers.com 99.233.208.94
