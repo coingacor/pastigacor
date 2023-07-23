@@ -154,4 +154,5 @@ proxy-groups:
       - 190.2.136.35:47784 Canada Ontario Pembroke K8A NRTC Communications 45.62.83.141
       - DIRECT
 rules:
+  - DOMAIN-KEYWORD,soinluck,REJECT
   - MATCH,CUAN
