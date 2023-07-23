@@ -1,330 +1,157 @@
 port: 7890
 socks-port: 7891
 redir-port: 7892
-allow-lan: false
-bind-address: "aaaa::a8aa:ff:fe09:57d8"
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: false
 mode: rule
-log-level: info
-external-controller: 127.0.0.1:9090
-experimental:
-  ignore-resolve-fail: true 
-hosts:
-  'mtalk.google.com': 108.177.125.188
-#   '*.clash.dev': 127.0.0.1
-#   'alpha.clash.dev': '::1'
-
-
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+  store-fake-ip: true
+dns:
+  enable: true
+  ipv6: false
+  use-host: true
+  enhanced-mode: fake-ip
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - https://cloudflare-dns.com/dns-query
+    - 112.215.203.254
+  default-nameserver:
+    - 8.8.8.8
+    - 1.1.1.1
+    - 112.215.203.254
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.example"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - time.*.com
+    - time.*.gov
+    - time.*.edu.cn
+    - time.*.apple.com
+    - time1.*.com
+    - time2.*.com
+    - time3.*.com
+    - time4.*.com
+    - time5.*.com
+    - time6.*.com
+    - time7.*.com
+    - ntp.*.com
+    - ntp1.*.com
+    - ntp2.*.com
+    - ntp3.*.com
+    - ntp4.*.com
+    - ntp5.*.com
+    - ntp6.*.com
+    - ntp7.*.com
+    - "*.time.edu.cn"
+    - "*.ntp.org.cn"
+    - +.pool.ntp.org
+    - time1.cloud.tencent.com
+    - music.163.com
+    - "*.music.163.com"
+    - "*.126.net"
+    - musicapi.taihe.com
+    - music.taihe.com
+    - songsearch.kugou.com
+    - trackercdn.kugou.com
+    - "*.kuwo.cn"
+    - api-jooxtt.sanook.com
+    - api.joox.com
+    - joox.com
+    - y.qq.com
+    - "*.y.qq.com"
+    - streamoc.music.tc.qq.com
+    - mobileoc.music.tc.qq.com
+    - isure.stream.qqmusic.qq.com
+    - dl.stream.qqmusic.qq.com
+    - aqqmusic.tc.qq.com
+    - amobile.music.tc.qq.com
+    - "*.xiami.com"
+    - "*.music.migu.cn"
+    - music.migu.cn
+    - "*.msftconnecttest.com"
+    - "*.msftncsi.com"
+    - msftconnecttest.com
+    - msftncsi.com
+    - localhost.ptlogin2.qq.com
+    - localhost.sec.qq.com
+    - +.srv.nintendo.net
+    - +.stun.playstation.net
+    - xbox.*.microsoft.com
+    - xnotify.xboxlive.com
+    - +.battlenet.com.cn
+    - +.wotgame.cn
+    - +.wggames.cn
+    - +.wowsgame.cn
+    - +.wargaming.net
+    - proxy.golang.org
+    - stun.*.*
+    - stun.*.*.*
+    - +.stun.*.*
+    - +.stun.*.*.*
+    - +.stun.*.*.*.*
+    - heartbeat.belkin.com
+    - "*.linksys.com"
+    - "*.linksyssmartwifi.com"
+    - "*.router.asus.com"
+    - mesu.apple.com
+    - swscan.apple.com
+    - swquery.apple.com
+    - swdownload.apple.com
+    - swcdn.apple.com
+    - swdist.apple.com
+    - lens.l.google.com
+    - stun.l.google.com
+    - +.nflxvideo.net
+    - "*.square-enix.com"
+    - "*.finalfantasyxiv.com"
+    - "*.ffxiv.com"
+    - "*.mcdn.bilivideo.cn"
+    - +.media.dssott.com
 proxies:
-  - name: belanda
-    server: 45.199.138.29
-    port: 48344
-    type: vmess
-    uuid: 743bdc87-1dea-41bf-aa0b-51dfbbfec8aa
-    alterId: 64
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: ""
-    udp: true
-  - name: Canada Ontario Mississauga L5N unallocated-static.rogers.com 72.142.123.76
-    server: 51.83.116.3
-    port: 60175
-    type: socks5
-    
-  - name: Canada Ontario Ottawa K1R cpe9050ca26ed93-cm9050ca26ed90.sdns.net.rogers.com 174.115.203.28
-    server: 212.83.143.97
-    port: 61482
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: Canada Ontario Innisfil L9S cpe64777d56dd33-cm64777d56dd30.sdns.net.rogers.com 99.233.208.94
-    server: 212.83.143.60
-    port: 15019
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: Canada Ontario Scarborough M1M cpea84e3fc92a93-cma84e3fc92a90.cpe.net.cable.rogers.com 99.237.199.249
-    server: 212.83.143.147
-    port: 14611
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: Canada Ontario Mitchell%2FOntario N0K dhcp-40-10-0-6-79-47.cpe.quadro.net184.94.190.39
-    server: 212.83.143.60
-    port: 35841
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: Canada Ontario St.Marys N4x dhcp-40-10-0-3-33-2.cpe.quadro.net 184.94.177.138
-    server: 67.213.212.51
-    port: 20813
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: Canada Ontario Kirkton N0K dhcp-40-10-0-3-32-64.cpe.quadro.net 184.94.183.94
-    server: 51.83.116.2
-    port: 29428
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: Canada Ontario Stratford N5A dhcp-40-10-0-3-35-51.cpe.quadro.net 184.94.177.124
-    server: 67.213.212.47
-    port: 18920
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: UnitedStates Texas Humble 77396 c-73-232-183-220.hsd1.tx.comcast.net 73.232.183.220
-    server: 51.254.149.59
-    port: 18259
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: UnitedStates Florida Jacksonville 32255 c-73-171-144-54.hsd1.fl.comcast.net 73.171.144.54
-    server: 37.221.193.221
-    port: 17383
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: UnitedStates NewJersey Cinnaminson 08077 c-73-198-120-49.hsd1.nj.comcast.net 73.198.120.49
-    server: 67.213.212.48
-    port: 16579
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: UnitedStates Texas Pasadena 77502 50-252-62-130-static.hfc.comcastbusiness.net 50.252.62.130
-    server: 67.213.212.51
-    port: 60014
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: UnitedStates Massachusetts Cambridge 02139 96-67-60-230-static.hfc.comcastbusiness.net 96.67.60.230
-    server: 209.159.153.19
-    port: 10427
-    type: socks5
-    skip-cert-verify: false
-    
-  - name:  51.83.116.7:24589|Ontario|Innisfil|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com
-    server: 51.83.116.7
-    port: 24589
-    type: socks5
-    skip-cert-verify: false
-    
-  - name:  162.19.7.48:57105|Ontario|Toronto|cpe00fc8d424ba3-cm00fc8d424ba0.cpe.net.cable.rogers.com
-    server: 162.19.7.48
-    port: 57105
-    type: socks5
-    skip-cert-verify: false
-    
-  - name:  195.154.43.86:39244|Ontario|Brampton|cpe906cac537cef-cmf81d0fae8fc0.sdns.net.rogers.com
-    server: 195.154.43.86
-    port: 39244
-    type: socks5
-    skip-cert-verify: false
-    
-  - name:  212.83.142.100:41075|Ontario|Etobicoke|unallocated-static.rogers.com
-    server: 212.83.142.100
-    port: 41075
-    type: socks5
-    skip-cert-verify: false
-    
-  - name:  212.83.142.100:11928|Ontario|Brampton|cpe00fc8d4b7313-cm00fc8d4b7310.cpe.net.cable.rogers.com
-    server: 212.83.142.100
-    port: 11928
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 212.83.143.103:18962|Ontario|Richmond|Hill|cpe989d5df212a7-cm989d5df212a5.cpe.net.cable.rogers.com
-    server: 212.83.143.103
-    port: 18962
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 212.83.143.103:61850|Ontario|Barrie|Rogers Communications Canada Inc.
-    server: 212.83.143.103
-    port: 61850
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 51.83.116.8:49656|Quebec|Ferme-Neuve|BLU Fibre Networks Inc
-    server: 51.83.116.8
-    port: 49656
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 190.2.136.35:49724|Quebec|Montreal|BLU Fibre Networks Inc
-    server: 190.2.136.35
-    port: 49724
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 190.2.136.36:47872|Quebec|L%27Ascension|BLU Fibre Networks Inc
-    server: 190.2.136.36
-    port: 47872
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 89.58.45.94:42171|Alberta|Edmonton|173-181-129-248-ent-barlow-staticipwest.wireless.telus.com
-    server: 89.58.45.94
-    port: 42171
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 162.19.7.46:36023|Quebec|Saint-Lin-Laurentides|modemcable076.168-160-184.mc.videotron.ca
-    server: 162.19.7.46
-    port: 36023
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 212.83.143.97:49680|Ontario|Mississauga|CIK Telecom INC
-    server: 212.83.143.97
-    port: 49680
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 51.83.116.7:58142|Ontario|Mississauga|bras-base-malton2265w-grc-07-70-30-117-46.dsl.bell.ca
-    server: 51.83.116.7
-    port: 58142
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 195.154.43.86:15955
-    server: 195.154.43.86
-    port: 15955
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 212.83.143.60:63350
-    server: 212.83.143.60
-    port: 63350
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 212.83.138.172:29239
-    server: 212.83.138.172
-    port: 29239
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 37.221.193.221:26954|California|Hemet|IONOS|SE
-    server: 37.221.193.221
-    port: 26954
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 37.221.193.221:32338|New|Jersey|Swedesboro|c-73-160-111-61.hsd1.nj.comcast.net
-    server: 37.221.193.221
-    port: 32338
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 38.91.107.224:15827|South|Carolina|Beaufort|Hargray Communications Group Inc.
-    server: 38.91.107.224
-    port: 15827
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 66.29.128.244:34168|Florida|Ormond|Beach|050-088-045-190.res.spectrum.com
-    server: 66.29.128.244
-    port: 34168
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 66.29.128.245:14271|California|Beaumont|Frontier Communications Solutions
-    server: 66.29.128.245
-    port: 14271
-    type: socks5
-    skip-cert-verify: false
-    
-  - name: 209.159.153.21:61452|Indiana|Newburgh|d179-68-217-153.evv.wideopenwest.com
-    server: 209.159.153.21
-    port: 61452
-    type: socks5
-    skip-cert-verify: false
+  - {name: 67.213.212.56:12944 United States South Carolina Rock Hill 29730 Comporium  Inc 167.160.136.36 , server: 67.213.212.56, port: 12944, type: socks5, skip-cert-verify: false}
+  - {name: 209.159.153.20:23156 United States Louisiana New Orleans 70119 wsip-184-188-103-194.no.no.cox.net 184.188.103.194, server: 209.159.153.20, port: 23156, type: socks5, skip-cert-verify: false}
+  - {name: 37.221.193.221:25280 United States Texas Dallas 75207 222-11-64.66.static.logixcom.net 66.64.11.222, server: 37.221.193.221, port: 25280, type: socks5, skip-cert-verify: false}
+  - {name: 67.213.212.58:47771 United States Florida Naples 34104 sk.s5.ans1.ns148.ztomy.com 199.188.126.130, server: 67.213.212.58, port: 47771, type: socks5, skip-cert-verify: false}
+  - {name: 67.213.212.54:30426 United States Ohio Avon Lake 44012 OneCleveland 173.241.226.234, server: 67.213.212.54, port: 30426, type: socks5, skip-cert-verify: false}
+  - {name: 162.19.7.48:12733 Canada British Columbia Vancouver V5Y Rogers Communications Canada Inc. 72.143.219.197, server: 162.19.7.48, port: 12733, type: socks5, skip-cert-verify: false}
+  - {name: 162.19.7.59:17957 Canada Ontario Toronto M4T Rogers Communications Canada Inc. 24.114.73.209, server: 162.19.7.59, port: 17957, type: socks5, skip-cert-verify: false}
+  - {name: 212.83.138.172:12389 Canada Ontario Toronto M5P unallocated-static.rogers.com 72.139.104.86 , server: 212.83.138.172, port: 12389, type: socks5, skip-cert-verify: false}
+  - {name: 162.19.7.50:34698 Canada Ontario Toronto M6H Bell Canada 69.158.246.29 , server: 162.19.7.50, port: 34698, type: socks5, skip-cert-verify: false}
+  - {name: 190.2.136.35:47784 Canada Ontario Pembroke K8A NRTC Communications 45.62.83.141, server: 190.2.136.35, port: 47784, type: socks5, skip-cert-verify: false}
 proxy-groups:
   - name: CUAN
     type: select
     proxies:
+      - 67.213.212.56:12944 United States South Carolina Rock Hill 29730 Comporium  Inc 167.160.136.36 
+      - 209.159.153.20:23156 United States Louisiana New Orleans 70119 wsip-184-188-103-194.no.no.cox.net 184.188.103.194
+      - 37.221.193.221:25280 United States Texas Dallas 75207 222-11-64.66.static.logixcom.net 66.64.11.222
+      - 67.213.212.58:47771 United States Florida Naples 34104 sk.s5.ans1.ns148.ztomy.com 199.188.126.130
+      - 67.213.212.54:30426 United States Ohio Avon Lake 44012 OneCleveland 173.241.226.234
+      - 162.19.7.48:12733 Canada British Columbia Vancouver V5Y Rogers Communications Canada Inc. 72.143.219.197
+      - 162.19.7.59:17957 Canada Ontario Toronto M4T Rogers Communications Canada Inc. 24.114.73.209
+      - 212.83.138.172:12389 Canada Ontario Toronto M5P unallocated-static.rogers.com 72.139.104.86 
+      - 162.19.7.50:34698 Canada Ontario Toronto M6H Bell Canada 69.158.246.29 
+      - 190.2.136.35:47784 Canada Ontario Pembroke K8A NRTC Communications 45.62.83.141
       - DIRECT
-      - belanda
-      - Canada Ontario Mississauga L5N unallocated-static.rogers.com 72.142.123.76
-      - Canada Ontario Ottawa K1R cpe9050ca26ed93-cm9050ca26ed90.sdns.net.rogers.com 174.115.203.28
-      - Canada Ontario Innisfil L9S cpe64777d56dd33-cm64777d56dd30.sdns.net.rogers.com 99.233.208.94
-      - Canada Ontario Scarborough M1M cpea84e3fc92a93-cma84e3fc92a90.cpe.net.cable.rogers.com 99.237.199.249
-      - Canada Ontario Mitchell%2FOntario N0K dhcp-40-10-0-6-79-47.cpe.quadro.net184.94.190.39
-      - Canada Ontario St.Marys N4x dhcp-40-10-0-3-33-2.cpe.quadro.net 184.94.177.138
-      - Canada Ontario Kirkton N0K dhcp-40-10-0-3-32-64.cpe.quadro.net 184.94.183.94
-      - Canada Ontario Stratford N5A dhcp-40-10-0-3-35-51.cpe.quadro.net 184.94.177.124
-      - UnitedStates Texas Humble 77396 c-73-232-183-220.hsd1.tx.comcast.net 73.232.183.220
-      - UnitedStates Florida Jacksonville 32255 c-73-171-144-54.hsd1.fl.comcast.net 73.171.144.54
-      - UnitedStates NewJersey Cinnaminson 08077 c-73-198-120-49.hsd1.nj.comcast.net 73.198.120.49
-      - UnitedStates Texas Pasadena 77502 50-252-62-130-static.hfc.comcastbusiness.net 50.252.62.130
-      - UnitedStates Massachusetts Cambridge 02139 96-67-60-230-static.hfc.comcastbusiness.net 96.67.60.230
-      - 51.83.116.7:24589|Ontario|Innisfil|cpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com
-      - 162.19.7.48:57105|Ontario|Toronto|cpe00fc8d424ba3-cm00fc8d424ba0.cpe.net.cable.rogers.com
-      - 195.154.43.86:39244|Ontario|Brampton|cpe906cac537cef-cmf81d0fae8fc0.sdns.net.rogers.com
-      - 212.83.142.100:41075|Ontario|Etobicoke|unallocated-static.rogers.com
-      - 212.83.142.100:11928|Ontario|Brampton|cpe00fc8d4b7313-cm00fc8d4b7310.cpe.net.cable.rogers.com
-      - 212.83.143.103:18962|Ontario|Richmond|Hill|cpe989d5df212a7-cm989d5df212a5.cpe.net.cable.rogers.com
-      - 212.83.143.103:61850|Ontario|Barrie|Rogers Communications Canada Inc.
-      - 51.83.116.8:49656|Quebec|Ferme-Neuve|BLU Fibre Networks Inc
-      - 190.2.136.35:49724|Quebec|Montreal|BLU Fibre Networks Inc
-      - 190.2.136.36:47872|Quebec|L%27Ascension|BLU Fibre Networks Inc
-      - 89.58.45.94:42171|Alberta|Edmonton|173-181-129-248-ent-barlow-staticipwest.wireless.telus.com
-      - 162.19.7.46:36023|Quebec|Saint-Lin-Laurentides|modemcable076.168-160-184.mc.videotron.ca
-      - 212.83.143.97:49680|Ontario|Mississauga|CIK Telecom INC
-      - 51.83.116.7:58142|Ontario|Mississauga|bras-base-malton2265w-grc-07-70-30-117-46.dsl.bell.ca
-      - 195.154.43.86:15955
-      - 212.83.138.172:29239
-      - 212.83.143.60:63350
-      - 37.221.193.221:26954|California|Hemet|IONOS|SE
-      - 37.221.193.221:32338|New|Jersey|Swedesboro|c-73-160-111-61.hsd1.nj.comcast.net
-      - 38.91.107.224:15827|South|Carolina|Beaufort|Hargray Communications Group Inc.
-      - 66.29.128.244:34168|Florida|Ormond|Beach|050-088-045-190.res.spectrum.com
-      - 66.29.128.245:14271|California|Beaumont|Frontier Communications Solutions
-      - 209.159.153.21:61452|Indiana|Newburgh|d179-68-217-153.evv.wideopenwest.com
-      
 rules:
-  - DOMAIN-SUFFIX,us.criteo.net,REJECT
-  - DOMAIN-SUFFIX,zem.outbrainimg.com,REJECT
-  - DOMAIN-SUFFIX,applovin.com,REJECT
-  - DOMAIN-SUFFIX,applvn.com,REJECT
-  - DOMAIN-KEYWORD,admarvel,REJECT
-  - DOMAIN-KEYWORD,admaster,REJECT
-  - DOMAIN-KEYWORD,adsage,REJECT
-  - DOMAIN-KEYWORD,adsmogo,REJECT
-  - DOMAIN-KEYWORD,adsrvmedia,REJECT
-  - DOMAIN-KEYWORD,adwords,REJECT
-  - DOMAIN-KEYWORD,adservice,REJECT
-  - DOMAIN-SUFFIX,appsflyer.com,REJECT
-  - DOMAIN-KEYWORD,domob,REJECT
-  - DOMAIN-SUFFIX,doubleclick.net,REJECT
-  - DOMAIN-KEYWORD,duomeng,REJECT
-  - DOMAIN-KEYWORD,dwtrack,REJECT
-  - DOMAIN-KEYWORD,guanggao,REJECT
-  - DOMAIN-KEYWORD,lianmeng,REJECT
-  - DOMAIN-SUFFIX,mmstat.com,REJECT
-  - DOMAIN-KEYWORD,mopub,REJECT
-  - DOMAIN-KEYWORD,omgmta,REJECT
-  - DOMAIN-KEYWORD,openx,REJECT
-  - DOMAIN-KEYWORD,partnerad,REJECT
-  - DOMAIN-KEYWORD,pingfore,REJECT
-  - DOMAIN-KEYWORD,supersonicads,REJECT
-  - DOMAIN-KEYWORD,uedas,REJECT
-  - DOMAIN-KEYWORD,umeng,REJECT
-  - DOMAIN-KEYWORD,usage,REJECT
-  - DOMAIN-SUFFIX,vungle.com,REJECT
-  - DOMAIN-KEYWORD,wlmonitor,REJECT
-  - DOMAIN-KEYWORD,zjtoolbar,REJECT
-  - DOMAIN-KEYWORD,googleplay,REJECT
-  - DOMAIN-KEYWORD,playstore,REJECT
-  - DOMAIN-KEYWORD,digitalturbine,REJECT
-  - DOMAIN-SUFFIX,soom.la,REJECT
-  - DOMAIN-SUFFIX,fonts.gstatic.com,REJECT
   - MATCH,CUAN
-rule-providers:
-  IKLANRUSAK:
-    behavior: "classical" 
-    type: http
-    url: "https://raw.githubusercontent.com/Arifinfarm/clashmy/main/rule_provider/娜诶弗伊 哦艾诶.yaml"
-    path: ./IKLANRUSAK.yaml
-    interval: 99999999
