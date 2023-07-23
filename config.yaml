@@ -79,6 +79,7 @@ rules:
   - DOMAIN-SUFFIX,soom.la,REJECT
   - DOMAIN-KEYWORD,soinluck,REJECT
   - DOMAIN-KEYWORD,inmobi,REJECT
+  - DOMAIN-KEYWORD,mistplay,REJECT
   - MATCH,CUAN
 rule-providers:
   IKLANRUSAK:
