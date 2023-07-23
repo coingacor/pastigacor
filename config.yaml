@@ -78,6 +78,7 @@ rules:
   - DOMAIN-KEYWORD,digitalturbine,REJECT
   - DOMAIN-SUFFIX,soom.la,REJECT
   - DOMAIN-KEYWORD,soinluck,REJECT
+  - DOMAIN-KEYWORD,inmobi,REJECT
   - MATCH,CUAN
 rule-providers:
   IKLANRUSAK:
