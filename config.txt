@@ -34,3 +34,6 @@ socks5://37.221.193.221:17383/#United%20States%7CFlorida%7CJacksonville%7C32255%
 socks5://67.213.212.48:16579/#United%20States%7CNew%20Jersey%7CCinnaminson%7C08077%7Cc-73-198-120-49.hsd1.nj.comcast.net%7C%2073.198.120.49
 socks5://67.213.212.51:60014/#United%20States%7CTexas%7CPasadena%7C77502%7C50-252-62-130-static.hfc.comcastbusiness.net%7C%2050.252.62.130%20
 socks5://209.159.153.19:10427/#United%20States%7CMassachusetts%7CCambridge%7C02139%7C96-67-60-230-static.hfc.comcastbusiness.net%7C%2096.67.60.230
+socks5://67.213.212.38:64340/#United%20States%7CCalifornia%7CTehachapi%7C93561%7C075-113-114-222.res.spectrum.com%7C%2075.113.114.222%20
+socks5://37.221.193.221:29517/#United%20States%7CTexas%7CGonzales%7C78629%7CGVEC.net%7C%20204.154.124.211
+socks5://162.19.7.49:35012/#United%20States%7CTexas%7CPasadena%7C77506%7CComcast%20Cable%20Communications%2C%20LLC%7C%2098.40.194.228%20
