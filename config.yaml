@@ -235,8 +235,9 @@ proxy-groups:
     type: select
     health-check:
         enable: true
-        url: http://www.gstatic.com/generate_204
-        interval: 300    
+        url: url: http://www.msftconnecttest.com/connecttest.txt
+        interval: 150
+        tolerance: 50  
     proxies:
       - DIRECT
       - Canada Ontario Mississauga L5N unallocated-static.rogers.com 72.142.123.76
