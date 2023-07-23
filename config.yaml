@@ -19,7 +19,6 @@ proxies:
     server: 51.83.116.3
     port: 60175
     type: socks5
-    skip-cert-verify: false
     
   - name: Canada Ontario Ottawa K1R cpe9050ca26ed93-cm9050ca26ed90.sdns.net.rogers.com 174.115.203.28
     server: 212.83.143.97
