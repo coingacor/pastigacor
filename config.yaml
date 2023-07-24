@@ -93,6 +93,7 @@ rules:
   - DOMAIN-KEYWORD,umeng,REJECT
   - DOMAIN-KEYWORD,usage,REJECT
   - DOMAIN-SUFFIX,vungle.com,REJECT
+  - DOMAIN-SUFFIX,stackadapt.com,REJECT
   - DOMAIN-KEYWORD,wlmonitor,REJECT
   - DOMAIN-KEYWORD,zjtoolbar,REJECT
   - DOMAIN-KEYWORD,googleplay,REJECT
