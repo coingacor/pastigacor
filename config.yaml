@@ -100,7 +100,7 @@ rules:
   - DOMAIN-SUFFIX,applovin.com,REJECT
   - DOMAIN-SUFFIX,applvn.com,REJECT
   - DOMAIN-SUFFIX,liftoff.io,REJECT
-  - DOMAIN-SUFFIX,liftoff-creatives.io
+  - DOMAIN-SUFFIX,liftoff-creatives.io,REJECT
   - DOMAIN-KEYWORD,wlmonitor,REJECT
   - DOMAIN-KEYWORD,zjtoolbar,REJECT
   - DOMAIN-KEYWORD,googleplay,REJECT
