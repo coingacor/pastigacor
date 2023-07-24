@@ -15,37 +15,59 @@ hosts:
 
 
 proxies:
-  - {name: 67.213.212.56:12944 United States South Carolina Rock Hill 29730 Comporium  Inc 167.160.136.36 , server: 67.213.212.56, port: 12944, type: socks5, skip-cert-verify: false}
-  - {name: 209.159.153.20:23156 United States Louisiana New Orleans 70119 wsip-184-188-103-194.no.no.cox.net 184.188.103.194, server: 209.159.153.20, port: 23156, type: socks5, skip-cert-verify: false}
-  - {name: 37.221.193.221:25280 United States Texas Dallas 75207 222-11-64.66.static.logixcom.net 66.64.11.222, server: 37.221.193.221, port: 25280, type: socks5, skip-cert-verify: false}
-  - {name: 67.213.212.58:47771 United States Florida Naples 34104 sk.s5.ans1.ns148.ztomy.com 199.188.126.130, server: 67.213.212.58, port: 47771, type: socks5, skip-cert-verify: false}
-  - {name: 67.213.212.54:30426 United States Ohio Avon Lake 44012 OneCleveland 173.241.226.234, server: 67.213.212.54, port: 30426, type: socks5, skip-cert-verify: false}
-  - {name: 162.19.7.48:12733 Canada British Columbia Vancouver V5Y Rogers Communications Canada Inc. 72.143.219.197, server: 162.19.7.48, port: 12733, type: socks5, skip-cert-verify: false}
-  - {name: 162.19.7.59:17957 Canada Ontario Toronto M4T Rogers Communications Canada Inc. 24.114.73.209, server: 162.19.7.59, port: 17957, type: socks5, skip-cert-verify: false}
-  - {name: 212.83.138.172:12389 Canada Ontario Toronto M5P unallocated-static.rogers.com 72.139.104.86 , server: 212.83.138.172, port: 12389, type: socks5, skip-cert-verify: false}
-  - {name: 162.19.7.50:34698 Canada Ontario Toronto M6H Bell Canada 69.158.246.29 , server: 162.19.7.50, port: 34698, type: socks5, skip-cert-verify: false}
-  - {name: 190.2.136.35:47784 Canada Ontario Pembroke K8A NRTC Communications 45.62.83.141, server: 190.2.136.35, port: 47784, type: socks5, skip-cert-verify: false}
+  - {name: 212.83.142.131:39306 Australia Queensland Brisbane 4000 TelstraCorporationLimited 58.171.247.145, server: 212.83.142.131, port: 39306, type: socks5, skip-cert-verify: false}
+  - {name: 51.83.116.8:49656Quebec Ferme-Neuve BLUFibreNetworksinc, server: 51.83.116.8, port: 49656, type: socks5, skip-cert-verify: false}
+  - {name: 51.83.116.7:58142Ontario Mississauga bras-base-malton2265w-grc-07-70-30-117-46.dsl.bell.ca, server: 51.83.116.7, port: 58142, type: socks5, skip-cert-verify: false}
+  - {name: 107.152.52.4-WrightCity-ValliantTelephoneCo, server: 38.91.107.2, port: 23597, type: socks5, skip-cert-verify: false}
+  - {name: 70.54.124.172-Mississauga-bras-vprn-cksnon1659w-lp130-34-70-54-124-172.dsl.bell.ca, server: 212.83.138.172, port: 26290, type: socks5, skip-cert-verify: false}
+  - {name: 66.222.156.121-Edmonton-d66-222-156-121.abhsia.telus.net, server: 212.83.143.103, port: 24592, type: socks5, skip-cert-verify: false}
+  - {name: Canada Ontario Pembroke K8A NRTCCommunications 45.62.83.141, server: 190.2.136.35, port: 47784, type: socks5, skip-cert-verify: false}
+  - {name: Canada Ontario Toronto M5N unallocated-static.rogers.com 72.139.26.38, server: 195.154.43.86, port: 25323, type: socks5, skip-cert-verify: false}
+  - {name: Canada Ontario Petawawa K8H NRTCCommunications 45.62.79.47, server: 51.83.116.8, port: 34701, type: socks5, skip-cert-verify: false}
+  - {name: Canada BritishColumbia Nanaimo V9T S01068c763f3019ad.no.shawcable.net 184.66.77.125, server: 190.2.136.35, port: 48754, type: socks5, skip-cert-verify: false}
+  - {name: Canada Ontario Toronto M6G TELUSCommunicationsInc 207.34.241.2, server: 89.58.45.94, port: 37335, type: socks5, skip-cert-verify: false}
+  - {name: Canada Quebec Terrebonne J6W modemcable115.56-176-173.mc.videotron.ca 173.176.56.115, server: 212.83.143.49, port: 30793, type: socks5, skip-cert-verify: false}
+  - {name: Canada Quebec Mont-Laurier J9L BLUFibreNetworksinc. 205.142.228.241, server: 190.2.136.35, port: 63004, type: socks5, skip-cert-verify: false}
+  - {name: Canada Ontario Brampton L6R RogersCommunicationsCanadaInc. 72.139.200.88, server: 162.19.7.50, port: 31664, type: socks5, skip-cert-verify: false}
+  - {name: Canada Ontario Ottawa K1G unallocated-static.rogers.com 72.138.88.162, server: 212.83.142.158, port: 19582, type: socks5, skip-cert-verify: false}
+  - {name: Canada Ontario Toronto M5N unallocated-static.rogers.com 72.139.26.38 2, server: 195.154.43.86, port: 25323, type: socks5, skip-cert-verify: false}
+  - {name: UnitedStates Louisiana Covington 70433 NTSCommunications%2CLLC 209.205.186.101, server: 172.106.19.158, port: 62314, type: socks5, skip-cert-verify: false}
+  - {name: UnitedStates Connecticut Meriden 06451 ip68-227-211-222.ri.ri.cox.net 68.227.211.222, server: 67.213.212.39, port: 23762, type: socks5, skip-cert-verify: false}
+  - {name: UnitedStates Idaho Victor 83455 SilverStarCommunications 199.66.105.240, server: 66.29.129.52, port: 34562, type: socks5, skip-cert-verify: false}
+  - {name: UnitedStates Indiana FortWayne 46814 70-88-86-82-smc-fw-in.hfc.comcastbusiness.net 70.88.86.82, server: 37.221.193.221, port: 16904, type: socks5, skip-cert-verify: false}
+  - {name: UnitedStates Illinois Chicago 60666 c-73-209-129-73.hsd1.il.comcast.net 73.209.129.73, server: 66.29.128.246, port: 62298, type: socks5, skip-cert-verify: false}
+  - {name: UnitedStates Colorado Denver 80219 StateofColoradoGeneralGovernmentComputer 165.127.60.133, server: 162.19.7.47, port: 62849, type: socks5, skip-cert-verify: false}
 proxy-groups:
   - name: CUAN
     type: select
     proxies:
-      - 67.213.212.56:12944 United States South Carolina Rock Hill 29730 Comporium  Inc 167.160.136.36 
-      - 209.159.153.20:23156 United States Louisiana New Orleans 70119 wsip-184-188-103-194.no.no.cox.net 184.188.103.194
-      - 37.221.193.221:25280 United States Texas Dallas 75207 222-11-64.66.static.logixcom.net 66.64.11.222
-      - 67.213.212.58:47771 United States Florida Naples 34104 sk.s5.ans1.ns148.ztomy.com 199.188.126.130
-      - 67.213.212.54:30426 United States Ohio Avon Lake 44012 OneCleveland 173.241.226.234
-      - 162.19.7.48:12733 Canada British Columbia Vancouver V5Y Rogers Communications Canada Inc. 72.143.219.197
-      - 162.19.7.59:17957 Canada Ontario Toronto M4T Rogers Communications Canada Inc. 24.114.73.209
-      - 212.83.138.172:12389 Canada Ontario Toronto M5P unallocated-static.rogers.com 72.139.104.86 
-      - 162.19.7.50:34698 Canada Ontario Toronto M6H Bell Canada 69.158.246.29 
-      - 190.2.136.35:47784 Canada Ontario Pembroke K8A NRTC Communications 45.62.83.141
+      - 212.83.142.131:39306 Australia Queensland Brisbane 4000 TelstraCorporationLimited 58.171.247.145
+      - 51.83.116.8:49656Quebec Ferme-Neuve BLUFibreNetworksinc
+      - 51.83.116.7:58142Ontario Mississauga bras-base-malton2265w-grc-07-70-30-117-46.dsl.bell.ca
+      - 107.152.52.4-WrightCity-ValliantTelephoneCo
+      - 70.54.124.172-Mississauga-bras-vprn-cksnon1659w-lp130-34-70-54-124-172.dsl.bell.ca
+      - 66.222.156.121-Edmonton-d66-222-156-121.abhsia.telus.net
+      - Canada Ontario Pembroke K8A NRTCCommunications 45.62.83.141
+      - Canada Ontario Toronto M5N unallocated-static.rogers.com 72.139.26.38
+      - Canada Ontario Petawawa K8H NRTCCommunications 45.62.79.47
+      - Canada BritishColumbia Nanaimo V9T S01068c763f3019ad.no.shawcable.net 184.66.77.125
+      - Canada Ontario Toronto M6G TELUSCommunicationsInc 207.34.241.2
+      - Canada Quebec Terrebonne J6W modemcable115.56-176-173.mc.videotron.ca 173.176.56.115
+      - Canada Quebec Mont-Laurier J9L BLUFibreNetworksinc. 205.142.228.241
+      - Canada Ontario Brampton L6R RogersCommunicationsCanadaInc. 72.139.200.88
+      - Canada Ontario Ottawa K1G unallocated-static.rogers.com 72.138.88.162
+      - Canada Ontario Toronto M5N unallocated-static.rogers.com 72.139.26.38 2
+      - UnitedStates Louisiana Covington 70433 NTSCommunications%2CLLC 209.205.186.101
+      - UnitedStates Connecticut Meriden 06451 ip68-227-211-222.ri.ri.cox.net 68.227.211.222
+      - UnitedStates Idaho Victor 83455 SilverStarCommunications 199.66.105.240
+      - UnitedStates Indiana FortWayne 46814 70-88-86-82-smc-fw-in.hfc.comcastbusiness.net 70.88.86.82
+      - UnitedStates Illinois Chicago 60666 c-73-209-129-73.hsd1.il.comcast.net 73.209.129.73
+      - UnitedStates Colorado Denver 80219 StateofColoradoGeneralGovernmentComputer 165.127.60.133
       - DIRECT
       
 rules:
   - DOMAIN-SUFFIX,us.criteo.net,REJECT
   - DOMAIN-SUFFIX,zem.outbrainimg.com,REJECT
-  - DOMAIN-SUFFIX,applovin.com,REJECT
-  - DOMAIN-SUFFIX,applvn.com,REJECT
   - DOMAIN-KEYWORD,admarvel,REJECT
   - DOMAIN-KEYWORD,admaster,REJECT
   - DOMAIN-KEYWORD,adsage,REJECT
@@ -76,10 +98,7 @@ rules:
   - DOMAIN-KEYWORD,googleplay,REJECT
   - DOMAIN-KEYWORD,playstore,REJECT
   - DOMAIN-KEYWORD,digitalturbine,REJECT
-  - DOMAIN-SUFFIX,soom.la,REJECT
   - DOMAIN-KEYWORD,soinluck,REJECT
-  - DOMAIN-KEYWORD,inmobi,REJECT
-  - DOMAIN-KEYWORD,mistplay,REJECT
   - MATCH,CUAN
 rule-providers:
   IKLANRUSAK:
