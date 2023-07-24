@@ -108,6 +108,7 @@ rules:
   - DOMAIN-KEYWORD,digitalturbine,REJECT
   - DOMAIN-KEYWORD,soinluck,REJECT
   - DOMAIN-KEYWORD,unity3d,REJECT
+  - RULE-SET,IKLANRUSAK,REJECT
   - MATCH,CUAN
 rule-providers:
   IKLANRUSAK:
