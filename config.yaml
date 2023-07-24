@@ -78,6 +78,7 @@ rules:
   - DOMAIN-SUFFIX,appsflyer.com,REJECT
   - DOMAIN-KEYWORD,domob,REJECT
   - DOMAIN-SUFFIX,doubleclick.net,REJECT
+  - DOMAIN-SUFFIX,doubleverify.com,REJECT
   - DOMAIN-KEYWORD,duomeng,REJECT
   - DOMAIN-KEYWORD,dwtrack,REJECT
   - DOMAIN-KEYWORD,guanggao,REJECT
