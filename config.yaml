@@ -94,12 +94,15 @@ rules:
   - DOMAIN-KEYWORD,usage,REJECT
   - DOMAIN-SUFFIX,vungle.com,REJECT
   - DOMAIN-SUFFIX,stackadapt.com,REJECT
+  - DOMAIN-SUFFIX,unity3d.com,REJECT
+  - DOMAIN-SUFFIX,facebook.com,REJECT
   - DOMAIN-KEYWORD,wlmonitor,REJECT
   - DOMAIN-KEYWORD,zjtoolbar,REJECT
   - DOMAIN-KEYWORD,googleplay,REJECT
   - DOMAIN-KEYWORD,playstore,REJECT
   - DOMAIN-KEYWORD,digitalturbine,REJECT
   - DOMAIN-KEYWORD,soinluck,REJECT
+  - DOMAIN-KEYWORD,unity3d,REJECT
   - MATCH,CUAN
 rule-providers:
   IKLANRUSAK:
