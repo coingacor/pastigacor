@@ -22,3 +22,15 @@ socks5://195.154.43.86:11842/#%F0%9F%87%A8%F0%9F%87%A6%20Ontario%7CScarborough%7
 socks5://209.159.153.22:65066/#%F0%9F%87%A8%F0%9F%87%A6%20Ontario%7CStaffa%7CN0K%7Cdhcp-40-10-0-3-32-82.cpe.quadro.net%7C%20184.94.183.175
 socks5://212.83.142.131:33603/#%F0%9F%87%A8%F0%9F%87%A6%20Ontario%7CToronto%7CM4Y%7Ccpe688f2e0ccdc3-cm688f2e0ccdc0.cpe.net.cable.rogers.com%7C%2099.229.193.38
 socks5://190.2.136.36:54348/#%F0%9F%87%A8%F0%9F%87%A6%20Quebec%7CMontreal%7CH2V%7CBLU%20Fibre%20Networks%20inc%7C%2038.80.72.42
+socks5://212.83.143.118:54765/#%F0%9F%87%A8%F0%9F%87%A6%20Quebec%7CSaint-Polycarpe%7CJ0P%7CTelecommunications%20Xittel%20inc%7C%20207.96.236.4
+socks5://45.91.92.30:36427/#%F0%9F%87%A8%F0%9F%87%A6%20Ontario%7CCobourg%7CK9A%7CNexicom%20Inc.%7C%2066.79.226.180
+socks5://212.83.138.245:17375/#%F0%9F%87%A8%F0%9F%87%A6%20Newfoundland%20and%20Labrador%7CGrand%20Falls-Windsor%7CA2A%7Ccpe989d5de829bd-cm989d5de829bb.cpe.net.cable.rogers.com%7C%20174.118.164.99
+socks5://51.83.116.3:16732/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CMississauga%7CL5N%7Cunallocated-static.rogers.com%7C%2072.142.123.76
+socks5://212.83.138.245:54442/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CMississauga%7CL5L%7Ccpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com%7C%2099.246.236.173
+socks5://212.83.142.100:38919/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CToronto%7CM5S%7Cunallocated-static.rogers.com%7C%2072.139.119.210
+socks5://51.83.116.7:64061/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CToronto%7CM4J%7Ccpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com%7C%2099.255.171.241
+socks5://162.19.7.46:38816/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CBrampton%7CL6R%7Ccpe64777dd9abd3-cm64777dd9abd0.sdns.net.rogers.com%7C%2099.235.120.48
+socks5://212.83.142.100:64099/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CBrampton%7CL7A%7Ccpe00fc8d4b7313-cm00fc8d4b7310.cpe.net.cable.rogers.com%7C%2099.235.93.119
+socks5://195.154.43.182:45345/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CBurlington%7CL7L%7C107-190-111-104.cpe.teksavvy.com%7C%20107.190.111.104
+socks5://212.83.138.186:62948/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CToronto%7CM4J%7C24-212-237-76.cable.teksavvy.com%7C%2024.212.237.76
+socks5://212.83.143.49:55616/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CKitchener%7CN2M%7C147-194-77-107.tpia.comwave.net%7C%20147.194.77.107
