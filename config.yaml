@@ -15,12 +15,12 @@ hosts:
 
 
 proxies:
-  - {name: 70.54.124.172 - Mississauga - bras-vprn-cksnon1659w-lp130-34-70-54-124-172.dsl.bell.ca, server: 212.83.138.172, port: 26290, type: socks5, skip-cert-verify: false}
-  - {name: Canada Ontario Pembroke K8A NRTC Communications  45.62.83.141, server: 190.2.136.35, port: 47784, type: socks5, skip-cert-verify: false}
-  - {name: Canada British Columbia Nanaimo V9T S01068c763f3019ad.no.shawcable.net  184.66.77.125, server: 190.2.136.35, port: 48754, type: socks5, skip-cert-verify: false}
-  - {name: Canada Quebec Mont-Laurier J9L BLU Fibre Networks inc.  205.142.228.241, server: 190.2.136.35, port: 63004, type: socks5, skip-cert-verify: false}
-  - {name: United States Louisiana Covington 70433 NTS Communications LLC  209.205.186.101, server: 172.106.19.158, port: 62314, type: socks5, skip-cert-verify: false}
-  - {name: United States Indiana Fort Wayne 46814 70-88-86-82-smc-fw-in.hfc.comcastbusiness.net  70.88.86.82, server: 37.221.193.221, port: 16904, type: socks5, skip-cert-verify: false}
+  - {name: 🇨🇦 70.54.124.172 - Mississauga - bras-vprn-cksnon1659w-lp130-34-70-54-124-172.dsl.bell.ca, server: 212.83.138.172, port: 26290, type: socks5, skip-cert-verify: false}
+  - {name: 🇨🇦 Canada Ontario Pembroke K8A NRTC Communications  45.62.83.141, server: 190.2.136.35, port: 47784, type: socks5, skip-cert-verify: false}
+  - {name: 🇨🇦 Canada British Columbia Nanaimo V9T S01068c763f3019ad.no.shawcable.net  184.66.77.125, server: 190.2.136.35, port: 48754, type: socks5, skip-cert-verify: false}
+  - {name: 🇨🇦 Canada Quebec Mont-Laurier J9L BLU Fibre Networks inc.  205.142.228.241, server: 190.2.136.35, port: 63004, type: socks5, skip-cert-verify: false}
+  - {name: 🇺🇸 United States Louisiana Covington 70433 NTS Communications LLC  209.205.186.101, server: 172.106.19.158, port: 62314, type: socks5, skip-cert-verify: false}
+  - {name: 🇺🇸 United States Indiana Fort Wayne 46814 70-88-86-82-smc-fw-in.hfc.comcastbusiness.net  70.88.86.82, server: 37.221.193.221, port: 16904, type: socks5, skip-cert-verify: false}
   - {name: 🇺🇸 Alabama Hamilton 35570 Tombigbee Communications LLC  205.220.240.244, server: 174.138.176.74, port: 31547, type: socks5, skip-cert-verify: false}
   - {name: 🇺🇸Arizona Polacca 86042 dynamic-162-219-131-185.hopitelecom.net  162.219.131.185, server: 66.29.129.54, port: 31705, type: socks5, skip-cert-verify: false}
   - {name: 🇺🇸Idaho Driggs 83422 Silver Star Communications  217.147.190.90, server: 162.0.220.161, port: 12449, type: socks5, skip-cert-verify: false}
@@ -39,17 +39,23 @@ proxies:
   - {name: 🇨🇦 Ontario Staffa N0K dhcp-40-10-0-3-32-82.cpe.quadro.net 184.94.183.175, server: 209.159.153.22, port: 65066, type: socks5}
   - {name: 🇨🇦 Ontario Toronto M4Y cpe688f2e0ccdc3-cm688f2e0ccdc0.cpe.net.cable.rogers.com 99.229.193.38, server: 212.83.142.131, port: 33603, type: socks5}
   - {name: 🇨🇦 Quebec Montreal H2V BLU Fibre Networks inc 38.80.72.42, server: 190.2.136.36, port: 54348, type: socks5}
+  - {name: 🇨🇦 Quebec|Saint-Polycarpe|J0P|Telecommunications Xittel inc| 207.96.236.4, server: 212.83.143.118, port: 54765, type: socks5}
+  - {name: 🇨🇦 Ontario|Cobourg|K9A|Nexicom Inc.| 66.79.226.180, server: 45.91.92.30, port: 36427, type: socks5}
+  - {name: 🇨🇦 Newfoundland and Labrador|Grand Falls-Windsor|A2A|cpe989d5de829bd-cm989d5de829bb.cpe.net.cable.rogers.com| 174.118.164.99, server: 212.83.138.245, port: 17375, type: socks5}
 proxy-groups:
   - name: CUAN
     type: select
     proxies:
       - DIRECT
-      - 70.54.124.172 - Mississauga - bras-vprn-cksnon1659w-lp130-34-70-54-124-172.dsl.bell.ca
-      - Canada Ontario Pembroke K8A NRTC Communications  45.62.83.141
-      - Canada British Columbia Nanaimo V9T S01068c763f3019ad.no.shawcable.net  184.66.77.125
-      - Canada Quebec Mont-Laurier J9L BLU Fibre Networks inc.  205.142.228.241
-      - United States Louisiana Covington 70433 NTS Communications LLC  209.205.186.101
-      - United States Indiana Fort Wayne 46814 70-88-86-82-smc-fw-in.hfc.comcastbusiness.net  70.88.86.82
+      - 🇨🇦 Newfoundland and Labrador|Grand Falls-Windsor|A2A|cpe989d5de829bd-cm989d5de829bb.cpe.net.cable.rogers.com| 174.118.164.99
+      - 🇨🇦 Ontario|Cobourg|K9A|Nexicom Inc.| 66.79.226.180
+      - 🇨🇦 Quebec|Saint-Polycarpe|J0P|Telecommunications Xittel inc| 207.96.236.4
+      - 🇨🇦 70.54.124.172 - Mississauga - bras-vprn-cksnon1659w-lp130-34-70-54-124-172.dsl.bell.ca
+      - 🇨🇦 Canada Ontario Pembroke K8A NRTC Communications  45.62.83.141
+      - 🇨🇦 Canada British Columbia Nanaimo V9T S01068c763f3019ad.no.shawcable.net  184.66.77.125
+      - 🇨🇦 Canada Quebec Mont-Laurier J9L BLU Fibre Networks inc.  205.142.228.241
+      - 🇺🇸 United States Louisiana Covington 70433 NTS Communications LLC  209.205.186.101
+      - 🇺🇸 United States Indiana Fort Wayne 46814 70-88-86-82-smc-fw-in.hfc.comcastbusiness.net  70.88.86.82
       - 🇺🇸 Alabama Hamilton 35570 Tombigbee Communications LLC  205.220.240.244
       - 🇺🇸Arizona Polacca 86042 dynamic-162-219-131-185.hopitelecom.net  162.219.131.185
       - 🇺🇸Idaho Driggs 83422 Silver Star Communications  217.147.190.90
