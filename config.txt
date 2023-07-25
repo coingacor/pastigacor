@@ -10,3 +10,15 @@ socks5://162.0.220.161:12449/#%F0%9F%87%BA%F0%9F%87%B8%20Idaho%7CDriggs%7C83422%
 socks5://66.29.128.241:24580/#%F0%9F%87%BA%F0%9F%87%B8%20Indiana%7CMcCordsville%7C46055%7CHancock%20Rural%20Telephone%20Corp.%7C%20204.8.14.70
 socks5://67.213.212.56:35431/#%F0%9F%87%BA%F0%9F%87%B8%20Michigan%7CMiddleville%7C49333%7CCharter%20Communications%7C%2071.13.65.130%20Spectrum%20Business
 socks5://195.154.43.198:50519/#%F0%9F%87%BA%F0%9F%87%B8%20Oregon%7CUnknown%7CUnknown%7CEonix%20Corporation%7C%2038.147.82.40
+socks5://212.83.143.118:31628/#%F0%9F%87%A8%F0%9F%87%A6%20Alberta%7CCalgary%7CT3C%7CTELUS%20Communications%20Inc.%7C%2050.99.122.41
+socks5://51.83.116.9:35551/#%F0%9F%87%A8%F0%9F%87%A6%20Alberta%7CEdmonton%7CT5J%7Cd137-186-156-72.abhsia.telus.net%7C%20137.186.156.72
+socks5://51.83.116.9:22332/#%F0%9F%87%A8%F0%9F%87%A6%20British%20Columbia%7CNew%20Westminster%7CV3M%7Cd23-16-196-205.bchsia.telus.net%7C%2023.16.196.205
+socks5://195.154.43.198:30125/#%F0%9F%87%A8%F0%9F%87%A6%20British%20Columbia%7CSurrey%7CV3W%7Cd66-183-238-27.bchsia.telus.net%7C%2066.183.238.27
+socks5://51.83.116.6:17130/#%F0%9F%87%A8%F0%9F%87%A6%20British%20Columbia%7CSquamish%7CV8B%7C69-172-153-208.cable.teksavvy.com%7C%2069.172.153.208
+socks5://46.105.44.29:63165/#%F0%9F%87%A8%F0%9F%87%A6%20British%20Columbia%7CUnknown%7CUnknown%7CRogers%20Communications%20Canada%20Inc.%7C%2072.143.237.88
+socks5://51.83.116.8:61320/#%F0%9F%87%A8%F0%9F%87%A6%20Ontario%7CPembroke%7CK8A%7CNRTC%20Communications%7C%2045.62.79.201
+socks5://51.83.116.5:53093/#%F0%9F%87%A8%F0%9F%87%A6%20Ontario%7COshawa%7CL1G%7Ccpea84e3f374703-cma84e3f374700.sdns.net.rogers.com%7C%2099.248.253.12
+socks5://195.154.43.86:11842/#%F0%9F%87%A8%F0%9F%87%A6%20Ontario%7CScarborough%7CM1T%7Ccpeac202e1587f3-cmac202e1587f0.sdns.net.rogers.com%7C%2099.227.74.226
+socks5://209.159.153.22:65066/#%F0%9F%87%A8%F0%9F%87%A6%20Ontario%7CStaffa%7CN0K%7Cdhcp-40-10-0-3-32-82.cpe.quadro.net%7C%20184.94.183.175
+socks5://212.83.142.131:33603/#%F0%9F%87%A8%F0%9F%87%A6%20Ontario%7CToronto%7CM4Y%7Ccpe688f2e0ccdc3-cm688f2e0ccdc0.cpe.net.cable.rogers.com%7C%2099.229.193.38
+socks5://190.2.136.36:54348/#%F0%9F%87%A8%F0%9F%87%A6%20Quebec%7CMontreal%7CH2V%7CBLU%20Fibre%20Networks%20inc%7C%2038.80.72.42
