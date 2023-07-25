@@ -27,6 +27,18 @@ proxies:
   - {name: 🇺🇸Indiana McCordsville 46055 Hancock Rural Telephone Corp.  204.8.14.70, server: 66.29.128.241, port: 24580, type: socks5, skip-cert-verify: false}
   - {name: 🇺🇸Michigan Middleville 49333 Charter Communications  71.13.65.130 Spectrum Business, server: 67.213.212.56, port: 35431, type: socks5, skip-cert-verify: false}
   - {name: 🇺🇸Oregon Unknown Unknown Eonix Corporation  38.147.82.40, server: 195.154.43.198, port: 50519, type: socks5, skip-cert-verify: false}
+  - {name: 🇨🇦 Alberta Calgary T3C TELUS Communications Inc. 50.99.122.41, server: 212.83.143.118, port: 31628, type: socks5}
+  - {name: 🇨🇦 Alberta Edmonton T5J d137-186-156-72.abhsia.telus.net 137.186.156.72, server: 51.83.116.9, port: 35551, type: socks5}
+  - {name: 🇨🇦 British Columbia New Westminster V3M d23-16-196-205.bchsia.telus.net 23.16.196.205, server: 51.83.116.9, port: 22332, type: socks5}
+  - {name: 🇨🇦 British Columbia Surrey V3W d66-183-238-27.bchsia.telus.net 66.183.238.27, server: 195.154.43.198, port: 30125, type: socks5}
+  - {name: 🇨🇦 British Columbia Squamish V8B 69-172-153-208.cable.teksavvy.com 69.172.153.208, server: 51.83.116.6, port: 17130, type: socks5}
+  - {name: 🇨🇦 British Columbia Unknown Unknown Rogers Communications Canada Inc. 72.143.237.88, server: 46.105.44.29, port: 63165, type: socks5}
+  - {name: 🇨🇦 Ontario Pembroke K8A NRTC Communications 45.62.79.201, server: 51.83.116.8, port: 61320, type: socks5}
+  - {name: 🇨🇦 Ontario Oshawa L1G cpea84e3f374703-cma84e3f374700.sdns.net.rogers.com 99.248.253.12, server: 51.83.116.5, port: 53093, type: socks5}
+  - {name: 🇨🇦 Ontario Scarborough M1T cpeac202e1587f3-cmac202e1587f0.sdns.net.rogers.com 99.227.74.226, server: 195.154.43.86, port: 11842, type: socks5}
+  - {name: 🇨🇦 Ontario Staffa N0K dhcp-40-10-0-3-32-82.cpe.quadro.net 184.94.183.175, server: 209.159.153.22, port: 65066, type: socks5}
+  - {name: 🇨🇦 Ontario Toronto M4Y cpe688f2e0ccdc3-cm688f2e0ccdc0.cpe.net.cable.rogers.com 99.229.193.38, server: 212.83.142.131, port: 33603, type: socks5}
+  - {name: 🇨🇦 Quebec Montreal H2V BLU Fibre Networks inc 38.80.72.42, server: 190.2.136.36, port: 54348, type: socks5}
 proxy-groups:
   - name: CUAN
     type: select
@@ -44,6 +56,18 @@ proxy-groups:
       - 🇺🇸Indiana McCordsville 46055 Hancock Rural Telephone Corp.  204.8.14.70
       - 🇺🇸Michigan Middleville 49333 Charter Communications  71.13.65.130 Spectrum Business
       - 🇺🇸Oregon Unknown Unknown Eonix Corporation  38.147.82.40
+      - 🇨🇦 Alberta Calgary T3C TELUS Communications Inc. 50.99.122.41
+      - 🇨🇦 Alberta Edmonton T5J d137-186-156-72.abhsia.telus.net 137.186.156.72
+      - 🇨🇦 British Columbia New Westminster V3M d23-16-196-205.bchsia.telus.net 23.16.196.205
+      - 🇨🇦 British Columbia Surrey V3W d66-183-238-27.bchsia.telus.net 66.183.238.27
+      - 🇨🇦 British Columbia Squamish V8B 69-172-153-208.cable.teksavvy.com 69.172.153.208
+      - 🇨🇦 British Columbia Unknown Unknown Rogers Communications Canada Inc. 72.143.237.88
+      - 🇨🇦 Ontario Pembroke K8A NRTC Communications 45.62.79.201
+      - 🇨🇦 Ontario Oshawa L1G cpea84e3f374703-cma84e3f374700.sdns.net.rogers.com 99.248.253.12
+      - 🇨🇦 Ontario Scarborough M1T cpeac202e1587f3-cmac202e1587f0.sdns.net.rogers.com 99.227.74.226
+      - 🇨🇦 Ontario Staffa N0K dhcp-40-10-0-3-32-82.cpe.quadro.net 184.94.183.175
+      - 🇨🇦 Ontario Toronto M4Y cpe688f2e0ccdc3-cm688f2e0ccdc0.cpe.net.cable.rogers.com 99.229.193.38
+      - 🇨🇦 Quebec Montreal H2V BLU Fibre Networks inc 38.80.72.42
       
 rules:
   - DOMAIN-SUFFIX,us.criteo.net,REJECT
@@ -85,9 +109,6 @@ rules:
   - DOMAIN-KEYWORD,soinluck,REJECT
   - DOMAIN-KEYWORD,unity3d,REJECT
   - DOMAIN-KEYWORD,liftoff,REJECT
-  - DOMAIN-SUFFIX,ab.ferngrowth.com,REJECT
-  - DOMAIN-SUFFIX,static.ferngrowth.com,REJECT
-  - DOMAIN-SUFFIX,ferngrowth.com,REJECT
   - MATCH,CUAN
 rule-providers:
   IKLANRUSAK:
