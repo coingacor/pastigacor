@@ -97,10 +97,6 @@ rules:
   - DOMAIN-SUFFIX,stackadapt.com,REJECT
   - DOMAIN-SUFFIX,unity3d.com,REJECT
   - DOMAIN-SUFFIX,facebook.com,REJECT
-  - DOMAIN-SUFFIX,applovin.com,REJECT
-  - DOMAIN-SUFFIX,applvn.com,REJECT
-  - DOMAIN-SUFFIX,liftoff.io,REJECT
-  - DOMAIN-SUFFIX,liftoff-creatives.io,REJECT
   - DOMAIN-KEYWORD,wlmonitor,REJECT
   - DOMAIN-KEYWORD,zjtoolbar,REJECT
   - DOMAIN-KEYWORD,googleplay,REJECT
@@ -108,6 +104,7 @@ rules:
   - DOMAIN-KEYWORD,digitalturbine,REJECT
   - DOMAIN-KEYWORD,soinluck,REJECT
   - DOMAIN-KEYWORD,unity3d,REJECT
+  - DOMAIN-KEYWORD,liftoff,REJECT
   - MATCH,CUAN
 rule-providers:
   IKLANRUSAK:
