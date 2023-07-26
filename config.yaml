@@ -5,7 +5,7 @@ log-level: info
 external-controller: :9090
 
 proxies:
- - {name: 🇺🇸 New York - TODAS LAS REDES SA - 200.10.40.4, server: 200.10.40.4, port: 9291, username: f1vAxs, password: uqqA5w, type: socks5, skip-cert-verify: false}
+  - {name: 🇺🇸 New York - TODAS LAS REDES SA - 200.10.40.4, server: 200.10.40.4, port: 9291, username: f1vAxs, password: uqqA5w, type: socks5, skip-cert-verify: false}
   - {name: 🇨🇦 70.54.124.172 - Mississauga - bras-vprn-cksnon1659w-lp130-34-70-54-124-172.dsl.bell.ca, server: 212.83.138.172, port: 26290, type: socks5, skip-cert-verify: false}
   - {name: 🇨🇦 Canada Ontario Pembroke K8A NRTC Communications  45.62.83.141, server: 190.2.136.35, port: 47784, type: socks5, skip-cert-verify: false}
   - {name: 🇨🇦 Canada British Columbia Nanaimo V9T S01068c763f3019ad.no.shawcable.net  184.66.77.125, server: 190.2.136.35, port: 48754, type: socks5, skip-cert-verify: false}
@@ -40,6 +40,7 @@ proxy-groups:
     type: select
     proxies:
       - DIRECT
+      - 🇺🇸 New York - TODAS LAS REDES SA - 200.10.40.4
       - 🇨🇦Ontario|Mississauga|L5L|cpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com| 99.246.236.173
       - 🇨🇦Ontario|Mississauga|L5N|unallocated-static.rogers.com| 72.142.123.76
       - 🇨🇦 Newfoundland and Labrador|Grand Falls-Windsor|A2A|cpe989d5de829bd-cm989d5de829bb.cpe.net.cable.rogers.com| 174.118.164.99
