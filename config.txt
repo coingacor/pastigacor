@@ -20,3 +20,15 @@ socks5://190.2.136.36:60036/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CPetawawa%7CK8H%7C
 socks5://209.159.153.22:36880/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CMississauga%7CL5A%7Ccpebc4dfb2e02f3-cmbc4dfb2e02f0.cpe.net.fido.ca%7C%20173.35.231.98
 socks5://51.83.116.9:49765/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CBrockville%7CK6V%7C66-78-104-68.access.myhighspeed.ca%7C%2066.78.104.68%20
 socks5://212.83.142.114:49794/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CLondon%7CN6E%7C107-179-211-239.cpe.teksavvy.com%7C%20107.179.211.239%20%7C
+socks5://212.83.142.131:35751/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CScarborough%7CM1T%7CRogers%20Communications%20Canada%20Inc.%7C%2099.227.94.92
+socks5://212.83.143.97:28825/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7COttawa%7CK1R%7Ccpe9050ca26ed93-cm9050ca26ed90.sdns.net.rogers.com%7C%20174.115.203.28
+socks5://162.210.192.136:42801/#%F0%9F%87%BA%F0%9F%87%B2Arkansas%7CFayetteville%7C72703%7Cwsip-70-182-114-4.ks.ks.cox.net%7C%2070.182.114.4
+socks5://37.221.193.221:13453/#%F0%9F%87%BA%F0%9F%87%B2Texas%7CDallas%7C75207%7C222-11-64.66.static.logixcom.net%7C%2066.64.11.222
+socks5://162.0.220.161:64527/#%F0%9F%87%BA%F0%9F%87%B2California%7CMariposa%7C95338%7C64118104134.static.sti.net%7C%2064.118.104.134
+socks5://67.213.212.56:10527/#%F0%9F%87%BA%F0%9F%87%B2South%20Carolina%7CFort%20Mill%7C29715%7C208-104-246-241.fttp.ftmlsc.stat.comporium.net%7C%20208.104.246.241
+socks5://67.213.212.56:36267/#%F0%9F%87%BA%F0%9F%87%B2South%20Carolina%7CFort%20Mill%7C29715%7C208-104-92-84.fttp.ftmlsc.stat.comporium.net%7C%20208.104.92.84
+socks5://162.19.7.48:60669/#%F0%9F%87%BA%F0%9F%87%B2South%20Carolina%7CRock%20Hill%7C29732%7C208-104-214-43.cm.rkhlsc.dyn.comporium.net%7C%20208.104.214.43%20
+socks5://162.19.7.60:14938/#%F0%9F%87%BA%F0%9F%87%B2Pennsylvania%7CHarrisburg%7C17109%7CComcast%20Cable%20Communications%2C%20LLC%7C%2050.236.189.30
+socks5://66.29.129.53:64932/#%F0%9F%87%BA%F0%9F%87%B2Montana%7CRonan%7C59864%7Cppp2.polson.net%7C%20206.183.122.17
+socks5://67.213.212.53:14544/#%F0%9F%87%BA%F0%9F%87%B2California%7CLos%20Angeles%7C90009%7C99-70-83-27.jasonmehrvarz.com%7C%2099.70.83.27
+socks5://162.19.7.46:51569/#%F0%9F%87%BA%F0%9F%87%B2Oregon%7CPortland%7C97214%7C97-120-125-28.ptld.qwest.net%7C%2097.120.125.28
