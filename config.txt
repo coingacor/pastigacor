@@ -56,3 +56,16 @@ socks5://67.213.212.39:15876/#%F0%9F%87%BA%F0%9F%87%B8%2038.122.227.74%20-%20New
 socks5://66.29.128.241:18093/#%F0%9F%87%BA%F0%9F%87%B8%2071.26.120.81%20-%20Homestead%20-%20Comcast%20Cable
 socks5://67.213.212.48:61209/#%F0%9F%87%BA%F0%9F%87%B8%2068.41.181.220%20-%20New%20Baltimore%20-%20Comcast%20Cable
 socks5://174.138.176.76:37898/#%F0%9F%87%BA%F0%9F%87%B8%20143.55.138.116%20-%20Church%20Hill%20-%20Holston%20Electric
+socks5://51.254.167.45:64746/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CBrampton%7CL7A%7Ccpe001d6ab5de54-cm00252eac185c.cpe.net.cable.rogers.com%7C%2072.139.197.215
+socks5://51.83.116.5:52310/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7COshawa%7CL1G%7Ccpea84e3f374703-cma84e3f374700.sdns.net.rogers.com%7C%2099.248.253.12
+socks5://212.83.138.192:37046/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7COttawa%7CK1S%7Ccpe0090a9baefb3-cmbc4dfb2928e0.cpe.net.cable.rogers.com%7C%20174.115.39.107
+socks5://212.83.142.145:30015/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7COwen%20Sound%7CN4K%7Cunallocated-static.rogers.com%7C%2066.209.57.163%20
+socks5://212.83.142.145:62614/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CStratford%7CN5A%7Ccpe688f2e1a9ea3-cm688f2e1a9ea0.sdns.net.rogers.com%7C%2099.254.235.245
+socks5://212.83.143.60:64239/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CToronto%7CM4G%7Cunallocated-static.rogers.com%7C%2072.139.29.218
+socks5://51.83.116.7:47098/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CToronto%7CM4J%7Ccpef81d0f9eec03-cmf81d0f9eec00.sdns.net.rogers.com%7C%2099.255.171.241
+socks5://162.19.7.50:56006/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CToronto%7CM5A%7Ccpe84948c5d6433-cm84948c5d6430.cpe.net.cable.rogers.com%7C%2099.230.114.125
+socks5://212.83.138.132:37788/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CToronto%7CM6R%7Ccpe989d5dab826d-cm989d5dab826b.cpe.net.cable.rogers.com%7C%2099.238.230.16
+socks5://190.2.136.36:60036/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CPetawawa%7CK8H%7CNRTC%20Communications%7C%2045.62.83.183
+socks5://209.159.153.22:36880/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CMississauga%7CL5A%7Ccpebc4dfb2e02f3-cmbc4dfb2e02f0.cpe.net.fido.ca%7C%20173.35.231.98
+socks5://51.83.116.9:49765/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CBrockville%7CK6V%7C66-78-104-68.access.myhighspeed.ca%7C%2066.78.104.68%20
+socks5://212.83.142.114:49794/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CLondon%7CN6E%7C107-179-211-239.cpe.teksavvy.com%7C%20107.179.211.239%20%7C
