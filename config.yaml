@@ -35,7 +35,7 @@ proxies:
   - {name: 🇨🇦 Newfoundland and Labrador|Grand Falls-Windsor|A2A|cpe989d5de829bd-cm989d5de829bb.cpe.net.cable.rogers.com| 174.118.164.99, server: 212.83.138.245, port: 17375, type: socks5}
   - {name: 🇨🇦Ontario|Mississauga|L5N|unallocated-static.rogers.com| 72.142.123.76, server: 51.83.116.3, port: 16732, type: socks5}
   - {name: 🇨🇦Ontario|Mississauga|L5L|cpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com| 99.246.236.173, server: 212.83.138.245, port: 54442, type: socks5}
-  - {name: 🇺🇸 Virginia|Norfolk|Cox Communications, server: 66.29.128.246, port: 18288, type: socks5}
+  - {name: 🇺🇸 Virginia|Norfolk|Cox Communications, server: 209.159.153.20, port: 33604, type: socks5}
 proxy-groups:
   - name: CUAN
     type: select
