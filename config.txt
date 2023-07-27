@@ -48,3 +48,7 @@ socks5://212.83.137.239:12214/#%F0%9F%87%BA%F0%9F%87%B8Arkansas%7CAmagon%7C72005
 socks5://51.83.116.2:30238/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7COshawa%7CL1G%7CPrimus%20Telecommunications%20Canada%20Inc.%7C%20216.181.142.133
 socks5://212.83.143.60:58522/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CMississauga%7CL5K%7CPrimus%20Telecommunications%20Canada%20Inc.%7C%20216.181.233.68
 socks5://195.154.43.189:36012/#%F0%9F%87%A8%F0%9F%87%A6Ontario%7CToronto%7CM4K%7CPrimus%20Telecommunications%20Canada%20Inc.%7C%20216.181.36.37
+
+socks5://66.29.128.245:31484/#%F0%9F%87%BA%F0%9F%87%B2Texas%7CHouston%7C77007%7C67-200-207-34.static.logixcom.net%7C%2067.200.207.34
+socks5://66.29.128.241:54467/#%F0%9F%87%BA%F0%9F%87%B2Indiana%7CMcCordsville%7C46055%7CHancock%20Rural%20Telephone%20Corp.%7C%20204.8.14.70
+socks5://172.106.19.156:36796/#%F0%9F%87%BA%F0%9F%87%B2Indiana%7CNew%20Pekin%7C47165%7CIntelligent%20Fiber%20Network%7C%2064.184.114.243
