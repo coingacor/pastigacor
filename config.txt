@@ -1,4 +1,2 @@
-Lakaka:
 socks5://172.106.13.203:31404/#%F0%9F%87%BA%F0%9F%87%B8%20South%20Carolina%7CHilton%20Head%20Island%7C29928%7C48.158.205.170.dynamic-pool.hargray.net%7C%20170.205.158.48
-
 socks5://38.91.107.224:26610/#%F0%9F%87%BA%F0%9F%87%B8%20Georgia%7CCochran%7C31014%7CHargray%20Communications%20Group%2C%20Inc.%7C%20170.205.177.52%20%7CTime%20View%2031%2F07%2F2023%2011%3A39%3A30
