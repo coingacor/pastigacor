@@ -1,3 +1,24 @@
-socks5://172.106.13.203:31404/#%F0%9F%87%BA%F0%9F%87%B8%20South%20Carolina%7CHilton%20Head%20Island%7C29928%7C48.158.205.170.dynamic-pool.hargray.net%7C%20170.205.158.48
-socks5://38.91.107.224:26610/#%F0%9F%87%BA%F0%9F%87%B8%20Georgia%7CCochran%7C31014%7CHargray%20Communications%20Group%2C%20Inc.%7C%20170.205.177.52%20%7CTime%20View%2031%2F07%2F2023%2011%3A39%3A30
-vmess://eyJhZGQiOiIyMDIuNzkuMTc0LjE1NyIsImFpZCI6IjY0IiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTIxYzljODktN2QxMS00ZjQ5LTkxMTItZGMxZTg1MzYzZjZmIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI1NTI2NCIsInBzIjoi8J+HuPCfh6wgMjAyLjc5LjE3NC4xNDYgLSBCR1BORVQgR2xvYmFsIEFTTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
+socks://89.58.45.94:45036#🇨🇦 Alberta|Cold Lake|T9M|Axia FibreNet Ltd.| 209.206.113.202 |Time View 18/08/2023 23:27:26 |Black List Yes
+socks://162.19.7.47:40668#🇨🇦 Ontario|Brampton|L6W|cpef81d0fa99703-cmf81d0fa99700.cpe.net.fido.ca| 72.138.218.103 |Time View 18/08/2023 23:27:03 |Black List No
+socks://212.83.142.145:49645#🇨🇦 Ontario|Owen Sound|N4K|unallocated-static.rogers.com| 66.209.57.163 |Time View 18/08/2023 23:26:55 |Black List No
+socks://212.83.143.97:35780#🇨🇦 Ontario|Stouffville|L4A|cpebc4dfbcfdf13-cmbc4dfbcfdf10.sdns.net.rogers.com| 99.229.60.155 |Time View 18/08/2023 23:26:43 |Black List Yes
+socks://141.94.238.246:12184#🇨🇦 Nova Scotia|Halifax|B3K|hlfxns016cw-156-57-138-166.dhcp-dynamic.fibreop.ns.bellaliant.net| 156.57.138.166 |Time View 18/08/2023 23:26:36 |Black List Yes
+socks://212.83.142.131:24097#🇨🇦 Ontario|Ottawa|K1Z|cpebc4dfb2fb563-cmbc4dfb2fb560.cpe.net.cable.rogers.com| 174.116.61.135 |Time View 18/08/2023 23:26:30 |Black List No
+socks://195.154.43.86:31991#🇨🇦 Ontario|Mitchell/Ontario|N0K|dhcp-40-10-0-3-33-66.cpe.quadro.net| 184.94.183.113 |Time View 18/08/2023 23:26:27 |Black List Yes
+socks://212.83.138.186:17095#🇨🇦 Nova Scotia|Dartmouth|B2W|drmons0552w-134-41-135-88.dhcp-dynamic.fibreop.ns.bellaliant.net| 134.41.135.88 |Time View 18/08/2023 23:26:14 |Black List No
+socks://212.83.142.158:41116#🇨🇦 Ontario|Corunna|N0N|d72-39-166-125.home1.cgocable.net| 72.39.166.125 |Time View 18/08/2023 23:25:59 |Black List Yes
+socks://212.83.143.49:46221#🇨🇦 Ontario|Dwight|P0A|Greater Sudbury Telecommunications Inc.| 216.223.70.190 |Time View 18/08/2023 23:25:15 |Black List No
+socks://66.29.129.52:31630#🇨🇦 Ontario|Petawawa|K8H|NRTC Communications| 45.62.71.77 |Time View 18/08/2023 23:25:10 |Black List No
+socks://46.105.76.41:36358#🇨🇦 Ontario|Pembroke|K8A|NRTC Communications| 45.62.75.232 |Time View 18/08/2023 23:24:43 |Black List No
+socks://212.83.142.100:64026#🇨🇦 Ontario|Toronto|M4P|135-23-67-180.cpe.pppoe.ca| 135.23.67.180 |Time View 18/08/2023 23:24:35 |Black List Yes
+socks://89.58.45.94:37498#🇦🇺 New South Wales|Sydney|2000|ec2-52-62-10-115.ap-southeast-2.compute.amazonaws.com| 52.62.10.115 |Time View 18/08/2023 23:22:31 |Black List No
+socks://212.83.143.60:63014#🇦🇺 New South Wales|Sydney|2000|180-150-28-238.b4961c.syd.static.aussiebb.net| 180.150.28.238 |Time View 18/08/2023 23:22:14 |Black List No
+socks://162.19.7.46:55861#🇦🇺 Queensland|Brisbane|4000|159-196-13-112.9fc40d.mel.nbn.aussiebb.net| 159.196.13.112 |Time View 18/08/2023 23:21:58 |Black List No
+socks://45.91.93.166:14207#🇳🇿 Auckland|Auckland|1010|125-236-232-206.adsl.xtra.co.nz| 125.236.232.206 |Time View 18/08/2023 23:21:10 |Black List Yes
+socks://212.83.143.103:19441#🇳🇿 Auckland|Auckland|1010|219-88-73-19.adsl.xtra.co.nz| 219.88.73.19 |Time View 18/08/2023 23:21:03 |Black List No
+socks://89.58.45.94:34564#🇦🇺 New South Wales|Sydney|2015|139.180.160.129.vultrusercontent.com| 139.180.160.129 |Time View 18/08/2023 20:38:26 |Black List Yes
+socks://89.58.45.94:45972#🇦🇺 New South Wales|Sydney|2000|Telstra Corporation Limited| 60.231.34.210 |Time View 18/08/2023 20:33:16 |Black List Yes
+socks://212.83.143.147:34870#🇦🇺 New South Wales|Sydney|2000|27-33-10-17.tpgi.com.au| 27.33.10.17 |Time View 18/08/2023 20:32:00 |Black List Yes
+socks://212.83.142.131:10728#🇦🇺 Queensland|Brisbane|4000|Telstra Corporation Limited| 58.171.247.145 |Time View 18/08/2023 18:09:54 |Black List No
+socks://212.83.143.49:35439#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 110.143.90.155 |Time View 18/08/2023 15:09:23 |Black List No
+socks://51.83.116.3:30960#🇨🇦 Ontario|Brampton|L6Y|198-84-212-229.cpe.teksavvy.com| 198.84.212.229 |Time View 18/08/2023 12:28:08 |Black List No
