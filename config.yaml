@@ -164,7 +164,6 @@ proxy-groups:
       - AU-45.79.238.129-0759✅
       - AU-45.79.238.129-17613
 rules:
-  - MATCH,SUPERSONIC
   - DOMAIN-SUFFIX,banner-gateway.supersonicads.com,SUPERSONIC
   - DOMAIN-SUFFIX,cf.ssacdn.com,SUPERSONIC
   - DOMAIN-SUFFIX,click-haproxy.supersonicads.com,SUPERSONIC
@@ -194,6 +193,7 @@ rules:
   - DOMAIN-SUFFIX,www.supersonicads.com,SUPERSONIC
   - RULE-SET,BLOKIKLAN,REJECT
   - DOMAIN-SUFFIX,ferngrowth.com,REJECT
+  - MATCH,SUPERSONIC
 rule-providers:
   BLOKIKLAN:
     behavior: "domain" 
