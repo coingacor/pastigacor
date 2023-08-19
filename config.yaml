@@ -131,7 +131,7 @@ proxies:
   - {name: AU-45.79.238.129-0759✅, server: 45.79.238.129, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1aOKzAewubAIRSQ1FkTyGD, udp: true}
   - {name: AU-45.79.238.129-17613, server: 45.79.238.129, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1aOKzAewubAIRSQ1FkTyGD, udp: true}
 proxy-groups:
-  - name: FASTSSH-SSHKIT-HOWDY
+  - name: SUPERSONIC
     type: select
     proxies:
       - AU-45.79.238.129-0759✅
@@ -164,20 +164,41 @@ proxy-groups:
       - AU-45.79.238.129-0759✅
       - AU-45.79.238.129-17613
 rules:
-  - MATCH,FASTSSH-SSHKIT-HOWDY
-  - RULE-SET,IKLANRUSAK,REJECT
-  - RULE-SET,IKLANRUSAK2,REJECT
+  - MATCH,SUPERSONIC
+  - DOMAIN-SUFFIX,banner-gateway.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,cf.ssacdn.com,SUPERSONIC
+  - DOMAIN-SUFFIX,click-haproxy.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,cx.ssacdn.com,SUPERSONIC
+  - DOMAIN-SUFFIX,guc-api.sonic-us.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,iab-imp-gateway.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,pm-gateway.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,outcome-ssp.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,init.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,images-demand.ssacdn,com,SUPERSONIC
+  - DOMAIN-SUFFIX,is-gateway.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,logs.supersonic.com,SUPERSONIC
+  - DOMAIN-SUFFIX,networksdk.ssacdn.com,SUPERSONIC
+  - DOMAIN-SUFFIX,outcome,supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,ow.gateway.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,platform.ssacdn.com,SUPERSONIC
+  - DOMAIN-SUFFIX,rv-gateway.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,s.ssacdn.com,SUPERSONIC
+  - DOMAIN-SUFFIX,scc.ssacdn.com,SUPERSONIC
+  - DOMAIN-SUFFIX,sonic-us.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,static.ssacdn.com,SUPERSONIC
+  - DOMAIN-SUFFIX,supersonicads-a.akamaihd.net,SUPERSONIC
+  - DOMAIN-SUFFIX,supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,tagmediation.supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,v.cf.ssacdn.com,SUPERSONIC
+  - DOMAIN-SUFFIX,v.ssacdn.com,SUPERSONIC
+  - DOMAIN-SUFFIX,www.supersonicads.com,SUPERSONIC
+
+  - RULE-SET,BLOKIKLAN,REJECT
   - DOMAIN-SUFFIX,ferngrowth.com,REJECT
 rule-providers:
-  IKLANRUSAK:
-    behavior: "classical" 
-    type: http
-    url: "https://raw.githubusercontent.com/Arifinfarm/clashmy/main/rule_provider/娜诶弗伊 哦艾诶.yaml"
-    path: ./IKLANRUSAK.yaml
-    interval: 99999999
-  IKLANRUSAK2:
+  BLOKIKLAN:
     behavior: "domain" 
     type: http
-    url: "https://raw.githubusercontent.com/malikshi/open_clash/main/rule_provider/rule_basicads.yaml"
+    url: "https://raw.githubusercontent.com/coingacor/pastigacor/main/domainiklan.yaml"
     path: ./IKLANRUSAK2.yaml
     interval: 99999999
