@@ -1,121 +1,173 @@
-mixed-port: 7890
-allow-lan: true
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: false
 mode: rule
-log-level: info
-external-controller: :9090
-
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+  store-fake-ip: true
+dns:
+  enable: true
+  ipv6: false
+  use-host: true
+  enhanced-mode: fake-ip
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - https://cloudflare-dns.com/dns-query
+    - 112.215.203.254
+  default-nameserver:
+    - 8.8.8.8
+    - 1.1.1.1
+    - 112.215.203.254
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.example"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - time.*.com
+    - time.*.gov
+    - time.*.edu.cn
+    - time.*.apple.com
+    - time1.*.com
+    - time2.*.com
+    - time3.*.com
+    - time4.*.com
+    - time5.*.com
+    - time6.*.com
+    - time7.*.com
+    - ntp.*.com
+    - ntp1.*.com
+    - ntp2.*.com
+    - ntp3.*.com
+    - ntp4.*.com
+    - ntp5.*.com
+    - ntp6.*.com
+    - ntp7.*.com
+    - "*.time.edu.cn"
+    - "*.ntp.org.cn"
+    - +.pool.ntp.org
+    - time1.cloud.tencent.com
+    - music.163.com
+    - "*.music.163.com"
+    - "*.126.net"
+    - musicapi.taihe.com
+    - music.taihe.com
+    - songsearch.kugou.com
+    - trackercdn.kugou.com
+    - "*.kuwo.cn"
+    - api-jooxtt.sanook.com
+    - api.joox.com
+    - joox.com
+    - y.qq.com
+    - "*.y.qq.com"
+    - streamoc.music.tc.qq.com
+    - mobileoc.music.tc.qq.com
+    - isure.stream.qqmusic.qq.com
+    - dl.stream.qqmusic.qq.com
+    - aqqmusic.tc.qq.com
+    - amobile.music.tc.qq.com
+    - "*.xiami.com"
+    - "*.music.migu.cn"
+    - music.migu.cn
+    - "*.msftconnecttest.com"
+    - "*.msftncsi.com"
+    - msftconnecttest.com
+    - msftncsi.com
+    - localhost.ptlogin2.qq.com
+    - localhost.sec.qq.com
+    - +.srv.nintendo.net
+    - +.stun.playstation.net
+    - xbox.*.microsoft.com
+    - xnotify.xboxlive.com
+    - +.battlenet.com.cn
+    - +.wotgame.cn
+    - +.wggames.cn
+    - +.wowsgame.cn
+    - +.wargaming.net
+    - proxy.golang.org
+    - stun.*.*
+    - stun.*.*.*
+    - +.stun.*.*
+    - +.stun.*.*.*
+    - +.stun.*.*.*.*
+    - heartbeat.belkin.com
+    - "*.linksys.com"
+    - "*.linksyssmartwifi.com"
+    - "*.router.asus.com"
+    - mesu.apple.com
+    - swscan.apple.com
+    - swquery.apple.com
+    - swdownload.apple.com
+    - swcdn.apple.com
+    - swdist.apple.com
+    - lens.l.google.com
+    - stun.l.google.com
+    - +.nflxvideo.net
+    - "*.square-enix.com"
+    - "*.finalfantasyxiv.com"
+    - "*.ffxiv.com"
+    - "*.mcdn.bilivideo.cn"
+    - +.media.dssott.com
 proxies:
-  - {name: 🇺🇸 New York - TODAS LAS REDES SA - 200.10.40.4, server: 200.10.40.4, port: 9291, username: f1vAxs, password: uqqA5w, type: socks5, skip-cert-verify: false}
-  - {name: 🇨🇦 70.54.124.172 - Mississauga - bras-vprn-cksnon1659w-lp130-34-70-54-124-172.dsl.bell.ca, server: 212.83.138.172, port: 26290, type: socks5, skip-cert-verify: false}
-  - {name: 🇨🇦 Canada Ontario Pembroke K8A NRTC Communications  45.62.83.141, server: 190.2.136.35, port: 47784, type: socks5, skip-cert-verify: false}
-  - {name: 🇨🇦 Canada British Columbia Nanaimo V9T S01068c763f3019ad.no.shawcable.net  184.66.77.125, server: 190.2.136.35, port: 48754, type: socks5, skip-cert-verify: false}
-  - {name: 🇨🇦 Canada Quebec Mont-Laurier J9L BLU Fibre Networks inc.  205.142.228.241, server: 190.2.136.35, port: 63004, type: socks5, skip-cert-verify: false}
-  - {name: 🇺🇸 United States Louisiana Covington 70433 NTS Communications LLC  209.205.186.101, server: 172.106.19.158, port: 62314, type: socks5, skip-cert-verify: false}
-  - {name: 🇺🇸 United States Indiana Fort Wayne 46814 70-88-86-82-smc-fw-in.hfc.comcastbusiness.net  70.88.86.82, server: 37.221.193.221, port: 16904, type: socks5, skip-cert-verify: false}
-  - {name: 🇺🇸 Alabama Hamilton 35570 Tombigbee Communications LLC  205.220.240.244, server: 174.138.176.74, port: 31547, type: socks5, skip-cert-verify: false}
-  - {name: 🇺🇸Arizona Polacca 86042 dynamic-162-219-131-185.hopitelecom.net  162.219.131.185, server: 66.29.129.54, port: 31705, type: socks5, skip-cert-verify: false}
-  - {name: 🇺🇸Idaho Driggs 83422 Silver Star Communications  217.147.190.90, server: 162.0.220.161, port: 12449, type: socks5, skip-cert-verify: false}
-  - {name: 🇺🇸Indiana McCordsville 46055 Hancock Rural Telephone Corp.  204.8.14.70, server: 66.29.128.241, port: 24580, type: socks5, skip-cert-verify: false}
-  - {name: 🇺🇸Michigan Middleville 49333 Charter Communications  71.13.65.130 Spectrum Business, server: 67.213.212.56, port: 35431, type: socks5, skip-cert-verify: false}
-  - {name: 🇺🇸Oregon Unknown Unknown Eonix Corporation  38.147.82.40, server: 195.154.43.198, port: 50519, type: socks5, skip-cert-verify: false}
-  - {name: 🇨🇦 Alberta Calgary T3C TELUS Communications Inc. 50.99.122.41, server: 212.83.143.118, port: 31628, type: socks5}
-  - {name: 🇨🇦 Alberta Edmonton T5J d137-186-156-72.abhsia.telus.net 137.186.156.72, server: 51.83.116.9, port: 35551, type: socks5}
-  - {name: 🇨🇦 British Columbia New Westminster V3M d23-16-196-205.bchsia.telus.net 23.16.196.205, server: 51.83.116.9, port: 22332, type: socks5}
-  - {name: 🇨🇦 British Columbia Surrey V3W d66-183-238-27.bchsia.telus.net 66.183.238.27, server: 195.154.43.198, port: 30125, type: socks5}
-  - {name: 🇨🇦 British Columbia Squamish V8B 69-172-153-208.cable.teksavvy.com 69.172.153.208, server: 51.83.116.6, port: 17130, type: socks5}
-  - {name: 🇨🇦 British Columbia Unknown Unknown Rogers Communications Canada Inc. 72.143.237.88, server: 46.105.44.29, port: 63165, type: socks5}
-  - {name: 🇨🇦 Ontario Pembroke K8A NRTC Communications 45.62.79.201, server: 51.83.116.8, port: 61320, type: socks5}
-  - {name: 🇨🇦 Ontario Oshawa L1G cpea84e3f374703-cma84e3f374700.sdns.net.rogers.com 99.248.253.12, server: 51.83.116.5, port: 53093, type: socks5}
-  - {name: 🇨🇦 Ontario Scarborough M1T cpeac202e1587f3-cmac202e1587f0.sdns.net.rogers.com 99.227.74.226, server: 195.154.43.86, port: 11842, type: socks5}
-  - {name: 🇨🇦 Ontario Staffa N0K dhcp-40-10-0-3-32-82.cpe.quadro.net 184.94.183.175, server: 209.159.153.22, port: 65066, type: socks5}
-  - {name: 🇨🇦 Ontario Toronto M4Y cpe688f2e0ccdc3-cm688f2e0ccdc0.cpe.net.cable.rogers.com 99.229.193.38, server: 212.83.142.131, port: 33603, type: socks5}
-  - {name: 🇨🇦 Quebec Montreal H2V BLU Fibre Networks inc 38.80.72.42, server: 190.2.136.36, port: 54348, type: socks5}
-  - {name: 🇨🇦 Quebec|Saint-Polycarpe|J0P|Telecommunications Xittel inc| 207.96.236.4, server: 212.83.143.118, port: 54765, type: socks5}
-  - {name: 🇨🇦 Ontario|Cobourg|K9A|Nexicom Inc.| 66.79.226.180, server: 45.91.92.30, port: 36427, type: socks5}
-  - {name: 🇨🇦 Newfoundland and Labrador|Grand Falls-Windsor|A2A|cpe989d5de829bd-cm989d5de829bb.cpe.net.cable.rogers.com| 174.118.164.99, server: 212.83.138.245, port: 17375, type: socks5}
-  - {name: 🇨🇦Ontario|Mississauga|L5N|unallocated-static.rogers.com| 72.142.123.76, server: 51.83.116.3, port: 16732, type: socks5}
-  - {name: 🇨🇦Ontario|Mississauga|L5L|cpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com| 99.246.236.173, server: 212.83.138.245, port: 54442, type: socks5}
-  - {name: 🇺🇸 Virginia|Norfolk|Cox Communications, server: 209.159.153.20, port: 33604, type: socks5}
+  - {name: AU-45.79.238.129-0759✅, server: 45.79.238.129, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1aOKzAewubAIRSQ1FkTyGD, udp: true}
+  - {name: AU-45.79.238.129-17613, server: 45.79.238.129, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1aOKzAewubAIRSQ1FkTyGD, udp: true}
 proxy-groups:
-  - name: CUAN
+  - name: FASTSSH-SSHKIT-HOWDY
     type: select
     proxies:
+      - AU-45.79.238.129-0759✅
+      - AU-45.79.238.129-17613
+      - LOAD-BALANCE
+      - BEST-PING
+      - FALLBACK
       - DIRECT
-      - 🇺🇸 Virginia|Norfolk|Cox Communications
-      - 🇺🇸 New York - TODAS LAS REDES SA - 200.10.40.4
-      - 🇨🇦Ontario|Mississauga|L5L|cpe84948cca6953-cm84948cca6950.cpe.net.cable.rogers.com| 99.246.236.173
-      - 🇨🇦Ontario|Mississauga|L5N|unallocated-static.rogers.com| 72.142.123.76
-      - 🇨🇦 Newfoundland and Labrador|Grand Falls-Windsor|A2A|cpe989d5de829bd-cm989d5de829bb.cpe.net.cable.rogers.com| 174.118.164.99
-      - 🇨🇦 Ontario|Cobourg|K9A|Nexicom Inc.| 66.79.226.180
-      - 🇨🇦 Quebec|Saint-Polycarpe|J0P|Telecommunications Xittel inc| 207.96.236.4
-      - 🇨🇦 70.54.124.172 - Mississauga - bras-vprn-cksnon1659w-lp130-34-70-54-124-172.dsl.bell.ca
-      - 🇨🇦 Canada Ontario Pembroke K8A NRTC Communications  45.62.83.141
-      - 🇨🇦 Canada British Columbia Nanaimo V9T S01068c763f3019ad.no.shawcable.net  184.66.77.125
-      - 🇨🇦 Canada Quebec Mont-Laurier J9L BLU Fibre Networks inc.  205.142.228.241
-      - 🇺🇸 United States Louisiana Covington 70433 NTS Communications LLC  209.205.186.101
-      - 🇺🇸 United States Indiana Fort Wayne 46814 70-88-86-82-smc-fw-in.hfc.comcastbusiness.net  70.88.86.82
-      - 🇺🇸 Alabama Hamilton 35570 Tombigbee Communications LLC  205.220.240.244
-      - 🇺🇸Arizona Polacca 86042 dynamic-162-219-131-185.hopitelecom.net  162.219.131.185
-      - 🇺🇸Idaho Driggs 83422 Silver Star Communications  217.147.190.90
-      - 🇺🇸Indiana McCordsville 46055 Hancock Rural Telephone Corp.  204.8.14.70
-      - 🇺🇸Michigan Middleville 49333 Charter Communications  71.13.65.130 Spectrum Business
-      - 🇺🇸Oregon Unknown Unknown Eonix Corporation  38.147.82.40
-      - 🇨🇦 Alberta Calgary T3C TELUS Communications Inc. 50.99.122.41
-      - 🇨🇦 Alberta Edmonton T5J d137-186-156-72.abhsia.telus.net 137.186.156.72
-      - 🇨🇦 British Columbia New Westminster V3M d23-16-196-205.bchsia.telus.net 23.16.196.205
-      - 🇨🇦 British Columbia Surrey V3W d66-183-238-27.bchsia.telus.net 66.183.238.27
-      - 🇨🇦 British Columbia Squamish V8B 69-172-153-208.cable.teksavvy.com 69.172.153.208
-      - 🇨🇦 British Columbia Unknown Unknown Rogers Communications Canada Inc. 72.143.237.88
-      - 🇨🇦 Ontario Pembroke K8A NRTC Communications 45.62.79.201
-      - 🇨🇦 Ontario Oshawa L1G cpea84e3f374703-cma84e3f374700.sdns.net.rogers.com 99.248.253.12
-      - 🇨🇦 Ontario Scarborough M1T cpeac202e1587f3-cmac202e1587f0.sdns.net.rogers.com 99.227.74.226
-      - 🇨🇦 Ontario Staffa N0K dhcp-40-10-0-3-32-82.cpe.quadro.net 184.94.183.175
-      - 🇨🇦 Ontario Toronto M4Y cpe688f2e0ccdc3-cm688f2e0ccdc0.cpe.net.cable.rogers.com 99.229.193.38
-      - 🇨🇦 Quebec Montreal H2V BLU Fibre Networks inc 38.80.72.42
-      
+  - name: LOAD-BALANCE
+    type: load-balance
+    strategy: consistent-hashing
+    url: http://hi.bonds.id/ping
+    interval: 300
+    proxies:
+      - AU-45.79.238.129-0759✅
+      - AU-45.79.238.129-17613
+  - name: BEST-PING
+    type: url-test
+    url: http://hi.bonds.id/ping
+    interval: 300
+    tolerance: 50
+    proxies:
+      - AU-45.79.238.129-0759✅
+      - AU-45.79.238.129-17613
+  - name: FALLBACK
+    type: fallback
+    url: http://hi.bonds.id/ping
+    interval: 300
+    proxies:
+      - AU-45.79.238.129-0759✅
+      - AU-45.79.238.129-17613
 rules:
-  - DOMAIN-SUFFIX,us.criteo.net,REJECT
-  - DOMAIN-SUFFIX,zem.outbrainimg.com,REJECT
-  - DOMAIN-KEYWORD,admarvel,REJECT
-  - DOMAIN-KEYWORD,admaster,REJECT
-  - DOMAIN-KEYWORD,adsage,REJECT
-  - DOMAIN-KEYWORD,adsmogo,REJECT
-  - DOMAIN-KEYWORD,adsrvmedia,REJECT
-  - DOMAIN-KEYWORD,adwords,REJECT
-  - DOMAIN-KEYWORD,adservice,REJECT
-  - DOMAIN-SUFFIX,appsflyer.com,REJECT
-  - DOMAIN-KEYWORD,domob,REJECT
-  - DOMAIN-SUFFIX,doubleclick.net,REJECT
-  - DOMAIN-SUFFIX,doubleverify.com,REJECT
-  - DOMAIN-KEYWORD,duomeng,REJECT
-  - DOMAIN-KEYWORD,dwtrack,REJECT
-  - DOMAIN-KEYWORD,guanggao,REJECT
-  - DOMAIN-KEYWORD,lianmeng,REJECT
-  - DOMAIN-SUFFIX,mmstat.com,REJECT
-  - DOMAIN-KEYWORD,mopub,REJECT
-  - DOMAIN-KEYWORD,omgmta,REJECT
-  - DOMAIN-KEYWORD,openx,REJECT
-  - DOMAIN-KEYWORD,partnerad,REJECT
-  - DOMAIN-KEYWORD,pingfore,REJECT
-  - DOMAIN-KEYWORD,supersonicads,REJECT
-  - DOMAIN-KEYWORD,uedas,REJECT
-  - DOMAIN-KEYWORD,umeng,REJECT
-  - DOMAIN-KEYWORD,usage,REJECT
-  - DOMAIN-SUFFIX,vungle.com,REJECT
-  - DOMAIN-SUFFIX,stackadapt.com,REJECT
-  - DOMAIN-SUFFIX,unity3d.com,REJECT
-  - DOMAIN-SUFFIX,facebook.com,REJECT
-  - DOMAIN-KEYWORD,wlmonitor,REJECT
-  - DOMAIN-KEYWORD,zjtoolbar,REJECT
-  - DOMAIN-KEYWORD,googleplay,REJECT
-  - DOMAIN-KEYWORD,playstore,REJECT
-  - DOMAIN-KEYWORD,digitalturbine,REJECT
-  - DOMAIN-KEYWORD,soinluck,REJECT
-  - DOMAIN-KEYWORD,unity3d,REJECT
-  - DOMAIN-KEYWORD,liftoff,REJECT
+  - MATCH,FASTSSH-SSHKIT-HOWDY
   - RULE-SET,IKLANRUSAK,REJECT
   - RULE-SET,IKLANRUSAK2,REJECT
-  - MATCH,CUAN
+  - DOMAIN-SUFFIX,ferngrowth.com,REJECT
 rule-providers:
   IKLANRUSAK:
     behavior: "classical" 
