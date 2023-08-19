@@ -178,7 +178,7 @@ rules:
   - DOMAIN-SUFFIX,is-gateway.supersonicads.com,SUPERSONIC
   - DOMAIN-SUFFIX,logs.supersonic.com,SUPERSONIC
   - DOMAIN-SUFFIX,networksdk.ssacdn.com,SUPERSONIC
-  - DOMAIN-SUFFIX,outcome,supersonicads.com,SUPERSONIC
+  - DOMAIN-SUFFIX,outcome.supersonicads.com,SUPERSONIC
   - DOMAIN-SUFFIX,ow.gateway.supersonicads.com,SUPERSONIC
   - DOMAIN-SUFFIX,platform.ssacdn.com,SUPERSONIC
   - DOMAIN-SUFFIX,rv-gateway.supersonicads.com,SUPERSONIC
