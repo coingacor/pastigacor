@@ -199,5 +199,5 @@ rule-providers:
     behavior: "domain" 
     type: http
     url: "https://raw.githubusercontent.com/coingacor/pastigacor/main/domainiklan.yaml"
-    path: ./IKLANRUSAK2.yaml
+    path: ./BLOKIKLAN.yaml
     interval: 99999999
