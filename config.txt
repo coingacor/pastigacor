@@ -46,3 +46,16 @@ socks://67.213.212.54:11474#🇺🇸 Delaware|Wilmington|19804|static-96-227-229
 socks://67.213.212.50:37114#🇺🇸 New York|New York|10018|static-108-29-95-170.nycmny.fios.verizon.net| 108.29.95.170 |Time View 05/02/2024 16:32:26 |Black List Yes |Use Type: Residential|
 socks://66.29.128.241:12390#🇺🇸 New York|Buffalo|14221|static-108-17-53-177.bflony.fios.verizon.net| 108.17.53.177 |Time View 05/02/2024 16:32:24 |Black List Yes |Use Type: Business|
 socks://37.221.193.221:33332#🇺🇸 New York|Buffalo|14226|static-108-55-14-158.nycmny.east.verizon.net| 108.55.14.158 |Time View 05/02/2024 16:32:22 |Black List No |Use Type: Business|
+socks://162.0.220.220:54302#🇺🇸 New Jersey|Old Bridge|08857|ool-18bfca22.dyn.optonline.net| 24.191.202.34 |Time View 05/02/2024 21:17:11 |Black List Yes |Use Type: Residential|
+socks://67.213.212.36:46745#🇺🇸 Michigan|Albion|49224|d192-24-100-226.try.wideopenwest.com| 24.192.226.100 |Time View 05/02/2024 21:16:29 |Black List Yes |Use Type: Business|
+socks://67.213.212.55:61095#🇺🇸 Michigan|Garden City|48135|d28-23-61-98.dim.wideopenwest.com| 23.28.98.61 |Time View 05/02/2024 21:16:21 |Black List Yes |Use Type: Business|
+socks://209.159.153.21:46813#🇺🇸 Michigan|Mason|48854|d149-67-4-76.try.wideopenwest.com| 67.149.76.4 |Time View 05/02/2024 21:16:08 |Black List Yes |Use Type: Business|
+socks://108.181.133.59:23408#🇺🇸 Alabama|Huntsville|35801|d192-24-25-98.nap.wideopenwest.com| 24.192.98.25 |Time View 05/02/2024 21:16:04 |Black List Yes |Use Type: Business|
+socks://67.213.212.49:63796#🇺🇸 Michigan|Royal Oak|48073|d149-67-28-163.col.wideopenwest.com| 67.149.163.28 |Time View 05/02/2024 21:16:02 |Black List No |Use Type: Business|
+socks://67.213.212.52:39119#🇺🇸 Michigan|Utica|48316|d27-96-69-44.nap.wideopenwest.com| 96.27.44.69 |Time View 05/02/2024 21:16:00 |Black List Yes |Use Type: Business|
+socks://38.91.106.214:57661#🇺🇸 Nevada|Mesquite|89027|pppoe-72-19-35-164.rioaccess.com| 72.19.35.164 |Time View 05/02/2024 21:15:49 |Black List Yes |Use Type: Residential|
+socks://134.195.90.170:12302#🇺🇸 New York|Depew|14043|024-097-253-246.biz.spectrum.com| 24.97.253.246 |Time View 05/02/2024 21:15:39 |Black List Yes |Use Type: Business|
+socks://108.181.133.58:30821#🇺🇸 South Carolina|Beaufort|29907|Hargray Communications Group| 207.5.49.96 |Time View 05/02/2024 21:15:31 |Black List No |Use Type: Residential|
+socks://108.181.132.116:15570#🇺🇸 California|Elk Grove|95757|Consolidated Communications, Inc.| 156.47.74.195 |Time View 05/02/2024 21:14:55 |Black List No |Use Type: Business|
+socks://38.91.107.224:39778#🇺🇸 Nebraska|Petersburg|68652|gpc-72-8-252-32-ne.gpcom.net| 72.8.252.32 |Time View 05/02/2024 21:14:15 |Black List No |Use Type: Business|
+socks://209.159.153.20:28948#🇺🇸 Virginia|Midlothian|23112|pool-100-7-86-176.rcmdva.fios.verizon.net| 100.7.86.176 |Time View 05/02/2024 16:32:38 |Black List Yes |Use Type: Business|
