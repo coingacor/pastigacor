@@ -39,4 +39,10 @@ socks://67.213.212.48:56921#🇺🇸 Michigan|Rochester Hills|48309|d27-96-140-1
 socks://38.91.107.229:13533#🇺🇸 New Jersey|Millburn|07088|static-71-187-172-11.nwrknj.fios.verizon.net| 71.187.172.11 |Time View 04/02/2024 22:15:21 |Black List No |Use Type: Business|
 socks://209.159.153.22:30197#🇺🇸 New York|Bay Shore|11706|pool-68-132-218-214.nycmny.fios.verizon.net| 68.132.218.214 |Time View 04/02/2024 22:01:28 |Black List Yes |Use Type: Residential|
 socks://162.210.192.136:16019#🇺🇸 New Jersey|Unknown|Unknown|cp-wc01.iad01.ds.network| 43.250.249.1 |Time View 04/02/2024 21:26:05 |Black List Yes |Use Type: Business|
-socks://212.83.143.204:16388#🇺🇸 New Jersey|Piscataway|08854|server3.gm-innovations.com| 209.222.98.39 |Time View 04/02/2024 21:23:36 |Black List No |Use Type: Hosting|
+socks://67.213.212.57:65175#🇺🇸 Massachusetts|Westborough|01581|static-71-248-188-50.bstnma.fios.verizon.net| 71.248.188.50 |Time View 05/02/2024 16:32:40 |Black List No |Use Type: Business|
+socks://209.159.153.20:28948#🇺🇸 Virginia|Midlothian|23112|pool-100-7-86-176.rcmdva.fios.verizon.net| 100.7.86.176 |Time View 05/02/2024 16:32:38 |Black List Yes |Use Type: Business|
+socks://209.159.153.22:50229#🇺🇸 New York|New York|10025|static-108-21-89-112.nycmny.fios.verizon.net| 108.21.89.112 |Time View 05/02/2024 16:32:37 |Black List No |Use Type: Residential|
+socks://67.213.212.54:11474#🇺🇸 Delaware|Wilmington|19804|static-96-227-229-226.phlapa.fios.verizon.net| 96.227.229.226 |Time View 05/02/2024 16:32:32 |Black List Yes |Use Type: Business|
+socks://67.213.212.50:37114#🇺🇸 New York|New York|10018|static-108-29-95-170.nycmny.fios.verizon.net| 108.29.95.170 |Time View 05/02/2024 16:32:26 |Black List Yes |Use Type: Residential|
+socks://66.29.128.241:12390#🇺🇸 New York|Buffalo|14221|static-108-17-53-177.bflony.fios.verizon.net| 108.17.53.177 |Time View 05/02/2024 16:32:24 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:33332#🇺🇸 New York|Buffalo|14226|static-108-55-14-158.nycmny.east.verizon.net| 108.55.14.158 |Time View 05/02/2024 16:32:22 |Black List No |Use Type: Business|
