@@ -19,3 +19,21 @@ socks://66.23.233.210:60481#🇺🇸 New Jersey|Bayonne|07002|pool-71-187-75-13.
 socks://37.221.193.221:34839#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 06/02/2024 22:07:45 |Black List Yes |Use Type: Residential|
 socks://66.29.128.246:10565#🇺🇸 New Jersey|Jersey City|07306|static-71-172-124-202.nwrknj.fios.verizon.net| 71.172.124.202 |Time View 06/02/2024 22:07:41 |Black List Yes |Use Type: Residential|
 socks://162.0.220.217:46462#🇺🇸 New Jersey|Hawthorne|07506|ool-4573b818.dyn.optonline.net| 69.115.184.24 |Time View 06/02/2024 22:07:37 |Black List Yes |Use Type: Residential|
+socks://67.213.212.56:58557#🇺🇸 North Carolina|Greensboro|27401|74-124-191-218-static.northstate.net| 74.124.191.218 |Time View 06/02/2024 22:54:17 |Black List Yes |Use Type: Business|
+socks://23.105.170.33:55693#🇺🇸 North Carolina|Lumberton|28358|070-063-183-066.biz.spectrum.com| 70.63.183.66 |Time View 06/02/2024 22:54:15 |Black List No |Use Type: Business|
+socks://67.213.212.57:51841#🇺🇸 North Carolina|Highlands|28741|host-64-234-64-226.vyvebroadband.net| 64.234.64.226 |Time View 06/02/2024 22:54:08 |Black List Yes |Use Type: Residential|
+socks://67.213.212.40:57677#🇺🇸 North Carolina|Swansboro|28584|174-106-207-004.res.spectrum.com| 174.106.207.4 |Time View 06/02/2024 22:54:05 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:19920#🇺🇸 North Carolina|Rocky Mount|27804|Suddenlink Communications| 173.219.100.100 |Time View 06/02/2024 22:53:58 |Black List No |Use Type: Business|
+socks://37.221.193.221:36649#🇺🇸 North Carolina|Charlotte|28277|066-057-005-082.biz.spectrum.com| 66.57.5.82 |Time View 06/02/2024 22:53:52 |Black List No |Use Type: Business|
+socks://37.221.193.221:13586#🇺🇸 North Carolina|Cornelius|28031|adsl-99-69-49-143.dsl.wlfrct.sbcglobal.net| 99.69.49.143 |Time View 06/02/2024 22:53:49 |Black List No |Use Type: Residential|
+socks://162.19.7.50:10238#🇺🇸 North Carolina|Pinehurst|28374|065-191-193-018.inf.spectrum.com| 65.191.193.18 |Time View 06/02/2024 22:53:46 |Black List No |Use Type: Business|
+socks://38.91.107.220:10749#🇺🇸 New Jersey|Scotch Plains|07076|c-76-117-233-163.hsd1.nj.comcast.net| 76.117.233.163 |Time View 06/02/2024 22:53:26 |Black List Yes |Use Type: Residential|
+socks://209.159.153.22:37870#🇺🇸 New Jersey|Medford|08055|c-73-112-144-231.hsd1.nj.comcast.net| 73.112.144.231 |Time View 06/02/2024 22:52:46 |Black List Yes |Use Type: Residential|
+socks://67.213.212.47:31710#🇺🇸 New Jersey|Plainfield|07060|ool-addca12a.static.optonline.net| 173.220.161.42 |Time View 06/02/2024 22:52:42 |Black List No |Use Type: Business|
+socks://209.159.153.20:63595#🇺🇸 New Jersey|Seaside Heights|08751|ool-457d2139.dyn.optonline.net| 69.125.33.57 |Time View 06/02/2024 22:52:15 |Black List Yes |Use Type: Residential|
+socks://67.213.210.167:10625#🇺🇸 New Jersey|Bayonne|07002|ool-4b63b9d2.static.optonline.net| 75.99.185.210 |Time View 06/02/2024 22:52:13 |Black List Yes |Use Type: Business|
+socks://38.91.107.229:24480#🇺🇸 New Jersey|Millburn|07088|static-71-187-172-11.nwrknj.fios.verizon.net| 71.187.172.11 |Time View 06/02/2024 22:52:10 |Black List No |Use Type: Business|
+socks://209.97.153.206:40000#🇺🇸 New Jersey|Weehawken|07086|pool-96-225-30-154.nwrknj.fios.verizon.net| 96.225.30.154 |Time View 06/02/2024 22:52:04 |Black List Yes |Use Type: Residential|
+socks://67.213.212.52:39128#🇺🇸 New Jersey|Jersey City|07302|static-108-53-30-9.nwrknj.fios.verizon.net| 108.53.30.9 |Time View 06/02/2024 22:51:49 |Black List No |Use Type: Residential|
+socks://162.0.220.216:11330#🇺🇸 New Jersey|Clifton|07011|pool-71-172-243-50.nwrknj.fios.verizon.net| 71.172.243.50 |Time View 06/02/2024 22:51:47 |Black List Yes |Use Type: Residential|
+socks://67.213.212.52:25087#🇺🇸 Michigan|Utica|48316|d27-96-69-44.nap.wideopenwest.com| 96.27.44.69 |Time View 06/02/2024 22:50:59 |Black List Yes |Use Type: Business|
