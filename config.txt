@@ -37,3 +37,4 @@ socks://209.97.153.206:40000#🇺🇸 New Jersey|Weehawken|07086|pool-96-225-30-
 socks://67.213.212.52:39128#🇺🇸 New Jersey|Jersey City|07302|static-108-53-30-9.nwrknj.fios.verizon.net| 108.53.30.9 |Time View 06/02/2024 22:51:49 |Black List No |Use Type: Residential|
 socks://162.0.220.216:11330#🇺🇸 New Jersey|Clifton|07011|pool-71-172-243-50.nwrknj.fios.verizon.net| 71.172.243.50 |Time View 06/02/2024 22:51:47 |Black List Yes |Use Type: Residential|
 socks://67.213.212.52:25087#🇺🇸 Michigan|Utica|48316|d27-96-69-44.nap.wideopenwest.com| 96.27.44.69 |Time View 06/02/2024 22:50:59 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:22096#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 07/02/2024 00:49:14 |Black List Yes |Use Type: Residential|
