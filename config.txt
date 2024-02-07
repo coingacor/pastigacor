@@ -64,3 +64,12 @@ socks://23.105.170.32:56680#🇺🇸 New Jersey|Flemington|08822|c-174-57-46-53.
 socks://174.138.176.77:23343#🇺🇸 North Carolina|Locust|28097|Hargray Communications Group, Inc.| 207.182.76.198 |Time View 07/02/2024 20:06:47 |Black List Yes |Use Type: Business|
 socks://67.213.212.58:64423#🇺🇸 North Carolina|Cary|27519|107-015-209-198.res.spectrum.com| 107.15.209.198 |Time View 07/02/2024 20:06:40 |Black List Yes |Use Type: Business|
 socks://37.221.193.221:26542#🇺🇸 North Carolina|Rocky Mount|27804|Suddenlink Communications| 173.219.100.100 |Time View 07/02/2024 20:06:33 |Black List No |Use Type: Business|
+socks://67.213.212.52:10245#🇺🇸 New Jersey|Jersey City|07302|static-108-53-30-9.nwrknj.fios.verizon.net| 108.53.30.9 |Time View 07/02/2024 20:48:26 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:52514#🇺🇸 New Jersey|South Hackensack|07606|ool-4b63acb2.static.optonline.net| 75.99.172.178 |Time View 07/02/2024 20:48:15 |Black List Yes |Use Type: Residential|
+socks://38.91.107.229:29198#🇺🇸 New Jersey|North Brunswick|08902|c-50-184-121-196.unallocated.comcastbusiness.net| 50.184.121.196 |Time View 07/02/2024 20:48:10 |Black List No |Use Type: Residential|
+socks://67.213.212.52:51589#🇺🇸 New Jersey|Nutley|07110|ool-6c3aa8a0.static.optonline.net| 108.58.168.160 |Time View 07/02/2024 20:47:59 |Black List No |Use Type: Business|
+socks://108.181.132.116:39716#🇺🇸 New Jersey|Paterson|07501|pool-71-187-14-155.nwrknj.fios.verizon.net| 71.187.14.155 |Time View 07/02/2024 20:47:53 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:11627#🇺🇸 New Jersey|South Plainfield|07080|dimartinoinc-gw.customer.alter.net| 152.179.173.218 |Time View 07/02/2024 20:47:50 |Black List Yes |Use Type: Business|
+socks://67.213.212.52:58674#🇺🇸 New Jersey|West Berlin|08091|96-82-191-170-static.hfc.comcastbusiness.net| 96.82.191.170 |Time View 07/02/2024 20:47:41 |Black List No |Use Type: Residential|
+socks://23.88.121.205:18639#🇺🇸 New Jersey|Newark|07107|ool-4b639e4e.static.optonline.net| 75.99.158.78 |Time View 07/02/2024 20:46:19 |Black List Yes |Use Type: Business|
+socks://67.213.212.47:60774#🇺🇸 New Jersey|Plainfield|07060|ool-addca12a.static.optonline.net| 173.220.161.42 |Time View 07/02/2024 20:46:14 |Black List Yes |Use Type: Business|
