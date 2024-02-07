@@ -58,3 +58,6 @@ socks://45.132.75.19:16181#🇺🇸 New York|Rye|10580|pool-173-56-207-198.nycmn
 socks://162.210.192.135:23187#🇺🇸 New Jersey|Ridgewood|07450|webhosting1000.is.cc| 64.20.63.202 |Time View 07/02/2024 13:54:49 |Black List No |Use Type: Hosting|
 socks://162.210.192.135:27611#🇺🇸 New Jersey|Elizabeth|07202|webhosting2049.is.cc| 66.45.229.58 |Time View 07/02/2024 13:54:23 |Black List Yes |Use Type: Hosting|
 socks://162.210.192.135:61903#🇺🇸 New York|New York|10003|webhosting3002.is.cc| 162.246.16.66 |Time View 07/02/2024 13:54:06 |Black List No |Use Type: Hosting|
+socks://66.23.233.210:15269#🇺🇸 New Jersey|Morris Plains|07950|c-50-184-95-129.unallocated.comcastbusiness.net| 50.184.95.129 |Time View 07/02/2024 16:42:32 |Black List Yes |Use Type: Residential|
+socks://38.91.107.229:28599#🇺🇸 New Jersey|Millburn|07088|static-71-187-172-11.nwrknj.fios.verizon.net| 71.187.172.11 |Time View 07/02/2024 16:42:22 |Black List Yes |Use Type: Business|
+socks://23.105.170.32:56680#🇺🇸 New Jersey|Flemington|08822|c-174-57-46-53.hsd1.nj.comcast.net| 174.57.46.53 |Time View 07/02/2024 16:42:18 |Black List Yes |Use Type: Residential|
