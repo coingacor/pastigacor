@@ -50,3 +50,4 @@ socks://162.210.192.136:12854#🇺🇸 New Jersey|Piscataway|08854|zeus.servidor
 socks://38.91.107.229:63867#🇺🇸 New Jersey|Millburn|07088|static-71-187-172-11.nwrknj.fios.verizon.net| 71.187.172.11 |Time View 07/02/2024 03:46:50 |Black List Yes |Use Type: Business|
 socks://195.154.43.184:44373#🇺🇸 New Jersey|Piscataway|08854|zealth.acceleratedwp.com| 45.77.78.189 |Time View 07/02/2024 03:51:55 |Black List No |Use Type: Hosting|
 socks://212.83.143.223:19809#🇺🇸 New Jersey|North Bergen|07047|DigitalOcean, LLC| 159.203.190.69 |Time View 07/02/2024 13:42:46 |Black List No |Use Type: Hosting|
+socks://67.213.212.51:35326#🇺🇸 Michigan|Williamston|48895|d199-74-24-47.try.wideopenwest.com| 74.199.47.24 |Time View 07/02/2024 13:46:08 |Black List Yes |Use Type: Business|
