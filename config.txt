@@ -4,3 +4,4 @@ socks://67.213.212.39:41335#🇺🇸 New Jersey|Avalon|08202|c-73-198-21-70.hsd1
 socks://45.132.75.19:25897#🇺🇸 New York|Larchmont|10538|pool-68-129-149-226.nycmny.fios.verizon.net| 68.129.149.226 |Time View 09/02/2024 02:30:52 |Black List Yes |Use Type: Business|
 socks://37.221.193.221:25641#🇺🇸 New York|Buffalo|14226|static-108-55-14-158.nycmny.east.verizon.net| 108.55.14.158 |Time View 09/02/2024 02:34:32 |Black List No |Use Type: Business|
 socks://67.213.210.168:11423#🇺🇸 Pennsylvania|Elizabeth|15037|pool-72-65-223-29.pitbpa.fios.verizon.net| 72.65.223.29 |Time View 09/02/2024 02:33:43 |Black List Yes |Use Type: Residential|
+socks://67.213.212.40:46592#🇺🇸 New Jersey|Jersey City|07305|c-73-198-24-107.hsd1.nj.comcast.net| 73.198.24.107 |Time View 09/02/2024 05:00:32 |Black List Yes |Use Type: Business|
