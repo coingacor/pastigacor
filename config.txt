@@ -1,5 +1,5 @@
 socks://37.221.193.221:22132#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 09/02/2024 01:31:37 |Black List Yes |Use Type: Residential|
-socks://162.0.220.218:65307#🇺🇸 New Jersey|Cherry Hill|08003|c-174-57-71-99.hsd1.nj.comcast.net| 174.57.71.99 |Time View 09/02/2024 01:35:13 |Black List Yes |Use Type: Residential|
+socks://23.105.170.32:23163#🇺🇸 New Jersey|Cherry Hill|08002|c-24-0-117-211.hsd1.nj.comcast.net| 24.0.117.211 |Time View 09/02/2024 03:53:03 |Black List Yes |Use Type: Residential|https://dichvusocks.us
 socks://67.213.212.39:41335#🇺🇸 New Jersey|Avalon|08202|c-73-198-21-70.hsd1.nj.comcast.net| 73.198.21.70 |Time View 09/02/2024 01:47:19 |Black List Yes |Use Type: Business|
 socks://45.132.75.19:25897#🇺🇸 New York|Larchmont|10538|pool-68-129-149-226.nycmny.fios.verizon.net| 68.129.149.226 |Time View 09/02/2024 02:30:52 |Black List Yes |Use Type: Business|
 socks://37.221.193.221:25641#🇺🇸 New York|Buffalo|14226|static-108-55-14-158.nycmny.east.verizon.net| 108.55.14.158 |Time View 09/02/2024 02:34:32 |Black List No |Use Type: Business|
