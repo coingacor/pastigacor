@@ -28,3 +28,9 @@ socks://67.213.212.48:10046#🇺🇸 New Jersey|Trenton|08618|c-174-167-22-25.hs
 socks://67.213.210.167:25546#🇺🇸 New Jersey|Bayonne|07002|ool-4b63b9d2.static.optonline.net| 75.99.185.210 |Time View 09/02/2024 18:47:43 |Black List Yes |Use Type: Business|
 socks://38.91.107.224:56637#🇺🇸 New Jersey|Paterson|07503|static-100-35-213-203.nwrknj.fios.verizon.net| 100.35.213.203 |Time View 09/02/2024 18:47:37 |Black List Yes |Use Type: Residential|
 socks://209.159.153.21:22666#🇺🇸 New Jersey|South Hackensack|07606|ool-4b63acb2.static.optonline.net| 75.99.172.178 |Time View 09/02/2024 18:47:34 |Black List No |Use Type: Residential|
+socks://67.213.212.52:25235#🇺🇸 New Jersey|Nutley|07110|ool-6c3aa8a0.static.optonline.net| 108.58.168.160 |Time View 09/02/2024 22:07:19 |Black List Yes |Use Type: Business|
+socks://162.19.7.59:26537#🇺🇸 New Jersey|Trenton|08610|Comcast Cable Communications, LLC| 50.201.151.186 |Time View 09/02/2024 22:07:15 |Black List Yes |Use Type: Residential|
+socks://67.213.212.40:18526#🇺🇸 New Jersey|Hackensack|07601|pool-108-53-111-17.nwrknj.fios.verizon.net| 108.53.111.17 |Time View 09/02/2024 22:07:10 |Black List Yes |Use Type: Residential|
+socks://45.91.93.166:13216#🇺🇸 New York|Stanfordville|12581|ool-44c592cf.dyn.optonline.net| 68.197.146.207 |Time View 09/02/2024 22:06:50 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:13365#🇺🇸 New York|Amityville|11701|ool-6caa4ee2.static.optonline.net| 108.170.78.226 |Time View 09/02/2024 22:06:35 |Black List Yes |Use Type: Business|
+socks://67.213.212.38:61923#🇺🇸 Michigan|Hastings|49058|d4-50-200-227.evv.wideopenwest.com| 50.4.227.200 |Time View 09/02/2024 22:05:31 |Black List Yes |Use Type: Business|
