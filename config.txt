@@ -19,3 +19,12 @@ socks://67.213.212.47:48472#🇺🇸 New Jersey|Plainfield|07060|ool-addca12a.st
 socks://162.19.7.57:54225#🇺🇸 New Jersey|Cherry Hill|08002|pool-173-61-70-76.cmdnnj.fios.verizon.net| 173.61.70.76 |Time View 09/02/2024 14:40:31 |Black List Yes |Use Type: Residential|
 socks://23.105.170.34:56296#🇺🇸 Michigan|Richland|49083|c-68-36-204-90.hsd1.mi.comcast.net| 68.36.204.90 |Time View 09/02/2024 14:45:53 |Black List Yes |Use Type: Residential|
 socks://162.0.220.161:15524#🇺🇸 Michigan|Warren|48091|c-67-177-145-27.hsd1.mi.comcast.net| 67.177.145.27 |Time View 09/02/2024 14:45:52 |Black List Yes |Use Type: Residential|
+socks://51.68.244.19:29433#🇺🇸 New Jersey|Lyndhurst|07071|T-Mobile USA, Inc.| 172.59.215.200 |Time View 09/02/2024 18:49:22 |Black List Yes |Use Type: Cellular|
+socks://66.23.233.210:47781#🇺🇸 New Jersey|Morris Plains|07950|c-50-184-95-129.unallocated.comcastbusiness.net| 50.184.95.129 |Time View 09/02/2024 18:48:48 |Black List Yes |Use Type: Residential|
+socks://66.29.128.243:15401#🇺🇸 New Jersey|Pennsauken|08110|static-173-61-253-40.cmdnnj.fios.verizon.net| 173.61.253.40 |Time View 09/02/2024 18:48:35 |Black List Yes |Use Type: Residential|
+socks://66.29.128.246:20288#🇺🇸 New Jersey|Jersey City|07306|static-71-172-124-202.nwrknj.fios.verizon.net| 71.172.124.202 |Time View 09/02/2024 18:48:24 |Black List Yes |Use Type: Residential|
+socks://67.213.212.47:39434#🇺🇸 New Jersey|Plainfield|07060|ool-addca12a.static.optonline.net| 173.220.161.42 |Time View 09/02/2024 18:47:56 |Black List No |Use Type: Business|
+socks://67.213.212.48:10046#🇺🇸 New Jersey|Trenton|08618|c-174-167-22-25.hsd1.nj.comcast.net| 174.167.22.25 |Time View 09/02/2024 18:47:53 |Black List Yes |Use Type: Residential|
+socks://67.213.210.167:25546#🇺🇸 New Jersey|Bayonne|07002|ool-4b63b9d2.static.optonline.net| 75.99.185.210 |Time View 09/02/2024 18:47:43 |Black List Yes |Use Type: Business|
+socks://38.91.107.224:56637#🇺🇸 New Jersey|Paterson|07503|static-100-35-213-203.nwrknj.fios.verizon.net| 100.35.213.203 |Time View 09/02/2024 18:47:37 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:22666#🇺🇸 New Jersey|South Hackensack|07606|ool-4b63acb2.static.optonline.net| 75.99.172.178 |Time View 09/02/2024 18:47:34 |Black List No |Use Type: Residential|
