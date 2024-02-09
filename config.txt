@@ -41,3 +41,5 @@ socks://209.159.153.21:60855#🇺🇸 Michigan|Taylor|48180|d14-69-10-63.try.wid
 socks://67.213.212.40:40851#🇺🇸 Michigan|Homer|49245|d192-24-159-228.try.wideopenwest.com| 24.192.228.159 |Time View 09/02/2024 23:11:01 |Black List Yes |Use Type: Business|
 socks://67.213.212.53:23946#🇺🇸 Michigan|Utica|48316|d149-67-248-24.nap.wideopenwest.com| 67.149.24.248 |Time View 09/02/2024 23:10:29 |Black List Yes |Use Type: Business|
 socks://37.221.193.221:16262#🇺🇸 New Jersey|South Plainfield|07080|dimartinoinc-gw.customer.alter.net| 152.179.173.218 |Time View 09/02/2024 23:08:53 |Black List Yes |Use Type: Business|
+socks://67.213.212.36:47475#🇺🇸 Pennsylvania|Lancaster|17601|c-174-175-35-22.hsd1.pa.comcast.net| 174.175.35.22 |Time View 10/02/2024 06:54:17 |Black List Yes |Use Type: Residential|
+socks://67.213.212.55:24621#🇺🇸 Pennsylvania|Beaver|15009|c-98-236-104-142.hsd1.pa.comcast.net| 98.236.104.142 |Time View 10/02/2024 06:54:02 |Black List Yes |Use Type: Residential|
