@@ -34,3 +34,10 @@ socks://67.213.212.40:18526#🇺🇸 New Jersey|Hackensack|07601|pool-108-53-111
 socks://45.91.93.166:13216#🇺🇸 New York|Stanfordville|12581|ool-44c592cf.dyn.optonline.net| 68.197.146.207 |Time View 09/02/2024 22:06:50 |Black List Yes |Use Type: Residential|
 socks://37.221.193.221:13365#🇺🇸 New York|Amityville|11701|ool-6caa4ee2.static.optonline.net| 108.170.78.226 |Time View 09/02/2024 22:06:35 |Black List Yes |Use Type: Business|
 socks://67.213.212.38:61923#🇺🇸 Michigan|Hastings|49058|d4-50-200-227.evv.wideopenwest.com| 50.4.227.200 |Time View 09/02/2024 22:05:31 |Black List Yes |Use Type: Business|
+socks://67.213.212.47:35242#🇺🇸 New Jersey|Bayonne|07002|ool-6039785c.static.optonline.net| 96.57.120.92 |Time View 09/02/2024 23:13:33 |Black List Yes |Use Type: Business|
+socks://67.213.210.118:55886#🇺🇸 New Jersey|Paterson|07522|ool-ae2c95c4.dyn.optonline.net| 174.44.149.196 |Time View 09/02/2024 23:13:28 |Black List Yes |Use Type: Residential|
+socks://66.29.128.242:60305#🇺🇸 Pennsylvania|Easton|18042|216-15-106-34.s544.c3-0.eas-cbr6.atw-eas.pa.cable.rcncustomer.com| 216.15.106.34 |Time View 09/02/2024 23:12:42 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:60855#🇺🇸 Michigan|Taylor|48180|d14-69-10-63.try.wideopenwest.com| 69.14.63.10 |Time View 09/02/2024 23:11:09 |Black List Yes |Use Type: Business|
+socks://67.213.212.40:40851#🇺🇸 Michigan|Homer|49245|d192-24-159-228.try.wideopenwest.com| 24.192.228.159 |Time View 09/02/2024 23:11:01 |Black List Yes |Use Type: Business|
+socks://67.213.212.53:23946#🇺🇸 Michigan|Utica|48316|d149-67-248-24.nap.wideopenwest.com| 67.149.24.248 |Time View 09/02/2024 23:10:29 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:16262#🇺🇸 New Jersey|South Plainfield|07080|dimartinoinc-gw.customer.alter.net| 152.179.173.218 |Time View 09/02/2024 23:08:53 |Black List Yes |Use Type: Business|
