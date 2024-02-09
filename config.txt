@@ -6,3 +6,6 @@ socks://37.221.193.221:25641#🇺🇸 New York|Buffalo|14226|static-108-55-14-15
 socks://67.213.210.168:11423#🇺🇸 Pennsylvania|Elizabeth|15037|pool-72-65-223-29.pitbpa.fios.verizon.net| 72.65.223.29 |Time View 09/02/2024 02:33:43 |Black List Yes |Use Type: Residential|
 socks://67.213.212.40:46592#🇺🇸 New Jersey|Jersey City|07305|c-73-198-24-107.hsd1.nj.comcast.net| 73.198.24.107 |Time View 09/02/2024 05:00:32 |Black List Yes |Use Type: Business|
 socks://51.254.167.45:35265#🇺🇸 Wisconsin|Milwaukee|53215|174-097-148-250.res.spectrum.com| 174.97.148.250 |Time View 09/02/2024 05:03:26 |Black List Yes |Use Type: Business|
+socks://209.159.153.21:25138#🇺🇸 New Jersey|South Hackensack|07606|ool-4b63acb2.static.optonline.net| 75.99.172.178 |Time View 09/02/2024 07:27:05 |Black List No |Use Type: Residential|
+socks://37.221.193.221:23075#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 09/02/2024 07:26:10 |Black List Yes |Use Type: Residential|
+socks://67.213.212.52:19102#🇺🇸 New Jersey|Nutley|07110|ool-6c3aa8a0.static.optonline.net| 108.58.168.160 |Time View 09/02/2024 07:25:47 |Black List No |Use Type: Business|
