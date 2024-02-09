@@ -9,3 +9,5 @@ socks://51.254.167.45:35265#🇺🇸 Wisconsin|Milwaukee|53215|174-097-148-250.r
 socks://209.159.153.21:25138#🇺🇸 New Jersey|South Hackensack|07606|ool-4b63acb2.static.optonline.net| 75.99.172.178 |Time View 09/02/2024 07:27:05 |Black List No |Use Type: Residential|
 socks://37.221.193.221:23075#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 09/02/2024 07:26:10 |Black List Yes |Use Type: Residential|
 socks://67.213.212.52:19102#🇺🇸 New Jersey|Nutley|07110|ool-6c3aa8a0.static.optonline.net| 108.58.168.160 |Time View 09/02/2024 07:25:47 |Black List No |Use Type: Business|
+socks://67.213.212.48:17086#🇺🇸 Michigan|Rochester Hills|48309|d27-96-140-16.nap.wideopenwest.com| 96.27.16.140 |Time View 09/02/2024 08:03:43 |Black List No |Use Type: Business|
+socks://67.213.212.36:50991#🇺🇸 Michigan|Canton|48188|d179-68-139-148.evv.wideopenwest.com| 68.179.148.139 |Time View 09/02/2024 08:03:28 |Black List Yes |Use Type: Business|
