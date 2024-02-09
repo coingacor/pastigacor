@@ -12,3 +12,4 @@ socks://67.213.212.52:19102#🇺🇸 New Jersey|Nutley|07110|ool-6c3aa8a0.static
 socks://67.213.212.48:17086#🇺🇸 Michigan|Rochester Hills|48309|d27-96-140-16.nap.wideopenwest.com| 96.27.16.140 |Time View 09/02/2024 08:03:43 |Black List No |Use Type: Business|
 socks://67.213.212.36:50991#🇺🇸 Michigan|Canton|48188|d179-68-139-148.evv.wideopenwest.com| 68.179.148.139 |Time View 09/02/2024 08:03:28 |Black List Yes |Use Type: Business|
 socks://23.105.170.35:63157#🇺🇸 Colorado|Denver|80210|Comcast Cable Communications, LLC| 50.235.222.94 |Time View 09/02/2024 11:20:26 |Black List Yes |Use Type: Residential|
+socks://23.105.170.35:23802#🇺🇸 Missouri|Springfield|65807|SpringNet| 75.98.96.122 |Time View 09/02/2024 13:33:25 |Black List No |Use Type: Business|
