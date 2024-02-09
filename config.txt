@@ -17,3 +17,5 @@ socks://209.159.153.21:23421#🇺🇸 New Jersey|South Hackensack|07606|ool-4b63
 socks://37.221.193.221:31970#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 09/02/2024 14:40:52 |Black List Yes |Use Type: Residential|
 socks://67.213.212.47:48472#🇺🇸 New Jersey|Plainfield|07060|ool-addca12a.static.optonline.net| 173.220.161.42 |Time View 09/02/2024 14:40:41 |Black List No |Use Type: Business|
 socks://162.19.7.57:54225#🇺🇸 New Jersey|Cherry Hill|08002|pool-173-61-70-76.cmdnnj.fios.verizon.net| 173.61.70.76 |Time View 09/02/2024 14:40:31 |Black List Yes |Use Type: Residential|
+socks://23.105.170.34:56296#🇺🇸 Michigan|Richland|49083|c-68-36-204-90.hsd1.mi.comcast.net| 68.36.204.90 |Time View 09/02/2024 14:45:53 |Black List Yes |Use Type: Residential|
+socks://162.0.220.161:15524#🇺🇸 Michigan|Warren|48091|c-67-177-145-27.hsd1.mi.comcast.net| 67.177.145.27 |Time View 09/02/2024 14:45:52 |Black List Yes |Use Type: Residential|
