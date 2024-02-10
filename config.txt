@@ -19,3 +19,6 @@ socks://67.213.212.58:22723#🇺🇸 New Jersey|Camden|08102|Comcast Cable Commu
 socks://23.105.170.34:61028#🇺🇸 New Jersey|Newark|07103|ool-182ca06b.dyn.optonline.net| 24.44.160.107 |Time View 11/02/2024 01:51:45 |Black List Yes |Use Type: Residential|
 socks://66.29.128.242:35038#🇺🇸 New Jersey|Hoboken|07030|static-108-5-242-154.nwrknj.fios.verizon.net| 108.5.242.154 |Time View 11/02/2024 01:51:39 |Black List Yes |Use Type: Residential|
 socks://209.159.153.20:36133#🇺🇸 New Jersey|Sicklerville|08081|c-73-160-158-182.hsd1.nj.comcast.net| 73.160.158.182 |Time View 11/02/2024 01:51:33 |Black List Yes |Use Type: Residential|
+socks://66.29.129.54:19720#🇺🇸 Michigan|Blanchard|49310|blan-dsl-49-144-133-67.power-net.net| 67.133.144.49 |Time View 11/02/2024 05:51:09 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:33622#🇺🇸 Michigan|Detroit|48228|c-68-42-195-175.hsd1.mi.comcast.net| 68.42.195.175 |Time View 11/02/2024 05:50:58 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:59621#🇺🇸 Michigan|Rochester|48306|50-247-4-13-static.hfc.comcastbusiness.net| 50.247.4.13 |Time View 11/02/2024 05:50:53 |Black List Yes |Use Type: Residential|
