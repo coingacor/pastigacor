@@ -1,3 +1,11 @@
 socks5://67.213.212.52:19102/#%F0%9F%87%BA%F0%9F%87%B8%20New%20Jersey%7CNutley%7C07110%7Cool-6c3aa8a0.static.optonline.net%7C%20108.58.168.160%20%7CTime%20View%2009%2F02%2F2024%2007%3A25%3A47%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
 socks5://209.159.153.21:60855/#%F0%9F%87%BA%F0%9F%87%B8%20Michigan%7CTaylor%7C48180%7Cd14-69-10-63.try.wideopenwest.com%7C%2069.14.63.10%20%7CTime%20View%2009%2F02%2F2024%2023%3A11%3A09%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
 socks5://67.213.212.55:24621/#%F0%9F%87%BA%F0%9F%87%B8%20Pennsylvania%7CBeaver%7C15009%7Cc-98-236-104-142.hsd1.pa.comcast.net%7C%2098.236.104.142%20%7CTime%20View%2010%2F02%2F2024%2006%3A54%3A02%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7C
+socks://209.159.153.19:54508#🇺🇸 Pennsylvania|Philadelphia|19134|c-73-165-62-222.hsd1.pa.comcast.net| 73.165.62.222 |Time View 10/02/2024 17:42:05 |Black List Yes |Use Type: Residential|
+socks://67.213.212.53:12063#🇺🇸 Pennsylvania|Downingtown|19335|Comcast Cable Communications, LLC| 71.25.100.100 |Time View 10/02/2024 17:41:56 |Black List Yes |Use Type: Residential|
+socks://67.213.212.38:60054#🇺🇸 Pennsylvania|Bloomsburg|17815|50-208-224-26-static.hfc.comcastbusiness.net| 50.208.224.26 |Time View 10/02/2024 17:41:49 |Black List No |Use Type: Residential|
+socks://209.159.153.21:42739#🇺🇸 Pennsylvania|East Earl|17519|96-77-166-30-static.hfc.comcastbusiness.net| 96.77.166.30 |Time View 10/02/2024 17:41:45 |Black List Yes |Use Type: Residential|
+socks://38.91.106.252:64673#🇺🇸 Pennsylvania|Oil City|16301|Comcast Cable Communications| 24.131.192.158 |Time View 10/02/2024 17:41:35 |Black List Yes |Use Type: Residential|
+socks://162.0.220.217:38529#🇺🇸 New Jersey|Hawthorne|07506|ool-4573b818.dyn.optonline.net| 69.115.184.24 |Time View 10/02/2024 17:41:18 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:31079#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 10/02/2024 17:40:49 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:19822#🇺🇸 New Jersey|Trenton|08618|c-174-167-22-25.hsd1.nj.comcast.net| 174.167.22.25 |Time View 10/02/2024 17:40:43 |Black List Yes |Use Type: Residential|
