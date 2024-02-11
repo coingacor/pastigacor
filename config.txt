@@ -22,3 +22,6 @@ socks://209.159.153.20:36133#🇺🇸 New Jersey|Sicklerville|08081|c-73-160-158
 socks://66.29.129.54:19720#🇺🇸 Michigan|Blanchard|49310|blan-dsl-49-144-133-67.power-net.net| 67.133.144.49 |Time View 11/02/2024 05:51:09 |Black List Yes |Use Type: Residential|
 socks://209.159.153.20:33622#🇺🇸 Michigan|Detroit|48228|c-68-42-195-175.hsd1.mi.comcast.net| 68.42.195.175 |Time View 11/02/2024 05:50:58 |Black List Yes |Use Type: Residential|
 socks://67.213.212.48:59621#🇺🇸 Michigan|Rochester|48306|50-247-4-13-static.hfc.comcastbusiness.net| 50.247.4.13 |Time View 11/02/2024 05:50:53 |Black List Yes |Use Type: Residential|
+socks://67.213.212.50:46104#🇺🇸 Pennsylvania|Carlisle|17013|c-73-187-5-209.hsd1.pa.comcast.net| 73.187.5.209 |Time View 11/02/2024 08:06:46 |Black List Yes |Use Type: Residential|
+socks://67.213.212.54:61250#🇺🇸 Pennsylvania|Philadelphia|19128|70-89-16-29-pa-nj.hfc.comcastbusiness.net| 70.89.16.29 |Time View 11/02/2024 08:06:43 |Black List No |Use Type: Residential|
+socks://67.213.210.115:19920#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl129180.iro.ptd.net| 204.186.129.180 |Time View 11/02/2024 08:06:39 |Black List Yes |Use Type: Residential|
