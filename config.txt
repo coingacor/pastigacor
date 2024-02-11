@@ -28,3 +28,14 @@ socks://67.213.210.115:19920#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl129
 socks://66.29.128.241:52292#🇺🇸 New Jersey|Iselin|08830|c-73-112-199-72.hsd1.nj.comcast.net| 73.112.199.72 |Time View 11/02/2024 09:00:42 |Black List Yes |Use Type: Residential|
 socks://193.29.62.48:25275#🇺🇸 New Jersey|Haledon|07508|4133fde2.cst.lightpath.net| 65.51.253.226 |Time View 11/02/2024 09:00:33 |Black List Yes |Use Type: Residential|
 socks://67.213.212.38:54539#🇺🇸 New Jersey|Lakewood|08701|ool-18bf6d4b.dyn.optonline.net| 24.191.109.75 |Time View 11/02/2024 09:00:31 |Black List Yes |Use Type: Residential|
+socks://66.29.129.56:65177#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl12097.iro.ptd.net| 204.186.12.97 |Time View 12/02/2024 00:10:21 |Black List Yes |Use Type: Residential|
+socks://67.213.212.38:52556#🇺🇸 Michigan|Canton|48187|d179-68-164-149.evv.wideopenwest.com| 68.179.149.164 |Time View 12/02/2024 00:09:21 |Black List No |Use Type: Business|
+socks://66.29.128.242:14911#🇺🇸 Michigan|Trenton|48183|d27-96-31-81.nap.wideopenwest.com| 96.27.81.31 |Time View 12/02/2024 00:09:08 |Black List Yes |Use Type: Business|
+socks://67.213.212.40:64090#🇺🇸 Michigan|Novi|48377|23-115-210-116.lightspeed.livnmi.sbcglobal.net| 23.115.210.116 |Time View 12/02/2024 00:09:04 |Black List No |Use Type: Residential|
+socks://66.29.128.246:54105#🇺🇸 New Jersey|Brigantine|08203|c-76-117-57-105.hsd1.nj.comcast.net| 76.117.57.105 |Time View 12/02/2024 00:08:29 |Black List Yes |Use Type: Residential|
+socks://108.181.132.115:19978#🇺🇸 New Jersey|North Brunswick|08902|c-50-184-121-195.unallocated.comcastbusiness.net| 50.184.121.195 |Time View 12/02/2024 00:08:20 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:36862#🇺🇸 New Jersey|Lodi|07644|ool-44c57d82.dyn.optonline.net| 68.197.125.130 |Time View 12/02/2024 00:08:15 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:28273#🇺🇸 New Jersey|Newark|07105|static-71-251-219-122.nwrknj.fios.verizon.net| 71.251.219.122 |Time View 12/02/2024 00:08:11 |Black List Yes |Use Type: Residential|
+socks://66.23.233.210:42459#🇺🇸 New Jersey|Elizabeth|07201|static-74-102-123-126.nwrknj.fios.verizon.net| 74.102.123.126 |Time View 12/02/2024 00:08:08 |Black List No |Use Type: Residential|
+socks://209.159.153.21:52499#🇺🇸 New Jersey|Long Branch|07740|static-71-187-8-26.nwrknj.fios.verizon.net| 71.187.8.26 |Time View 12/02/2024 00:08:06 |Black List No |Use Type: Residential|
+socks://176.126.84.126:14707#🇺🇸 New Jersey|Haledon|07508|4133fde2.cst.lightpath.net| 65.51.253.226 |Time View 12/02/2024 00:08:04 |Black List Yes |Use Type: Residential|
