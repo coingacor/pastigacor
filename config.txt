@@ -60,3 +60,4 @@ socks://67.213.212.53:23946#🇺🇸 Michigan|Utica|48316|d149-67-248-24.nap.wid
 socks://209.159.153.20:30516#🇺🇸 Pennsylvania|Aliquippa|15001|c-174-181-65-74.hsd1.pa.comcast.net| 174.181.65.74 |Time View 12/02/2024 12:51:10 |Black List Yes |Use Type: Residential|
 socks://67.213.212.54:20067#🇺🇸 Pennsylvania|Norristown|19403|static-96-245-64-59.phlapa.fios.verizon.net| 96.245.64.59 |Time View 12/02/2024 12:51:01 |Black List Yes |Use Type: Residential|
 socks://67.213.212.38:60146#🇺🇸 Pennsylvania|Downingtown|19335|c-73-13-96-125.hsd1.pa.comcast.net| 73.13.96.125 |Time View 12/02/2024 12:50:57 |Black List Yes |Use Type: Residential|
+socks://67.213.212.54:30301#🇺🇸 New York|Brewster|10509|Comcast Cable Communications, LLC| 50.210.82.25 |Time View 12/02/2024 12:58:42 |Black List No |Use Type: Residential|
