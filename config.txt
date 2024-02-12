@@ -55,3 +55,4 @@ socks://162.19.7.59:36556#🇺🇸 Michigan|Westland|48185|c-68-40-222-144.hsd1.
 socks://67.213.212.57:54870#🇺🇸 Michigan|Dearborn|48126|d199-74-204-72.col.wideopenwest.com| 74.199.72.204 |Time View 12/02/2024 09:32:00 |Black List No |Use Type: Business|
 socks://185.198.58.33:33401#🇺🇸 Michigan|Grand Rapids|49546|c-174-174-128-9.hsd1.mi.comcast.net| 174.174.128.9 |Time View 12/02/2024 09:31:58 |Black List Yes |Use Type: Residential|
 socks://67.213.212.52:56495#🇺🇸 Michigan|Grosse Pointe Woods|48236|d4-50-2-203.clv.wideopenwest.com| 50.4.203.2 |Time View 12/02/2024 09:31:52 |Black List Yes |Use Type: Business|
+socks://51.254.167.45:13831#🇺🇸 West Virginia|Wheeling|26003|c-73-117-58-73.hsd1.pa.comcast.net| 73.117.58.73 |Time View 12/02/2024 11:52:57 |Black List Yes |Use Type: Business
