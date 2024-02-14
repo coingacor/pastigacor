@@ -40,3 +40,4 @@ socks://67.213.212.52:52987#🇺🇸 New Jersey|West Berlin|08091|96-82-191-170-
 socks://209.159.153.19:29597#🇺🇸 New Jersey|Jersey City|07302|static-108-5-138-12.nwrknj.fios.verizon.net| 108.5.138.12 |Time View 14/02/2024 04:02:09 |Black List Yes |Use Type: Residential|
 socks://23.105.170.34:39439#🇺🇸 New Jersey|Camden|08104|c-73-178-143-238.hsd1.nj.comcast.net| 73.178.143.238 |Time View 14/02/2024 04:02:07 |Black List Yes |Use Type: Residential|
 socks://162.19.7.49:41911#🇺🇸 New Jersey|Elizabeth|07202|ool-43579179.dyn.optonline.net| 67.87.145.121 |Time View 14/02/2024 04:01:59 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:45581#🇺🇸New Jersey|Seaside Heights|08751|ool-457d2139.dyn.optonline.net| 69.125.33.57 |Time View 14/02/2024 12:07:53 |Black List Yes |Use Type: Residential|
