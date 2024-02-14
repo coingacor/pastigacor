@@ -49,3 +49,6 @@ socks://23.105.170.30:37329#🇺🇸 New Jersey|Somerville|08876|static-72-88-19
 socks://67.213.212.58:25685#🇺🇸 New Jersey|Camden|08102|Comcast Cable Communications, LLC| 50.229.58.233 |Time View 14/02/2024 12:56:11 |Black List No |Use Type: Residential|
 socks://174.138.176.74:13115#🇺🇸 New Jersey|Paterson|07503|static-100-35-213-203.nwrknj.fios.verizon.net| 100.35.213.203 |Time View 14/02/2024 12:56:04 |Black List No |Use Type: Residential|
 socks://67.213.212.57:28315#🇺🇸 New Jersey|Woodstown|08098|Comcast Cable Communications, LLC| 71.24.77.46 |Time View 14/02/2024 12:56:01 |Black List No |Use Type: Residential|
+socks://66.29.128.242:53458#🇺🇸 Michigan|Utica|48316|d27-96-155-46.nap.wideopenwest.com| 96.27.46.155 |Time View 14/02/2024 15:40:56 |Black List No |Use Type: Business|
+socks://209.159.153.20:37666#🇺🇸 Michigan|Utica|48316|WideOpenWest Finance LLC| 23.28.147.106 |Time View 14/02/2024 15:40:24 |Black List Yes |Use Type: Business|
+socks://67.213.212.55:19817#🇺🇸 Michigan|Utica|48317|d27-96-26-15.nap.wideopenwest.com| 96.27.15.26 |Time View 14/02/2024 15:40:22 |Black List Yes |Use Type: Business|
