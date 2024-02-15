@@ -13,3 +13,37 @@ socks://209.159.153.21:12020#🇺🇸 New Jersey|Newark|07105|static-71-251-219-
 socks://162.19.7.46:35966#🇺🇸 New Jersey|Asbury Park|07712|pool-108-5-94-237.nwrknj.fios.verizon.net| 108.5.94.237 |Time View 15/02/2024 17:46:08 |Black List Yes |Use Type: Residential|
 socks://67.213.212.49:13179#🇺🇸 New Jersey|Lodi|07644|ool-44c57d82.dyn.optonline.net| 68.197.125.130 |Time View 15/02/2024 17:46:01 |Black List Yes |Use Type: Residential|
 socks://66.29.128.242:55572#🇺🇸 New Jersey|Hoboken|07030|static-108-5-242-154.nwrknj.fios.verizon.net| 108.5.242.154 |Time View 15/02/2024 17:45:55 |Black List Yes |Use Type: Residential|
+socks://66.29.128.246:30131#🇺🇸 New Jersey|Ocean City|08226|c-76-117-57-105.hsd1.nj.comcast.net| 76.117.57.105 |Time View 15/02/2024 23:00:56 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:27709#🇺🇸 New Jersey|Trenton|08618|c-174-167-22-25.hsd1.nj.comcast.net| 174.167.22.25 |Time View 15/02/2024 23:00:50 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:13939#🇺🇸 New Jersey|South Plainfield|07080|dimartinoinc-gw.customer.alter.net| 152.179.173.218 |Time View 15/02/2024 23:00:35 |Black List Yes |Use Type: Business|
+socks://162.19.7.57:22423#🇺🇸 New Jersey|Newark|07108|172.85.47.122.lightower.net| 172.85.47.122 |Time View 15/02/2024 23:00:32 |Black List Yes |Use Type: Residential|
+socks://67.213.212.55:55644#🇺🇸 Pennsylvania|Beaver Falls|15010|c-98-236-104-142.hsd1.pa.comcast.net| 98.236.104.142 |Time View 15/02/2024 22:59:53 |Black List Yes |Use Type: Residential|
+socks://67.213.212.58:64395#🇺🇸 Pennsylvania|Harrisburg|17111|static-108-11-218-130.hrbgpa.fios.verizon.net| 108.11.218.130 |Time View 15/02/2024 22:59:48 |Black List Yes |Use Type: Residential|
+socks://67.213.210.168:36652#🇺🇸 Pennsylvania|Elizabeth|15037|pool-72-65-223-29.pitbpa.fios.verizon.net| 72.65.223.29 |Time View 15/02/2024 22:59:46 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:30470#🇺🇸 Pennsylvania|Philadelphia|19125|static-71-185-235-106.phlapa.fios.verizon.net| 71.185.235.106 |Time View 15/02/2024 22:59:44 |Black List Yes |Use Type: Residential|
+socks://67.213.212.53:20160#🇺🇸 Pennsylvania|Downingtown|19335|Comcast Cable Communications, LLC| 71.25.100.100 |Time View 15/02/2024 22:59:34 |Black List Yes |Use Type: Residential|
+socks://23.105.170.30:37184#🇺🇸 Pennsylvania|Landisville|17538|70-90-14-166-pa-nj-de.hfc.comcastbusiness.net| 70.90.14.166 |Time View 15/02/2024 22:59:31 |Black List Yes |Use Type: Residential|
+socks://38.91.106.214:38481#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl7015.iro.ptd.net| 204.186.70.15 |Time View 15/02/2024 22:59:27 |Black List Yes |Use Type: Residential|
+socks://67.213.212.38:33850#🇺🇸 Pennsylvania|North Versailles|15137|c-71-236-107-192.hsd1.pa.comcast.net| 71.236.107.192 |Time View 15/02/2024 22:59:10 |Black List Yes |Use Type: Residential|
+socks://51.254.167.45:41676#🇺🇸 Pennsylvania|Homestead|15120|Comcast Cable Communications| 73.154.86.195 |Time View 15/02/2024 22:58:39 |Black List Yes |Use Type: Residential|
+socks://67.213.210.61:49207#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl128105.iro.ptd.net| 204.186.128.105 |Time View 15/02/2024 22:58:26 |Black List Yes |Use Type: Residential|
+socks://23.105.170.35:17858#🇺🇸 Pennsylvania|Wyncote|19095|96-64-88-198-static.hfc.comcastbusiness.net| 96.64.88.198 |Time View 15/02/2024 22:58:15 |Black List No |Use Type: Residential|
+socks://67.213.212.56:15453#🇺🇸 Pennsylvania|Media|19063|static-72-94-29-149.phlapa.fios.verizon.net| 72.94.29.149 |Time View 15/02/2024 22:58:10 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:55500#🇺🇸 Pennsylvania|East Earl|17519|96-77-166-30-static.hfc.comcastbusiness.net| 96.77.166.30 |Time View 15/02/2024 22:57:45 |Black List Yes |Use Type: Residential|
+socks://67.213.210.168:39276#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl7188.iro.ptd.net| 204.186.71.88 |Time View 15/02/2024 22:57:41 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:37126#🇺🇸 Michigan|Ypsilanti|48197|Level 3 Communications, Inc.| 4.35.98.53 |Time View 15/02/2024 22:57:30 |Black List Yes |Use Type: Business|
+socks://67.213.210.62:28019#🇺🇸 Michigan|Blanchard|49310|blan-dsl-147-144-133-67.power-net.net| 67.133.144.147 |Time View 15/02/2024 22:57:26 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:34402#🇺🇸 Michigan|Detroit|48228|c-68-42-195-175.hsd1.mi.comcast.net| 68.42.195.175 |Time View 15/02/2024 22:57:04 |Black List Yes |Use Type: Residential|
+socks://67.213.212.57:15613#🇺🇸 Michigan|Dimondale|48821|WideOpenWest Finance LLC| 66.216.210.133 |Time View 15/02/2024 22:57:02 |Black List Yes |Use Type: Business|
+socks://67.213.212.49:44945#🇺🇸 Michigan|Roseville|48066|d14-69-103-87.try.wideopenwest.com| 69.14.87.103 |Time View 15/02/2024 22:56:59 |Black List Yes |Use Type: Business|
+socks://66.29.129.56:55438#🇺🇸 Michigan|Blanchard|49310|blan-dsl-39-144-133-67.power-net.net| 67.133.144.39 |Time View 15/02/2024 22:56:55 |Black List Yes |Use Type: Residential|
+socks://67.213.212.36:58509#🇺🇸 Michigan|Livonia|48154|d14-69-25-93.try.wideopenwest.com| 69.14.93.25 |Time View 15/02/2024 22:56:52 |Black List Yes |Use Type: Business|
+socks://67.213.212.38:58816#🇺🇸 Michigan|Mason|48854|d28-23-197-183.dim.wideopenwest.com| 23.28.183.197 |Time View 15/02/2024 22:56:36 |Black List Yes |Use Type: Business|
+socks://38.91.107.2:57670#🇺🇸 Michigan|Blanchard|49310|blan-dsl-122-144-133-67.power-net.net| 67.133.144.122 |Time View 15/02/2024 22:56:33 |Black List Yes |Use Type: Residential|
+socks://67.213.212.56:28790#🇺🇸 Michigan|Dearborn|48124|WideOpenWest Finance LLC| 143.59.29.101 |Time View 15/02/2024 22:56:12 |Black List Yes |Use Type: Business|
+socks://67.213.212.47:11770#🇺🇸 Michigan|Laingsburg|48848|d199-74-36-45.try.wideopenwest.com| 74.199.45.36 |Time View 15/02/2024 22:56:09 |Black List Yes |Use Type: Business|
+socks://162.19.7.50:17377#🇺🇸 Michigan|Ypsilanti|48197|172-10-226-193.lightspeed.livnmi.sbcglobal.net| 172.10.226.193 |Time View 15/02/2024 22:56:01 |Black List Yes |Use Type: Residential|
+socks://174.138.176.75:22640#🇺🇸 Michigan|Blanchard|49310|blan-dsl-114-145-133-67.power-net.net| 67.133.145.114 |Time View 15/02/2024 22:55:57 |Black List Yes |Use Type: Business|
+socks://38.91.107.229:41612#🇺🇸 Michigan|Macomb|48044|c-98-209-33-58.hsd1.mi.comcast.net| 98.209.33.58 |Time View 15/02/2024 22:55:53 |Black List Yes |Use Type: Residential|
+socks://162.19.7.61:41681#🇺🇸 Michigan|Ypsilanti|48198|c-68-49-59-218.hsd1.mi.comcast.net| 68.49.59.218 |Time View 15/02/2024 22:55:51 |Black List Yes |Use Type: Residential|
+socks://67.213.212.57:29189#🇺🇸 Michigan|Rochester Hills|48309|96-94-157-226-static.hfc.comcastbusiness.net| 96.94.157.226 |Time View 15/02/2024 22:55:44 |Black List Yes |Use Type: Residential|
