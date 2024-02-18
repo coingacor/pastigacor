@@ -44,3 +44,8 @@ socks://67.213.212.53:65118#🇺🇸 West Virginia|Mount Lookout|26678|Frontier 
 socks://162.210.192.135:22384#🇺🇸 Michigan|Frankenmuth|48734|071-089-128-054.biz.spectrum.com| 71.89.128.54 |Time View 18/02/2024 22:29:47 |Black List Yes |Use Type: Business|
 socks://23.105.170.34:64318#🇺🇸 Michigan|Southfield|48075|173-14-44-169-Michigan.hfc.comcastbusiness.net| 173.14.44.169 |Time View 18/02/2024 22:29:44 |Black List Yes |Use Type: Residential|
 socks://37.221.193.221:30955#🇺🇸 Michigan|Royal Oak|48067|96-88-139-105-static.hfc.comcastbusiness.net| 96.88.139.105 |Time View 18/02/2024 22:29:39 |Black List Yes |Use Type: Residential|
+socks://67.213.212.47:28733#🇺🇸 Michigan|Taylor|48180|d4-50-66-2.try.wideopenwest.com| 50.4.2.66 |Time View 19/02/2024 05:34:05 |Black List Yes |Use Type: Business|
+socks://67.213.212.53:46615#🇺🇸 Michigan|Royal Oak|48067|d199-74-64-55.col.wideopenwest.com| 74.199.55.64 |Time View 19/02/2024 05:34:04 |Black List Yes |Use Type: Business|
+socks://67.213.212.57:37231#🇺🇸 Michigan|Utica|48317|WideOpenWest Finance LLC| 143.59.108.139 |Time View 19/02/2024 05:33:56 |Black List Yes |Use Type: Business|
+socks://67.213.212.36:14998#🇺🇸 Michigan|Canton|48187|d179-68-51-137.evv.wideopenwest.com| 68.179.137.51 |Time View 19/02/2024 05:33:51 |Black List Yes |Use Type: Business|
+socks://23.105.170.35:39094#🇺🇸 Michigan|Livonia|48150|d14-69-108-175.try.wideopenwest.com| 69.14.175.108 |Time View 19/02/2024 05:33:48 |Black List Yes |Use Type: Business|
