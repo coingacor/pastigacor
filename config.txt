@@ -20,3 +20,12 @@ socks://66.23.233.210:26377#🇺🇸 New Jersey|Morris Plains|07950|c-50-184-95-
 socks://209.159.153.21:18086#🇺🇸 New Jersey|Long Branch|07740|static-71-187-8-26.nwrknj.fios.verizon.net| 71.187.8.26 |Time View 18/02/2024 02:13:17 |Black List No |Use Type: Residential|
 socks://23.105.170.30:16103#🇺🇸 New Jersey|Harrison|07029|50-248-163-198-static.hfc.comcastbusiness.net| 50.248.163.198 |Time View 18/02/2024 02:13:10 |Black List Yes |Use Type: Residential|
 socks://162.19.7.47:28967#🇺🇸 New Jersey|East Brunswick|08816|c-174-167-106-121.hsd1.nj.comcast.net| 174.167.106.121 |Time View 18/02/2024 02:13:07 |Black List Yes |Use Type: Residential|
+socks://67.213.212.54:64131#🇺🇸 Massachusetts|Framingham|01702|static-71-174-230-155.bstnma.fios.verizon.net| 71.174.230.155 |Time View 18/02/2024 14:53:08 |Black List No |Use Type: Residential|
+socks://209.159.153.21:18192#🇺🇸 Massachusetts|Methuen|01844|Comcast Cable Communications, LLC| 50.214.144.198 |Time View 18/02/2024 14:53:04 |Black List No |Use Type: Residential|
+socks://209.159.153.21:42839#🇺🇸 Massachusetts|Hingham|02043|Comcast Cable Communications, LLC| 50.212.16.209 |Time View 18/02/2024 14:53:01 |Black List Yes |Use Type: Residential|
+socks://162.19.7.53:10513#🇺🇸 Massachusetts|Medford|02155|pool-71-248-162-92.bstnma.fios.verizon.net| 71.248.162.92 |Time View 18/02/2024 14:53:00 |Black List Yes |Use Type: Residential|
+socks://23.105.170.30:47261#🇺🇸 Ohio|Cincinnati|45241|071-067-024-150.biz.spectrum.com| 71.67.24.150 |Time View 18/02/2024 14:52:34 |Black List Yes |Use Type: Residential|
+socks://162.19.7.57:18598#🇺🇸 Ohio|Bellefontaine|43311|192-180-017-188.res.spectrum.com| 192.180.17.188 |Time View 18/02/2024 14:52:29 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:23483#🇺🇸 Ohio|Painesville|44077|162-207-245-88.lightspeed.bcvloh.sbcglobal.net| 162.207.245.88 |Time View 18/02/2024 14:52:26 |Black List No |Use Type: Residential|
+socks://162.210.192.135:55403#🇺🇸 Ohio|Columbus|43215|ec2-3-15-150-210.us-east-2.compute.amazonaws.com| 3.15.150.210 |Time View 18/02/2024 14:52:21 |Black List Yes |Use Type: Hosting|
+socks://209.159.153.21:24388#🇺🇸 Ohio|Toledo|43613|cm-72-241-188-250.buckeyecom.net| 72.241.188.250 |Time View 18/02/2024 14:52:16 |Black List No |Use Type: Residential|
