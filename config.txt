@@ -29,3 +29,10 @@ socks://162.19.7.57:18598#🇺🇸 Ohio|Bellefontaine|43311|192-180-017-188.res.
 socks://209.159.153.20:23483#🇺🇸 Ohio|Painesville|44077|162-207-245-88.lightspeed.bcvloh.sbcglobal.net| 162.207.245.88 |Time View 18/02/2024 14:52:26 |Black List No |Use Type: Residential|
 socks://162.210.192.135:55403#🇺🇸 Ohio|Columbus|43215|ec2-3-15-150-210.us-east-2.compute.amazonaws.com| 3.15.150.210 |Time View 18/02/2024 14:52:21 |Black List Yes |Use Type: Hosting|
 socks://209.159.153.21:24388#🇺🇸 Ohio|Toledo|43613|cm-72-241-188-250.buckeyecom.net| 72.241.188.250 |Time View 18/02/2024 14:52:16 |Black List No |Use Type: Residential|
+socks://23.105.170.34:43366#🇺🇸 New York|Brooklyn|11235|ool-18e4a535.dyn.optonline.net| 24.228.165.53 |Time View 18/02/2024 20:29:14 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:14362#🇺🇸 New York|Valley Stream|11580|ool-60385d3a.static.optonline.net| 96.56.93.58 |Time View 18/02/2024 20:29:14 |Black List No |Use Type: Business|
+socks://162.0.220.215:54878#🇺🇸 New York|New York|10036|Honest Networks, LLC| 147.185.153.92 |Time View 18/02/2024 20:28:50 |Black List No |Use Type: Business|
+socks://37.221.193.221:12652#🇺🇸 New York|Amityville|11701|ool-6caa4ee2.static.optonline.net| 108.170.78.226 |Time View 18/02/2024 20:28:42 |Black List Yes |Use Type: Business|
+socks://108.181.132.116:56349#🇺🇸 New Jersey|Paterson|07503|pool-71-187-14-155.nwrknj.fios.verizon.net| 71.187.14.155 |Time View 18/02/2024 20:28:14 |Black List Yes |Use Type: Residential|
+socks://66.29.128.242:13562#🇺🇸 New York|The Bronx|10451|static-108-6-49-216.nycmny.fios.verizon.net| 108.6.49.216 |Time View 18/02/2024 20:28:08 |Black List No |Use Type: Residential|
+socks://67.213.212.38:44831#🇺🇸 New York|Queens|11374|static-108-54-65-43.nycmny.fios.verizon.net| 108.54.65.43 |Time View 18/02/2024 20:28:05 |Black List Yes |Use Type: Business|
