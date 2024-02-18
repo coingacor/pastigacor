@@ -36,3 +36,11 @@ socks://37.221.193.221:12652#🇺🇸 New York|Amityville|11701|ool-6caa4ee2.sta
 socks://108.181.132.116:56349#🇺🇸 New Jersey|Paterson|07503|pool-71-187-14-155.nwrknj.fios.verizon.net| 71.187.14.155 |Time View 18/02/2024 20:28:14 |Black List Yes |Use Type: Residential|
 socks://66.29.128.242:13562#🇺🇸 New York|The Bronx|10451|static-108-6-49-216.nycmny.fios.verizon.net| 108.6.49.216 |Time View 18/02/2024 20:28:08 |Black List No |Use Type: Residential|
 socks://67.213.212.38:44831#🇺🇸 New York|Queens|11374|static-108-54-65-43.nycmny.fios.verizon.net| 108.54.65.43 |Time View 18/02/2024 20:28:05 |Black List Yes |Use Type: Business|
+socks://23.105.170.32:63677#🇺🇸 Pennsylvania|Easton|18042|64-121-161-215.s8917.c3-0.eas-cbr1.atw-eas.pa.cable.rcncustomer.com| 64.121.161.215 |Time View 18/02/2024 22:30:37 |Black List Yes |Use Type: Residential|
+socks://23.105.170.35:54208#🇺🇸 Pennsylvania|Cranberry Township|16066|dynamic-acs-72-23-172-13.zoominternet.net| 72.23.172.13 |Time View 18/02/2024 22:30:34 |Black List Yes |Use Type: Residential|
+socks://67.213.212.38:20340#🇺🇸 Pennsylvania|Williamsport|17701|50-208-224-26-static.hfc.comcastbusiness.net| 50.208.224.26 |Time View 18/02/2024 22:30:32 |Black List Yes |Use Type: Residential|
+socks://67.213.212.38:26541#🇺🇸 Pennsylvania|Downingtown|19335|c-73-13-96-125.hsd1.pa.comcast.net| 73.13.96.125 |Time View 18/02/2024 22:30:27 |Black List Yes |Use Type: Residential|
+socks://67.213.212.53:65118#🇺🇸 West Virginia|Mount Lookout|26678|Frontier Communications of America| 184.19.199.242 |Time View 18/02/2024 22:30:16 |Black List Yes |Use Type: Business|
+socks://162.210.192.135:22384#🇺🇸 Michigan|Frankenmuth|48734|071-089-128-054.biz.spectrum.com| 71.89.128.54 |Time View 18/02/2024 22:29:47 |Black List Yes |Use Type: Business|
+socks://23.105.170.34:64318#🇺🇸 Michigan|Southfield|48075|173-14-44-169-Michigan.hfc.comcastbusiness.net| 173.14.44.169 |Time View 18/02/2024 22:29:44 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:30955#🇺🇸 Michigan|Royal Oak|48067|96-88-139-105-static.hfc.comcastbusiness.net| 96.88.139.105 |Time View 18/02/2024 22:29:39 |Black List Yes |Use Type: Residential|
