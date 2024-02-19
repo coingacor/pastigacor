@@ -7,3 +7,7 @@ socks://67.213.212.50:54895#🇺🇸 Illinois|Peoria|61603|50-247-146-169-static
 socks://67.213.210.175:17316#🇺🇸 Iowa|Ames|50010|colo-3-173-215-75-101.dsl.netins.net| 173.215.75.101 |Time View 19/02/2024 13:52:55 |Black List No |Use Type: Residential|
 socks://67.213.212.57:34911#🇺🇸 Florida|Miami|33134|50-253-173-62-static.hfc.comcastbusiness.net| 50.253.173.62 |Time View 19/02/2024 13:52:52 |Black List No |Use Type: Residential|
 socks://108.181.132.118:26756#🇺🇸 Texas|Montgomery|77356|dsl-dhcp-conrtxxahre-76-164-81-224.consolidated.net| 76.164.81.224 |Time View 19/02/2024 13:52:47 |Black List No |Use Type: Residential|
+socks://162.210.192.135:15516#🇺🇸 North Carolina|Asheville|28801|cpl30.main-hosting.eu| 212.1.210.101 |Time View 19/02/2024 15:14:58 |Black List No |Use Type: Hosting|
+socks://162.210.192.135:53764#🇺🇸 Unknown|Unknown|Unknown|mi3-lr14.supercp.com| 70.32.23.66 |Time View 19/02/2024 15:14:50 |Black List No |Use Type: Hosting|
+socks://37.221.193.221:18795#🇺🇸 Texas|Gonzales|78629|GVEC.net| 204.154.124.211 |Time View 19/02/2024 15:14:26 |Black List No |Use Type: Business|
+socks://67.213.212.40:57324#🇺🇸 Georgia|Savannah|31419|173-10-238-202-Savannah.hfc.comcastbusiness.net| 173.10.238.202 |Time View 19/02/2024 15:14:23 |Black List No |Use Type: Residential|
