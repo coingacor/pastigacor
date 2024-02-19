@@ -31,3 +31,4 @@ socks://37.221.193.221:33157#🇺🇸 North Carolina|Charlotte|28211|108-82-205-
 socks://67.213.212.47:10683#🇺🇸 California|Citrus Heights|95610|96-81-188-149-static.hfc.comcastbusiness.net| 96.81.188.149 |Time View 20/02/2024 06:31:08 |Black List No |Use Type: Residential|
 socks://209.159.153.21:33286#🇺🇸 California|La Mirada|90638|045-059-218-045.biz.spectrum.com| 45.59.218.45 |Time View 20/02/2024 06:30:57 |Black List No |Use Type: Business|
 socks://212.83.143.151:10724#🇺🇸 California|San Jose|95141|Microsoft Corporation| 104.42.135.57 |Time View 20/02/2024 06:39:28 |Black List No |Use Type: Hosting|
+socks://162.0.220.219:46148#🇺🇸 New Jersey|Paterson|07513|Comcast Cable Communications, LLC| 71.24.72.89 |Time View 20/02/2024 06:54:14 |Black List No |Use Type: Residential|
