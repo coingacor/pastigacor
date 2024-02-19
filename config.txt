@@ -28,3 +28,5 @@ socks://67.213.212.57:64705#🇺🇸 Iowa|Des Moines|50317|108-161-94-172.client
 socks://209.159.153.21:47795#🇺🇸 Missouri|Jefferson City|65109|CenturyLink Communications| 65.113.78.2 |Time View 19/02/2024 23:51:08 |Black List No |Use Type: Business|
 socks://209.159.153.21:25361#🇺🇸 Massachusetts|Danvers|01923|Comcast Cable Communications, LLC| 50.212.67.74 |Time View 19/02/2024 23:51:05 |Black List No |Use Type: Residential|
 socks://37.221.193.221:33157#🇺🇸 North Carolina|Charlotte|28211|108-82-205-127.lightspeed.chrlnc.sbcglobal.net| 108.82.205.127 |Time View 19/02/2024 23:50:59 |Black List No |Use Type: Residential|
+socks://67.213.212.47:10683#🇺🇸 California|Citrus Heights|95610|96-81-188-149-static.hfc.comcastbusiness.net| 96.81.188.149 |Time View 20/02/2024 06:31:08 |Black List No |Use Type: Residential|
+socks://209.159.153.21:33286#🇺🇸 California|La Mirada|90638|045-059-218-045.biz.spectrum.com| 45.59.218.45 |Time View 20/02/2024 06:30:57 |Black List No |Use Type: Business|
