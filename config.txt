@@ -11,3 +11,20 @@ socks://162.210.192.135:15516#🇺🇸 North Carolina|Asheville|28801|cpl30.main
 socks://162.210.192.135:53764#🇺🇸 Unknown|Unknown|Unknown|mi3-lr14.supercp.com| 70.32.23.66 |Time View 19/02/2024 15:14:50 |Black List No |Use Type: Hosting|
 socks://37.221.193.221:18795#🇺🇸 Texas|Gonzales|78629|GVEC.net| 204.154.124.211 |Time View 19/02/2024 15:14:26 |Black List No |Use Type: Business|
 socks://67.213.212.40:57324#🇺🇸 Georgia|Savannah|31419|173-10-238-202-Savannah.hfc.comcastbusiness.net| 173.10.238.202 |Time View 19/02/2024 15:14:23 |Black List No |Use Type: Residential|
+socks://67.213.212.39:39024#🇺🇸 Ohio|Cleveland|44113|104-176-22-24.lightspeed.bcvloh.sbcglobal.net| 104.176.22.24 |Time View 19/02/2024 23:53:16 |Black List No |Use Type: Residential|
+socks://67.213.212.38:38310#🇺🇸 Virginia|Arlington|22207|50-246-105-53-static.hfc.comcastbusiness.net| 50.246.105.53 |Time View 19/02/2024 23:52:55 |Black List No |Use Type: Residential|
+socks://37.221.193.221:16792#🇺🇸 Oregon|Boardman|97818|ec2-35-166-181-47.us-west-2.compute.amazonaws.com| 35.166.181.47 |Time View 19/02/2024 23:52:53 |Black List No |Use Type: Hosting|
+socks://37.221.193.221:33084#🇺🇸 Florida|Orlando|32817|server.macrover.com| 138.128.174.234 |Time View 19/02/2024 23:52:51 |Black List No |Use Type: Hosting|
+socks://162.210.192.136:14443#🇺🇸 California|San Jose|95141|opal14.opalstack.com| 23.81.164.200 |Time View 19/02/2024 23:52:34 |Black List No |Use Type: Hosting|
+socks://38.91.107.2:34368#🇺🇸 Nevada|Mesquite|89027|pppoe-140-82-241-199.rioaccess.com| 140.82.241.199 |Time View 19/02/2024 23:52:28 |Black List No |Use Type: Residential|
+socks://66.29.128.245:52951#🇺🇸 Maryland|Hagerstown|21740|stat-104-218-187-90.myactv.net| 104.218.187.90 |Time View 19/02/2024 23:52:25 |Black List No |Use Type: Residential|
+socks://67.213.210.175:31529#🇺🇸 Alabama|Sulligent|35586|Tombigbee Communications, LLC| 162.142.67.188 |Time View 19/02/2024 23:52:20 |Black List No |Use Type: Business|
+socks://162.210.192.135:18538#🇺🇸 Unknown|Unknown|Unknown|server.zentroidz.com| 162.241.92.153 |Time View 19/02/2024 23:52:03 |Black List No |Use Type: Hosting|
+socks://212.83.137.142:25374#🇺🇸 Unknown|Unknown|Unknown|box5486.bluehost.com| 162.241.217.135 |Time View 19/02/2024 23:51:33 |Black List No |Use Type: Hosting|
+socks://67.213.212.54:20360#🇺🇸 New Jersey|Newark|07107|Verizon Business| 199.172.47.13 |Time View 19/02/2024 23:51:27 |Black List No |Use Type: Business|
+socks://67.213.212.48:11602#🇺🇸 Texas|Magnolia|77354|45-18-72-80.lightspeed.hstntx.sbcglobal.net| 45.18.72.80 |Time View 19/02/2024 23:51:21 |Black List No |Use Type: Residential|
+socks://38.91.107.220:60297#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.253.193 |Time View 19/02/2024 23:51:17 |Black List No |Use Type: Business|
+socks://67.213.212.57:64705#🇺🇸 Iowa|Des Moines|50317|108-161-94-172.client.mchsi.com| 108.161.94.172 |Time View 19/02/2024 23:51:13 |Black List No |Use Type: Business|
+socks://209.159.153.21:47795#🇺🇸 Missouri|Jefferson City|65109|CenturyLink Communications| 65.113.78.2 |Time View 19/02/2024 23:51:08 |Black List No |Use Type: Business|
+socks://209.159.153.21:25361#🇺🇸 Massachusetts|Danvers|01923|Comcast Cable Communications, LLC| 50.212.67.74 |Time View 19/02/2024 23:51:05 |Black List No |Use Type: Residential|
+socks://37.221.193.221:33157#🇺🇸 North Carolina|Charlotte|28211|108-82-205-127.lightspeed.chrlnc.sbcglobal.net| 108.82.205.127 |Time View 19/02/2024 23:50:59 |Black List No |Use Type: Residential|
