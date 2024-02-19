@@ -1,51 +1,5 @@
-socks://66.23.233.210:12482#🇺🇸 New Jersey|Elizabeth|07201|static-74-102-123-126.nwrknj.fios.verizon.net| 74.102.123.126 |Time View 17/02/2024 14:30:45 |Black List Yes |Use Type: Residential|
-socks://67.213.212.55:56837#🇺🇸 New Jersey|East Orange|07017|c-73-215-220-222.hsd1.nj.comcast.net| 73.215.220.222 |Time View 17/02/2024 14:30:40 |Black List Yes |Use Type: Residential|
-socks://23.105.170.32:13661#🇺🇸 New Jersey|Jersey City|07302|pool-173-70-53-216.nwrknj.fios.verizon.net| 173.70.53.216 |Time View 17/02/2024 14:30:36 |Black List Yes |Use Type: Residential|
-socks://66.29.128.246:23731#🇺🇸 New Jersey|Montclair|07042|96-75-171-155-static.hfc.comcastbusiness.net| 96.75.171.155 |Time View 17/02/2024 14:30:18 |Black List Yes |Use Type: Residential|
-socks://134.195.90.170:22784#🇺🇸 New Jersey|Haledon|07508|4133fde2.cst.lightpath.net| 65.51.253.226 |Time View 17/02/2024 14:30:14 |Black List Yes |Use Type: Residential|
-socks://66.29.128.243:46674#🇺🇸 New Jersey|Teaneck|07666|static-71-172-91-234.nwrknj.fios.verizon.net| 71.172.91.234 |Time View 17/02/2024 14:30:11 |Black List No |Use Type: Residential|
-socks://66.29.128.242:64670#🇺🇸 New Jersey|Ridgewood|07450|pool-96-242-38-141.nwrknj.fios.verizon.net| 96.242.38.141 |Time View 17/02/2024 14:30:08 |Black List Yes |Use Type: Residential|
-socks://162.0.220.217:63050#🇺🇸 Michigan|Waldron|49288|waldron-9k-74.126.70-211.waldrontel.com| 74.126.70.211 |Time View 18/02/2024 02:15:08 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:11231#🇺🇸 Michigan|Beverly Hills|48025|AT&T Services, Inc.| 99.95.108.161 |Time View 18/02/2024 02:14:50 |Black List Yes |Use Type: Business|
-socks://23.105.170.33:43301#🇺🇸 Michigan|Detroit|48227|96-85-116-97-static.hfc.comcastbusiness.net| 96.85.116.97 |Time View 18/02/2024 02:14:38 |Black List Yes |Use Type: Residential|
-socks://209.159.153.19:27697#🇺🇸 Michigan|Lake Orion|48359|c-68-36-20-189.hsd1.mi.comcast.net| 68.36.20.189 |Time View 18/02/2024 02:14:28 |Black List Yes |Use Type: Residential|
-socks://209.159.153.22:40792#🇺🇸 Michigan|Clarkston|48346|104-59-8-57.lightspeed.livnmi.sbcglobal.net| 104.59.8.57 |Time View 18/02/2024 02:14:21 |Black List No |Use Type: Residential|
-socks://67.213.210.175:57602#🇺🇸 Michigan|Blanchard|49310|blan-dsl-174-144-133-67.power-net.net| 67.133.144.174 |Time View 18/02/2024 02:14:16 |Black List No |Use Type: Residential|
-socks://134.195.91.76:18717#🇺🇸 New Jersey|Haledon|07508|4133fde2.cst.lightpath.net| 65.51.253.226 |Time View 18/02/2024 02:14:01 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:26005#🇺🇸 New Jersey|South Plainfield|07080|dimartinoinc-gw.customer.alter.net| 152.179.173.218 |Time View 18/02/2024 02:13:59 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:32782#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 18/02/2024 02:13:55 |Black List Yes |Use Type: Residential|
-socks://66.29.128.246:64931#🇺🇸 New Jersey|Jersey City|07306|static-71-172-124-202.nwrknj.fios.verizon.net| 71.172.124.202 |Time View 18/02/2024 02:13:31 |Black List Yes |Use Type: Residential|
-socks://66.23.233.210:12482#🇺🇸 New Jersey|Elizabeth|07201|static-74-102-123-126.nwrknj.fios.verizon.net| 74.102.123.126 |Time View 18/02/2024 02:13:27 |Black List Yes |Use Type: Residential|
-socks://66.23.233.210:26377#🇺🇸 New Jersey|Morris Plains|07950|c-50-184-95-129.unallocated.comcastbusiness.net| 50.184.95.129 |Time View 18/02/2024 02:13:25 |Black List Yes |Use Type: Residential|
-socks://209.159.153.21:18086#🇺🇸 New Jersey|Long Branch|07740|static-71-187-8-26.nwrknj.fios.verizon.net| 71.187.8.26 |Time View 18/02/2024 02:13:17 |Black List No |Use Type: Residential|
-socks://23.105.170.30:16103#🇺🇸 New Jersey|Harrison|07029|50-248-163-198-static.hfc.comcastbusiness.net| 50.248.163.198 |Time View 18/02/2024 02:13:10 |Black List Yes |Use Type: Residential|
-socks://162.19.7.47:28967#🇺🇸 New Jersey|East Brunswick|08816|c-174-167-106-121.hsd1.nj.comcast.net| 174.167.106.121 |Time View 18/02/2024 02:13:07 |Black List Yes |Use Type: Residential|
-socks://67.213.212.54:64131#🇺🇸 Massachusetts|Framingham|01702|static-71-174-230-155.bstnma.fios.verizon.net| 71.174.230.155 |Time View 18/02/2024 14:53:08 |Black List No |Use Type: Residential|
-socks://209.159.153.21:18192#🇺🇸 Massachusetts|Methuen|01844|Comcast Cable Communications, LLC| 50.214.144.198 |Time View 18/02/2024 14:53:04 |Black List No |Use Type: Residential|
-socks://209.159.153.21:42839#🇺🇸 Massachusetts|Hingham|02043|Comcast Cable Communications, LLC| 50.212.16.209 |Time View 18/02/2024 14:53:01 |Black List Yes |Use Type: Residential|
-socks://162.19.7.53:10513#🇺🇸 Massachusetts|Medford|02155|pool-71-248-162-92.bstnma.fios.verizon.net| 71.248.162.92 |Time View 18/02/2024 14:53:00 |Black List Yes |Use Type: Residential|
-socks://23.105.170.30:47261#🇺🇸 Ohio|Cincinnati|45241|071-067-024-150.biz.spectrum.com| 71.67.24.150 |Time View 18/02/2024 14:52:34 |Black List Yes |Use Type: Residential|
-socks://162.19.7.57:18598#🇺🇸 Ohio|Bellefontaine|43311|192-180-017-188.res.spectrum.com| 192.180.17.188 |Time View 18/02/2024 14:52:29 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:23483#🇺🇸 Ohio|Painesville|44077|162-207-245-88.lightspeed.bcvloh.sbcglobal.net| 162.207.245.88 |Time View 18/02/2024 14:52:26 |Black List No |Use Type: Residential|
-socks://162.210.192.135:55403#🇺🇸 Ohio|Columbus|43215|ec2-3-15-150-210.us-east-2.compute.amazonaws.com| 3.15.150.210 |Time View 18/02/2024 14:52:21 |Black List Yes |Use Type: Hosting|
-socks://209.159.153.21:24388#🇺🇸 Ohio|Toledo|43613|cm-72-241-188-250.buckeyecom.net| 72.241.188.250 |Time View 18/02/2024 14:52:16 |Black List No |Use Type: Residential|
-socks://23.105.170.34:43366#🇺🇸 New York|Brooklyn|11235|ool-18e4a535.dyn.optonline.net| 24.228.165.53 |Time View 18/02/2024 20:29:14 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:14362#🇺🇸 New York|Valley Stream|11580|ool-60385d3a.static.optonline.net| 96.56.93.58 |Time View 18/02/2024 20:29:14 |Black List No |Use Type: Business|
-socks://162.0.220.215:54878#🇺🇸 New York|New York|10036|Honest Networks, LLC| 147.185.153.92 |Time View 18/02/2024 20:28:50 |Black List No |Use Type: Business|
-socks://37.221.193.221:12652#🇺🇸 New York|Amityville|11701|ool-6caa4ee2.static.optonline.net| 108.170.78.226 |Time View 18/02/2024 20:28:42 |Black List Yes |Use Type: Business|
-socks://108.181.132.116:56349#🇺🇸 New Jersey|Paterson|07503|pool-71-187-14-155.nwrknj.fios.verizon.net| 71.187.14.155 |Time View 18/02/2024 20:28:14 |Black List Yes |Use Type: Residential|
-socks://66.29.128.242:13562#🇺🇸 New York|The Bronx|10451|static-108-6-49-216.nycmny.fios.verizon.net| 108.6.49.216 |Time View 18/02/2024 20:28:08 |Black List No |Use Type: Residential|
-socks://67.213.212.38:44831#🇺🇸 New York|Queens|11374|static-108-54-65-43.nycmny.fios.verizon.net| 108.54.65.43 |Time View 18/02/2024 20:28:05 |Black List Yes |Use Type: Business|
-socks://23.105.170.32:63677#🇺🇸 Pennsylvania|Easton|18042|\64-121-161-215.s8917.c3-0.eas-cbr1.atw-eas.pa.cable.rcncustomer.com| 64.121.161.215 |Time View 18/02/2024 22:30:37 |Black List Yes |Use Type: Residential|
-socks://23.105.170.35:54208#🇺🇸 Pennsylvania|Cranberry Township|16066|dynamic-acs-72-23-172-13.zoominternet.net| 72.23.172.13 |Time View 18/02/2024 22:30:34 |Black List Yes |Use Type: Residential|
-socks://67.213.212.38:20340#🇺🇸 Pennsylvania|Williamsport|17701|50-208-224-26-static.hfc.comcastbusiness.net| 50.208.224.26 |Time View 18/02/2024 22:30:32 |Black List Yes |Use Type: Residential|
-socks://67.213.212.38:26541#🇺🇸 Pennsylvania|Downingtown|19335|c-73-13-96-125.hsd1.pa.comcast.net| 73.13.96.125 |Time View 18/02/2024 22:30:27 |Black List Yes |Use Type: Residential|
-socks://67.213.212.53:65118#🇺🇸 West Virginia|Mount Lookout|26678|Frontier Communications of America| 184.19.199.242 |Time View 18/02/2024 22:30:16 |Black List Yes |Use Type: Business|
-socks://162.210.192.135:22384#🇺🇸 Michigan|Frankenmuth|48734|071-089-128-054.biz.spectrum.com| 71.89.128.54 |Time View 18/02/2024 22:29:47 |Black List Yes |Use Type: Business|
-socks://23.105.170.34:64318#🇺🇸 Michigan|Southfield|48075|173-14-44-169-Michigan.hfc.comcastbusiness.net| 173.14.44.169 |Time View 18/02/2024 22:29:44 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:30955#🇺🇸 Michigan|Royal Oak|48067|96-88-139-105-static.hfc.comcastbusiness.net| 96.88.139.105 |Time View 18/02/2024 22:29:39 |Black List Yes |Use Type: Residential|
-socks://67.213.212.47:28733#🇺🇸 Michigan|Taylor|48180|d4-50-66-2.try.wideopenwest.com| 50.4.2.66 |Time View 19/02/2024 05:34:05 |Black List Yes |Use Type: Business|
-socks://67.213.212.53:46615#🇺🇸 Michigan|Royal Oak|48067|d199-74-64-55.col.wideopenwest.com| 74.199.55.64 |Time View 19/02/2024 05:34:04 |Black List Yes |Use Type: Business|
-socks://67.213.212.57:37231#🇺🇸 Michigan|Utica|48317|WideOpenWest Finance LLC| 143.59.108.139 |Time View 19/02/2024 05:33:56 |Black List Yes |Use Type: Business|
-socks://67.213.212.36:14998#🇺🇸 Michigan|Canton|48187|d179-68-51-137.evv.wideopenwest.com| 68.179.137.51 |Time View 19/02/2024 05:33:51 |Black List Yes |Use Type: Business|
-socks://23.105.170.35:39094#🇺🇸 Michigan|Livonia|48150|d14-69-108-175.try.wideopenwest.com| 69.14.175.108 |Time View 19/02/2024 05:33:48 |Black List Yes |Use Type: Business|
+socks://23.105.170.30:38111#🇺🇸 Ohio|Cleveland|44124|107-143-105-171.lightspeed.bcvloh.sbcglobal.net| 107.143.105.171 |Time View 19/02/2024 09:36:44 |Black List No |Use Type: Residential|
+socks://67.213.212.49:37962#🇺🇸 Wisconsin|Brookfield|53005|23-125-24-12.lightspeed.milwwi.sbcglobal.net| 23.125.24.12 |Time View 19/02/2024 09:36:35 |Black List No |Use Type: Residential|
+socks://209.159.153.19:25746#🇺🇸 Florida|Jacksonville|32256|107-142-49-161.lightspeed.jcvlfl.sbcglobal.net| 107.142.49.161 |Time View 19/02/2024 09:36:24 |Black List Yes |Use Type: Residential|
+socks://67.213.210.167:13475#🇺🇸 Texas|Conroe|77304|dsl-dhcp-conrtxxahre-72-26-27-83.consolidated.net| 72.26.27.83 |Time View 19/02/2024 09:39:03 |Black List No |Use Type: Residential|
+socks://212.83.138.60:19086#🇺🇸 District of Columbia|Washington|20037|Level 3 Communications, Inc.| 4.4.89.74 |Time View 19/02/2024 09:38:17 |Black List No |Use Type: Business|
