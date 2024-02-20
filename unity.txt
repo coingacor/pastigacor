@@ -1,3 +1,4 @@
 socks://212.83.143.49:25567#🇦🇺 Queensland|Brisbane|4101|203-121-199-36.r.fuzenet.com.au| 203.121.199.36 |Time View 19/02/2024 23:32:13 |Black List No |Use Type: Business|
 socks://51.254.167.45:34232#🇦🇺 Western Australia|Perth|6000|25.90-26-211.dynamic.dsl.pth.iprimus.net.au| 211.26.90.25 |Time View 19/02/2024 23:32:08 |Black List No |Use Type: Residential|
 socks://195.154.43.86:33581#🇦🇺 Queensland|Brisbane|4000|boo3152293.lnk.telstra.net| 149.135.116.115 |Time View 20/02/2024 14:40:24 |Black List Yes |Use Type: Business|
+socks://212.83.142.145:51889#🇬🇧 England|Wandsworth|SW11|Community Fibre Limited| 45.159.89.209 |Time View 21/02/2024 00:13:34 |Black List No |Use Type: Residential|
