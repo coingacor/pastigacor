@@ -32,3 +32,10 @@ socks://67.213.212.47:10683#🇺🇸 California|Citrus Heights|95610|96-81-188-1
 socks://209.159.153.21:33286#🇺🇸 California|La Mirada|90638|045-059-218-045.biz.spectrum.com| 45.59.218.45 |Time View 20/02/2024 06:30:57 |Black List No |Use Type: Business|
 socks://212.83.143.151:10724#🇺🇸 California|San Jose|95141|Microsoft Corporation| 104.42.135.57 |Time View 20/02/2024 06:39:28 |Black List No |Use Type: Hosting|
 socks://162.0.220.219:46148#🇺🇸 New Jersey|Paterson|07513|Comcast Cable Communications, LLC| 71.24.72.89 |Time View 20/02/2024 06:54:14 |Black List No |Use Type: Residential|
+socks://162.210.192.135:52828#🇺🇸 Virginia|Warrenton|20186|gdsrv.assl.com| 92.204.137.70 |Time View 20/02/2024 10:06:30 |Black List No |Use Type: Hosting|
+socks://38.91.107.220:36843#🇺🇸 Florida|Hollywood|33024|50-253-149-204-static.hfc.comcastbusiness.net| 50.253.149.204 |Time View 20/02/2024 10:06:17 |Black List No |Use Type: Residential|
+socks://162.210.192.136:41765#🇺🇸 Unknown|Unknown|Unknown|sauberc11.websitewelcome.com| 192.185.179.137 |Time View 20/02/2024 10:06:05 |Black List No |Use Type: Hosting|
+socks://66.29.128.245:31793#🇺🇸 West Virginia|Parkersburg|26104|cas-wv-cpe-216-20-133-11.cascable.net| 216.20.133.11 |Time View 20/02/2024 10:05:43 |Black List No |Use Type: Residential|
+socks://66.23.233.210:38639#🇺🇸 Minnesota|Forest Lake|55025|185.179.146.75.teleproc.com| 75.146.179.185 |Time View 20/02/2024 10:05:31 |Black List No |Use Type: Residential|
+socks://67.213.210.60:38639#🇺🇸 Washington|Wenatchee|98801|173.209.162.9.nwinternet.com| 173.209.162.9 |Time View 20/02/2024 10:05:28 |Black List No |Use Type: Residential|
+socks://162.210.192.135:57094#🇺🇸 Unknown|Unknown|Unknown|webhosting2017.is.cc| 64.20.43.250 |Time View 20/02/2024 10:05:11 |Black List No |Use Type: Hosting|
