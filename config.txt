@@ -39,3 +39,5 @@ socks://66.29.128.245:31793#🇺🇸 West Virginia|Parkersburg|26104|cas-wv-cpe-
 socks://66.23.233.210:38639#🇺🇸 Minnesota|Forest Lake|55025|185.179.146.75.teleproc.com| 75.146.179.185 |Time View 20/02/2024 10:05:31 |Black List No |Use Type: Residential|
 socks://67.213.210.60:38639#🇺🇸 Washington|Wenatchee|98801|173.209.162.9.nwinternet.com| 173.209.162.9 |Time View 20/02/2024 10:05:28 |Black List No |Use Type: Residential|
 socks://162.210.192.135:57094#🇺🇸 Unknown|Unknown|Unknown|webhosting2017.is.cc| 64.20.43.250 |Time View 20/02/2024 10:05:11 |Black List No |Use Type: Hosting|
+socks://67.213.212.55:49420#🇺🇸 Georgia|Powder Springs|30127|50-243-201-17-static.hfc.comcastbusiness.net| 50.243.201.17 |Time View 20/02/2024 18:16:16 |Black List No |Use Type: Residential|
+socks://162.19.7.48:30467#🇺🇸 California|Bakersfield|93304|107-143-234-189.lightspeed.bkfdca.sbcglobal.net| 107.143.234.189 |Time View 20/02/2024 18:16:01 |Black List No |Use Type: Residential|
