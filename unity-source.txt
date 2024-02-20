@@ -10,3 +10,5 @@ socks://89.58.45.94:38493#🇦🇺 New South Wales|Sydney|2082|Telstra Corporati
 socks://212.83.143.60:14365#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 101.187.15.146 |Time View 20/02/2024 18:10:22 |Black List Yes |Use Type: Business|
 socks://212.83.138.245:36812#🇦🇺 South Australia|Adelaide|5000|Telstra Internet| 110.143.52.38 |Time View 20/02/2024 22:54:51 |Black List No |Use Type: Business|
 socks://195.154.43.221:57980#🇦🇺 New South Wales|Sydney|2000|ipb9b89b5a.ipv4.syd02.ds.network| 185.184.155.90 |Time View 20/02/2024 22:54:36 |Black List No |Use Type: Business|
+socks://212.83.138.172:27335#🇦🇺 Victoria|Melbourne|3170|cpe-110-141-223-206.static.vic.bigpond.net.au| 110.141.223.206 |Time View 21/02/2024 06:56:15 |Black List No |Use Type: Business|
+socks://138.201.21.228:43016#🇦🇺 Western Australia|Perth|6062|122-148-242-70.sta.wbroadband.net.au| 122.148.242.70 |Time View 21/02/2024 06:56:09 |Black List Yes |Use Type: Business|
