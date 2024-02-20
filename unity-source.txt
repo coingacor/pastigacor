@@ -1,1 +1,2 @@
 socks://212.83.143.118:14447#🇦🇺 Victoria|Melbourne|3000|Telstra Internet| 144.139.81.151 |Time View 20/02/2024 07:05:11 |Black List No |Use Type: Business|
+socks://212.83.142.100:51727#🇨🇦 Ontario|Toronto|M4P|Rogers Communications Canada Inc.| 99.212.196.73 |Time View 20/02/2024 07:44:05 |Black List No |Use Type: Residential|
