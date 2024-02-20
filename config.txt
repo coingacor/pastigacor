@@ -1,65 +1,12 @@
-socks://23.105.170.30:38111#🇺🇸 Ohio|Cleveland|44124|107-143-105-171.lightspeed.bcvloh.sbcglobal.net| 107.143.105.171 |Time View 19/02/2024 09:36:44 |Black List No |Use Type: Residential|
-socks://67.213.212.49:37962#🇺🇸 Wisconsin|Brookfield|53005|23-125-24-12.lightspeed.milwwi.sbcglobal.net| 23.125.24.12 |Time View 19/02/2024 09:36:35 |Black List No |Use Type: Residential|
-socks://209.159.153.19:25746#🇺🇸 Florida|Jacksonville|32256|107-142-49-161.lightspeed.jcvlfl.sbcglobal.net| 107.142.49.161 |Time View 19/02/2024 09:36:24 |Black List Yes |Use Type: Residential|
-socks://67.213.210.167:13475#🇺🇸 Texas|Conroe|77304|dsl-dhcp-conrtxxahre-72-26-27-83.consolidated.net| 72.26.27.83 |Time View 19/02/2024 09:39:03 |Black List No |Use Type: Residential|
-socks://212.83.138.60:19086#🇺🇸 District of Columbia|Washington|20037|Level 3 Communications, Inc.| 4.4.89.74 |Time View 19/02/2024 09:38:17 |Black List No |Use Type: Business|
-socks://67.213.212.50:54895#🇺🇸 Illinois|Peoria|61603|50-247-146-169-static.hfc.comcastbusiness.net| 50.247.146.169 |Time View 19/02/2024 13:53:08 |Black List No |Use Type: Residential|
-socks://67.213.210.175:17316#🇺🇸 Iowa|Ames|50010|colo-3-173-215-75-101.dsl.netins.net| 173.215.75.101 |Time View 19/02/2024 13:52:55 |Black List No |Use Type: Residential|
-socks://67.213.212.57:34911#🇺🇸 Florida|Miami|33134|50-253-173-62-static.hfc.comcastbusiness.net| 50.253.173.62 |Time View 19/02/2024 13:52:52 |Black List No |Use Type: Residential|
-socks://108.181.132.118:26756#🇺🇸 Texas|Montgomery|77356|dsl-dhcp-conrtxxahre-76-164-81-224.consolidated.net| 76.164.81.224 |Time View 19/02/2024 13:52:47 |Black List No |Use Type: Residential|
-socks://162.210.192.135:15516#🇺🇸 North Carolina|Asheville|28801|cpl30.main-hosting.eu| 212.1.210.101 |Time View 19/02/2024 15:14:58 |Black List No |Use Type: Hosting|
-socks://162.210.192.135:53764#🇺🇸 Unknown|Unknown|Unknown|mi3-lr14.supercp.com| 70.32.23.66 |Time View 19/02/2024 15:14:50 |Black List No |Use Type: Hosting|
-socks://37.221.193.221:18795#🇺🇸 Texas|Gonzales|78629|GVEC.net| 204.154.124.211 |Time View 19/02/2024 15:14:26 |Black List No |Use Type: Business|
-socks://67.213.212.40:57324#🇺🇸 Georgia|Savannah|31419|173-10-238-202-Savannah.hfc.comcastbusiness.net| 173.10.238.202 |Time View 19/02/2024 15:14:23 |Black List No |Use Type: Residential|
-socks://67.213.212.39:39024#🇺🇸 Ohio|Cleveland|44113|104-176-22-24.lightspeed.bcvloh.sbcglobal.net| 104.176.22.24 |Time View 19/02/2024 23:53:16 |Black List No |Use Type: Residential|
-socks://67.213.212.38:38310#🇺🇸 Virginia|Arlington|22207|50-246-105-53-static.hfc.comcastbusiness.net| 50.246.105.53 |Time View 19/02/2024 23:52:55 |Black List No |Use Type: Residential|
-socks://37.221.193.221:16792#🇺🇸 Oregon|Boardman|97818|ec2-35-166-181-47.us-west-2.compute.amazonaws.com| 35.166.181.47 |Time View 19/02/2024 23:52:53 |Black List No |Use Type: Hosting|
-socks://37.221.193.221:33084#🇺🇸 Florida|Orlando|32817|server.macrover.com| 138.128.174.234 |Time View 19/02/2024 23:52:51 |Black List No |Use Type: Hosting|
-socks://162.210.192.136:14443#🇺🇸 California|San Jose|95141|opal14.opalstack.com| 23.81.164.200 |Time View 19/02/2024 23:52:34 |Black List No |Use Type: Hosting|
-socks://38.91.107.2:34368#🇺🇸 Nevada|Mesquite|89027|pppoe-140-82-241-199.rioaccess.com| 140.82.241.199 |Time View 19/02/2024 23:52:28 |Black List No |Use Type: Residential|
-socks://66.29.128.245:52951#🇺🇸 Maryland|Hagerstown|21740|stat-104-218-187-90.myactv.net| 104.218.187.90 |Time View 19/02/2024 23:52:25 |Black List No |Use Type: Residential|
-socks://67.213.210.175:31529#🇺🇸 Alabama|Sulligent|35586|Tombigbee Communications, LLC| 162.142.67.188 |Time View 19/02/2024 23:52:20 |Black List No |Use Type: Business|
-socks://162.210.192.135:18538#🇺🇸 Unknown|Unknown|Unknown|server.zentroidz.com| 162.241.92.153 |Time View 19/02/2024 23:52:03 |Black List No |Use Type: Hosting|
-socks://212.83.137.142:25374#🇺🇸 Unknown|Unknown|Unknown|box5486.bluehost.com| 162.241.217.135 |Time View 19/02/2024 23:51:33 |Black List No |Use Type: Hosting|
-socks://67.213.212.54:20360#🇺🇸 New Jersey|Newark|07107|Verizon Business| 199.172.47.13 |Time View 19/02/2024 23:51:27 |Black List No |Use Type: Business|
-socks://67.213.212.48:11602#🇺🇸 Texas|Magnolia|77354|45-18-72-80.lightspeed.hstntx.sbcglobal.net| 45.18.72.80 |Time View 19/02/2024 23:51:21 |Black List No |Use Type: Residential|
-socks://38.91.107.220:60297#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.253.193 |Time View 19/02/2024 23:51:17 |Black List No |Use Type: Business|
-socks://67.213.212.57:64705#🇺🇸 Iowa|Des Moines|50317|108-161-94-172.client.mchsi.com| 108.161.94.172 |Time View 19/02/2024 23:51:13 |Black List No |Use Type: Business|
-socks://209.159.153.21:47795#🇺🇸 Missouri|Jefferson City|65109|CenturyLink Communications| 65.113.78.2 |Time View 19/02/2024 23:51:08 |Black List No |Use Type: Business|
-socks://209.159.153.21:25361#🇺🇸 Massachusetts|Danvers|01923|Comcast Cable Communications, LLC| 50.212.67.74 |Time View 19/02/2024 23:51:05 |Black List No |Use Type: Residential|
-socks://37.221.193.221:33157#🇺🇸 North Carolina|Charlotte|28211|108-82-205-127.lightspeed.chrlnc.sbcglobal.net| 108.82.205.127 |Time View 19/02/2024 23:50:59 |Black List No |Use Type: Residential|
-socks://67.213.212.47:10683#🇺🇸 California|Citrus Heights|95610|96-81-188-149-static.hfc.comcastbusiness.net| 96.81.188.149 |Time View 20/02/2024 06:31:08 |Black List No |Use Type: Residential|
-socks://209.159.153.21:33286#🇺🇸 California|La Mirada|90638|045-059-218-045.biz.spectrum.com| 45.59.218.45 |Time View 20/02/2024 06:30:57 |Black List No |Use Type: Business|
-socks://212.83.143.151:10724#🇺🇸 California|San Jose|95141|Microsoft Corporation| 104.42.135.57 |Time View 20/02/2024 06:39:28 |Black List No |Use Type: Hosting|
-socks://162.0.220.219:46148#🇺🇸 New Jersey|Paterson|07513|Comcast Cable Communications, LLC| 71.24.72.89 |Time View 20/02/2024 06:54:14 |Black List No |Use Type: Residential|
-socks://162.210.192.135:52828#🇺🇸 Virginia|Warrenton|20186|gdsrv.assl.com| 92.204.137.70 |Time View 20/02/2024 10:06:30 |Black List No |Use Type: Hosting|
-socks://38.91.107.220:36843#🇺🇸 Florida|Hollywood|33024|50-253-149-204-static.hfc.comcastbusiness.net| 50.253.149.204 |Time View 20/02/2024 10:06:17 |Black List No |Use Type: Residential|
-socks://162.210.192.136:41765#🇺🇸 Unknown|Unknown|Unknown|sauberc11.websitewelcome.com| 192.185.179.137 |Time View 20/02/2024 10:06:05 |Black List No |Use Type: Hosting|
-socks://66.29.128.245:31793#🇺🇸 West Virginia|Parkersburg|26104|cas-wv-cpe-216-20-133-11.cascable.net| 216.20.133.11 |Time View 20/02/2024 10:05:43 |Black List No |Use Type: Residential|
-socks://66.23.233.210:38639#🇺🇸 Minnesota|Forest Lake|55025|185.179.146.75.teleproc.com| 75.146.179.185 |Time View 20/02/2024 10:05:31 |Black List No |Use Type: Residential|
-socks://67.213.210.60:38639#🇺🇸 Washington|Wenatchee|98801|173.209.162.9.nwinternet.com| 173.209.162.9 |Time View 20/02/2024 10:05:28 |Black List No |Use Type: Residential|
-socks://162.210.192.135:57094#🇺🇸 Unknown|Unknown|Unknown|webhosting2017.is.cc| 64.20.43.250 |Time View 20/02/2024 10:05:11 |Black List No |Use Type: Hosting|
-socks://67.213.212.55:49420#🇺🇸 Georgia|Powder Springs|30127|50-243-201-17-static.hfc.comcastbusiness.net| 50.243.201.17 |Time View 20/02/2024 18:16:16 |Black List No |Use Type: Residential|
-socks://162.19.7.48:30467#🇺🇸 California|Bakersfield|93304|107-143-234-189.lightspeed.bkfdca.sbcglobal.net| 107.143.234.189 |Time View 20/02/2024 18:16:01 |Black List No |Use Type: Residential|
-socks://67.213.212.57:37649#🇺🇸 Oklahoma|Tulsa|74102|Atom Broadband, LLC| 38.133.238.131 |Time View 20/02/2024 23:01:25 |Black List No |Use Type: Residential|
-socks://66.29.128.241:36579#🇺🇸 Arizona|Paradise Valley|85253|wsip-98-164-143-146.ph.ph.cox.net| 98.164.143.146 |Time View 20/02/2024 23:01:21 |Black List No |Use Type: Business|
-socks://67.213.210.175:46343#🇺🇸 Iowa|Clarence|52216|clnc-5-208-126-35-61.dsl.netins.net| 208.126.35.61 |Time View 20/02/2024 23:01:17 |Black List No |Use Type: Residential|
-socks://38.91.107.220:46458#🇺🇸 Wisconsin|Dallas|54733|Mosaic-DAL1-DHCP.99| 173.248.1.99 |Time View 20/02/2024 23:00:51 |Black List No |Use Type: Business|
-socks://23.105.170.33:47467#🇺🇸 Illinois|Naperville|60540|50-249-204-17-static.hfc.comcastbusiness.net| 50.249.204.17 |Time View 20/02/2024 23:00:41 |Black List No |Use Type: Residential|
-socks://209.159.153.21:10639#🇺🇸 Massachusetts|Chelsea|02150|50-245-26-140-static.hfc.comcastbusiness.net| 50.245.26.140 |Time View 20/02/2024 23:00:38 |Black List No |Use Type: Residential|
-socks://23.105.170.30:47648#🇺🇸 Minnesota|Granite Falls|56241|MVTV Wireless| 184.94.139.41 |Time View 20/02/2024 23:00:32 |Black List No |Use Type: Cellular|
-socks://67.213.212.51:34352#🇺🇸 California|Trabuco Canyon|92679|wsip-184-184-152-174.oc.oc.cox.net| 184.184.152.174 |Time View 20/02/2024 22:59:57 |Black List No |Use Type: Business|
-socks://174.138.176.74:22395#🇺🇸 Wyoming|Thayne|83127|199-192-126-198.silverstar.com| 199.192.126.198 |Time View 20/02/2024 22:59:37 |Black List No |Use Type: Residential|
-socks://209.159.153.21:22395#🇺🇸 Minnesota|Minneapolis|55403|96-87-134-246-static.hfc.comcastbusiness.net| 96.87.134.246 |Time View 20/02/2024 22:59:35 |Black List No |Use Type: Residential|
-socks://23.105.170.33:64126#🇺🇸 California|Long Beach|90815|Frontier Communications Corporation| 47.153.195.39 |Time View 20/02/2024 22:59:25 |Black List No |Use Type: Business|
-socks://209.159.153.19:36515#🇺🇸 New York|The Bronx|10461|ool-2f15e67a.static.optonline.net| 47.21.230.122 |Time View 20/02/2024 22:59:16 |Black List No |Use Type: Business|
-socks://67.213.212.40:36510#🇺🇸 California|Oakland|94621|AT&T Services, Inc.| 12.26.58.62 |Time View 20/02/2024 22:59:06 |Black List No |Use Type: Business|
-socks://212.83.143.159:39223#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 52.179.81.192 |Time View 20/02/2024 22:58:41 |Black List Yes |Use Type: Hosting|
-socks://212.83.143.191:14205#🇺🇸 Virginia|Boydton|23917|Microsoft Corporation| 20.96.49.148 |Time View 20/02/2024 22:58:19 |Black List Yes |Use Type: Hosting|
-socks://37.221.193.221:16411#🇺🇸 Virginia|Ashburn|20149|ec2-35-171-104-234.compute-1.amazonaws.com| 35.171.104.234 |Time View 20/02/2024 22:57:39 |Black List No |Use Type: Hosting|
-socks://162.210.192.135:46411#🇺🇸 Unknown|Unknown|Unknown|mi3-lr3.supercp.com| 68.66.216.39 |Time View 20/02/2024 22:57:34 |Black List No |Use Type: Hosting|
-socks://162.210.192.135:51943#🇺🇸 Unknown|Unknown|Unknown|vps-426889.virtualeventscenter.net| 162.214.224.213 |Time View 20/02/2024 22:57:26 |Black List No |Use Type: Hosting|
-socks://212.83.143.211:51937#🇺🇸 Ohio|Columbus|43215|ec2-3-13-5-208.us-east-2.compute.amazonaws.com| 3.13.5.208 |Time View 20/02/2024 22:57:21 |Black List No |Use Type: Hosting|
-socks://162.210.192.135:63853#🇺🇸 Illinois|Chicago|60602|priva70.privatednsorg.com| 66.225.201.114 |Time View 20/02/2024 22:57:07 |Black List No |Use Type: Hosting|
-socks://162.210.192.136:47654#🇺🇸 Florida|West Palm Beach|33417|rin6.dizinc.com| 199.168.185.232 |Time View 20/02/2024 22:56:58 |Black List No |Use Type: Hosting|
-socks://162.210.192.135:46803#🇺🇸 Ohio|Columbus|43215|ec2-3-15-150-210.us-east-2.compute.amazonaws.com| 3.15.150.210 |Time View 20/02/2024 22:56:46 |Black List No |Use Type: Hosting|
+socks://162.210.192.136:41765/#%F0%9F%87%BA%F0%9F%87%B8%20Unknown%7CUnknown%7CUnknown%7Csauberc11.websitewelcome.com%7C%20192.185.179.137%20%7CTime%20View%2020%2F02%2F2024%2010%3A06%3A05%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Hosting%7C
+socks://174.138.176.74:22395/#%F0%9F%87%BA%F0%9F%87%B8%20Wyoming%7CThayne%7C83127%7C199-192-126-198.silverstar.com%7C%20199.192.126.198%20%7CTime%20View%2020%2F02%2F2024%2022%3A59%3A37%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Residential%7C
+socks://162.210.192.135:46411/#%F0%9F%87%BA%F0%9F%87%B8%20Unknown%7CUnknown%7CUnknown%7Cmi3-lr3.supercp.com%7C%2068.66.216.39%20%7CTime%20View%2020%2F02%2F2024%2022%3A57%3A34%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Hosting%7C
+socks://37.221.193.221:18693#🇺🇸 New Jersey|North Bergen|07047|596258.cloudwaysapps.com| 157.245.255.84 |Time View 21/02/2024 06:11:18 |Black List Yes |Use Type: Hosting|
+socks://51.254.167.45:58799#🇺🇸 New Jersey|Laurelton|08724|c-73-112-94-172.hsd1.nj.comcast.net| 73.112.94.172 |Time View 21/02/2024 06:10:55 |Black List Yes |Use Type: Residential|
+socks://23.105.170.35:32053#🇺🇸 New Jersey|Egg Harbor City|08234|Verizon Business| 63.67.60.219 |Time View 21/02/2024 06:10:51 |Black List No |Use Type: Business|
+socks://23.105.170.30:41812#🇺🇸 New Jersey|Somerville|08876|static-72-88-198-162.nwrknj.fios.verizon.net| 72.88.198.162 |Time View 21/02/2024 06:10:45 |Black List Yes |Use Type: Residential|
+socks://162.210.192.136:32339#🇺🇸 New Jersey|Piscataway|08854|zeus.servidoresph.com| 104.243.32.64 |Time View 21/02/2024 06:10:37 |Black List No |Use Type: Hosting|
+socks://212.83.143.211:40013#🇺🇸 New Jersey|North Bergen|07047|DigitalOcean, LLC| 159.223.167.28 |Time View 21/02/2024 06:10:33 |Black List No |Use Type: Hosting|
+socks://162.19.7.57:23324#🇺🇸 New Jersey|Medford|08055|pool-71-188-95-83.cmdnnj.east.verizon.net| 71.188.95.83 |Time View 21/02/2024 06:10:16 |Black List Yes |Use Type: Business|
+socks://23.105.170.30:27662#🇺🇸 New Jersey|Mahwah|07430|ool-2f15d816.static.optonline.net| 47.21.216.22 |Time View 21/02/2024 06:09:43 |Black List Yes |Use Type: Business|
+socks://162.0.220.215:58175#🇺🇸 New Jersey|Paterson|07503|static-100-35-213-203.nwrknj.fios.verizon.net| 100.35.213.203 |Time View 21/02/2024 06:09:23 |Black List Yes |Use Type: Residential|
