@@ -3,3 +3,5 @@ socks://51.254.167.45:34232#🇦🇺 Western Australia|Perth|6000|25.90-26-211.d
 socks://195.154.43.86:33581#🇦🇺 Queensland|Brisbane|4000|boo3152293.lnk.telstra.net| 149.135.116.115 |Time View 20/02/2024 14:40:24 |Black List Yes |Use Type: Business|
 socks://212.83.142.145:51889#🇬🇧 England|Wandsworth|SW11|Community Fibre Limited| 45.159.89.209 |Time View 21/02/2024 00:13:34 |Black List No |Use Type: Residential|
 socks://212.83.142.131:11226#🇬🇧 England|Lewisham|SE14|33bb55ba.skybroadband.com| 51.187.85.186 |Time View 21/02/2024 00:27:15 |Black List Yes |Use Type: Residential|
+socks://212.83.138.172:27335#🇦🇺 Victoria|Melbourne|3170|cpe-110-141-223-206.static.vic.bigpond.net.au| 110.141.223.206 |Time View 21/02/2024 06:56:15 |Black List No |Use Type: Business|
+socks://138.201.21.228:43016#🇦🇺 Western Australia|Perth|6062|122-148-242-70.sta.wbroadband.net.au| 122.148.242.70 |Time View 21/02/2024 06:56:09 |Black List Yes |Use Type: Business|
