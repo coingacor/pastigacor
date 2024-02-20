@@ -7,3 +7,4 @@ socks://212.83.143.49:25567#🇦🇺 Queensland|Brisbane|4101|203-121-199-36.r.f
 socks://51.254.167.45:34232#🇦🇺 Western Australia|Perth|6000|25.90-26-211.dynamic.dsl.pth.iprimus.net.au| 211.26.90.25 |Time View 19/02/2024 23:32:08 |Black List No |Use Type: Residential|
 socks://195.154.43.86:33581#🇦🇺 Queensland|Brisbane|4000|boo3152293.lnk.telstra.net| 149.135.116.115 |Time View 20/02/2024 14:40:24 |Black List Yes |Use Type: Business|
 socks://89.58.45.94:38493#🇦🇺 New South Wales|Sydney|2082|Telstra Corporation Limited| 60.231.34.210 |Time View 20/02/2024 18:03:06 |Black List No |Use Type: Business|
+socks://212.83.143.60:14365#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 101.187.15.146 |Time View 20/02/2024 18:10:22 |Black List Yes |Use Type: Business|
