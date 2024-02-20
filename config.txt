@@ -41,3 +41,25 @@ socks://67.213.210.60:38639#🇺🇸 Washington|Wenatchee|98801|173.209.162.9.nw
 socks://162.210.192.135:57094#🇺🇸 Unknown|Unknown|Unknown|webhosting2017.is.cc| 64.20.43.250 |Time View 20/02/2024 10:05:11 |Black List No |Use Type: Hosting|
 socks://67.213.212.55:49420#🇺🇸 Georgia|Powder Springs|30127|50-243-201-17-static.hfc.comcastbusiness.net| 50.243.201.17 |Time View 20/02/2024 18:16:16 |Black List No |Use Type: Residential|
 socks://162.19.7.48:30467#🇺🇸 California|Bakersfield|93304|107-143-234-189.lightspeed.bkfdca.sbcglobal.net| 107.143.234.189 |Time View 20/02/2024 18:16:01 |Black List No |Use Type: Residential|
+socks://67.213.212.57:37649#🇺🇸 Oklahoma|Tulsa|74102|Atom Broadband, LLC| 38.133.238.131 |Time View 20/02/2024 23:01:25 |Black List No |Use Type: Residential|
+socks://66.29.128.241:36579#🇺🇸 Arizona|Paradise Valley|85253|wsip-98-164-143-146.ph.ph.cox.net| 98.164.143.146 |Time View 20/02/2024 23:01:21 |Black List No |Use Type: Business|
+socks://67.213.210.175:46343#🇺🇸 Iowa|Clarence|52216|clnc-5-208-126-35-61.dsl.netins.net| 208.126.35.61 |Time View 20/02/2024 23:01:17 |Black List No |Use Type: Residential|
+socks://38.91.107.220:46458#🇺🇸 Wisconsin|Dallas|54733|Mosaic-DAL1-DHCP.99| 173.248.1.99 |Time View 20/02/2024 23:00:51 |Black List No |Use Type: Business|
+socks://23.105.170.33:47467#🇺🇸 Illinois|Naperville|60540|50-249-204-17-static.hfc.comcastbusiness.net| 50.249.204.17 |Time View 20/02/2024 23:00:41 |Black List No |Use Type: Residential|
+socks://209.159.153.21:10639#🇺🇸 Massachusetts|Chelsea|02150|50-245-26-140-static.hfc.comcastbusiness.net| 50.245.26.140 |Time View 20/02/2024 23:00:38 |Black List No |Use Type: Residential|
+socks://23.105.170.30:47648#🇺🇸 Minnesota|Granite Falls|56241|MVTV Wireless| 184.94.139.41 |Time View 20/02/2024 23:00:32 |Black List No |Use Type: Cellular|
+socks://67.213.212.51:34352#🇺🇸 California|Trabuco Canyon|92679|wsip-184-184-152-174.oc.oc.cox.net| 184.184.152.174 |Time View 20/02/2024 22:59:57 |Black List No |Use Type: Business|
+socks://174.138.176.74:22395#🇺🇸 Wyoming|Thayne|83127|199-192-126-198.silverstar.com| 199.192.126.198 |Time View 20/02/2024 22:59:37 |Black List No |Use Type: Residential|
+socks://209.159.153.21:22395#🇺🇸 Minnesota|Minneapolis|55403|96-87-134-246-static.hfc.comcastbusiness.net| 96.87.134.246 |Time View 20/02/2024 22:59:35 |Black List No |Use Type: Residential|
+socks://23.105.170.33:64126#🇺🇸 California|Long Beach|90815|Frontier Communications Corporation| 47.153.195.39 |Time View 20/02/2024 22:59:25 |Black List No |Use Type: Business|
+socks://209.159.153.19:36515#🇺🇸 New York|The Bronx|10461|ool-2f15e67a.static.optonline.net| 47.21.230.122 |Time View 20/02/2024 22:59:16 |Black List No |Use Type: Business|
+socks://67.213.212.40:36510#🇺🇸 California|Oakland|94621|AT&T Services, Inc.| 12.26.58.62 |Time View 20/02/2024 22:59:06 |Black List No |Use Type: Business|
+socks://212.83.143.159:39223#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 52.179.81.192 |Time View 20/02/2024 22:58:41 |Black List Yes |Use Type: Hosting|
+socks://212.83.143.191:14205#🇺🇸 Virginia|Boydton|23917|Microsoft Corporation| 20.96.49.148 |Time View 20/02/2024 22:58:19 |Black List Yes |Use Type: Hosting|
+socks://37.221.193.221:16411#🇺🇸 Virginia|Ashburn|20149|ec2-35-171-104-234.compute-1.amazonaws.com| 35.171.104.234 |Time View 20/02/2024 22:57:39 |Black List No |Use Type: Hosting|
+socks://162.210.192.135:46411#🇺🇸 Unknown|Unknown|Unknown|mi3-lr3.supercp.com| 68.66.216.39 |Time View 20/02/2024 22:57:34 |Black List No |Use Type: Hosting|
+socks://162.210.192.135:51943#🇺🇸 Unknown|Unknown|Unknown|vps-426889.virtualeventscenter.net| 162.214.224.213 |Time View 20/02/2024 22:57:26 |Black List No |Use Type: Hosting|
+socks://212.83.143.211:51937#🇺🇸 Ohio|Columbus|43215|ec2-3-13-5-208.us-east-2.compute.amazonaws.com| 3.13.5.208 |Time View 20/02/2024 22:57:21 |Black List No |Use Type: Hosting|
+socks://162.210.192.135:63853#🇺🇸 Illinois|Chicago|60602|priva70.privatednsorg.com| 66.225.201.114 |Time View 20/02/2024 22:57:07 |Black List No |Use Type: Hosting|
+socks://162.210.192.136:47654#🇺🇸 Florida|West Palm Beach|33417|rin6.dizinc.com| 199.168.185.232 |Time View 20/02/2024 22:56:58 |Black List No |Use Type: Hosting|
+socks://162.210.192.135:46803#🇺🇸 Ohio|Columbus|43215|ec2-3-15-150-210.us-east-2.compute.amazonaws.com| 3.15.150.210 |Time View 20/02/2024 22:56:46 |Black List No |Use Type: Hosting|
