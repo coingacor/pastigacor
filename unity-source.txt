@@ -1,3 +1,5 @@
 socks://212.83.143.118:14447#🇦🇺 Victoria|Melbourne|3000|Telstra Internet| 144.139.81.151 |Time View 20/02/2024 07:05:11 |Black List No |Use Type: Business|
 socks://212.83.142.100:51727#🇨🇦 Ontario|Toronto|M4P|Rogers Communications Canada Inc.| 99.212.196.73 |Time View 20/02/2024 07:44:05 |Black List No |Use Type: Residential|
 socks://89.58.45.94:34227#🇨🇦 British Columbia|Surrey|V4A|d23-16-236-34.bchsia.telus.net| 23.16.236.34 |Time View 20/02/2024 07:50:53 |Black List Yes |Use Type: Business|
+socks://212.83.142.100:15644#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 20/02/2024 09:35:11 |Black List Yes |Use Type: Business|
+socks://162.19.7.48:18568#🇮🇪 Leinster|Dublin|D10|Vodafone Ireland| 109.78.252.142 |Time View 20/02/2024 09:35:08 |Black List Yes |Use Type: Residential|
