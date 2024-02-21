@@ -9,3 +9,4 @@ socks://37.221.193.221:35442#🇺🇸 California|San Jose|95141|Microsoft Corpor
 socks://37.221.193.221:27837#🇺🇸 Texas|San Antonio|78288|Microsoft Corporation| 104.210.212.61 |Time View 22/02/2024 04:28:39 |Black List No |Use Type: Hosting|
 socks://37.221.193.221:26235#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 22/02/2024 05:31:23 |Black List Yes |Use Type: Residential|
 socks://37.221.193.221:27961#🇺🇸 New Jersey|South Plainfield|07080|Verizon Communications| 152.179.173.218 |Time View 22/02/2024 05:31:10 |Black List Yes |Use Type: Business|
+socks://66.29.128.245:12435#🇺🇸 West Virginia|Parkersburg|26104|cas-wv-cpe-216-20-133-11.cascable.net| 216.20.133.11 |Time View 22/02/2024 05:37:49 |Black List No |Use Type: Residential|
