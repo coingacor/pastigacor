@@ -7,3 +7,5 @@ socks://37.221.193.221:22429#🇺🇸 Illinois|Chicago|60602|Microsoft Corporati
 socks://37.221.193.221:23610#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 168.62.48.145 |Time View 22/02/2024 04:28:49 |Black List Yes |Use Type: Hosting|
 socks://37.221.193.221:35442#🇺🇸 California|San Jose|95141|Microsoft Corporation| 52.160.83.214 |Time View 22/02/2024 04:28:46 |Black List No |Use Type: Hosting|
 socks://37.221.193.221:27837#🇺🇸 Texas|San Antonio|78288|Microsoft Corporation| 104.210.212.61 |Time View 22/02/2024 04:28:39 |Black List No |Use Type: Hosting|
+socks://37.221.193.221:26235#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 22/02/2024 05:31:23 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:27961#🇺🇸 New Jersey|South Plainfield|07080|Verizon Communications| 152.179.173.218 |Time View 22/02/2024 05:31:10 |Black List Yes |Use Type: Business|
