@@ -16,3 +16,4 @@ socks://89.58.45.94:34251#🇦🇺 New South Wales|Sydney|2082|Telstra Corporati
 socks://45.132.75.19:12234#🇦🇺 Australian Capital Territory|Canberra|2600|pmdrpt2.lnk.telstra.net| 110.142.132.252 |Time View 21/02/2024 12:08:35 |Black List Yes |Use Type: Business|
 socks://212.83.143.60:39891#🇦🇺 New South Wales|Sydney|2747|n42-62-244-32.bla1.nsw.optusnet.com.au| 42.62.244.32 |Time View 21/02/2024 12:08:28 |Black List No |Use Type: Business|
 socks://45.132.75.19:35738#🇦🇺 Australian Capital Territory|Canberra|2600|pmdrpt2.lnk.telstra.net| 110.142.132.252 |Time View 21/02/2024 17:28:01 |Black List Yes |Use Type: Business|
+socks://212.83.138.60:35282#🇺🇸New South Wales|Sydney|2113|server.nicer8.com| 110.232.113.249 |Time View 21/02/2024 17:51:55 |Black List No |Use Type: Business|
