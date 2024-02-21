@@ -10,3 +10,7 @@ socks://212.83.143.211:40013#🇺🇸 New Jersey|North Bergen|07047|DigitalOcean
 socks://162.19.7.57:23324#🇺🇸 New Jersey|Medford|08055|pool-71-188-95-83.cmdnnj.east.verizon.net| 71.188.95.83 |Time View 21/02/2024 06:10:16 |Black List Yes |Use Type: Business|
 socks://23.105.170.30:27662#🇺🇸 New Jersey|Mahwah|07430|ool-2f15d816.static.optonline.net| 47.21.216.22 |Time View 21/02/2024 06:09:43 |Black List Yes |Use Type: Business|
 socks://162.0.220.215:58175#🇺🇸 New Jersey|Paterson|07503|static-100-35-213-203.nwrknj.fios.verizon.net| 100.35.213.203 |Time View 21/02/2024 06:09:23 |Black List Yes |Use Type: Residential|
+socks://162.210.192.136:30788#🇺🇸 Louisiana|Metairie|70005|mx-s1.vivawebhost.com| 174.136.29.40 |Time View 21/02/2024 11:50:53 |Black List Yes |Use Type: Hosting|
+socks://212.83.143.204:46857#🇺🇸 California|Santa Clara|95054|DigitalOcean, LLC| 161.35.228.245 |Time View 21/02/2024 11:50:43 |Black List No |Use Type: Hosting|
+socks://162.210.192.136:28804#🇺🇸 Unknown|Unknown|Unknown|vpsco.netducational.com| 162.241.134.44 |Time View 21/02/2024 11:50:32 |Black List No |Use Type: Hosting|
+socks://37.221.193.221:27376#🇺🇸 New York|New York|10011|DigitalOcean, LLC| 192.241.178.28 |Time View 21/02/2024 11:49:18 |Black List No |Use Type: Hosting|
