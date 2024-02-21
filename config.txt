@@ -14,3 +14,6 @@ socks://162.210.192.136:30788#🇺🇸 Louisiana|Metairie|70005|mx-s1.vivawebhos
 socks://212.83.143.204:46857#🇺🇸 California|Santa Clara|95054|DigitalOcean, LLC| 161.35.228.245 |Time View 21/02/2024 11:50:43 |Black List No |Use Type: Hosting|
 socks://162.210.192.136:28804#🇺🇸 Unknown|Unknown|Unknown|vpsco.netducational.com| 162.241.134.44 |Time View 21/02/2024 11:50:32 |Black List No |Use Type: Hosting|
 socks://37.221.193.221:27376#🇺🇸 New York|New York|10011|DigitalOcean, LLC| 192.241.178.28 |Time View 21/02/2024 11:49:18 |Black List No |Use Type: Hosting|
+socks://89.58.45.94:34251#🇦🇺 New South Wales|Sydney|2082|Telstra Corporation Limited| 60.231.34.210 |Time View 21/02/2024 12:08:40 |Black List No |Use Type: Business|
+socks://45.132.75.19:12234#🇦🇺 Australian Capital Territory|Canberra|2600|pmdrpt2.lnk.telstra.net| 110.142.132.252 |Time View 21/02/2024 12:08:35 |Black List Yes |Use Type: Business|
+socks://212.83.143.60:39891#🇦🇺 New South Wales|Sydney|2747|n42-62-244-32.bla1.nsw.optusnet.com.au| 42.62.244.32 |Time View 21/02/2024 12:08:28 |Black List No |Use Type: Business|
