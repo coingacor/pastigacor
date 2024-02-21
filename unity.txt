@@ -1,7 +1,4 @@
-socks://212.83.143.49:25567#🇦🇺 Queensland|Brisbane|4101|203-121-199-36.r.fuzenet.com.au| 203.121.199.36 |Time View 19/02/2024 23:32:13 |Black List No |Use Type: Business|
-socks://51.254.167.45:34232#🇦🇺 Western Australia|Perth|6000|25.90-26-211.dynamic.dsl.pth.iprimus.net.au| 211.26.90.25 |Time View 19/02/2024 23:32:08 |Black List No |Use Type: Residential|
-socks://195.154.43.86:33581#🇦🇺 Queensland|Brisbane|4000|boo3152293.lnk.telstra.net| 149.135.116.115 |Time View 20/02/2024 14:40:24 |Black List Yes |Use Type: Business|
-socks://212.83.142.145:51889#🇬🇧 England|Wandsworth|SW11|Community Fibre Limited| 45.159.89.209 |Time View 21/02/2024 00:13:34 |Black List No |Use Type: Residential|
-socks://212.83.142.131:11226#🇬🇧 England|Lewisham|SE14|33bb55ba.skybroadband.com| 51.187.85.186 |Time View 21/02/2024 00:27:15 |Black List Yes |Use Type: Residential|
-socks://212.83.138.172:27335#🇦🇺 Victoria|Melbourne|3170|cpe-110-141-223-206.static.vic.bigpond.net.au| 110.141.223.206 |Time View 21/02/2024 06:56:15 |Black List No |Use Type: Business|
-socks://138.201.21.228:43016#🇦🇺 Western Australia|Perth|6062|122-148-242-70.sta.wbroadband.net.au| 122.148.242.70 |Time View 21/02/2024 06:56:09 |Black List Yes |Use Type: Business|
+socks://212.83.138.172:23649#🇦🇺 Victoria|Melbourne|3170|cpe-110-141-223-206.static.vic.bigpond.net.au| 110.141.223.206 |Time View 22/02/2024 02:16:59 |Black List No |Use Type: Business|
+socks://51.83.116.7:48908#🇦🇺 Victoria|Melbourne|3008|static-38-115.mel.0101.net.au| 27.116.38.115 |Time View 22/02/2024 02:16:49 |Black List No |Use Type: Business|
+socks://89.58.45.94:37092#🇦🇺 New South Wales|Sydney|2082|Telstra Corporation Limited| 60.231.34.210 |Time View 22/02/2024 02:16:41 |Black List No |Use Type: Business|
+socks://212.83.142.100:59147#🇦🇺 Queensland|Brisbane|4000|bet2886687.lnk.telstra.net| 110.145.106.146 |Time View 22/02/2024 02:16:34 |Black List No |Use Type: Business|
