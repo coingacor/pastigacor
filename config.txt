@@ -1,19 +1,5 @@
-socks://162.210.192.136:44940#🇺🇸 Unknown|Unknown|Unknown|premium261.web-hosting.com| 67.223.118.71 |Time View 22/02/2024 04:24:07 |Black List Yes |Use Type: Hosting|
-socks://195.154.43.184:38233#🇺🇸 Pennsylvania|Philadelphia|19145|business95.web-hosting.com| 162.0.209.211 |Time View 22/02/2024 04:24:04 |Black List No |Use Type: Hosting|
-socks://195.154.43.198:54568#🇺🇸 Unknown|Unknown|Unknown|server139.web-hosting.com| 104.219.248.44 |Time View 22/02/2024 04:23:55 |Black List Yes |Use Type: Hosting|
-socks://162.210.192.135:29108#🇺🇸 Pennsylvania|Philadelphia|19145|business109.web-hosting.com| 162.0.215.170 |Time View 22/02/2024 04:23:39 |Black List Yes |Use Type: Hosting|
-socks://212.83.137.150:32923#🇺🇸 Unknown|Unknown|Unknown|premium51.web-hosting.com| 198.54.120.46 |Time View 22/02/2024 04:23:37 |Black List Yes |Use Type: Hosting|
-socks://37.221.193.221:22429#🇺🇸 Illinois|Chicago|60602|Microsoft Corporation| 23.96.237.52 |Time View 22/02/2024 04:28:52 |Black List No |Use Type: Hosting|
-socks://37.221.193.221:23610#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 168.62.48.145 |Time View 22/02/2024 04:28:49 |Black List Yes |Use Type: Hosting|
-socks://37.221.193.221:35442#🇺🇸 California|San Jose|95141|Microsoft Corporation| 52.160.83.214 |Time View 22/02/2024 04:28:46 |Black List No |Use Type: Hosting|
-socks://37.221.193.221:27837#🇺🇸 Texas|San Antonio|78288|Microsoft Corporation| 104.210.212.61 |Time View 22/02/2024 04:28:39 |Black List No |Use Type: Hosting|
-socks://37.221.193.221:26235#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 22/02/2024 05:31:23 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:27961#🇺🇸 New Jersey|South Plainfield|07080|Verizon Communications| 152.179.173.218 |Time View 22/02/2024 05:31:10 |Black List Yes |Use Type: Business|
-socks://66.29.128.245:12435#🇺🇸 West Virginia|Parkersburg|26104|cas-wv-cpe-216-20-133-11.cascable.net| 216.20.133.11 |Time View 22/02/2024 05:37:49 |Black List No |Use Type: Residential|
-socks://212.83.143.211:29010#🇺🇸 Ohio|Dayton|45432|network31.springfieldarts| 64.56.104.90 |Time View 22/02/2024 10:33:13 |Black List No |Use Type: Business|
-socks://23.105.170.35:25016#🇺🇸 Missouri|Springfield|65807|SpringNet| 75.98.96.122 |Time View 22/02/2024 10:33:08 |Black List Yes |Use Type: Business|
-socks://212.83.137.142:26754#🇺🇸 Florida|Orlando|32806|Omnispring, LLC| 66.158.192.94 |Time View 22/02/2024 10:33:06 |Black List Yes |Use Type: Business|
-socks://67.213.210.60:64524#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.141.60 |Time View 22/02/2024 10:32:55 |Black List Yes |Use Type: Business|
-socks://51.68.244.19:46299#🇺🇸 Arizona|Phoenix|85018|174-26-241-223.phnx.qwest.net| 174.26.241.223 |Time View 22/02/2024 10:32:49 |Black List Yes |Use Type: Business|
-socks://66.29.128.246:59901#🇺🇸 Connecticut|Middletown|06457|96-67-60-230-static.hfc.comcastbusiness.net| 96.67.60.230 |Time View 22/02/2024 10:32:45 |Black List No |Use Type: Residential|
-socks://66.29.128.245:12435#🇺🇸 West Virginia|Parkersburg|26104|cas-wv-cpe-216-20-133-11.cascable.net| 216.20.133.11 |Time View 22/02/2024 05:37:49 |Black List No |Use Type: Residential|
+socks://23.105.170.32:32942#🇺🇸 Missouri|Springfield|65802|SpringNet| 75.98.105.26 |Time View 23/02/2024 00:07:01 |Black List No |Use Type: Business|
+socks://108.181.132.116:12301#🇺🇸 Arizona|Phoenix|85015|71-209-198-23.phnx.qwest.net| 71.209.198.23 |Time View 23/02/2024 00:06:40 |Black List Yes |Use Type: Business|
+socks://209.159.153.22:48935#🇺🇸 Florida|Crawfordville|32327|71-209-110-75.dvnp.qwest.net| 71.209.110.75 |Time View 23/02/2024 00:06:37 |Black List Yes |Use Type: Business|
+socks://67.213.212.48:15216#🇺🇸 Arizona|Phoenix|85015|71-209-163-88.phnx.qwest.net| 71.209.163.88 |Time View 23/02/2024 00:06:35 |Black List Yes |Use Type: Business|
+socks://212.83.137.150:47202#🇺🇸 Georgia|Cumming|30028|Namecheap, Inc.| 66.29.131.88 |Time View 23/02/2024 00:05:50 |Black List Yes |Use Type: Business|
