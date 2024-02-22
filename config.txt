@@ -3,6 +3,12 @@ socks://108.181.132.116:12301#🇺🇸 Arizona|Phoenix|85015|71-209-198-23.phnx.
 socks://209.159.153.22:48935#🇺🇸 Florida|Crawfordville|32327|71-209-110-75.dvnp.qwest.net| 71.209.110.75 |Time View 23/02/2024 00:06:37 |Black List Yes |Use Type: Business|
 socks://67.213.212.48:15216#🇺🇸 Arizona|Phoenix|85015|71-209-163-88.phnx.qwest.net| 71.209.163.88 |Time View 23/02/2024 00:06:35 |Black List Yes |Use Type: Business|
 socks://212.83.137.150:47202#🇺🇸 Georgia|Cumming|30028|Namecheap, Inc.| 66.29.131.88 |Time View 23/02/2024 00:05:50 |Black List Yes |Use Type: Business|
-socks5://212.83.143.211:29010/#%F0%9F%87%BA%F0%9F%87%B8%20Ohio%7CDayton%7C45432%7Cnetwork31.springfieldarts%7C%2064.56.104.90%20%7CTime%20View%2022%2F02%2F2024%2010%3A33%3A13%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
-socks5://23.105.170.35:25016/#%F0%9F%87%BA%F0%9F%87%B8%20Missouri%7CSpringfield%7C65807%7CSpringNet%7C%2075.98.96.122%20%7CTime%20View%2022%2F02%2F2024%2010%3A33%3A08%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
-socks5://51.68.244.19:46299/#%F0%9F%87%BA%F0%9F%87%B8%20Arizona%7CPhoenix%7C85018%7C174-26-241-223.phnx.qwest.net%7C%20174.26.241.223%20%7CTime%20View%2022%2F02%2F2024%2010%3A32%3A49%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
+socks://212.83.143.211:29010/#%F0%9F%87%BA%F0%9F%87%B8%20Ohio%7CDayton%7C45432%7Cnetwork31.springfieldarts%7C%2064.56.104.90%20%7CTime%20View%2022%2F02%2F2024%2010%3A33%3A13%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
+socks://23.105.170.35:25016/#%F0%9F%87%BA%F0%9F%87%B8%20Missouri%7CSpringfield%7C65807%7CSpringNet%7C%2075.98.96.122%20%7CTime%20View%2022%2F02%2F2024%2010%3A33%3A08%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
+socks://51.68.244.19:46299/#%F0%9F%87%BA%F0%9F%87%B8%20Arizona%7CPhoenix%7C85018%7C174-26-241-223.phnx.qwest.net%7C%20174.26.241.223%20%7CTime%20View%2022%2F02%2F2024%2010%3A32%3A49%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
+socks://67.213.212.52:24251#🇺🇸 New Jersey|Bordentown|08505|96-82-191-170-static.hfc.comcastbusiness.net| 96.82.191.170 |Time View 23/02/2024 01:29:27 |Black List Yes |Use Type: Residential|
+socks://209.159.153.19:29278#🇺🇸 New Jersey|Bayonne|07002|static-100-35-212-36.nwrknj.fios.verizon.net| 100.35.212.36 |Time View 23/02/2024 01:29:25 |Black List Yes |Use Type: Residential|
+socks://176.126.84.126:19852#🇺🇸 New Jersey|Haledon|07508|4133fde2.cst.lightpath.net| 65.51.253.226 |Time View 23/02/2024 01:29:16 |Black List Yes |Use Type: Residential|
+socks://67.213.212.40:22768#🇺🇸 New Jersey|Jersey City|07307|c-73-198-24-107.hsd1.nj.comcast.net| 73.198.24.107 |Time View 23/02/2024 01:29:06 |Black List Yes |Use Type: Business|
+socks://67.213.212.47:43174#🇺🇸 New Jersey|Roseland|07068|50-78-150-174-static.hfc.comcastbusiness.net| 50.78.150.174 |Time View 23/02/2024 01:28:59 |Black List Yes |Use Type: Residential|
+socks://37.59.213.49:60874#🇺🇸 New Jersey|Pennsauken|08109|c-73-194-153-210.hsd1.nj.comcast.net| 73.194.153.210 |Time View 23/02/2024 01:28:42 |Black List Yes |Use Type: Residential|
