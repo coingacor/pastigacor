@@ -6,3 +6,5 @@ socks://45.132.75.19:37137#🇸🇬 Unknown|Singapore|34|122.11.177-164.unknown.
 socks://31.220.43.141:19786#🇸🇬 Unknown|Singapore|04|58-204-96-66.myrepublic.com.sg| 66.96.204.58 |Time View 23/02/2024 08:11:04 |Black List Yes |Use Type: Business|
 socks://195.154.43.86:65473#🇦🇺 Victoria|Melbourne|3001|nanker7.lnk.telstra.net| 120.151.163.137 |Time View 23/02/2024 08:37:09 |Black List Yes |Use Type: Business|
 socks://212.83.142.131:55159#🇦🇺 Queensland|Brisbane|4000|boo3418084.lnk.telstra.net| 58.171.193.178 |Time View 23/02/2024 08:36:55 |Black List Yes |Use Type: Business|
+socks://212.83.143.49:25697#🇦🇺 Queensland|Brisbane|4101|203-121-199-36.r.fuzenet.com.au| 203.121.199.36 |Time View 23/02/2024 22:39:46 |Black List No |Use Type: Business|
+socks://212.83.143.60:60667#🇦🇺 Queensland|Brisbane|4000|paw2697105.lnk.telstra.net| 101.187.147.137 |Time View 23/02/2024 22:39:38 |Black List Yes |Use Type: Business|
