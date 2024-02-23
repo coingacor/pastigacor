@@ -2,3 +2,5 @@ socks://212.83.138.172:23649#🇦🇺 Victoria|Melbourne|3170|cpe-110-141-223-20
 socks://51.83.116.7:48908#🇦🇺 Victoria|Melbourne|3008|static-38-115.mel.0101.net.au| 27.116.38.115 |Time View 22/02/2024 02:16:49 |Black List No |Use Type: Business|
 socks://89.58.45.94:37092#🇦🇺 New South Wales|Sydney|2082|Telstra Corporation Limited| 60.231.34.210 |Time View 22/02/2024 02:16:41 |Black List No |Use Type: Business|
 socks://212.83.142.100:59147#🇦🇺 Queensland|Brisbane|4000|bet2886687.lnk.telstra.net| 110.145.106.146 |Time View 22/02/2024 02:16:34 |Black List No |Use Type: Business|
+socks://45.132.75.19:37137#🇸🇬 Unknown|Singapore|34|122.11.177-164.unknown.starhub.net.sg| 122.11.177.164 |Time View 23/02/2024 08:11:14 |Black List Yes |Use Type: Business|
+socks://31.220.43.141:19786#🇸🇬 Unknown|Singapore|04|58-204-96-66.myrepublic.com.sg| 66.96.204.58 |Time View 23/02/2024 08:11:04 |Black List Yes |Use Type: Business|
