@@ -14,3 +14,8 @@ socks://212.83.137.150:47202#🇺🇸 Georgia|Cumming|30028|Namecheap, Inc.| 66.
 socks://37.221.193.221:11292#🇺🇸 Texas|San Antonio|78288|Microsoft Corporation| 104.210.212.61 |Time View 23/02/2024 07:43:49 |Black List No |Use Type: Hosting|
 socks://212.83.143.191:63480#🇺🇸 Virginia|Boydton|23917|Microsoft Corporation| 20.96.49.148 |Time View 23/02/2024 07:43:41 |Black List Yes |Use Type: Hosting|
 socks://162.0.220.215:50141#🇺🇸 New Jersey|Paterson|07503|static-100-35-213-203.nwrknj.fios.verizon.net| 100.35.213.203 |Time View 23/02/2024 21:37:17 |Black List Yes |Use Type: Residential|
+socks://66.29.128.242:16582#🇺🇸 New Jersey|Galloway|08205|c-73-195-250-150.hsd1.nj.comcast.net| 73.195.250.150 |Time View 23/02/2024 21:40:17 |Black List Yes |Use Type: Residential|
+socks://23.105.170.30:20228#🇺🇸 New Jersey|Whitehouse Station|08889|c-73-80-61-106.hsd1.nj.comcast.net| 73.80.61.106 |Time View 23/02/2024 21:40:14 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:22433#🇺🇸 New Jersey|Trenton|08618|c-174-167-22-25.hsd1.nj.comcast.net| 174.167.22.25 |Time View 23/02/2024 21:40:08 |Black List Yes |Use Type: Residential|
+socks://66.29.128.241:45119#🇺🇸 New Jersey|Iselin|08830|c-73-112-199-72.hsd1.nj.comcast.net| 73.112.199.72 |Time View 23/02/2024 21:39:51 |Black List Yes |Use Type: Residential|
+socks://162.210.192.136:13394#🇺🇸 New Jersey|Seaside Park|08752|webhosting2051.is.cc| 69.10.62.42 |Time View 23/02/2024 21:39:30 |Black List No |Use Type: Hosting|
