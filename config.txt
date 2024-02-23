@@ -13,3 +13,4 @@ socks://209.159.153.22:48935#🇺🇸 Florida|Crawfordville|32327|71-209-110-75.
 socks://212.83.137.150:47202#🇺🇸 Georgia|Cumming|30028|Namecheap, Inc.| 66.29.131.88 |Time View 23/02/2024 00:05:50 |Black List Yes |Use Type: Business|
 socks://37.221.193.221:11292#🇺🇸 Texas|San Antonio|78288|Microsoft Corporation| 104.210.212.61 |Time View 23/02/2024 07:43:49 |Black List No |Use Type: Hosting|
 socks://212.83.143.191:63480#🇺🇸 Virginia|Boydton|23917|Microsoft Corporation| 20.96.49.148 |Time View 23/02/2024 07:43:41 |Black List Yes |Use Type: Hosting|
+socks://162.0.220.215:50141#🇺🇸 New Jersey|Paterson|07503|static-100-35-213-203.nwrknj.fios.verizon.net| 100.35.213.203 |Time View 23/02/2024 21:37:17 |Black List Yes |Use Type: Residential|
