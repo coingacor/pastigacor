@@ -19,3 +19,18 @@ socks://23.105.170.30:20228#🇺🇸 New Jersey|Whitehouse Station|08889|c-73-80
 socks://67.213.212.48:22433#🇺🇸 New Jersey|Trenton|08618|c-174-167-22-25.hsd1.nj.comcast.net| 174.167.22.25 |Time View 23/02/2024 21:40:08 |Black List Yes |Use Type: Residential|
 socks://66.29.128.241:45119#🇺🇸 New Jersey|Iselin|08830|c-73-112-199-72.hsd1.nj.comcast.net| 73.112.199.72 |Time View 23/02/2024 21:39:51 |Black List Yes |Use Type: Residential|
 socks://162.210.192.136:13394#🇺🇸 New Jersey|Seaside Park|08752|webhosting2051.is.cc| 69.10.62.42 |Time View 23/02/2024 21:39:30 |Black List No |Use Type: Hosting|
+socks://209.159.153.20:37419#🇺🇸 Pennsylvania|Folsom|19033|208-58-101-122.s13688.c3-0.drf-cbr1.atw-drf.pa.cable.rcncustomer.com| 208.58.101.122 |Time View 23/02/2024 23:56:38 |Black List No |Use Type: Residential|
+socks://67.213.212.40:14237#🇺🇸 Tennessee|Harrogate|37752|Vyve Broadband| 38.178.110.217 |Time View 23/02/2024 23:56:36 |Black List No |Use Type: Residential|
+socks://67.213.212.54:12015#🇺🇸 Florida|Sarasota|34236|static-47-206-250-205.tamp.fl.frontiernet.net| 47.206.250.205 |Time View 23/02/2024 23:56:31 |Black List No |Use Type: Business|
+socks://209.159.153.20:65055#🇺🇸 Georgia|Atlanta|30319|96-70-3-210-static.hfc.comcastbusiness.net| 96.70.3.210 |Time View 23/02/2024 23:56:23 |Black List No |Use Type: Residential|
+socks://162.210.192.136:32519#🇺🇸 Ohio|Columbus|43215|ec2-3-21-210-83.us-east-2.compute.amazonaws.com| 3.21.210.83 |Time View 23/02/2024 23:56:18 |Black List No |Use Type: Hosting|
+socks://67.213.212.56:37208#🇺🇸 Ohio|Columbus|43221|d-23-244-52-140.oh.cpe.breezeline.net| 23.244.52.140 |Time View 23/02/2024 23:56:14 |Black List No |Use Type: Hosting|
+socks://67.213.212.56:56162#🇺🇸 Arizona|Scottsdale|85262|mail.mayoragain.com| 68.107.219.162 |Time View 23/02/2024 23:56:02 |Black List No |Use Type: Business|
+socks://67.213.212.53:54809#🇺🇸 Oklahoma|Oklahoma City|73135|COX-70-169-217-162-static.coxinet.net| 70.169.217.162 |Time View 23/02/2024 23:55:57 |Black List No |Use Type: Residential|
+socks://174.138.176.76:23669#🇺🇸 Wisconsin|Darien|53114|066-170-078-085.sharontelephone.com| 66.170.78.85 |Time View 23/02/2024 23:55:42 |Black List No |Use Type: Business|
+socks://108.181.132.117:32542#🇺🇸 Michigan|Plainwell|49080|209-74-119-207.dhcp.delton.mi.mei.net| 209.74.119.207 |Time View 23/02/2024 23:55:32 |Black List No |Use Type: Residential|
+socks://162.0.220.214:20812#🇺🇸 Minnesota|Minneapolis|55443|c-98-240-169-109.hsd1.mn.comcast.net| 98.240.169.109 |Time View 23/02/2024 23:55:23 |Black List Yes |Use Type: Residential|
+socks://67.213.212.56:14450#🇺🇸 North Carolina|Charlotte|28213|172-073-134-211.res.spectrum.com| 172.73.134.211 |Time View 23/02/2024 23:55:18 |Black List Yes |Use Type: Business|
+socks://67.213.212.53:12483#🇺🇸 Texas|Fruitvale|75127|Peoples Communications Inc| 67.221.133.208 |Time View 23/02/2024 23:55:10 |Black List Yes |Use Type: Residential|
+socks://67.213.210.60:61060#🇺🇸 Nevada|Mesquite|89027|pppoe-72-19-38-042.rioaccess.com| 72.19.38.42 |Time View 23/02/2024 23:54:50 |Black List Yes |Use Type: Residential|
+socks://23.105.170.35:29961#🇺🇸 Georgia|Atlanta|30318|96-77-82-54-static.hfc.comcastbusiness.net| 96.77.82.54 |Time View 23/02/2024 23:54:47 |Black List Yes |Use Type: Residential|
