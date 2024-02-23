@@ -1,14 +1,13 @@
-socks://23.105.170.32:32942#🇺🇸 Missouri|Springfield|65802|SpringNet| 75.98.105.26 |Time View 23/02/2024 00:07:01 |Black List No |Use Type: Business|
+socks://162.210.192.135:52154#🇺🇸 Texas|Dallas|75247|tesla.noc223.com| 107.155.81.234 |Time View 23/02/2024 07:29:11 |Black List No |Use Type: Hosting|
+socks://108.181.132.118:32014#🇺🇸 Pennsylvania|Philadelphia|19120|c-174-173-219-132.hsd1.pa.comcast.net| 174.173.219.132 |Time View 23/02/2024 07:29:06 |Black List Yes |Use Type: Residential|
+socks://162.210.192.135:57102#🇺🇸 Unknown|Unknown|Unknown|dragula.websitewelcome.com| 192.185.83.219 |Time View 23/02/2024 07:28:51 |Black List Yes |Use Type: Hosting|
+socks://67.213.210.60:32030#🇺🇸 Oregon|Elkton|97436|pppoe-173-239-84-211-elkton.cascadeaccess.com| 173.239.84.211 |Time View 23/02/2024 07:28:38 |Black List No |Use Type: Residential|
+socks://162.210.192.136:11541#🇺🇸 New Jersey|North Bergen|07047|DigitalOcean, LLC| 134.209.115.143 |Time View 23/02/2024 07:28:12 |Black List Yes |Use Type: Hosting|
+socks://37.221.193.221:12376#🇺🇸 Florida|Orlando|32839|us1.pandora.dimenoc.com| 67.23.232.194 |Time View 23/02/2024 07:27:59 |Black List No |Use Type: Hosting|
+socks://162.210.192.135:17321#🇺🇸 Georgia|Atlanta|30301|li2100-20.members.linode.com| 172.105.148.20 |Time View 23/02/2024 07:27:48 |Black List Yes |Use Type: Hosting|
+socks://162.19.7.46:35123#🇺🇸 Virginia|Ashburn|20147|216-131-73-29.iad.as62651.net| 216.131.73.29 |Time View 23/02/2024 07:27:41 |Black List Yes |Use Type: Hosting|
+socks://67.213.212.52:50489#🇺🇸 Florida|Kissimmee|34747|104-203-240-130.miami.fl.bluestreamfiber.net| 104.203.240.130 |Time View 23/02/2024 07:27:09 |Black List Yes |Use Type: Hosting|
+socks://176.126.84.126:19852#🇺🇸 New Jersey|Haledon|07508|4133fde2.cst.lightpath.net| 65.51.253.226 |Time View 23/02/2024 01:29:16 |Black List Yes |Use Type: Residential|
 socks://108.181.132.116:12301#🇺🇸 Arizona|Phoenix|85015|71-209-198-23.phnx.qwest.net| 71.209.198.23 |Time View 23/02/2024 00:06:40 |Black List Yes |Use Type: Business|
 socks://209.159.153.22:48935#🇺🇸 Florida|Crawfordville|32327|71-209-110-75.dvnp.qwest.net| 71.209.110.75 |Time View 23/02/2024 00:06:37 |Black List Yes |Use Type: Business|
-socks://67.213.212.48:15216#🇺🇸 Arizona|Phoenix|85015|71-209-163-88.phnx.qwest.net| 71.209.163.88 |Time View 23/02/2024 00:06:35 |Black List Yes |Use Type: Business|
 socks://212.83.137.150:47202#🇺🇸 Georgia|Cumming|30028|Namecheap, Inc.| 66.29.131.88 |Time View 23/02/2024 00:05:50 |Black List Yes |Use Type: Business|
-socks://212.83.143.211:29010/#%F0%9F%87%BA%F0%9F%87%B8%20Ohio%7CDayton%7C45432%7Cnetwork31.springfieldarts%7C%2064.56.104.90%20%7CTime%20View%2022%2F02%2F2024%2010%3A33%3A13%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
-socks://23.105.170.35:25016/#%F0%9F%87%BA%F0%9F%87%B8%20Missouri%7CSpringfield%7C65807%7CSpringNet%7C%2075.98.96.122%20%7CTime%20View%2022%2F02%2F2024%2010%3A33%3A08%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
-socks://51.68.244.19:46299/#%F0%9F%87%BA%F0%9F%87%B8%20Arizona%7CPhoenix%7C85018%7C174-26-241-223.phnx.qwest.net%7C%20174.26.241.223%20%7CTime%20View%2022%2F02%2F2024%2010%3A32%3A49%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
-socks://67.213.212.52:24251#🇺🇸 New Jersey|Bordentown|08505|96-82-191-170-static.hfc.comcastbusiness.net| 96.82.191.170 |Time View 23/02/2024 01:29:27 |Black List Yes |Use Type: Residential|
-socks://209.159.153.19:29278#🇺🇸 New Jersey|Bayonne|07002|static-100-35-212-36.nwrknj.fios.verizon.net| 100.35.212.36 |Time View 23/02/2024 01:29:25 |Black List Yes |Use Type: Residential|
-socks://176.126.84.126:19852#🇺🇸 New Jersey|Haledon|07508|4133fde2.cst.lightpath.net| 65.51.253.226 |Time View 23/02/2024 01:29:16 |Black List Yes |Use Type: Residential|
-socks://67.213.212.40:22768#🇺🇸 New Jersey|Jersey City|07307|c-73-198-24-107.hsd1.nj.comcast.net| 73.198.24.107 |Time View 23/02/2024 01:29:06 |Black List Yes |Use Type: Business|
-socks://67.213.212.47:43174#🇺🇸 New Jersey|Roseland|07068|50-78-150-174-static.hfc.comcastbusiness.net| 50.78.150.174 |Time View 23/02/2024 01:28:59 |Black List Yes |Use Type: Residential|
-socks://37.59.213.49:60874#🇺🇸 New Jersey|Pennsauken|08109|c-73-194-153-210.hsd1.nj.comcast.net| 73.194.153.210 |Time View 23/02/2024 01:28:42 |Black List Yes |Use Type: Residential|
