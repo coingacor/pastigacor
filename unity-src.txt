@@ -1,0 +1,10 @@
+socks://212.83.138.172:23649#🇦🇺 Victoria|Melbourne|3170|cpe-110-141-223-206.static.vic.bigpond.net.au| 110.141.223.206 |Time View 22/02/2024 02:16:59 |Black List No |Use Type: Business|
+socks://51.83.116.7:48908#🇦🇺 Victoria|Melbourne|3008|static-38-115.mel.0101.net.au| 27.116.38.115 |Time View 22/02/2024 02:16:49 |Black List No |Use Type: Business|
+socks://89.58.45.94:37092#🇦🇺 New South Wales|Sydney|2082|Telstra Corporation Limited| 60.231.34.210 |Time View 22/02/2024 02:16:41 |Black List No |Use Type: Business|
+socks://212.83.142.100:59147#🇦🇺 Queensland|Brisbane|4000|bet2886687.lnk.telstra.net| 110.145.106.146 |Time View 22/02/2024 02:16:34 |Black List No |Use Type: Business|
+socks://45.132.75.19:37137#🇸🇬 Unknown|Singapore|34|122.11.177-164.unknown.starhub.net.sg| 122.11.177.164 |Time View 23/02/2024 08:11:14 |Black List Yes |Use Type: Business|
+socks://31.220.43.141:19786#🇸🇬 Unknown|Singapore|04|58-204-96-66.myrepublic.com.sg| 66.96.204.58 |Time View 23/02/2024 08:11:04 |Black List Yes |Use Type: Business|
+socks://195.154.43.86:65473#🇦🇺 Victoria|Melbourne|3001|nanker7.lnk.telstra.net| 120.151.163.137 |Time View 23/02/2024 08:37:09 |Black List Yes |Use Type: Business|
+socks://212.83.142.131:55159#🇦🇺 Queensland|Brisbane|4000|boo3418084.lnk.telstra.net| 58.171.193.178 |Time View 23/02/2024 08:36:55 |Black List Yes |Use Type: Business|
+socks://212.83.143.49:25697#🇦🇺 Queensland|Brisbane|4101|203-121-199-36.r.fuzenet.com.au| 203.121.199.36 |Time View 23/02/2024 22:39:46 |Black List No |Use Type: Business|
+socks://212.83.143.60:60667#🇦🇺 Queensland|Brisbane|4000|paw2697105.lnk.telstra.net| 101.187.147.137 |Time View 23/02/2024 22:39:38 |Black List Yes |Use Type: Business|
