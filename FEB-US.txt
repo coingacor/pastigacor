@@ -34,3 +34,6 @@ socks://162.210.192.135:28769#🇺🇸 New Jersey|North Bergen|07047|savigt.net|
 socks://67.213.210.168:60494#🇺🇸 New Hampshire|Litchfield|03052|pool-71-161-202-218.burl.east.myfairpoint.net| 71.161.202.218 |Time View 26/02/2024 22:50:00 |Black List Yes |Use Type: Business|
 socks://162.19.7.58:47716#🇺🇸 Colorado|Colorado Springs|80907|97-121-173-195.clsp.qwest.net| 97.121.173.195 |Time View 26/02/2024 22:49:42 |Black List Yes |Use Type: Business|
 socks://108.181.133.59:38657#🇺🇸 Nebraska|Omaha|68138|184-97-145-74.stpl.qwest.net| 184.97.145.74 |Time View 26/02/2024 22:49:00 |Black List No |Use Type: Business|
+socks://38.91.107.2:55907#🇺🇸 Michigan|Detroit|48211|c-68-36-70-72.hsd1.mi.comcast.net| 68.36.70.72 |Time View 27/02/2024 05:41:45 |Black List Yes |Use Type: Residential|
+socks://23.105.170.34:26926#🇺🇸 New Jersey|Cherry Hill|08003|c-73-178-143-238.hsd1.nj.comcast.net| 73.178.143.238 |Time View 27/02/2024 05:41:24 |Black List Yes |Use Type: Residential|
+socks://23.105.170.34:25909#🇺🇸 Pennsylvania|Ardmore|19003|c-68-81-0-160.hsd1.pa.comcast.net| 68.81.0.160 |Time View 27/02/2024 05:41:18 |Black List Yes |Use Type: Residential|
