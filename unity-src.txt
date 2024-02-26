@@ -4,3 +4,4 @@ socks://45.132.75.19:12136#🇮🇩 North Sumatra|Medan|Unknown|fm-dyn-139-194-1
 socks://212.83.142.100:57886#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 26/02/2024 08:48:55 |Black List Yes |Use Type: Business|
 socks://212.83.142.149:15058#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 26/02/2024 08:48:54 |Black List Yes |Use Type: Business|
 socks://46.105.44.29:22351#🇮🇪 Munster|Waterford|X91|Vodafone Ireland Limited| 109.77.89.40 |Time View 26/02/2024 08:48:50 |Black List Yes |Use Type: Residential|
+socks://134.195.91.76:31369#🇮🇩 East Java|Surabaya|Unknown|103-245.19-171.quantum.net.id| 103.245.19.171 |Time View 26/02/2024 11:53:28 |Black List No |Use Type: Business|
