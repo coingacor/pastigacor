@@ -10,3 +10,14 @@ socks://212.83.138.60:60992#🇺🇸 Unknown|Unknown|Unknown|5362987.ddhost.club
 socks://212.83.143.191:58612#🇺🇸 Texas|Dallas|75270|140.151-136-45.rdns.scalabledns.com| 45.136.151.140 |Time View 26/02/2024 12:05:18 |Black List No |Use Type: Hosting|
 socks://46.105.44.29:35706#🇺🇸 Arizona|Maricopa|85138|hostpool2-129.miracopa.orbitelcom.com| 208.115.150.129 |Time View 26/02/2024 12:05:08 |Black List No |Use Type: Business|
 socks://162.19.7.46:19731#🇺🇸 New Mexico|Fruitland|87416|SWC TELESOLUTIONS, INC.| 74.120.160.220 |Time View 26/02/2024 12:04:38 |Black List No |Use Type: Business|
+socks://37.221.193.221:25017#🇺🇸 California|San Francisco|94142|mygrantglass.com| 12.245.240.142 |Time View 26/02/2024 18:58:32 |Black List No |Use Type: Business|
+socks://67.213.212.48:30920#🇺🇸 Florida|Coral Gables|33134|136-28-56-79.cab.webpass.net| 136.28.56.79 |Time View 26/02/2024 18:57:46 |Black List No |Use Type: Business|
+socks://108.181.132.116:21940#🇺🇸 Texas|Longview|75604|96-18-75-100.cpe.sparklight.net| 96.18.75.100 |Time View 26/02/2024 18:57:39 |Black List No |Use Type: Residential|
+socks://66.29.128.242:16514#🇺🇸 Oklahoma|Tulsa|74102|Atom Broadband, LLC| 38.133.237.149 |Time View 26/02/2024 18:57:27 |Black List No |Use Type: Residential|
+socks://23.105.170.34:12541#🇺🇸 New York|Brooklyn|11201|172-254-204-038.biz.spectrum.com| 172.254.204.38 |Time View 26/02/2024 18:56:56 |Black List No |Use Type: Business|
+socks://38.91.107.2:44064#🇺🇸 Michigan|Blanchard|49310|Winn Telecom, Central Michigan Communication, Co.| 67.133.146.28 |Time View 26/02/2024 18:56:52 |Black List No |Use Type: Business|
+socks://37.221.193.221:34702#🇺🇸 Texas|El Paso|79915|071-078-209-122.biz.spectrum.com| 71.78.209.122 |Time View 26/02/2024 18:56:50 |Black List No |Use Type: Business|
+socks://23.105.170.33:60348#🇺🇸 Connecticut|Woodbury|06798|50-247-233-170-static.hfc.comcastbusiness.net| 50.247.233.170 |Time View 26/02/2024 18:56:44 |Black List No |Use Type: Residential|
+socks://67.213.212.53:33476#🇺🇸 Minnesota|Marshall|56258|MVTV Wireless| 184.94.137.79 |Time View 26/02/2024 18:56:38 |Black List No |Use Type: Cellular|
+socks://209.159.153.19:15433#🇺🇸 Louisiana|Belle Chasse|70037|wsip-70-183-112-3.no.no.cox.net| 70.183.112.3 |Time View 26/02/2024 18:56:33 |Black List No |Use Type: Business|
+socks://38.91.107.229:62243#🇺🇸 Georgia|Macon|31294|Clearwave Communications| 207.5.58.95 |Time View 26/02/2024 18:56:30 |Black List No |Use Type: Residential|
