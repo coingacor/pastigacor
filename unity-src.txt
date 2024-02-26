@@ -1,3 +1,6 @@
 socks://212.83.138.172:23649#🇦🇺 Victoria|Melbourne|3170|cpe-110-141-223-206.static.vic.bigpond.net.au| 110.141.223.206 |Time View 22/02/2024 02:16:59 |Black List No |Use Type: Business|
 socks://45.91.93.166:31104#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 123.209.192.31 |Time View 26/02/2024 06:25:55 |Black List Yes |Use Type: Business|
 socks://45.132.75.19:12136#🇮🇩 North Sumatra|Medan|Unknown|fm-dyn-139-194-169-16.fast.net.id| 139.194.169.16 |Time View 26/02/2024 06:18:28 |Black List Yes |Use Type: Residential|
+socks://212.83.142.100:57886#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 26/02/2024 08:48:55 |Black List Yes |Use Type: Business|
+socks://212.83.142.149:15058#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 26/02/2024 08:48:54 |Black List Yes |Use Type: Business|
+socks://46.105.44.29:22351#🇮🇪 Munster|Waterford|X91|Vodafone Ireland Limited| 109.77.89.40 |Time View 26/02/2024 08:48:50 |Black List Yes |Use Type: Residential|
