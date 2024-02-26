@@ -6,3 +6,8 @@ socks://212.83.142.149:15058#🇮🇪 Leinster|Greystones|A63|Virgin Media Irela
 socks://46.105.44.29:22351#🇮🇪 Munster|Waterford|X91|Vodafone Ireland Limited| 109.77.89.40 |Time View 26/02/2024 08:48:50 |Black List Yes |Use Type: Residential|
 socks://134.195.91.76:31369#🇮🇩 East Java|Surabaya|Unknown|103-245.19-171.quantum.net.id| 103.245.19.171 |Time View 26/02/2024 11:53:28 |Black List No |Use Type: Business|
 socks://212.83.143.223:39487#Åland Islands|Unknown|Unknown|Unknown|webhost.connect.ax| 194.71.144.33 |Time View 26/02/2024 18:19:59 |Black List No |Use Type: Business|
+socks://212.83.143.147:30133#🇦🇺 New South Wales|Sydney|2023|cpe-110-141-216-44.static.nsw.bigpond.net.au| 110.141.216.44 |Time View 26/02/2024 22:46:05 |Black List No |Use Type: Business|
+socks://138.201.21.228:24511#🇦🇺 Victoria|Melbourne|3041|cpe-144-131-36-5.vb11.vic.asp.telstra.net| 144.131.36.5 |Time View 26/02/2024 22:45:51 |Black List Yes |Use Type: Business|
+socks://212.83.143.97:11177#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 110.145.62.180 |Time View 26/02/2024 22:45:45 |Black List No |Use Type: Business|
+socks://51.83.116.6:29073#🇦🇺 New South Wales|Bringelly|2556|boo3114898.lnk.telstra.net| 58.171.252.53 |Time View 26/02/2024 22:45:36 |Black List No |Use Type: Business|
+socks://212.83.138.245:36396#🇦🇺 Western Australia|Unknown|Unknown|180-150-125-222.b4967d.per.static.aussiebb.net| 180.150.125.222 |Time View 26/02/2024 22:45:28 |Black List No |Use Type: Residential|
