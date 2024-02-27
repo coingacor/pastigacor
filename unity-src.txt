@@ -11,3 +11,6 @@ socks://138.201.21.228:24511#🇦🇺 Victoria|Melbourne|3041|cpe-144-131-36-5.v
 socks://212.83.143.97:11177#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 110.145.62.180 |Time View 26/02/2024 22:45:45 |Black List No |Use Type: Business|
 socks://51.83.116.6:29073#🇦🇺 New South Wales|Bringelly|2556|boo3114898.lnk.telstra.net| 58.171.252.53 |Time View 26/02/2024 22:45:36 |Black List No |Use Type: Business|
 socks://212.83.138.245:36396#🇦🇺 Western Australia|Unknown|Unknown|180-150-125-222.b4967d.per.static.aussiebb.net| 180.150.125.222 |Time View 26/02/2024 22:45:28 |Black List No |Use Type: Residential|
+socks://51.68.244.19:59197#🇦🇺 Victoria|Melbourne|3001|cpe-110-140-148-70.vb05.vic.asp.telstra.net| 110.140.148.70 |Time View 27/02/2024 14:04:01 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:28625#🇦🇺 New South Wales|Sydney|2023|cpe-110-141-216-44.static.nsw.bigpond.net.au| 110.141.216.44 |Time View 27/02/2024 14:03:41 |Black List No |Use Type: Business|
+socks://212.83.143.147:19181#🇦🇺 Victoria|Melbourne|3001|pjs2797834.lnk.telstra.net| 120.151.249.52 |Time View 27/02/2024 14:03:37 |Black List No |Use Type: Business|
