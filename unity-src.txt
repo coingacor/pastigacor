@@ -18,3 +18,8 @@ socks://212.83.142.100:46434#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.7
 socks://212.83.142.149:58437#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 27/02/2024 15:52:41 |Black List Yes |Use Type: Business|
 socks://51.83.116.6:47824#🇮🇪 Connacht|Galway|H54|Imagine Communications Group Limited| 89.127.9.238 |Time View 27/02/2024 15:52:38 |Black List Yes |Use Type: Business|
 socks://212.83.143.223:25563#Åland Islands|Unknown|Unknown|Unknown|webhost.connect.ax| 194.71.144.33 |Time View 27/02/2024 17:13:18 |Black List No |Use Type: Business|
+socks://138.201.21.233:20773#🇦🇺 Queensland|Brisbane|4127|SingTel Optus Pty Ltd| 59.154.91.22 |Time View 27/02/2024 20:57:52 |Black List No |Use Type: Business|
+socks://212.83.138.172:53847#🇦🇺 Victoria|Melbourne|3170|cpe-110-141-223-206.static.vic.bigpond.net.au| 110.141.223.206 |Time View 27/02/2024 20:57:29 |Black List No |Use Type: Business|
+socks://162.19.7.59:50927#🇦🇺 Western Australia|Perth|6159|cpe-149-167-162-224.static.belong.com.au| 149.167.162.224 |Time View 27/02/2024 20:56:46 |Black List Yes |Use Type: Business|
+socks://51.68.244.19:59557#🇦🇺 Queensland|Brisbane|4000|cpe-124-177-194-95.wb01.wa.asp.telstra.net| 124.177.194.95 |Time View 27/02/2024 20:56:38 |Black List Yes |Use Type: Business|
+socks://46.105.44.29:41876#🇦🇺 Western Australia|Perth|6062|Vodafone| 120.16.22.180 |Time View 27/02/2024 20:56:28 |Black List Yes |Use Type: Business|
