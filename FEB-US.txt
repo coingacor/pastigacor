@@ -1,41 +1,5 @@
-socks://162.0.220.214:64051#🇺🇸 Wisconsin|Sharon|53585|066-208-074-027.sharontelephone.com| 66.208.74.27 |Time View 26/02/2024 06:20:50 |Black List No |Use Type: Business|
-socks://162.19.7.60:23730#🇺🇸 Wisconsin|Madison|53703|50-93-222-101.restechservices.net| 50.93.222.101 |Time View 26/02/2024 06:20:41 |Black List No |Use Type: Business|
-socks://67.213.210.60:20836#🇺🇸 Wisconsin|Sharon|53585|066-208-074-222.sharontelephone.com| 66.208.74.222 |Time View 26/02/2024 06:20:34 |Black List No |Use Type: Business|
-socks://108.181.132.115:36436#🇺🇸 New Jersey|Paterson|07514|ool-ae2c95c4.dyn.optonline.net| 174.44.149.196 |Time View 26/02/2024 08:23:53 |Black List Yes |Use Type: Residential|
-socks://67.213.212.40:53706#🇺🇸 New Jersey|Lyndhurst|07071|pool-108-35-186-83.nwrknj.fios.verizon.net| 108.35.186.83 |Time View 26/02/2024 08:23:51 |Black List Yes |Use Type: Residential|
-socks://67.213.212.57:37529#🇺🇸 West Virginia|Barboursville|25504|184-15-108-197.dr02.chtn.wv.frontiernet.net| 184.15.108.197 |Time View 26/02/2024 08:23:32 |Black List No |Use Type: Residential|
-socks://67.213.212.48:53856#🇺🇸 West Virginia|Wheeling|26003|96-94-117-222-static.hfc.comcastbusiness.net| 96.94.117.222 |Time View 26/02/2024 08:23:26 |Black List Yes |Use Type: Residential|
-socks://162.210.192.135:45685#🇺🇸 North Carolina|Asheville|28801|cpl03.main-hosting.eu| 31.170.162.81 |Time View 26/02/2024 12:05:35 |Black List No |Use Type: Hosting|
-socks://212.83.138.60:60992#🇺🇸 Unknown|Unknown|Unknown|5362987.ddhost.club| 162.241.136.91 |Time View 26/02/2024 12:05:26 |Black List No |Use Type: Hosting|
-socks://212.83.143.191:58612#🇺🇸 Texas|Dallas|75270|140.151-136-45.rdns.scalabledns.com| 45.136.151.140 |Time View 26/02/2024 12:05:18 |Black List No |Use Type: Hosting|
-socks://46.105.44.29:35706#🇺🇸 Arizona|Maricopa|85138|hostpool2-129.miracopa.orbitelcom.com| 208.115.150.129 |Time View 26/02/2024 12:05:08 |Black List No |Use Type: Business|
-socks://162.19.7.46:19731#🇺🇸 New Mexico|Fruitland|87416|SWC TELESOLUTIONS, INC.| 74.120.160.220 |Time View 26/02/2024 12:04:38 |Black List No |Use Type: Business|
-socks://37.221.193.221:25017#🇺🇸 California|San Francisco|94142|mygrantglass.com| 12.245.240.142 |Time View 26/02/2024 18:58:32 |Black List No |Use Type: Business|
-socks://67.213.212.48:30920#🇺🇸 Florida|Coral Gables|33134|136-28-56-79.cab.webpass.net| 136.28.56.79 |Time View 26/02/2024 18:57:46 |Black List No |Use Type: Business|
-socks://108.181.132.116:21940#🇺🇸 Texas|Longview|75604|96-18-75-100.cpe.sparklight.net| 96.18.75.100 |Time View 26/02/2024 18:57:39 |Black List No |Use Type: Residential|
-socks://66.29.128.242:16514#🇺🇸 Oklahoma|Tulsa|74102|Atom Broadband, LLC| 38.133.237.149 |Time View 26/02/2024 18:57:27 |Black List No |Use Type: Residential|
-socks://23.105.170.34:12541#🇺🇸 New York|Brooklyn|11201|172-254-204-038.biz.spectrum.com| 172.254.204.38 |Time View 26/02/2024 18:56:56 |Black List No |Use Type: Business|
-socks://38.91.107.2:44064#🇺🇸 Michigan|Blanchard|49310|Winn Telecom, Central Michigan Communication, Co.| 67.133.146.28 |Time View 26/02/2024 18:56:52 |Black List No |Use Type: Business|
-socks://37.221.193.221:34702#🇺🇸 Texas|El Paso|79915|071-078-209-122.biz.spectrum.com| 71.78.209.122 |Time View 26/02/2024 18:56:50 |Black List No |Use Type: Business|
-socks://23.105.170.33:60348#🇺🇸 Connecticut|Woodbury|06798|50-247-233-170-static.hfc.comcastbusiness.net| 50.247.233.170 |Time View 26/02/2024 18:56:44 |Black List No |Use Type: Residential|
-socks://67.213.212.53:33476#🇺🇸 Minnesota|Marshall|56258|MVTV Wireless| 184.94.137.79 |Time View 26/02/2024 18:56:38 |Black List No |Use Type: Cellular|
-socks://209.159.153.19:15433#🇺🇸 Louisiana|Belle Chasse|70037|wsip-70-183-112-3.no.no.cox.net| 70.183.112.3 |Time View 26/02/2024 18:56:33 |Black List No |Use Type: Business|
-socks://38.91.107.229:62243#🇺🇸 Georgia|Macon|31294|Clearwave Communications| 207.5.58.95 |Time View 26/02/2024 18:56:30 |Black List No |Use Type: Residential|
-socks://162.0.220.220:30713#🇺🇸 Alabama|Winfield|35594|onlylocalopportunities.net| 69.24.95.110 |Time View 26/02/2024 22:53:34 |Black List No |Use Type: Hosting|
-socks://37.221.193.221:37178#🇺🇸 Alabama|Athens|35613|104-8-207-66.lightspeed.brhmal.sbcglobal.net| 104.8.207.66 |Time View 26/02/2024 22:53:26 |Black List Yes |Use Type: Residential|
-socks://108.181.133.58:23881#🇺🇸 Alabama|Guin|35563|Tombigbee Communications, LLC| 170.199.251.213 |Time View 26/02/2024 22:53:21 |Black List No |Use Type: Business|
-socks://67.213.210.118:65164#🇺🇸 Alabama|Sulligent|35586|Tombigbee Communications, LLC| 130.44.18.66 |Time View 26/02/2024 22:53:18 |Black List No |Use Type: Business|
-socks://38.91.107.2:29544#🇺🇸 Alabama|Winfield|35594|Tombigbee Communications, LLC| 192.228.33.220 |Time View 26/02/2024 22:53:08 |Black List No |Use Type: Business|
-socks://174.138.176.77:22724#🇺🇸 Alabama|Haleyville|35565|Tombigbee Communications, LLC| 130.44.22.86 |Time View 26/02/2024 22:53:04 |Black List No |Use Type: Business|
-socks://67.213.212.40:60751#🇺🇸 West Virginia|Stanaford|25927|Suddenlink Communications| 208.180.159.180 |Time View 26/02/2024 22:52:30 |Black List No |Use Type: Business|
-socks://108.181.132.116:55689#🇺🇸 New Jersey|Paterson|07501|pool-71-187-14-155.nwrknj.fios.verizon.net| 71.187.14.155 |Time View 26/02/2024 22:52:10 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:33182#🇺🇸 New Jersey|Beach Haven|08008|c-24-0-141-96.hsd1.nj.comcast.net| 24.0.141.96 |Time View 26/02/2024 22:52:04 |Black List Yes |Use Type: Residential|
-socks://162.210.192.135:28769#🇺🇸 New Jersey|North Bergen|07047|savigt.net| 161.35.116.190 |Time View 26/02/2024 22:50:31 |Black List Yes |Use Type: Hosting|
-socks://67.213.210.168:60494#🇺🇸 New Hampshire|Litchfield|03052|pool-71-161-202-218.burl.east.myfairpoint.net| 71.161.202.218 |Time View 26/02/2024 22:50:00 |Black List Yes |Use Type: Business|
-socks://162.19.7.58:47716#🇺🇸 Colorado|Colorado Springs|80907|97-121-173-195.clsp.qwest.net| 97.121.173.195 |Time View 26/02/2024 22:49:42 |Black List Yes |Use Type: Business|
-socks://108.181.133.59:38657#🇺🇸 Nebraska|Omaha|68138|184-97-145-74.stpl.qwest.net| 184.97.145.74 |Time View 26/02/2024 22:49:00 |Black List No |Use Type: Business|
-socks://38.91.107.2:55907#🇺🇸 Michigan|Detroit|48211|c-68-36-70-72.hsd1.mi.comcast.net| 68.36.70.72 |Time View 27/02/2024 05:41:45 |Black List Yes |Use Type: Residential|
-socks://23.105.170.34:26926#🇺🇸 New Jersey|Cherry Hill|08003|c-73-178-143-238.hsd1.nj.comcast.net| 73.178.143.238 |Time View 27/02/2024 05:41:24 |Black List Yes |Use Type: Residential|
-socks://23.105.170.34:25909#🇺🇸 Pennsylvania|Ardmore|19003|c-68-81-0-160.hsd1.pa.comcast.net| 68.81.0.160 |Time View 27/02/2024 05:41:18 |Black List Yes |Use Type: Residential|
-socks://212.83.143.204:34610#🇺🇸 Unknown|Unknown|Unknown|Rackspace Hosting| 104.130.158.114 |Time View 27/02/2024 05:44:44 |Black List No |Use Type: Hosting|
-socks://162.210.192.135:61240#🇺🇸 Unknown|Unknown|Unknown|vmi578224.contaboserver.net| 209.126.82.175 |Time View 27/02/2024 05:44:30 |Black List No |Use Type: Hosting|
+socks://108.181.133.58:51429#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.52.252 |Time View 27/02/2024 12:51:00 |Black List Yes |Use Type: Business|
+socks://66.29.129.54:58713#🇺🇸 South Carolina|Beaufort|29907|173-207-227-252.cpe.cableone.net| 173.207.227.252 |Time View 27/02/2024 12:50:44 |Black List Yes |Use Type: Residential|
+socks://66.29.129.53:26377#🇺🇸 South Carolina|Beaufort|29907|173-207-227-31.cpe.cableone.net| 173.207.227.31 |Time View 27/02/2024 12:50:42 |Black List Yes |Use Type: Residential|
+socks://67.213.210.60:45016#🇺🇸 South Carolina|Bluffton|29909|173-207-212-252.cpe.cableone.net| 173.207.212.252 |Time View 27/02/2024 12:50:39 |Black List Yes |Use Type: Residential|
+socks://67.213.210.175:32462#🇺🇸 South Carolina|Okatie|29909|173-207-208-21.cpe.cableone.net| 173.207.208.21 |Time View 27/02/2024 12:50:37 |Black List Yes |Use Type: Residential|
