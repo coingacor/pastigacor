@@ -14,3 +14,6 @@ socks://212.83.138.245:36396#🇦🇺 Western Australia|Unknown|Unknown|180-150-
 socks://51.68.244.19:59197#🇦🇺 Victoria|Melbourne|3001|cpe-110-140-148-70.vb05.vic.asp.telstra.net| 110.140.148.70 |Time View 27/02/2024 14:04:01 |Black List Yes |Use Type: Business|
 socks://212.83.143.147:28625#🇦🇺 New South Wales|Sydney|2023|cpe-110-141-216-44.static.nsw.bigpond.net.au| 110.141.216.44 |Time View 27/02/2024 14:03:41 |Black List No |Use Type: Business|
 socks://212.83.143.147:19181#🇦🇺 Victoria|Melbourne|3001|pjs2797834.lnk.telstra.net| 120.151.249.52 |Time View 27/02/2024 14:03:37 |Black List No |Use Type: Business|
+socks://212.83.142.100:46434#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 27/02/2024 15:52:42 |Black List Yes |Use Type: Business|
+socks://212.83.142.149:58437#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 27/02/2024 15:52:41 |Black List Yes |Use Type: Business|
+socks://51.83.116.6:47824#🇮🇪 Connacht|Galway|H54|Imagine Communications Group Limited| 89.127.9.238 |Time View 27/02/2024 15:52:38 |Black List Yes |Use Type: Business|
