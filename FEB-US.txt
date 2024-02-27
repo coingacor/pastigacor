@@ -10,3 +10,24 @@ socks://66.23.233.210:23557#🇺🇸 New Jersey|Elizabeth|07201|static-74-102-12
 socks://67.213.212.38:16017#🇺🇸 New Jersey|Lakewood|08701|ool-18bf6d4b.dyn.optonline.net| 24.191.109.75 |Time View 27/02/2024 14:32:15 |Black List Yes |Use Type: Residential|
 socks://23.105.170.30:63295#🇺🇸 West Virginia|Bunker Hill|25413|96-70-131-109-static.hfc.comcastbusiness.net| 96.70.131.109 |Time View 27/02/2024 14:32:00 |Black List No |Use Type: Residential|
 socks://67.213.212.48:32559#🇺🇸 West Virginia|Wheeling|26003|96-94-117-222-static.hfc.comcastbusiness.net| 96.94.117.222 |Time View 27/02/2024 14:31:56 |Black List Yes |Use Type: Residential|
+socks://23.105.170.35:31665#🇺🇸 Michigan|Livonia|48154|d14-69-108-175.try.wideopenwest.com| 69.14.175.108 |Time View 27/02/2024 23:38:09 |Black List No |Use Type: Business|
+socks://66.29.128.242:12902#🇺🇸 Michigan|Birmingham|48009|50-252-85-86-static.hfc.comcastbusiness.net| 50.252.85.86 |Time View 27/02/2024 23:38:04 |Black List No |Use Type: Residential|
+socks://212.83.137.165:37283#🇺🇸 Michigan|Ithaca|48847|IP-204-124-117-17.wintel.net| 204.124.117.17 |Time View 27/02/2024 23:37:58 |Black List No |Use Type: Business|
+socks://67.213.212.58:10162#🇺🇸 Michigan|Wayland|49348|075-133-236-111.res.spectrum.com| 75.133.236.111 |Time View 27/02/2024 23:37:54 |Black List No |Use Type: Business|
+socks://162.0.220.218:59124#🇺🇸 Michigan|Blanchard|49310|blan-dsl-15-144-133-67.power-net.net| 67.133.144.15 |Time View 27/02/2024 23:37:43 |Black List No |Use Type: Residential|
+socks://67.213.210.62:40978#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl68219.res-iro.ptd.net| 204.186.68.219 |Time View 27/02/2024 23:37:27 |Black List No |Use Type: Residential|
+socks://67.213.210.60:34960#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl128171.iro.ptd.net| 204.186.128.171 |Time View 27/02/2024 23:37:11 |Black List No |Use Type: Residential|
+socks://162.19.7.53:39064#🇺🇸 Pennsylvania|Aston Mills|19014|Comcast Cable Communications, LLC| 50.203.71.185 |Time View 27/02/2024 23:37:10 |Black List No |Use Type: Residential|
+socks://23.105.170.32:41907#🇺🇸 Pennsylvania|Allentown|18109|216-164-134-155.s3225.c3-0.atw-cbr2.atw.pa.cable.rcncustomer.com| 216.164.134.155 |Time View 27/02/2024 23:37:07 |Black List No |Use Type: Residential|
+socks://66.29.128.246:42249#🇺🇸 Pennsylvania|Pittsburgh|15211|96-69-68-154-static.hfc.comcastbusiness.net| 96.69.68.154 |Time View 27/02/2024 23:37:01 |Black List No |Use Type: Residential|
+socks://212.83.137.30:59713#🇺🇸 Pennsylvania|Mansfield|16933|Level 3| 8.224.65.52 |Time View 27/02/2024 23:36:57 |Black List No |Use Type: Cellular|
+socks://67.213.212.57:54472#🇺🇸 West Virginia|Barboursville|25504|184-15-108-197.dr02.chtn.wv.frontiernet.net| 184.15.108.197 |Time View 27/02/2024 23:36:44 |Black List No |Use Type: Residential|
+socks://209.159.153.19:17155#🇺🇸 West Virginia|White Sulphur Springs|24986|Frontier Communications of America| 173.86.132.72 |Time View 27/02/2024 23:36:42 |Black List No |Use Type: Business|
+socks://212.83.143.159:49336#🇺🇸 New Jersey|Secaucus|07094|104.24.121.74.hosted.hostmundi.com| 74.121.24.104 |Time View 27/02/2024 23:36:31 |Black List No |Use Type: Business|
+socks://66.29.128.243:16649#🇺🇸 New Jersey|Princeton|08540|50-78-48-22-static.hfc.comcastbusiness.net| 50.78.48.22 |Time View 27/02/2024 23:36:29 |Black List No |Use Type: Residential|
+socks://37.221.193.221:18023#🇺🇸 New Jersey|Clifton|07011|ool-4b639e4e.static.optonline.net| 75.99.158.78 |Time View 27/02/2024 23:36:25 |Black List No |Use Type: Business|
+socks://162.210.192.136:33646#🇺🇸 New Jersey|North Bergen|07047|fox.vivawebhost.com| 174.136.57.8 |Time View 27/02/2024 23:36:22 |Black List No |Use Type: Hosting|
+socks://212.83.137.150:48633#🇺🇸 New Jersey|Newark|07102|dbrenting.trial-dongee.com| 198.100.157.96 |Time View 27/02/2024 23:36:18 |Black List No |Use Type: Hosting|
+socks://23.105.170.30:38602#🇺🇸 New Jersey|Lyndhurst|07071|50-248-163-198-static.hfc.comcastbusiness.net| 50.248.163.198 |Time View 27/02/2024 23:36:14 |Black List No |Use Type: Residential|
+socks://108.181.133.58:43198#🇺🇸 New Jersey|Secaucus|07094|Comcast Cable Communications, LLC| 71.24.72.89 |Time View 27/02/2024 23:36:10 |Black List No |Use Type: Residential|
+socks://66.29.128.246:58701#🇺🇸 New Jersey|Montclair|07042|96-75-171-155-static.hfc.comcastbusiness.net| 96.75.171.155 |Time View 27/02/2024 23:36:06 |Black List No |Use Type: Residential|
