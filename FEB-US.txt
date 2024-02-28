@@ -13,3 +13,8 @@ socks://67.213.212.53:65401#🇺🇸 Michigan|Dearborn|48126|d149-67-198-36.nap.
 socks://67.213.212.36:12642#🇺🇸 Michigan|Livonia|48154|d14-69-25-93.try.wideopenwest.com| 69.14.93.25 |Time View 28/02/2024 10:58:40 |Black List No |Use Type: Business|
 socks://66.29.129.56:14272#🇺🇸 Michigan|Tecumseh|49286|224-220-112-64.dynamic.ftth-pool.d-pcomm.com| 64.112.220.224 |Time View 28/02/2024 10:58:35 |Black List No |Use Type: Business|
 socks://67.213.212.53:48255#🇺🇸 Michigan|Royal Oak|48073|d149-67-229-166.col.wideopenwest.com| 67.149.166.229 |Time View 28/02/2024 10:58:29 |Black List No |Use Type: Business|
+socks://108.181.133.59:45814#🇺🇸 South Carolina|Hilton Head Island|29926|Hargray Communications Group| 207.144.253.133 |Time View 28/02/2024 20:29:42 |Black List No |Use Type: Business|
+socks://209.159.153.20:32003#🇺🇸 Georgia|Statesboro|30458|host-64-234-99-142.vyvebroadband.net| 64.234.99.142 |Time View 28/02/2024 20:29:23 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:59376#🇺🇸 Louisiana|Metairie|70003|ip174-67-141-63.no.no.cox.net| 174.67.141.63 |Time View 28/02/2024 20:29:10 |Black List No |Use Type: Business|
+socks://38.91.107.220:43568#🇺🇸 Alabama|Sulligent|35586|Tombigbee Communications, LLC| 192.228.43.160 |Time View 28/02/2024 20:28:18 |Black List Yes |Use Type: Business|
+socks://209.159.153.20:30637#🇺🇸 South Carolina|Kingstree|29556|Farmers Telephone Cooperative, Inc.| 216.218.74.252 |Time View 28/02/2024 20:28:16 |Black List No |Use Type: Business|
