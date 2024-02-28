@@ -18,3 +18,8 @@ socks://209.159.153.20:32003#🇺🇸 Georgia|Statesboro|30458|host-64-234-99-14
 socks://209.159.153.21:59376#🇺🇸 Louisiana|Metairie|70003|ip174-67-141-63.no.no.cox.net| 174.67.141.63 |Time View 28/02/2024 20:29:10 |Black List No |Use Type: Business|
 socks://38.91.107.220:43568#🇺🇸 Alabama|Sulligent|35586|Tombigbee Communications, LLC| 192.228.43.160 |Time View 28/02/2024 20:28:18 |Black List Yes |Use Type: Business|
 socks://209.159.153.20:30637#🇺🇸 South Carolina|Kingstree|29556|Farmers Telephone Cooperative, Inc.| 216.218.74.252 |Time View 28/02/2024 20:28:16 |Black List No |Use Type: Business|
+socks://67.213.212.58:38675#🇺🇸 Pennsylvania|Butler|16002|static-acs-24-154-4-60.zoominternet.net| 24.154.4.60 |Time View 28/02/2024 20:37:35 |Black List No |Use Type: Residential|
+socks://38.91.106.214:60391#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl129118.iro.ptd.net| 204.186.129.118 |Time View 28/02/2024 20:36:56 |Black List No |Use Type: Residential|
+socks://174.138.176.76:34962#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl126106.iro.ptd.net| 204.186.126.106 |Time View 28/02/2024 20:36:53 |Black List No |Use Type: Residential|
+socks://67.213.210.115:60873#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl687.res-iro.ptd.net| 204.186.68.7 |Time View 28/02/2024 20:36:44 |Black List No |Use Type: Residential|
+socks://162.0.220.215:60917#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl68217.res-iro.ptd.net| 204.186.68.217 |Time View 28/02/2024 20:36:42 |Black List No |Use Type: Residential|
