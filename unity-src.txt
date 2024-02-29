@@ -1,8 +1,4 @@
-socks://212.83.142.131:23652#🇦🇺 New South Wales|Sydney|2021|Telstra Corporation Limited| 58.171.249.211 |Time View 29/02/2024 06:01:09 |Black List No |Use Type: Business|
-socks://212.83.143.118:35806#🇦🇺 Victoria|Melbourne|3000|Telstra Internet| 144.139.81.151 |Time View 29/02/2024 06:00:51 |Black List No |Use Type: Business|
-socks://212.83.143.151:21893#🇦🇺 Unknown|Unknown|Unknown|cpanel10.msi.net.au| 203.55.134.138 |Time View 29/02/2024 06:00:45 |Black List No |Use Type: Business|
-socks://212.83.142.100:13564#🇦🇺 New South Wales|Sydney|2000|liv2597065.lnk.telstra.net| 101.187.69.43 |Time View 29/02/2024 06:00:39 |Black List No |Use Type: Business|
-socks://212.83.138.60:63445#🇦🇺 New South Wales|Sydney|2113|server.nicer8.com| 110.232.113.249 |Time View 29/02/2024 06:00:33 |Black List No |Use Type: Business|
-socks://212.83.142.149:33476#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 29/02/2024 11:43:50 |Black List Yes |Use Type: Business|
-socks://212.83.142.100:13366#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 29/02/2024 11:43:47 |Black List Yes |Use Type: Business|
+socks://212.83.143.118:49522|Australia|Queensland|Brisbane|4053|202-168-29-114.tpgi.com.au| 202.168.29.114 |Time View 01/03/2024 06:15:49 |Black List No |Use Type: Business|
+socks://138.201.21.232:52880|Australia|New South Wales|Sydney|2137|123-51-38-177.static.dsl.net.au| 123.51.38.177 |Time View 01/03/2024 06:15:39 |Black List No |Use Type: Residential|
+socks://212.83.143.118:63474|Australia|Victoria|Melbourne|3000|Telstra Internet| 144.139.81.151 |Time View 01/03/2024 06:15:33 |Black List No |Use Type: Business|
 socks5://51.83.116.6:29073/#%F0%9F%87%A6%F0%9F%87%BA%20New%20South%20Wales%7CBringelly%7C2556%7Cboo3114898.lnk.telstra.net%7C%2058.171.252.53%20%7CTime%20View%2026%2F02%2F2024%2022%3A45%3A36%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
