@@ -31,3 +31,8 @@ socks://66.29.128.241:15374#🇺🇸 Pennsylvania|Philadelphia|19106|static-108-
 socks://67.213.212.47:25465#🇺🇸 Pennsylvania|Folsom|19033|75-151-156-78-Philadelphia.hfc.comcastbusiness.net| 75.151.156.78 |Time View 29/02/2024 07:17:18 |Black List No |Use Type: Residential|
 socks://67.213.210.118:14514#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl128191.iro.ptd.net| 204.186.128.191 |Time View 29/02/2024 07:17:16 |Black List No |Use Type: Residential|
 socks://108.181.132.117:38644#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl126225.iro.ptd.net| 204.186.126.225 |Time View 29/02/2024 07:17:14 |Black List No |Use Type: Residential|
+socks://38.91.107.229:55173#🇺🇸 Pennsylvania|Gibsonia|15044|dhcp-pa-67-20-240-187.consolidated.net| 67.20.240.187 |Time View 29/02/2024 11:51:28 |Black List No |Use Type: Business|
+socks://67.213.212.53:23858#🇺🇸 New York|Brooklyn|11230|static-108-30-11-27.nycmny.fios.verizon.net| 108.30.11.27 |Time View 29/02/2024 11:51:20 |Black List No |Use Type: Business|
+socks://67.213.212.48:41263#🇺🇸 Florida|Miramar|33027|50-199-51-173-static.hfc.comcastbusiness.net| 50.199.51.173 |Time View 29/02/2024 11:51:18 |Black List No |Use Type: Residential|
+socks://174.138.176.75:55524#🇺🇸 California|Roseville|95747|Consolidated Communications, Inc.| 156.47.71.53 |Time View 29/02/2024 11:51:07 |Black List No |Use Type: Business|
+socks://67.213.212.48:30223#🇺🇸 Texas|Laredo|78040|Cogent Communications| 38.64.11.69 |Time View 29/02/2024 11:51:06 |Black List No |Use Type: Business|
