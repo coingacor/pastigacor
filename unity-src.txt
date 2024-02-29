@@ -3,3 +3,5 @@ socks://212.83.143.118:35806#🇦🇺 Victoria|Melbourne|3000|Telstra Internet| 
 socks://212.83.143.151:21893#🇦🇺 Unknown|Unknown|Unknown|cpanel10.msi.net.au| 203.55.134.138 |Time View 29/02/2024 06:00:45 |Black List No |Use Type: Business|
 socks://212.83.142.100:13564#🇦🇺 New South Wales|Sydney|2000|liv2597065.lnk.telstra.net| 101.187.69.43 |Time View 29/02/2024 06:00:39 |Black List No |Use Type: Business|
 socks://212.83.138.60:63445#🇦🇺 New South Wales|Sydney|2113|server.nicer8.com| 110.232.113.249 |Time View 29/02/2024 06:00:33 |Black List No |Use Type: Business|
+socks://212.83.142.149:33476#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 29/02/2024 11:43:50 |Black List Yes |Use Type: Business|
+socks://212.83.142.100:13366#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 29/02/2024 11:43:47 |Black List Yes |Use Type: Business|
