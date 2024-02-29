@@ -23,3 +23,11 @@ socks://38.91.106.214:60391#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl1291
 socks://174.138.176.76:34962#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl126106.iro.ptd.net| 204.186.126.106 |Time View 28/02/2024 20:36:53 |Black List No |Use Type: Residential|
 socks://67.213.210.115:60873#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl687.res-iro.ptd.net| 204.186.68.7 |Time View 28/02/2024 20:36:44 |Black List No |Use Type: Residential|
 socks://162.0.220.215:60917#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl68217.res-iro.ptd.net| 204.186.68.217 |Time View 28/02/2024 20:36:42 |Black List No |Use Type: Residential|
+socks://67.213.212.58:57049#🇺🇸 Pennsylvania|Butler|16002|static-acs-24-154-4-60.zoominternet.net| 24.154.4.60 |Time View 29/02/2024 07:17:35 |Black List No |Use Type: Residential|
+socks://38.91.107.229:16337#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl129109.iro.ptd.net| 204.186.129.109 |Time View 29/02/2024 07:17:32 |Black List No |Use Type: Residential|
+socks://67.213.212.58:49865#🇺🇸 Pennsylvania|Erie|16509|074-218-090-118.biz.spectrum.com| 74.218.90.118 |Time View 29/02/2024 07:17:30 |Black List No |Use Type: Business|
+socks://66.29.128.243:26978#🇺🇸 Pennsylvania|Lebanon|17042|50-215-183-182-static.hfc.comcastbusiness.net| 50.215.183.182 |Time View 29/02/2024 07:17:25 |Black List No |Use Type: Residential|
+socks://66.29.128.241:15374#🇺🇸 Pennsylvania|Philadelphia|19106|static-108-16-228-179.phlapa.fios.verizon.net| 108.16.228.179 |Time View 29/02/2024 07:17:22 |Black List No |Use Type: Residential|
+socks://67.213.212.47:25465#🇺🇸 Pennsylvania|Folsom|19033|75-151-156-78-Philadelphia.hfc.comcastbusiness.net| 75.151.156.78 |Time View 29/02/2024 07:17:18 |Black List No |Use Type: Residential|
+socks://67.213.210.118:14514#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl128191.iro.ptd.net| 204.186.128.191 |Time View 29/02/2024 07:17:16 |Black List No |Use Type: Residential|
+socks://108.181.132.117:38644#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl126225.iro.ptd.net| 204.186.126.225 |Time View 29/02/2024 07:17:14 |Black List No |Use Type: Residential|
