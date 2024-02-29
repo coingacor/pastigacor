@@ -5,3 +5,4 @@ socks://212.83.142.100:13564#🇦🇺 New South Wales|Sydney|2000|liv2597065.lnk
 socks://212.83.138.60:63445#🇦🇺 New South Wales|Sydney|2113|server.nicer8.com| 110.232.113.249 |Time View 29/02/2024 06:00:33 |Black List No |Use Type: Business|
 socks://212.83.142.149:33476#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 29/02/2024 11:43:50 |Black List Yes |Use Type: Business|
 socks://212.83.142.100:13366#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 29/02/2024 11:43:47 |Black List Yes |Use Type: Business|
+socks5://51.83.116.6:29073/#%F0%9F%87%A6%F0%9F%87%BA%20New%20South%20Wales%7CBringelly%7C2556%7Cboo3114898.lnk.telstra.net%7C%2058.171.252.53%20%7CTime%20View%2026%2F02%2F2024%2022%3A45%3A36%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
