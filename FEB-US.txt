@@ -32,3 +32,10 @@ socks://67.213.212.47:42964#🇺🇸 Pennsylvania|New Derry|15671|50-197-34-14-s
 socks://67.213.212.52:46444#🇺🇸 Kentucky|Bowling Green|42101|074-143-149-122.biz.spectrum.com| 74.143.149.122 |Time View 01/03/2024 20:33:38 |Black List No |Use Type: Business|
 socks://67.213.212.50:53961#🇺🇸 California|San Francisco|94112|199-21-86-206.cab.webpass.net| 199.21.86.206 |Time View 01/03/2024 20:33:32 |Black List No |Use Type: Business|
 socks://67.213.210.167:42955#🇺🇸 Iowa|Clarence|52216|clnc-5-208-126-35-55.dsl.netins.net| 208.126.35.55 |Time View 01/03/2024 20:33:27 |Black List No |Use Type: Residential|
+socks://212.83.138.60:49126#🇺🇸 Unknown|Unknown|Unknown|5362987.ddhost.club| 162.241.136.91 |Time View 01/03/2024 23:37:26 |Black List No |Use Type: Hosting|
+socks://167.172.159.43:46545#🇺🇸 New Jersey|North Bergen|07047|ac19207.spoc-2021| 167.172.159.43 |Time View 01/03/2024 23:37:13 |Black List Yes |Use Type: Hosting|
+socks://212.83.143.204:62822#🇺🇸 Illinois|Batavia|60510|1598924-static.batvilaa.metronetinc.net| 195.252.217.254 |Time View 01/03/2024 23:37:04 |Black List No |Use Type: Hosting|
+socks://38.91.107.220:55821#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 66.111.71.165 |Time View 01/03/2024 23:36:44 |Black List No |Use Type: Hosting|
+socks://162.210.192.135:38629#🇺🇸 Unknown|Unknown|Unknown|webhosting2017.is.cc| 64.20.43.250 |Time View 01/03/2024 23:36:32 |Black List No |Use Type: Hosting|
+socks://212.83.137.142:64551#🇺🇸 California|Santa Clara|95052|mersudin.eu.org| 23.94.240.250 |Time View 01/03/2024 23:34:57 |Black List No |Use Type: Hosting|
+socks://212.83.137.142:20250#🇺🇸 Unknown|Unknown|Unknown|www.alexbarber.com| 204.197.241.205 |Time View 01/03/2024 23:33:22 |Black List No |Use Type: Hosting|
