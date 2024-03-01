@@ -9,3 +9,8 @@ socks://66.23.233.210:27022#🇺🇸 Pennsylvania|Philadelphia|19103|pool-100-11
 socks://23.105.170.30:12059#🇺🇸 Pennsylvania|Glen Mills|19342|static-71-123-47-97.phlapa.fios.verizon.net| 71.123.47.97 |Time View 01/03/2024 06:13:32 |Black List No |Use Type: Residential|
 socks://66.23.233.210:36642#🇺🇸 Pennsylvania|Nanticoke|18634|d-146-168-142-222.pae.cpe.atlanticbb.net| 146.168.142.222 |Time View 01/03/2024 06:13:29 |Black List Yes |Use Type: Residential|
 socks://67.213.212.39:48075#🇺🇸 Pennsylvania|Philadelphia|19115|173-15-184-38-BusName-Philadelphia.hfc.comcastbusiness.net| 173.15.184.38 |Time View 01/03/2024 06:13:21 |Black List No |Use Type: Residential|
+socks://38.91.107.224:12048#🇺🇸 South Carolina|Beaufort|29907|192-222-19-71.comsouth.net| 192.222.19.71 |Time View 01/03/2024 17:05:30 |Black List No |Use Type: Business|
+socks://67.213.210.61:62146#🇺🇸 Georgia|Warner Robins|31088|219.20.5.207.dynamic-pool.hargray.net| 207.5.20.219 |Time View 01/03/2024 17:04:49 |Black List No |Use Type: Business|
+socks://209.159.153.20:40897#🇺🇸 Kansas|Effingham|66023|host199-241-243-118.rev.mercurywireless.com| 199.241.243.118 |Time View 01/03/2024 17:04:28 |Black List No |Use Type: Residential|
+socks://107.180.91.248:27128#🇺🇸 Virginia|Ashburn|20149|248.91.180.107.host.secureserver.net| 107.180.91.248 |Time View 01/03/2024 17:04:16 |Black List No |Use Type: Hosting|
+socks://67.213.212.54:37330#🇺🇸 Connecticut|Danbury|06811|96-67-33-46-static.hfc.comcastbusiness.net| 96.67.33.46 |Time View 01/03/2024 17:03:54 |Black List No |Use Type: Residential|
