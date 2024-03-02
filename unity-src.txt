@@ -5,3 +5,6 @@ socks5://51.83.116.6:29073/#%F0%9F%87%A6%F0%9F%87%BA%20New%20South%20Wales%7CBri
 socks://212.83.143.97:31666#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 110.145.62.180 |Time View 01/03/2024 21:24:28 |Black List No |Use Type: Business|
 socks://212.83.143.60:45403#🇦🇺 New South Wales|Sydney|2747|n42-62-244-32.bla1.nsw.optusnet.com.au| 42.62.244.32 |Time View 01/03/2024 21:23:57 |Black List No |Use Type: Business|
 socks://138.201.21.238:46385#🇦🇺 Queensland|Brisbane|4000|cpe-1-223-7-132.bpi3-r-032.fli.sa.bigpond.net.au| 1.123.7.132 |Time View 01/03/2024 21:23:45 |Black List Yes |Use Type: Business|
+socks://141.94.238.246:36262#🇦🇺 Victoria|Geelong|3216|182-239-167-194.ip.adam.com.au| 182.239.167.194 |Time View 02/03/2024 13:35:45 |Black List Yes |Use Type: Business|
+socks://138.201.21.233:63211#🇦🇺 Victoria|Melbourne|3191|Telstra Internet| 120.157.28.55 |Time View 02/03/2024 13:35:20 |Black List Yes |Use Type: Business|
+socks://212.83.143.60:59343#🇦🇺 Victoria|Melbourne|3065|60-241-88-58.static.tpgi.com.au| 60.241.88.58 |Time View 02/03/2024 13:35:14 |Black List No |Use Type: Business|
