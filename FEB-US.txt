@@ -34,3 +34,18 @@ socks://174.138.176.78:45105#🇺🇸 New Hampshire|Nashua|03062|pool-70-109-179
 socks://67.213.210.115:42909#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.143.164 |Time View 02/03/2024 19:59:08 |Black List Yes |Use Type: Business|
 socks://67.213.210.175:39869#🇺🇸 Michigan|Blanchard|49310|blan-dsl-221-145-133-67.power-net.net| 67.133.145.221 |Time View 02/03/2024 19:59:03 |Black List No |Use Type: Business|
 socks://174.138.176.76:14886#🇺🇸 Wisconsin|Turtle Lake|54889|Mosaic-TL201-DHCP.127| 216.41.201.127 |Time View 02/03/2024 19:59:00 |Black List No |Use Type: Business|
+socks://162.210.192.136:20817#🇺🇸 Texas|Dallas|75247|server159.mainpacket.com| 45.58.52.220 |Time View 02/03/2024 23:33:29 |Black List No |Use Type: Hosting|
+socks://162.19.7.57:13174#🇺🇸 Illinois|Cicero|60804|c-71-201-154-27.hsd1.il.comcast.net| 71.201.154.27 |Time View 02/03/2024 23:32:14 |Black List Yes |Use Type: Residential|
+socks://212.83.143.211:41913#🇺🇸 Unknown|Unknown|Unknown|infong1518.perfora.net| 74.208.58.39 |Time View 02/03/2024 23:32:07 |Black List No |Use Type: Hosting|
+socks://162.210.192.135:23758#🇺🇸 Unknown|Unknown|Unknown|gvo24841.gvodatacenter.com| 199.116.248.41 |Time View 02/03/2024 23:31:56 |Black List No |Use Type: Hosting|
+socks://212.83.143.204:63185#🇺🇸 California|Santa Clara|95054|DigitalOcean, LLC| 161.35.228.245 |Time View 02/03/2024 23:31:53 |Black List No |Use Type: Hosting|
+socks://162.19.7.60:63929#🇺🇸 Alabama|Boaz|35957|024-241-223-111.res.spectrum.com| 24.241.223.111 |Time View 02/03/2024 23:31:40 |Black List Yes |Use Type: Business|
+socks://162.210.192.136:23030#🇺🇸 Unknown|Unknown|Unknown|host.paginasdeinternet.mx| 67.227.148.44 |Time View 02/03/2024 23:31:26 |Black List No |Use Type: Hosting|
+socks://67.213.212.39:63209#🇺🇸 Michigan|Farmington Hills|48335|097-070-079-023.res.spectrum.com| 97.70.79.23 |Time View 02/03/2024 23:31:18 |Black List Yes |Use Type: Business|
+socks://212.83.143.211:48622#🇺🇸 Unknown|Unknown|Unknown|infongwp-us23.perfora.net| 74.208.59.164 |Time View 02/03/2024 23:31:00 |Black List No |Use Type: Hosting|
+socks://67.213.210.60:39469#🇺🇸 Vermont|Montpelier|05602|pool-64-222-106-142.burl.east.myfairpoint.net| 64.222.106.142 |Time View 02/03/2024 23:30:55 |Black List Yes |Use Type: Business|
+socks://162.210.192.135:35177#🇺🇸 Oregon|Boardman|97818|ec2-54-190-157-26.us-west-2.compute.amazonaws.com| 54.190.157.26 |Time View 02/03/2024 23:30:39 |Black List No |Use Type: Hosting|
+socks://162.210.192.136:47844#🇺🇸 Pennsylvania|Ardmore|19003|host.rs-servers.com| 69.10.63.202 |Time View 02/03/2024 23:30:36 |Black List No |Use Type: Hosting|
+socks://209.159.153.21:62070#🇺🇸 Pennsylvania|Philadelphia|19130|pool-98-115-3-241.phlapa.fios.verizon.net| 98.115.3.241 |Time View 02/03/2024 23:30:33 |Black List Yes |Use Type: Residential|
+socks://66.29.128.246:37774#🇺🇸 California|San Francisco|94109|c-67-174-198-16.hsd1.ca.comcast.net| 67.174.198.16 |Time View 02/03/2024 23:30:30 |Black List Yes |Use Type: Residential|
+socks://162.214.121.173:64382#🇺🇸 Unknown|Unknown|Unknown|vps-4840021.inovatitecnologia.com.br| 162.214.121.173 |Time View 02/03/2024 23:30:19 |Black List Yes |Use Type: Hosting|
