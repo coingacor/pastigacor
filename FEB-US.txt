@@ -49,3 +49,13 @@ socks://162.210.192.136:47844#🇺🇸 Pennsylvania|Ardmore|19003|host.rs-server
 socks://209.159.153.21:62070#🇺🇸 Pennsylvania|Philadelphia|19130|pool-98-115-3-241.phlapa.fios.verizon.net| 98.115.3.241 |Time View 02/03/2024 23:30:33 |Black List Yes |Use Type: Residential|
 socks://66.29.128.246:37774#🇺🇸 California|San Francisco|94109|c-67-174-198-16.hsd1.ca.comcast.net| 67.174.198.16 |Time View 02/03/2024 23:30:30 |Black List Yes |Use Type: Residential|
 socks://162.214.121.173:64382#🇺🇸 Unknown|Unknown|Unknown|vps-4840021.inovatitecnologia.com.br| 162.214.121.173 |Time View 02/03/2024 23:30:19 |Black List Yes |Use Type: Hosting|
+socks://162.210.192.135:12093#🇺🇸 New Jersey|Clifton|07014|DigitalOcean, LLC| 104.131.6.20 |Time View 03/03/2024 14:49:32 |Black List Yes |Use Type: Hosting|
+socks://108.181.132.118:54858#🇺🇸 South Carolina|Sharon|29742|173-248-222-27.truvista.net| 173.248.222.27 |Time View 03/03/2024 14:49:16 |Black List No |Use Type: Hosting|
+socks://162.210.192.136:16554#🇺🇸 California|Los Angeles|90017|cpanel-003-lax.hostingww.com| 66.165.236.154 |Time View 03/03/2024 14:49:10 |Black List No |Use Type: Hosting|
+socks://162.210.192.135:43029#🇺🇸 Florida|Boca Raton|33487|aerodeck.websitewelcome.com| 192.185.82.132 |Time View 03/03/2024 14:48:58 |Black List No |Use Type: Hosting|
+socks://67.213.212.52:46466#🇺🇸 Massachusetts|Boston|02110|75-149-128-81-Connecticut.hfc.comcastbusiness.net| 75.149.128.81 |Time View 03/03/2024 14:48:35 |Black List No |Use Type: Residential|
+socks://209.159.153.20:17854#🇺🇸 Florida|Palm Beach Gardens|33418|23-31-35-246-static.hfc.comcastbusiness.net| 23.31.35.246 |Time View 03/03/2024 14:48:30 |Black List No |Use Type: Residential|
+socks://67.213.212.50:13626#🇺🇸 New York|Queens|11375|static-71-105-100-76.nycmny.fios.verizon.net| 71.105.100.76 |Time View 03/03/2024 14:48:25 |Black List Yes |Use Type: Residential|
+socks://67.213.212.40:46906#🇺🇸 California|Lake Elsinore|92530|static-47-180-133-181.lsan.ca.frontiernet.net| 47.180.133.181 |Time View 03/03/2024 14:48:04 |Black List No |Use Type: Business|
+socks://66.29.128.241:36586#🇺🇸 New York|Brooklyn|11201|069-201-184-090.res.spectrum.com| 69.201.184.90 |Time View 03/03/2024 14:47:59 |Black List Yes |Use Type: Business|
+socks://162.210.192.136:14827#🇺🇸 Oregon|Boardman|97818|ec2-34-210-207-122.us-west-2.compute.amazonaws.com| 34.210.207.122 |Time View 03/03/2024 14:47:46 |Black List No |Use Type: Hosting|
