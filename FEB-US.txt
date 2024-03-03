@@ -16,3 +16,4 @@ socks://162.210.192.135:12093#🇺🇸 New Jersey|Clifton|07014|DigitalOcean, LL
 socks://108.181.132.118:54858#🇺🇸 South Carolina|Sharon|29742|173-248-222-27.truvista.net| 173.248.222.27 |Time View 03/03/2024 14:49:16 |Black List No |Use Type: Hosting|
 socks://162.210.192.136:16554#🇺🇸 California|Los Angeles|90017|cpanel-003-lax.hostingww.com| 66.165.236.154 |Time View 03/03/2024 14:49:10 |Black List No |Use Type: Hosting|
 socks://162.210.192.136:14827#🇺🇸 Oregon|Boardman|97818|ec2-34-210-207-122.us-west-2.compute.amazonaws.com| 34.210.207.122 |Time View 03/03/2024 14:47:46 |Black List No |Use Type: Hosting|
+socks://162.19.7.49:50139#U.S. Virgin Islands|Saint Thomas Island|Charlotte Amalie|Unknown|VI POWERNET, LLC| 172.84.205.212 |Time View 03/03/2024 20:11:43 |Black List Yes |Use Type: Business|
