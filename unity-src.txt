@@ -1,10 +1,6 @@
-socks://212.83.143.118:49522#🇦🇺 Queensland|Brisbane|4053|202-168-29-114.tpgi.com.au| 202.168.29.114 |Time View 01/03/2024 06:15:49 |Black List No |Use Type: Business|
-socks://138.201.21.232:52880#🇦🇺 New South Wales|Sydney|2137|123-51-38-177.static.dsl.net.au| 123.51.38.177 |Time View 01/03/2024 06:15:39 |Black List No |Use Type: Residential|
-socks://212.83.143.118:63474#🇦🇺 Victoria|Melbourne|3000|Telstra Internet| 144.139.81.151 |Time View 01/03/2024 06:15:33 |Black List No |Use Type: Business|
-socks5://51.83.116.6:29073/#%F0%9F%87%A6%F0%9F%87%BA%20New%20South%20Wales%7CBringelly%7C2556%7Cboo3114898.lnk.telstra.net%7C%2058.171.252.53%20%7CTime%20View%2026%2F02%2F2024%2022%3A45%3A36%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
-socks://212.83.143.97:31666#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 110.145.62.180 |Time View 01/03/2024 21:24:28 |Black List No |Use Type: Business|
-socks://212.83.143.60:45403#🇦🇺 New South Wales|Sydney|2747|n42-62-244-32.bla1.nsw.optusnet.com.au| 42.62.244.32 |Time View 01/03/2024 21:23:57 |Black List No |Use Type: Business|
-socks://138.201.21.238:46385#🇦🇺 Queensland|Brisbane|4000|cpe-1-223-7-132.bpi3-r-032.fli.sa.bigpond.net.au| 1.123.7.132 |Time View 01/03/2024 21:23:45 |Black List Yes |Use Type: Business|
-socks://141.94.238.246:36262#🇦🇺 Victoria|Geelong|3216|182-239-167-194.ip.adam.com.au| 182.239.167.194 |Time View 02/03/2024 13:35:45 |Black List Yes |Use Type: Business|
-socks://138.201.21.233:63211#🇦🇺 Victoria|Melbourne|3191|Telstra Internet| 120.157.28.55 |Time View 02/03/2024 13:35:20 |Black List Yes |Use Type: Business|
-socks://212.83.143.60:59343#🇦🇺 Victoria|Melbourne|3065|60-241-88-58.static.tpgi.com.au| 60.241.88.58 |Time View 02/03/2024 13:35:14 |Black List No |Use Type: Business|
+socks5://212.83.143.118:63474/#%F0%9F%87%A6%F0%9F%87%BA%20Victoria%7CMelbourne%7C3000%7CTelstra%20Internet%7C%20144.139.81.151%20%7CTime%20View%2001%2F03%2F2024%2006%3A15%3A33%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
+socks://212.83.143.97:31666#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 110.145.62.180 |Time View 01/03/2024 21:24:28 |Black List No |Use Type: Business||
+socks://212.83.142.100:28851#🇦🇺 Queensland|Brisbane|4000|bet2886687.lnk.telstra.net| 110.145.106.146 |Time View 03/03/2024 20:15:53 |Black List No |Use Type: Business|
+socks://51.83.116.5:45532#🇦🇺 Victoria|Melbourne|3195|cpe-1-159-67-127.vb12.vic.asp.telstra.net| 1.159.67.127 |Time View 03/03/2024 20:15:25 |Black List Yes |Use Type: Business|
+socks://51.83.116.6:34740#🇦🇺 Victoria|Melbourne|3121|52.142.220.111.sta.wbroadband.net.au| 111.220.142.52 |Time View 03/03/2024 20:15:13 |Black List No |Use Type: Business|
+socks://162.19.7.56:16407#🇦🇺 Victoria|Melbourne|3186|139-216-193-157.sta.dodo.net.au| 139.216.193.157 |Time View 03/03/2024 20:15:04 |Black List No |Use Type: Business|
