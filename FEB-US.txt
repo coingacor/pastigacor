@@ -14,3 +14,14 @@ socks://23.105.170.30:32179#🇺🇸 Tennessee|Memphis|38134|Comcast Cable Commu
 socks://66.29.128.242:23799#🇺🇸 California|San Francisco|94109|50-193-44-99-static.hfc.comcastbusiness.net| 50.193.44.99 |Time View 04/03/2024 18:53:07 |Black List No |Use Type: Residential|
 socks://67.213.210.118:21584#🇺🇸 Georgia|Savannah|31408|Spirit Communications| 204.116.176.237 |Time View 04/03/2024 18:53:00 |Black List No |Use Type: Residential|
 socks://67.213.212.48:48623#🇺🇸 Oklahoma|Guymon|73942|host-208-114-94-71.vyvebroadband.net| 208.114.94.71 |Time View 04/03/2024 18:52:52 |Black List No |Use Type: Residential|
+socks://141.94.238.246:14025#🇺🇸 North Carolina|Raleigh|27616|162-224-118-69.lightspeed.rlghnc.sbcglobal.net| 162.224.118.69 |Time View 05/03/2024 05:28:36 |Black List No |Use Type: Residential|
+socks://67.213.212.38:33060#🇺🇸 Florida|North Fort Myers|33903|75-151-39-177-Naples.hfc.comcastbusiness.net| 75.151.39.177 |Time View 05/03/2024 05:28:29 |Black List No |Use Type: Residential|
+socks://209.159.153.20:34872#🇺🇸 Minnesota|Granite Falls|56241|108-178-244-26.client.mchsi.com| 108.178.244.26 |Time View 05/03/2024 05:28:27 |Black List No |Use Type: Business|
+socks://23.105.170.33:10369#🇺🇸 Florida|Fort Myers|33901|23-31-181-242-static.hfc.comcastbusiness.net| 23.31.181.242 |Time View 05/03/2024 05:28:25 |Black List No |Use Type: Residential|
+socks://212.83.143.223:48869#🇺🇸 Unknown|Unknown|Unknown|mail143844271.mywebspace.zone| 74.208.12.119 |Time View 05/03/2024 05:28:20 |Black List No |Use Type: Hosting|
+socks://67.213.210.61:34184#🇺🇸 Georgia|Warner Robins|31088|219.20.5.207.dynamic-pool.hargray.net| 207.5.20.219 |Time View 05/03/2024 05:28:07 |Black List No |Use Type: Business|
+socks://209.159.153.20:61882#🇺🇸 New York|Valley Stream|11580|ool-60385d3a.static.optonline.net| 96.56.93.58 |Time View 05/03/2024 05:28:03 |Black List No |Use Type: Business|
+socks://212.83.137.150:55241#🇺🇸 Missouri|St Louis|63101|vps.hbmcom.net| 209.126.1.221 |Time View 05/03/2024 05:28:02 |Black List No |Use Type: Hosting|
+socks://174.138.176.74:39919#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl12879.iro.ptd.net| 204.186.128.79 |Time View 05/03/2024 05:27:54 |Black List No |Use Type: Residential|
+socks://174.138.176.74:25463#🇺🇸 Iowa|Clarence|52216|clnc-16-167-142-39-70.dsl.netins.net| 167.142.39.70 |Time View 05/03/2024 05:27:49 |Black List No |Use Type: Residential|
+socks://66.29.128.242:22129#🇺🇸 Colorado|Denver|80249|96-66-67-220-static.hfc.comcastbusiness.net| 96.66.67.220 |Time View 05/03/2024 05:27:41 |Black List No |Use Type: Residential|
