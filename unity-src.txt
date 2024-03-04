@@ -1,6 +1,5 @@
-socks5://212.83.143.118:63474/#%F0%9F%87%A6%F0%9F%87%BA%20Victoria%7CMelbourne%7C3000%7CTelstra%20Internet%7C%20144.139.81.151%20%7CTime%20View%2001%2F03%2F2024%2006%3A15%3A33%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
-socks://212.83.143.97:31666#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 110.145.62.180 |Time View 01/03/2024 21:24:28 |Black List No |Use Type: Business||
-socks://212.83.142.100:28851#🇦🇺 Queensland|Brisbane|4000|bet2886687.lnk.telstra.net| 110.145.106.146 |Time View 03/03/2024 20:15:53 |Black List No |Use Type: Business|
-socks://51.83.116.5:45532#🇦🇺 Victoria|Melbourne|3195|cpe-1-159-67-127.vb12.vic.asp.telstra.net| 1.159.67.127 |Time View 03/03/2024 20:15:25 |Black List Yes |Use Type: Business|
-socks://51.83.116.6:34740#🇦🇺 Victoria|Melbourne|3121|52.142.220.111.sta.wbroadband.net.au| 111.220.142.52 |Time View 03/03/2024 20:15:13 |Black List No |Use Type: Business|
-socks://162.19.7.56:16407#🇦🇺 Victoria|Melbourne|3186|139-216-193-157.sta.dodo.net.au| 139.216.193.157 |Time View 03/03/2024 20:15:04 |Black List No |Use Type: Business|
+socks://51.83.116.3:26399#🇦🇺 Victoria|Melbourne|3073|116-240-187-109.dyn.dodo.net.au| 116.240.187.109 |Time View 04/03/2024 16:43:23 |Black List No |Use Type: Business|
+socks://212.83.138.186:23027#🇦🇺 Victoria|Melbourne|3001|Telstra Internet| 203.45.65.66 |Time View 04/03/2024 16:43:15 |Black List No |Use Type: Business|
+socks://212.83.142.100:47055#🇦🇺 Victoria|Melbourne|3001|boo3129727.lnk.telstra.net| 101.187.30.152 |Time View 04/03/2024 16:43:09 |Black List No |Use Type: Business|
+socks://138.201.21.218:61466#🇦🇺 Victoria|Melbourne|3058|ains-202-126-96-3.ains.net.au| 202.126.96.3 |Time View 04/03/2024 16:43:03 |Black List No |Use Type: Business|
+socks://212.83.137.150:43097#🇦🇺 New South Wales|Sydney|2015|149.28.182.200.vultrusercontent.com| 149.28.182.200 |Time View 04/03/2024 16:42:42 |Black List No |Use Type: Hosting|
