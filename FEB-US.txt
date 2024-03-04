@@ -8,3 +8,9 @@ socks://162.0.220.214:10142#🇺🇸 California|Roseville|95678|108.133-159-67.r
 socks://66.29.128.245:13361#🇺🇸 California|San Bernardino|92407|137-027-234-139.biz.spectrum.com| 137.27.234.139 |Time View 04/03/2024 16:39:21 |Black List No |Use Type: Business|
 socks://162.210.192.136:19198#🇺🇸 California|Los Angeles|90012|66.42.96.67.vultrusercontent.com| 66.42.96.67 |Time View 04/03/2024 16:39:18 |Black List No |Use Type: Hosting|
 socks://66.29.128.244:22395#🇺🇸 Minnesota|Rosemount|55068|206-196-33-81.usfamily.net| 206.196.33.81 |Time View 04/03/2024 16:39:14 |Black List No |Use Type: Business|
+socks://162.0.220.215:50120#🇺🇸 Nevada|Mesquite|89027|pppoe-38-87-121-053.rioaccess.com| 38.87.121.53 |Time View 04/03/2024 18:53:23 |Black List No |Use Type: Residential|
+socks://67.213.212.39:49207#🇺🇸 North Carolina|Banner Elk|28604|38-132-167-48.dynamic-broadband.skybest.com| 38.132.167.48 |Time View 04/03/2024 18:53:17 |Black List No |Use Type: Residential|
+socks://23.105.170.30:32179#🇺🇸 Tennessee|Memphis|38134|Comcast Cable Communications, LLC| 50.228.220.74 |Time View 04/03/2024 18:53:14 |Black List No |Use Type: Residential|
+socks://66.29.128.242:23799#🇺🇸 California|San Francisco|94109|50-193-44-99-static.hfc.comcastbusiness.net| 50.193.44.99 |Time View 04/03/2024 18:53:07 |Black List No |Use Type: Residential|
+socks://67.213.210.118:21584#🇺🇸 Georgia|Savannah|31408|Spirit Communications| 204.116.176.237 |Time View 04/03/2024 18:53:00 |Black List No |Use Type: Residential|
+socks://67.213.212.48:48623#🇺🇸 Oklahoma|Guymon|73942|host-208-114-94-71.vyvebroadband.net| 208.114.94.71 |Time View 04/03/2024 18:52:52 |Black List No |Use Type: Residential|
