@@ -25,3 +25,17 @@ socks://212.83.137.150:55241#🇺🇸 Missouri|St Louis|63101|vps.hbmcom.net| 20
 socks://174.138.176.74:39919#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl12879.iro.ptd.net| 204.186.128.79 |Time View 05/03/2024 05:27:54 |Black List No |Use Type: Residential|
 socks://174.138.176.74:25463#🇺🇸 Iowa|Clarence|52216|clnc-16-167-142-39-70.dsl.netins.net| 167.142.39.70 |Time View 05/03/2024 05:27:49 |Black List No |Use Type: Residential|
 socks://66.29.128.242:22129#🇺🇸 Colorado|Denver|80249|96-66-67-220-static.hfc.comcastbusiness.net| 96.66.67.220 |Time View 05/03/2024 05:27:41 |Black List No |Use Type: Residential|
+socks://162.210.192.136:32088#🇺🇸 Florida|Tampa|33614|cpanel128.wnpservers.net| 162.220.63.238 |Time View 05/03/2024 13:31:57 |Black List No |Use Type: Hosting|
+socks://67.213.212.48:58311#🇺🇸 North Carolina|Haw River|27258|074-218-185-041.biz.spectrum.com| 74.218.185.41 |Time View 05/03/2024 13:31:53 |Black List No |Use Type: Business|
+socks://67.213.212.47:14083#🇺🇸 Texas|Hillsboro|76645|AT&T Corp| 74.231.122.85 |Time View 05/03/2024 13:31:48 |Black List No |Use Type: Residential|
+socks://108.181.132.117:64288#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl126242.iro.ptd.net| 204.186.126.242 |Time View 05/03/2024 13:31:45 |Black List No |Use Type: Residential|
+socks://67.213.212.48:23398#🇺🇸 Georgia|Swainsboro|30401|Northland Cable Television Inc.| 38.165.176.222 |Time View 05/03/2024 13:31:25 |Black List No |Use Type: Residential|
+socks://38.91.107.220:15705#🇺🇸 South Carolina|Beaufort|29907|Hargray Communications Group| 207.5.49.53 |Time View 05/03/2024 13:31:15 |Black List No |Use Type: Residential|
+socks://212.83.143.191:59871#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 40.114.53.141 |Time View 05/03/2024 13:30:50 |Black List No |Use Type: Hosting|
+socks://66.29.128.246:15109#🇺🇸 Florida|Lutz|33549|static-47-206-233-205.tamp.fl.frontiernet.net| 47.206.233.205 |Time View 05/03/2024 13:30:15 |Black List No |Use Type: Business|
+socks://67.213.210.115:28528#🇺🇸 Maine|Bangor|04401|d-ptld-bng2-70-20-37-26.ngn.east.myfairpoint.net| 70.20.37.26 |Time View 05/03/2024 13:29:57 |Black List Yes |Use Type: Business|
+socks://209.159.153.21:33118#🇺🇸 Louisiana|Gueydan|70542|host-24-112-49-145.vyvebroadband.net| 24.112.49.145 |Time View 05/03/2024 13:29:55 |Black List Yes |Use Type: Residential|
+socks://67.213.212.47:65093#🇺🇸 Florida|Orlando|32819|097-068-003-018.biz.spectrum.com| 97.68.3.18 |Time View 05/03/2024 13:29:28 |Black List No |Use Type: Business|
+socks://67.213.212.57:14197#🇺🇸 Kansas|Overland Park|66214|23-228-166-75.mci.googlefiber.net| 23.228.166.75 |Time View 05/03/2024 13:29:11 |Black List No |Use Type: Residential|
+socks://212.83.138.132:56431#🇺🇸 Unknown|Unknown|Unknown|v2303068r.m3xs.net| 208.122.221.201 |Time View 05/03/2024 13:29:05 |Black List No |Use Type: Hosting|
+socks://67.213.212.39:14195#🇺🇸 North Carolina|Banner Elk|28604|38-132-167-48.dynamic-broadband.skybest.com| 38.132.167.48 |Time View 05/03/2024 13:28:59 |Black List No |Use Type: Residential|
