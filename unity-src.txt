@@ -3,3 +3,6 @@ socks://212.83.143.60:54298#🇦🇺 Victoria|Melbourne|3156|60-241-88-58.static
 socks://51.83.116.4:63218#🇦🇺 Victoria|Melbourne|3123|cpe-120-147-151-155.vb10.vic.asp.telstra.net| 120.147.151.155 |Time View 06/03/2024 14:17:17 |Black List Yes |Use Type: Business|
 socks://162.19.7.58:40472#🇦🇺 Victoria|Cranbourne East|3977|115-166-49-121.dyn.iinet.net.au| 115.166.49.121 |Time View 06/03/2024 14:17:13 |Black List No |Use Type: Business|
 socks5://51.83.116.3:26399/#%F0%9F%87%A6%F0%9F%87%BA%20Victoria%7CMelbourne%7C3073%7C116-240-187-109.dyn.dodo.net.au%7C%20116.240.187.109%20%7CTime%20View%2004%2F03%2F2024%2016%3A43%3A23%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
+socks://212.83.138.186:49626#🇦🇺 Victoria|Melbourne|3001|Telstra Internet| 203.45.65.66 |Time View 06/03/2024 23:52:28 |Black List No |Use Type: Business|
+socks://162.19.7.59:10363#🇦🇺 New South Wales|Sydney|2000|cpe-101-190-15-18.nb16.nsw.asp.telstra.net| 101.190.15.18 |Time View 06/03/2024 23:52:21 |Black List Yes |Use Type: Business|
+socks://51.83.116.3:25633#🇦🇺 New South Wales|Sydney|2000|Telstra Corporation Limited| 60.231.93.168 |Time View 06/03/2024 23:52:11 |Black List No |Use Type: Business|
