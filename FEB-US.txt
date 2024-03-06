@@ -9,3 +9,13 @@ socks://212.83.137.150:16169#🇺🇸 Unknown|Unknown|Unknown|box5176.bluehost.c
 socks://162.0.220.217:27831#🇺🇸 Texas|Katy|77494|dsl-dhcp-katytxxchrc-64-92-17-1.consolidated.net| 64.92.17.1 |Time View 06/03/2024 08:05:13 |Black List No |Use Type: Residential|
 socks://38.91.107.2:48865#🇺🇸 Alabama|Hamilton|35570|Tombigbee Communications, LLC| 192.228.51.215 |Time View 06/03/2024 08:05:06 |Black List No |Use Type: Business|
 socks://108.181.132.115:10718#🇺🇸 Alabama|Hamilton|35570|Tombigbee Communications, LLC| 192.228.50.190 |Time View 06/03/2024 08:05:00 |Black List No |Use Type: Business|
+socks://108.181.133.58:52652#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl129115.iro.ptd.net| 204.186.129.115 |Time View 06/03/2024 09:18:50 |Black List No |Use Type: Residential|
+socks://67.213.212.53:32021#🇺🇸 Pennsylvania|Philadelphia|19147|75-151-152-254-Philadelphia.hfc.comcastbusiness.net| 75.151.152.254 |Time View 06/03/2024 09:18:46 |Black List No |Use Type: Residential|
+socks://67.213.210.175:48057#🇺🇸 Pennsylvania|Elizabeth|15037|pool-72-65-223-29.pitbpa.fios.verizon.net| 72.65.223.29 |Time View 06/03/2024 09:18:40 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:37910#🇺🇸 Pennsylvania|Bethlehem|18015|64-121-115-208.s974.c3-0.smt-ubr1.atw-smt.pa.cable.rcncustomer.com| 64.121.115.208 |Time View 06/03/2024 09:18:37 |Black List No |Use Type: Residential|
+socks://162.210.192.135:46622#🇺🇸 Georgia|Atlanta|30301|li2100-20.members.linode.com| 172.105.148.20 |Time View 06/03/2024 09:18:21 |Black List No |Use Type: Hosting|
+socks://162.210.192.136:38010#🇺🇸 New Jersey|Seaside Park|08752|webhosting2051.is.cc| 69.10.62.42 |Time View 06/03/2024 09:18:20 |Black List No |Use Type: Hosting|
+socks://67.213.212.53:26343#🇺🇸 Massachusetts|Marblehead|01945|pool-71-184-221-95.bstnma.fios.verizon.net| 71.184.221.95 |Time View 06/03/2024 09:18:08 |Black List Yes |Use Type: Residential|
+socks://67.213.212.40:46956#🇺🇸 Massachusetts|Boston|02113|96-78-193-70-static.hfc.comcastbusiness.net| 96.78.193.70 |Time View 06/03/2024 09:18:03 |Black List No |Use Type: Residential|
+socks://209.159.153.21:49797#🇺🇸 Pennsylvania|Philadelphia|19121|c-73-141-23-249.hsd1.pa.comcast.net| 73.141.23.249 |Time View 06/03/2024 09:17:53 |Black List Yes |Use Type: Residential|
+socks://162.210.192.136:51759#🇺🇸 Florida|West Palm Beach|33417|server-phsperu.pe| 199.168.190.26 |Time View 06/03/2024 09:17:35 |Black List No |Use Type: Hosting|
