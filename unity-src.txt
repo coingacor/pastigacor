@@ -1,11 +1,4 @@
-socks://51.83.116.3:26399#🇦🇺 Victoria|Melbourne|3073|116-240-187-109.dyn.dodo.net.au| 116.240.187.109 |Time View 04/03/2024 16:43:23 |Black List No |Use Type: Business|
-socks://212.83.138.186:23027#🇦🇺 Victoria|Melbourne|3001|Telstra Internet| 203.45.65.66 |Time View 04/03/2024 16:43:15 |Black List No |Use Type: Business|
-socks://212.83.142.100:47055#🇦🇺 Victoria|Melbourne|3001|boo3129727.lnk.telstra.net| 101.187.30.152 |Time View 04/03/2024 16:43:09 |Black List No |Use Type: Business|
-socks://138.201.21.218:61466#🇦🇺 Victoria|Melbourne|3058|ains-202-126-96-3.ains.net.au| 202.126.96.3 |Time View 04/03/2024 16:43:03 |Black List No |Use Type: Business|
-socks5://212.83.142.100:28851/#%F0%9F%87%A6%F0%9F%87%BA%20Queensland%7CBrisbane%7C4000%7Cbet2886687.lnk.telstra.net%7C%20110.145.106.146%20%7CTime%20View%2003%2F03%2F2024%2020%3A15%3A53%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
-socks5://51.83.116.5:45532/#%F0%9F%87%A6%F0%9F%87%BA%20Victoria%7CMelbourne%7C3195%7Ccpe-1-159-67-127.vb12.vic.asp.telstra.net%7C%201.159.67.127%20%7CTime%20View%2003%2F03%2F2024%2020%3A15%3A25%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
-socks://212.83.143.97:33026#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 165.228.221.16 |Time View 05/03/2024 05:29:30 |Black List No |Use Type: Business|
-socks://212.83.143.159:64512#🇦🇺 New South Wales|Sydney|2113|cabinet-salsa.bnr.la| 112.213.33.197 |Time View 05/03/2024 05:29:22 |Black List No |Use Type: Business|
-socks://212.83.142.131:36932#🇦🇺 New South Wales|Sydney|2011|countrystatedevelopment.cust.1145.bdr01.syd01.nsw.VOCUS.net.au| 49.255.225.142 |Time View 05/03/2024 05:29:13 |Black List No |Use Type: Business|
-socks://162.19.7.57:50500#🇦🇺 New South Wales|Sydney|2111|Wideband Networks Pty Ltd| 159.196.170.51 |Time View 05/03/2024 05:29:07 |Black List No |Use Type: Residential|
-socks://212.83.143.223:36458#🇦🇺 New South Wales|Sydney|2153|180-150-8-170.b49608.syd.static.aussiebb.net| 180.150.8.170 |Time View 05/03/2024 05:29:01 |Black List No |Use Type: Residential|
+socks://212.83.143.118:32624#🇦🇺 Victoria|Melbourne|3000|Telstra Internet| 144.139.81.151 |Time View 06/03/2024 14:17:57 |Black List No |Use Type: Business|
+socks://212.83.143.60:54298#🇦🇺 Victoria|Melbourne|3156|60-241-88-58.static.tpgi.com.au| 60.241.88.58 |Time View 06/03/2024 14:17:53 |Black List No |Use Type: Business|
+socks://51.83.116.4:63218#🇦🇺 Victoria|Melbourne|3123|cpe-120-147-151-155.vb10.vic.asp.telstra.net| 120.147.151.155 |Time View 06/03/2024 14:17:17 |Black List Yes |Use Type: Business|
+socks://162.19.7.58:40472#🇦🇺 Victoria|Cranbourne East|3977|115-166-49-121.dyn.iinet.net.au| 115.166.49.121 |Time View 06/03/2024 14:17:13 |Black List No |Use Type: Business|
