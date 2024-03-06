@@ -19,3 +19,10 @@ socks://67.213.212.53:26343#🇺🇸 Massachusetts|Marblehead|01945|pool-71-184-
 socks://67.213.212.40:46956#🇺🇸 Massachusetts|Boston|02113|96-78-193-70-static.hfc.comcastbusiness.net| 96.78.193.70 |Time View 06/03/2024 09:18:03 |Black List No |Use Type: Residential|
 socks://209.159.153.21:49797#🇺🇸 Pennsylvania|Philadelphia|19121|c-73-141-23-249.hsd1.pa.comcast.net| 73.141.23.249 |Time View 06/03/2024 09:17:53 |Black List Yes |Use Type: Residential|
 socks://162.210.192.136:51759#🇺🇸 Florida|West Palm Beach|33417|server-phsperu.pe| 199.168.190.26 |Time View 06/03/2024 09:17:35 |Black List No |Use Type: Hosting|
+socks://37.221.193.221:13248#🇺🇸 Virginia|Ashburn|20149|Cogent Communications| 38.134.96.60 |Time View 06/03/2024 14:22:14 |Black List No |Use Type: Business|
+socks://67.213.212.49:50996#🇺🇸 Virginia|Lynchburg|24502|66-207-71-225.fsvl.fttp.ntelos.net| 66.207.71.225 |Time View 06/03/2024 14:22:08 |Black List No |Use Type: Business|
+socks://67.213.212.55:65274#🇺🇸 Virginia|Lynchburg|24502|66-207-71-232.fsvl.fttp.ntelos.net| 66.207.71.232 |Time View 06/03/2024 14:22:05 |Black List No |Use Type: Business|
+socks://162.210.192.135:23515#🇺🇸 Virginia|Warrenton|20186|ns1005800.ip-92-204-134.us| 92.204.134.112 |Time View 06/03/2024 14:21:56 |Black List Yes |Use Type: Hosting|
+socks://66.29.128.243:28006#🇺🇸 Virginia|Lynchburg|24502|66-207-71-216.fsvl.fttp.ntelos.net| 66.207.71.216 |Time View 06/03/2024 14:21:50 |Black List No |Use Type: Business|
+socks://67.213.212.52:64037#🇺🇸 Virginia|Chesterfield|23832|50-211-53-226-static.hfc.comcastbusiness.net| 50.211.53.226 |Time View 06/03/2024 14:21:46 |Black List No |Use Type: Residential|
+socks://174.138.176.76:29325#🇺🇸 Nevada|Las Vegas|89118|71-38-107-57.lsv2.qwest.net| 71.38.107.57 |Time View 06/03/2024 14:20:54 |Black List Yes |Use Type: Business|
