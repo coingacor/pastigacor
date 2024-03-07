@@ -8,3 +8,17 @@ socks://51.68.244.19:13170#🇺🇸 New Hampshire|Manchester|03103|173-162-165-3
 socks://162.0.220.161:63039#🇺🇸 Washington|Belfair|98528|24-113-12-210.wavecable.com| 24.113.12.210 |Time View 07/03/2024 06:40:41 |Black List Yes |Use Type: Residential|
 socks://66.29.128.246:25355#🇺🇸 Arizona|Show Low|85901|173-47-233-75.cpe.cableone.net| 173.47.233.75 |Time View 07/03/2024 06:40:35 |Black List No |Use Type: Residential|
 socks://38.91.107.2:12689#🇺🇸 South Carolina|Hilton Head Island|29928|240.51.246.162.dynamic-pool.hargray.net| 162.246.51.240 |Time View 07/03/2024 06:40:30 |Black List No |Use Type: Business|
+socks://162.210.192.135:55649#🇺🇸 Florida|Boca Raton|33487|dragula.websitewelcome.com| 192.185.83.219 |Time View 07/03/2024 14:03:55 |Black List No |Use Type: Hosting|
+socks://174.138.176.75:53846#🇺🇸 South Carolina|Chester|29706|207-144-85-44.dsl.g01.scches.spirittelecom.com| 207.144.85.44 |Time View 07/03/2024 14:03:43 |Black List Yes |Use Type: Residential|
+socks://212.83.143.204:58156#🇺🇸 New Jersey|Cedar Knolls|07927|geekactivism.com| 66.175.214.181 |Time View 07/03/2024 14:03:36 |Black List No |Use Type: Hosting|
+socks://67.213.212.55:14250#🇺🇸 Illinois|Crestwood|60418|c-24-14-27-84.hsd1.il.comcast.net| 24.14.27.84 |Time View 07/03/2024 14:02:25 |Black List Yes |Use Type: Residential|
+socks://108.181.133.58:60381#🇺🇸 Iowa|Ogden|50212|ogdn-3-207-199-240-166.dsl.netins.net| 207.199.240.166 |Time View 07/03/2024 14:02:21 |Black List No |Use Type: Residential|
+socks://108.181.132.116:43783#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.187.196 |Time View 07/03/2024 14:02:05 |Black List No |Use Type: Business|
+socks://174.138.176.76:41669#🇺🇸 Texas|Katy|77494|dsl-dhcp-katytxxchrc-64-92-46-239.consolidated.net| 64.92.46.239 |Time View 07/03/2024 14:01:40 |Black List No |Use Type: Residential|
+socks://162.19.7.57:62666#🇺🇸 California|Victorville|92392|Frontier Communications Solutions| 47.150.78.207 |Time View 07/03/2024 14:01:21 |Black List No |Use Type: Residential|
+socks://67.213.212.49:32840#🇺🇸 Georgia|Lawrenceville|30043|024-178-072-142.biz.spectrum.com| 24.178.72.142 |Time View 07/03/2024 14:01:05 |Black List No |Use Type: Business|
+socks://108.181.132.116:55845#🇺🇸 Nebraska|Arnold|69120|gpc-24-223-118-201-ne.gpcom.net| 24.223.118.201 |Time View 07/03/2024 14:01:00 |Black List No |Use Type: Business|
+socks://66.29.129.53:30590#🇺🇸 Georgia|Butler|31006|ip-72-29-33-183.pstel.net| 72.29.33.183 |Time View 07/03/2024 14:00:54 |Black List No |Use Type: Business|
+socks://162.19.7.57:20312#🇺🇸 Florida|Oviedo|32765|104-58-64-56.lightspeed.dybhfl.sbcglobal.net| 104.58.64.56 |Time View 07/03/2024 14:00:47 |Black List No |Use Type: Residential|
+socks://209.159.153.19:18289#🇺🇸 Pennsylvania|Schwenksville|19473|50-251-52-226-static.hfc.comcastbusiness.net| 50.251.52.226 |Time View 07/03/2024 14:00:42 |Black List No |Use Type: Residential|
+socks://67.213.210.60:20351#🇺🇸 Michigan|Blanchard|49310|blan-dsl-118-145-133-67.power-net.net| 67.133.145.118 |Time View 07/03/2024 14:00:35 |Black List No |Use Type: Business|
