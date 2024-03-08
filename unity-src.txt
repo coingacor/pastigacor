@@ -1,4 +1,4 @@
-51.83.116.5:48209#🇦🇺 Queensland|Brisbane|4000|Telstra Internet| 139.130.218.14 |Time View 08/03/2024 13:07:07 |Black List No |Use Type: Business|
-138.201.21.218:47075#🇦🇺 Queensland|Brisbane|4000|cpe-1-223-97-6.bpi3-r-032.fli.sa.bigpond.net.au| 1.123.97.6 |Time View 08/03/2024 13:07:00 |Black List Yes |Use Type: Business|
-212.83.142.100:28278#🇦🇺 Queensland|Brisbane|4000|gre1060202.lnk.telstra.net| 120.151.215.57 |Time View 08/03/2024 13:06:43 |Black List No |Use Type: Business|
+socks://51.83.116.5:48209#🇦🇺 Queensland|Brisbane|4000|Telstra Internet| 139.130.218.14 |Time View 08/03/2024 13:07:07 |Black List No |Use Type: Business|
+socks://138.201.21.218:47075#🇦🇺 Queensland|Brisbane|4000|cpe-1-223-97-6.bpi3-r-032.fli.sa.bigpond.net.au| 1.123.97.6 |Time View 08/03/2024 13:07:00 |Black List Yes |Use Type: Business|
+socks://212.83.142.100:28278#🇦🇺 Queensland|Brisbane|4000|gre1060202.lnk.telstra.net| 120.151.215.57 |Time View 08/03/2024 13:06:43 |Black List No |Use Type: Business|
 socks5://212.83.143.118:19501/#%F0%9F%87%A6%F0%9F%87%BA%20Victoria%7CMelbourne%7C3000%7CTelstra%20Internet%7C%20144.139.81.151%20%7CTime%20View%2007%2F03%2F2024%2014%3A05%3A45%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
