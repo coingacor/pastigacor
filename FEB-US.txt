@@ -10,3 +10,19 @@ socks://66.29.128.244:60491#🇺🇸 California|San Jose|95126|c-50-175-202-62.u
 socks://108.181.132.116:36232#🇺🇸 Georgia|Demorest|30535|North Georgia Network Cooperative, Inc.| 192.190.91.2 |Time View 08/03/2024 13:03:15 |Black List No |Use Type: Business|
 socks://162.210.192.135:10234#🇺🇸 Virginia|Ashburn|20147|dia.sitehostingserver.com| 131.153.172.162 |Time View 08/03/2024 13:03:11 |Black List No |Use Type: Hosting|
 socks://67.213.212.49:47003#🇺🇸 Pennsylvania|Allentown|18109|168-91-141-159.s14493.c3-0.atw-cbr1.atw.pa.cable.rcncustomer.com| 168.91.141.159 |Time View 08/03/2024 13:03:07 |Black List No |Use Type: Residential|
+socks://66.29.128.243:11863#🇺🇸 Texas|Round Rock|78665|024-027-053-133.inf.spectrum.com| 24.27.53.133 |Time View 08/03/2024 15:32:09 |Black List Yes |Use Type: Business|
+socks://67.213.212.47:13128#🇺🇸 Nevada|Reno|89511|174-083-162-093.res.spectrum.com| 174.83.162.93 |Time View 08/03/2024 15:31:30 |Black List Yes |Use Type: Business|
+socks://209.159.153.22:28516#🇺🇸 Ohio|Strongsville|44149|d-75-76-178-149.oh.cpe.breezeline.net| 75.76.178.149 |Time View 08/03/2024 15:31:27 |Black List Yes |Use Type: Business|
+socks://162.19.7.56:19272#🇺🇸 Indiana|Indianapolis|46254|c-68-58-155-222.hsd1.in.comcast.net| 68.58.155.222 |Time View 08/03/2024 15:31:25 |Black List Yes |Use Type: Residential|
+socks://67.213.212.57:44948#🇺🇸 Kentucky|Whitesburg|41858|dynamic-69-57-104-120.tvscable.com| 69.57.104.120 |Time View 08/03/2024 15:31:15 |Black List Yes |Use Type: Residential|
+socks://67.213.210.167:11848#🇺🇸 Delaware|Millsboro|19966|static-108-2-216-187.phlapa.east.verizon.net| 108.2.216.187 |Time View 08/03/2024 15:31:13 |Black List Yes |Use Type: Business|
+socks://38.91.106.252:38727#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl71135.iro.ptd.net| 204.186.71.135 |Time View 08/03/2024 15:31:07 |Black List Yes |Use Type: Residential|
+socks://67.213.212.50:38550#🇺🇸 Virginia|Lynchburg|24502|66-207-71-231.fsvl.fttp.ntelos.net| 66.207.71.231 |Time View 08/03/2024 15:31:03 |Black List Yes |Use Type: Business|
+socks://174.138.176.75:63131#🇺🇸 Oklahoma|Comanche|73529|68-235-133-208.dynsouth.hsi.pldi.net| 68.235.133.208 |Time View 08/03/2024 15:30:56 |Black List Yes |Use Type: Business|
+socks://209.159.153.22:45192#🇺🇸 New York|Bay Shore|11706|pool-68-132-218-214.nycmny.fios.verizon.net| 68.132.218.214 |Time View 08/03/2024 15:30:52 |Black List Yes |Use Type: Residential|
+socks://162.19.7.57:37789#🇺🇸 New York|New York|10032|T-Mobile USA, Inc.| 172.56.161.98 |Time View 08/03/2024 15:30:50 |Black List Yes |Use Type: Cellular|
+socks://37.59.213.49:35795#🇺🇸 New Jersey|Newark|07104|T-Mobile USA, Inc.| 172.59.210.26 |Time View 08/03/2024 15:30:47 |Black List Yes |Use Type: Cellular|
+socks://67.213.210.168:24779#🇺🇸 South Carolina|Hilton Head Island|29928|67.216.153.106.pool.hargray.net| 67.216.153.106 |Time View 08/03/2024 15:30:38 |Black List Yes |Use Type: Business|
+socks://108.181.133.59:32350#🇺🇸 Indiana|Hebron|46341|mobilepool-216-176-136-47.ppp.netnitco.net| 216.176.136.47 |Time View 08/03/2024 15:30:34 |Black List Yes |Use Type: Business|
+socks://162.19.7.47:23698#🇺🇸 New York|New York|10025|074-071-015-101.res.spectrum.com| 74.71.15.101 |Time View 08/03/2024 15:30:27 |Black List Yes |Use Type: Business|
+socks://162.210.192.136:45359#🇺🇸 New Jersey|North Bergen|07047|fox.vivawebhost.com| 174.136.57.8 |Time View 08/03/2024 15:29:54 |Black List No |Use Type: Hosting|
