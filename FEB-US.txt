@@ -1,24 +1,12 @@
-socks://162.210.192.135:54216#🇺🇸 Unknown|Unknown|Unknown|rs01.hechile.com| 173.249.159.146 |Time View 07/03/2024 06:42:02 |Black List No |Use Type: Hosting|
-socks://66.29.128.242:13165#🇺🇸 South Carolina|Simpsonville|29681|047-046-248-114.biz.spectrum.com| 47.46.248.114 |Time View 07/03/2024 06:41:58 |Black List No |Use Type: Business|
-socks://209.159.153.22:65477#🇺🇸 Oklahoma|Moore|73160|wsip-68-15-105-242.ok.ok.cox.net| 68.15.105.242 |Time View 07/03/2024 06:41:33 |Black List No |Use Type: Business|
-socks://162.240.239.103:42771#🇺🇸 Unknown|Unknown|Unknown|vps-1103270.geoexpressltda.cl| 162.240.239.103 |Time View 07/03/2024 06:41:25 |Black List Yes |Use Type: Hosting|
-socks://108.181.133.59:28878#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 207.182.93.190 |Time View 07/03/2024 06:41:11 |Black List No |Use Type: Business|
-socks://23.105.170.32:32429#🇺🇸 Texas|Alba|75410|Peoples Communications Inc.| 69.46.52.134 |Time View 07/03/2024 06:41:01 |Black List Yes |Use Type: Business|
-socks://51.68.244.19:13170#🇺🇸 New Hampshire|Manchester|03103|173-162-165-37-NewEngland.hfc.comcastbusiness.net| 173.162.165.37 |Time View 07/03/2024 06:40:47 |Black List No |Use Type: Residential|
-socks://162.0.220.161:63039#🇺🇸 Washington|Belfair|98528|24-113-12-210.wavecable.com| 24.113.12.210 |Time View 07/03/2024 06:40:41 |Black List Yes |Use Type: Residential|
-socks://66.29.128.246:25355#🇺🇸 Arizona|Show Low|85901|173-47-233-75.cpe.cableone.net| 173.47.233.75 |Time View 07/03/2024 06:40:35 |Black List No |Use Type: Residential|
-socks://38.91.107.2:12689#🇺🇸 South Carolina|Hilton Head Island|29928|240.51.246.162.dynamic-pool.hargray.net| 162.246.51.240 |Time View 07/03/2024 06:40:30 |Black List No |Use Type: Business|
-socks://162.210.192.135:55649#🇺🇸 Florida|Boca Raton|33487|dragula.websitewelcome.com| 192.185.83.219 |Time View 07/03/2024 14:03:55 |Black List No |Use Type: Hosting|
-socks://174.138.176.75:53846#🇺🇸 South Carolina|Chester|29706|207-144-85-44.dsl.g01.scches.spirittelecom.com| 207.144.85.44 |Time View 07/03/2024 14:03:43 |Black List Yes |Use Type: Residential|
-socks://212.83.143.204:58156#🇺🇸 New Jersey|Cedar Knolls|07927|geekactivism.com| 66.175.214.181 |Time View 07/03/2024 14:03:36 |Black List No |Use Type: Hosting|
-socks://67.213.212.55:14250#🇺🇸 Illinois|Crestwood|60418|c-24-14-27-84.hsd1.il.comcast.net| 24.14.27.84 |Time View 07/03/2024 14:02:25 |Black List Yes |Use Type: Residential|
-socks://108.181.133.58:60381#🇺🇸 Iowa|Ogden|50212|ogdn-3-207-199-240-166.dsl.netins.net| 207.199.240.166 |Time View 07/03/2024 14:02:21 |Black List No |Use Type: Residential|
-socks://108.181.132.116:43783#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.187.196 |Time View 07/03/2024 14:02:05 |Black List No |Use Type: Business|
-socks://174.138.176.76:41669#🇺🇸 Texas|Katy|77494|dsl-dhcp-katytxxchrc-64-92-46-239.consolidated.net| 64.92.46.239 |Time View 07/03/2024 14:01:40 |Black List No |Use Type: Residential|
-socks://162.19.7.57:62666#🇺🇸 California|Victorville|92392|Frontier Communications Solutions| 47.150.78.207 |Time View 07/03/2024 14:01:21 |Black List No |Use Type: Residential|
-socks://67.213.212.49:32840#🇺🇸 Georgia|Lawrenceville|30043|024-178-072-142.biz.spectrum.com| 24.178.72.142 |Time View 07/03/2024 14:01:05 |Black List No |Use Type: Business|
-socks://108.181.132.116:55845#🇺🇸 Nebraska|Arnold|69120|gpc-24-223-118-201-ne.gpcom.net| 24.223.118.201 |Time View 07/03/2024 14:01:00 |Black List No |Use Type: Business|
-socks://66.29.129.53:30590#🇺🇸 Georgia|Butler|31006|ip-72-29-33-183.pstel.net| 72.29.33.183 |Time View 07/03/2024 14:00:54 |Black List No |Use Type: Business|
-socks://162.19.7.57:20312#🇺🇸 Florida|Oviedo|32765|104-58-64-56.lightspeed.dybhfl.sbcglobal.net| 104.58.64.56 |Time View 07/03/2024 14:00:47 |Black List No |Use Type: Residential|
-socks://209.159.153.19:18289#🇺🇸 Pennsylvania|Schwenksville|19473|50-251-52-226-static.hfc.comcastbusiness.net| 50.251.52.226 |Time View 07/03/2024 14:00:42 |Black List No |Use Type: Residential|
-socks://67.213.210.60:20351#🇺🇸 Michigan|Blanchard|49310|blan-dsl-118-145-133-67.power-net.net| 67.133.145.118 |Time View 07/03/2024 14:00:35 |Black List No |Use Type: Business|
+socks://212.83.143.151:63715#🇺🇸 Virginia|Ashburn|20149|ec2-44-198-198-0.compute-1.amazonaws.com| 44.198.198.0 |Time View 08/03/2024 13:04:08 |Black List No |Use Type: Hosting|
+socks://23.88.121.205:26245#🇺🇸 Oklahoma|Bixby|74008|olp-216-14-155-140.olp.net| 216.14.155.140 |Time View 08/03/2024 13:04:05 |Black List No |Use Type: Residential|
+socks://195.154.43.182:34559#🇺🇸 California|Santa Clara|95052|HostPapa| 198.46.152.87 |Time View 08/03/2024 13:04:00 |Black List No |Use Type: Hosting|
+socks://67.213.212.55:64848#🇺🇸 Mississippi|Gulfport|39503|C Spire Fiber| 50.86.66.252 |Time View 08/03/2024 13:03:57 |Black List No |Use Type: Residential|
+socks://23.88.121.205:27500#🇺🇸 Nevada|Las Vegas|89117|wsip-24-120-10-18.lv.lv.cox.net| 24.120.10.18 |Time View 08/03/2024 13:03:49 |Black List Yes |Use Type: Business|
+socks://38.91.107.229:36033#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.187.186 |Time View 08/03/2024 13:03:45 |Black List No |Use Type: Business|
+socks://212.83.143.211:15333#🇺🇸 Ohio|Columbus|43215|ec2-18-119-123-24.us-east-2.compute.amazonaws.com| 18.119.123.24 |Time View 08/03/2024 13:03:38 |Black List No |Use Type: Hosting|
+socks://67.213.210.60:53709#🇺🇸 Tennessee|Silver Point|38582|host-169-150-160-218.twlakes.net| 169.150.160.218 |Time View 08/03/2024 13:03:33 |Black List No |Use Type: Business|
+socks://66.29.128.244:60491#🇺🇸 California|San Jose|95126|c-50-175-202-62.unallocated.comcastbusiness.net| 50.175.202.62 |Time View 08/03/2024 13:03:30 |Black List No |Use Type: Residential|
+socks://108.181.132.116:36232#🇺🇸 Georgia|Demorest|30535|North Georgia Network Cooperative, Inc.| 192.190.91.2 |Time View 08/03/2024 13:03:15 |Black List No |Use Type: Business|
+socks://162.210.192.135:10234#🇺🇸 Virginia|Ashburn|20147|dia.sitehostingserver.com| 131.153.172.162 |Time View 08/03/2024 13:03:11 |Black List No |Use Type: Hosting|
+socks://67.213.212.49:47003#🇺🇸 Pennsylvania|Allentown|18109|168-91-141-159.s14493.c3-0.atw-cbr1.atw.pa.cable.rcncustomer.com| 168.91.141.159 |Time View 08/03/2024 13:03:07 |Black List No |Use Type: Residential|
