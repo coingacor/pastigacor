@@ -1,4 +1,1 @@
-socks://212.83.138.245:50646#🇦🇺 Victoria|Melbourne|3001|cpe-138-130-20-49.qb50.nqld.asp.telstra.net| 138.130.20.49 |Time View 09/03/2024 08:02:33 |Black List Yes |Use Type: Business|
-socks://212.83.143.118:52854#🇦🇺 Victoria|Melbourne|3000|Telstra Internet| 144.139.81.151 |Time View 09/03/2024 08:02:20 |Black List No |Use Type: Business|
-socks://162.19.7.47:30872#🇦🇺 Western Australia|Perth|6000|Telstra Internet| 1.127.27.44 |Time View 09/03/2024 08:02:15 |Black List Yes |Use Type: Business|
-socks://195.154.43.86:39398#🇦🇺 Queensland|Brisbane|4000|boo3152293.lnk.telstra.net| 149.135.116.115 |Time View 09/03/2024 08:02:06 |Black List Yes |Use Type: Business|
+socks5://marhaban-ya-ramadhan:1445/#SELAMAT%20MENUNAIKAN%20IBADAH%20PUASA%21%21%21
