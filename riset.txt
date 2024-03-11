@@ -1,2 +1,5 @@
 socks://212.83.138.192:59069#🇮🇪 Leinster|Dublin|D07|Liberty Global B.V.| 109.255.19.27 |Time View 10/03/2024 20:55:37 |Black List Yes |Use Type: Business|
 socks://212.83.142.149:15058#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 10/03/2024 13:29:53 |Black List Yes |Use Type: Business|
+socks://67.213.210.60:18621#🇺🇸 South Carolina|Beaufort|29907|192-222-19-166.comsouth.net| 192.222.19.166 |Time View 11/03/2024 16:59:49 |Black List No |Use Type: Business|
+socks://209.159.153.20:29001#🇺🇸 Massachusetts|Lexington|02421|static-70-20-25-250.bstnma.fios.verizon.net| 70.20.25.250 |Time View 11/03/2024 16:59:35 |Black List No |Use Type: Residential|
+socks://23.105.170.32:65406#🇺🇸 New York|Katonah|10536|ool-18bbe3b4.static.optonline.net| 24.187.227.180 |Time View 11/03/2024 16:58:55 |Black List No |Use Type: Business|
