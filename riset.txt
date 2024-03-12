@@ -1,3 +1,6 @@
 socks://138.201.21.233:12633#🇬🇧 England|Lambeth|SE11|host-92-27-98-24.static.as13285.net| 92.27.98.24 |Time View 12/03/2024 15:12:14 |Black List No |Use Type: Residential|
 socks://138.201.21.218:23018#🇬🇧 England|Hayes|UB3|host-89-242-9-111.static.as13285.net| 89.242.9.111 |Time View 12/03/2024 15:12:08 |Black List No |Use Type: Residential|
 socks://138.201.21.232:41911#🇬🇧 England|Dudley|DY2|176-35-140-195.xdsl.murphx.net| 176.35.140.195 |Time View 12/03/2024 15:12:00 |Black List No |Use Type: Residential|
+socks://212.83.143.97:49176#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 110.145.62.180 |Time View 12/03/2024 15:17:25 |Black List No |Use Type: Business|
+socks://212.83.138.192:53043#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 120.150.233.17 |Time View 12/03/2024 15:17:08 |Black List No |Use Type: Business|
+socks://89.58.45.94:42601#🇦🇺 New South Wales|Sydney|2066|Telstra Corporation Limited| 60.231.34.210 |Time View 12/03/2024 15:17:00 |Black List No |Use Type: Business|
