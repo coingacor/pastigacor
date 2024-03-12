@@ -4,3 +4,5 @@ socks://138.201.21.232:41911#🇬🇧 England|Dudley|DY2|176-35-140-195.xdsl.mur
 socks://212.83.143.97:49176#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 110.145.62.180 |Time View 12/03/2024 15:17:25 |Black List No |Use Type: Business|
 socks://212.83.138.192:53043#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 120.150.233.17 |Time View 12/03/2024 15:17:08 |Black List No |Use Type: Business|
 socks://89.58.45.94:42601#🇦🇺 New South Wales|Sydney|2066|Telstra Corporation Limited| 60.231.34.210 |Time View 12/03/2024 15:17:00 |Black List No |Use Type: Business|
+socks://209.159.153.21:42278#🇺🇸 Georgia|Savannah|31406|50-251-3-142-static.hfc.comcastbusiness.net| 50.251.3.142 |Time View 12/03/2024 16:14:48 |Black List No |Use Type: Residential
+socks://209.159.153.22:52718#🇺🇸 Georgia|Norcross|30071|96-77-108-82-static.hfc.comcastbusiness.net| 96.77.108.82 |Time View 12/03/2024 16:14:42 |Black List No |Use Type: Residential|
