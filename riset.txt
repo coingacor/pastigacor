@@ -10,3 +10,7 @@ socks://174.138.176.77:38660#🇺🇸 New Hampshire|Amherst|03031|pool-70-105-24
 socks://174.138.176.74:32979#🇺🇸 New Hampshire|Derry|03038|pool-70-20-57-77.man.east.myfairpoint.net| 70.20.57.77 |Time View 13/03/2024 03:21:47 |Black List Yes |Use Type: Business|
 socks://209.159.153.21:19341#🇺🇸 Delaware|Wilmington|19810|74-95-190-186-Philadelphia.hfc.comcastbusiness.net| 74.95.190.186 |Time View 13/03/2024 03:20:48 |Black List Yes |Use Type: Residential|
 socks://66.29.128.244:25148#🇺🇸 Delaware|Dover|19904|pool-108-16-97-14.phlapa.fios.verizon.net| 108.16.97.14 |Time View 13/03/2024 03:20:43 |Black List Yes |Use Type: Residential|
+socks://212.83.138.245:51451#🇧🇪 Flanders|Zottegem|9620|65.207-247-81.adsl-dyn.isp.belgacom.be| 81.247.207.65 |Time View 13/03/2024 16:41:33 |Black List Yes |Use Type: Residential|
+socks://212.83.142.114:60645#🇧🇪 Flanders|Leuven|3000|124.100-128-109.adsl-dyn.isp.belgacom.be| 109.128.100.124 |Time View 13/03/2024 16:41:29 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:65325#🇧🇪 Brussels Capital|Brussels|1080|ip-193-121-72-44.dsl.scarlet.be| 193.121.72.44 |Time View 13/03/2024 16:41:26 |Black List No |Use Type: Residential|
+socks://212.83.142.149:50273#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 13/03/2024 16:41:00 |Black List Yes |Use Type: Business|
