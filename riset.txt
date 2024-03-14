@@ -23,3 +23,14 @@ socks://212.83.143.103:18596#🇦🇺 Victoria|Melbourne|3001|Telstra Internet| 
 socks://162.19.7.50:49189#🇦🇺 Victoria|Melbourne|3001|cpe-110-140-148-70.vb05.vic.asp.telstra.net| 110.140.148.70 |Time View 14/03/2024 09:07:13 |Black List Yes |Use Type: Business|
 socks://51.83.116.7:44377#🇦🇺 Victoria|Melbourne|3207|static-38-115.mel.0101.net.au| 27.116.38.115 |Time View 14/03/2024 09:07:06 |Black List No |Use Type: Business|
 socks://170.205.37.196:33644#🇦🇺 South Australia|Thebarton|5031|203-174-182-38.ade.static-ipl.aapt.com.au| 203.174.182.38 |Time View 14/03/2024 09:06:40 |Black List Yes |Use Type: Business|
+socks://66.29.129.54:57451#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl129166.iro.ptd.net| 204.186.129.166 |Time View 14/03/2024 14:36:41 |Black List No |Use Type: Residential|
+socks://67.213.212.48:24501#🇺🇸 Georgia|Atlanta|30319|96-71-86-254-static.hfc.comcastbusiness.net| 96.71.86.254 |Time View 14/03/2024 14:36:39 |Black List No |Use Type: Residential|
+socks://67.213.212.53:25333#🇺🇸 Ohio|Cleveland|44113|024-106-091-025.biz.spectrum.com| 24.106.91.25 |Time View 14/03/2024 14:36:37 |Black List No |Use Type: Business|
+socks://209.159.153.21:35550#🇺🇸 Massachusetts|Chelsea|02150|50-245-26-140-static.hfc.comcastbusiness.net| 50.245.26.140 |Time View 14/03/2024 14:36:25 |Black List No |Use Type: Residential|
+socks://209.159.153.21:51881#🇺🇸 New Jersey|Egg Harbor City|08215|Comcast Cable Communications, LLC| 50.229.58.233 |Time View 14/03/2024 14:36:22 |Black List No |Use Type: Residential|
+socks://67.213.212.53:46052#🇺🇸 New York|New York|10128|208-105-029-036.biz.spectrum.com| 208.105.29.36 |Time View 14/03/2024 14:36:10 |Black List No |Use Type: Business|
+socks://67.213.210.61:29179#🇺🇸 Alabama|Anniston|36206|174-126-172-176.cpe.sparklight.net| 174.126.172.176 |Time View 14/03/2024 14:36:05 |Black List No |Use Type: Residential|
+socks://67.213.212.52:30340#🇺🇸 New York|Brooklyn|11205|static-100-2-244-138.nycmny.fios.verizon.net| 100.2.244.138 |Time View 14/03/2024 14:35:53 |Black List No |Use Type: Residential|
+socks://67.213.212.40:49714#🇺🇸 New York|New York|10009|static-71-249-206-210.nycmny.east.verizon.net| 71.249.206.210 |Time View 14/03/2024 14:35:45 |Black List No |Use Type: Business|
+socks://162.19.7.49:25305#🇺🇸 Illinois|Chicago|60630|99-140-98-112.lightspeed.cicril.sbcglobal.net| 99.140.98.112 |Time View 14/03/2024 14:35:31 |Black List No |Use Type: Residential|
+socks://66.23.233.210:44888#🇺🇸 New Jersey|Elizabeth|07201|static-74-102-123-126.nwrknj.fios.verizon.net| 74.102.123.126 |Time View 14/03/2024 14:35:25 |Black List Yes |Use Type: Residential|
