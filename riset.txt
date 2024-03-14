@@ -34,3 +34,5 @@ socks://67.213.212.52:30340#🇺🇸 New York|Brooklyn|11205|static-100-2-244-13
 socks://67.213.212.40:49714#🇺🇸 New York|New York|10009|static-71-249-206-210.nycmny.east.verizon.net| 71.249.206.210 |Time View 14/03/2024 14:35:45 |Black List No |Use Type: Business|
 socks://162.19.7.49:25305#🇺🇸 Illinois|Chicago|60630|99-140-98-112.lightspeed.cicril.sbcglobal.net| 99.140.98.112 |Time View 14/03/2024 14:35:31 |Black List No |Use Type: Residential|
 socks://66.23.233.210:44888#🇺🇸 New Jersey|Elizabeth|07201|static-74-102-123-126.nwrknj.fios.verizon.net| 74.102.123.126 |Time View 14/03/2024 14:35:25 |Black List Yes |Use Type: Residential|
+socks://212.83.143.97:16642#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 165.228.221.16 |Time View 14/03/2024 14:42:06 |Black List No |Use Type: Business|
+socks://212.83.143.147:53935#🇦🇺 Victoria|Melbourne|3001|pjs2797834.lnk.telstra.net| 120.151.249.52 |Time View 14/03/2024 14:42:01 |Black List No |Use Type: Business|
