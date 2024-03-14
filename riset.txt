@@ -52,3 +52,6 @@ socks://141.94.238.246:37898#🇺🇸 New Jersey|Cherry Hill|08002|pool-173-61-9
 socks://38.91.107.229:32125#🇺🇸 New Jersey|New Providence|07974|static-71-187-172-11.nwrknj.fios.verizon.net| 71.187.172.11 |Time View 14/03/2024 23:37:20 |Black List No |Use Type: Business|
 socks://209.159.153.21:26372#🇺🇸 New Jersey|Egg Harbor City|08215|Comcast Cable Communications, LLC| 50.229.58.233 |Time View 14/03/2024 23:37:15 |Black List No |Use Type: Residential|
 socks://209.159.153.21:49818#🇺🇸 New Jersey|Newark|07105|static-71-251-219-122.nwrknj.fios.verizon.net| 71.251.219.122 |Time View 14/03/2024 23:36:57 |Black List No |Use Type: Residential|
+socks://138.201.21.228:23160#🇨🇦 Quebec|Beaux-Rivages--Lac-des-Ecorces--Val-Barrette|J0W|BLU Fibre Networks inc| 216.39.226.195 |Time View 15/03/2024 00:01:16 |Black List No |Use Type: Residential|
+socks://212.83.142.158:25771#🇨🇦 Ontario|Hamilton|L9B|cpeac202e11ca73-cmac202e11ca70.sdns.net.rogers.com| 99.236.119.224 |Time View 15/03/2024 00:01:09 |Black List Yes |Use Type: Residential|
+socks://138.201.21.232:11758#🇨🇦 British Columbia|Surrey|V4N|d64-180-198-97.bchsia.telus.net| 64.180.198.97 |Time View 15/03/2024 00:01:06 |Black List Yes |Use Type: Business|
