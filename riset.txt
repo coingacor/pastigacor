@@ -18,3 +18,8 @@ socks://212.83.138.245:51451#🇧🇪 Flanders|Zottegem|9620|65.207-247-81.adsl-
 socks://212.83.142.114:60645#🇧🇪 Flanders|Leuven|3000|124.100-128-109.adsl-dyn.isp.belgacom.be| 109.128.100.124 |Time View 13/03/2024 16:41:29 |Black List Yes |Use Type: Residential|
 socks://138.201.21.218:65325#🇧🇪 Brussels Capital|Brussels|1080|ip-193-121-72-44.dsl.scarlet.be| 193.121.72.44 |Time View 13/03/2024 16:41:26 |Black List No |Use Type: Residential|
 socks://212.83.142.149:50273#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 13/03/2024 16:41:00 |Black List Yes |Use Type: Business|
+socks://212.83.143.103:41635#🇦🇺 Victoria|Melbourne|3149|Telstra Internet| 120.157.201.219 |Time View 14/03/2024 09:07:43 |Black List Yes |Use Type: Business|
+socks://212.83.143.103:18596#🇦🇺 Victoria|Melbourne|3001|Telstra Internet| 203.45.143.172 |Time View 14/03/2024 09:07:24 |Black List No |Use Type: Business|
+socks://162.19.7.50:49189#🇦🇺 Victoria|Melbourne|3001|cpe-110-140-148-70.vb05.vic.asp.telstra.net| 110.140.148.70 |Time View 14/03/2024 09:07:13 |Black List Yes |Use Type: Business|
+socks://51.83.116.7:44377#🇦🇺 Victoria|Melbourne|3207|static-38-115.mel.0101.net.au| 27.116.38.115 |Time View 14/03/2024 09:07:06 |Black List No |Use Type: Business|
+socks://170.205.37.196:33644#🇦🇺 South Australia|Thebarton|5031|203-174-182-38.ade.static-ipl.aapt.com.au| 203.174.182.38 |Time View 14/03/2024 09:06:40 |Black List Yes |Use Type: Business|
