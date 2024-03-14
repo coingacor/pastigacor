@@ -36,3 +36,19 @@ socks://162.19.7.49:25305#🇺🇸 Illinois|Chicago|60630|99-140-98-112.lightspe
 socks://66.23.233.210:44888#🇺🇸 New Jersey|Elizabeth|07201|static-74-102-123-126.nwrknj.fios.verizon.net| 74.102.123.126 |Time View 14/03/2024 14:35:25 |Black List Yes |Use Type: Residential|
 socks://212.83.143.97:16642#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 165.228.221.16 |Time View 14/03/2024 14:42:06 |Black List No |Use Type: Business|
 socks://212.83.143.147:53935#🇦🇺 Victoria|Melbourne|3001|pjs2797834.lnk.telstra.net| 120.151.249.52 |Time View 14/03/2024 14:42:01 |Black List No |Use Type: Business|
+socks://212.83.143.103:18932#🇦🇺 Victoria|Melbourne|3149|Telstra Internet| 120.157.201.219 |Time View 14/03/2024 23:39:46 |Black List Yes |Use Type: Business|
+socks://212.83.138.245:61582#🇦🇺 Victoria|Melbourne|3001|cpe-138-130-20-49.qb50.nqld.asp.telstra.net| 138.130.20.49 |Time View 14/03/2024 23:39:41 |Black List Yes |Use Type: Business|
+socks://170.205.37.196:45708#🇦🇺 Victoria|Melbourne|3132|218-215-246-94.sta.wbroadband.net.au| 218.215.246.94 |Time View 14/03/2024 23:39:32 |Black List Yes |Use Type: Business|
+socks://88.99.138.21:6821#🇳🇿 Auckland|Auckland|1150|125-237-54-131-fibre.sparkbb.co.nz| 125.237.54.131 |Time View 14/03/2024 23:39:06 |Black List Yes |Use Type: Residential|
+socks://212.83.143.103:15694#🇳🇿 Canterbury|Christchurch|8025|219-88-73-19.adsl.xtra.co.nz| 219.88.73.19 |Time View 14/03/2024 23:39:02 |Black List No |Use Type: Residential|
+socks://212.83.143.147:22105#🇳🇿 Bay of Plenty|Tauranga|3175|112.213.46.199.static.netspeed.net.nz| 112.213.46.199 |Time View 14/03/2024 23:38:57 |Black List No |Use Type: Business|
+socks://170.205.37.196:41816#🇳🇿 Auckland|Auckland|1050|125-236-232-206.adsl.xtra.co.nz| 125.236.232.206 |Time View 14/03/2024 23:38:50 |Black List No |Use Type: Residential|
+socks://162.0.220.219:63505#🇺🇸 New Jersey|Blackwood|08012|c-174-57-169-114.hsd1.nj.comcast.net| 174.57.169.114 |Time View 14/03/2024 23:37:58 |Black List Yes |Use Type: Residential|
+socks://67.213.212.52:49253#🇺🇸 New Jersey|Lakewood|08701|ool-18bf6d4b.dyn.optonline.net| 24.191.109.75 |Time View 14/03/2024 23:37:52 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:61113#🇺🇸 New Jersey|Hackensack|07601|pool-108-53-111-17.nwrknj.fios.verizon.net| 108.53.111.17 |Time View 14/03/2024 23:37:33 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:49755#🇺🇸 New Jersey|West Orange|07052|pool-100-35-72-242.nwrknj.fios.verizon.net| 100.35.72.242 |Time View 14/03/2024 23:37:31 |Black List Yes |Use Type: Residential|
+socks://67.213.210.115:64405#🇺🇸 New Jersey|Irvington|07111|pool-108-53-51-14.nwrknj.fios.verizon.net| 108.53.51.14 |Time View 14/03/2024 23:37:27 |Black List Yes |Use Type: Residential|
+socks://141.94.238.246:37898#🇺🇸 New Jersey|Cherry Hill|08002|pool-173-61-96-101.cmdnnj.fios.verizon.net| 173.61.96.101 |Time View 14/03/2024 23:37:25 |Black List Yes |Use Type: Residential|
+socks://38.91.107.229:32125#🇺🇸 New Jersey|New Providence|07974|static-71-187-172-11.nwrknj.fios.verizon.net| 71.187.172.11 |Time View 14/03/2024 23:37:20 |Black List No |Use Type: Business|
+socks://209.159.153.21:26372#🇺🇸 New Jersey|Egg Harbor City|08215|Comcast Cable Communications, LLC| 50.229.58.233 |Time View 14/03/2024 23:37:15 |Black List No |Use Type: Residential|
+socks://209.159.153.21:49818#🇺🇸 New Jersey|Newark|07105|static-71-251-219-122.nwrknj.fios.verizon.net| 71.251.219.122 |Time View 14/03/2024 23:36:57 |Black List No |Use Type: Residential|
