@@ -19,3 +19,5 @@ socks://138.201.21.238:14284#🇬🇧 England|Luton|LU4|lutn-16-b2-v4wan-163894-
 socks://138.201.21.233:61477#🇬🇧 Wales|Swansea|SA1|cpc77587-cwma11-2-0-cust18.7-3.cable.virginm.net| 82.4.49.19 |Time View 15/03/2024 14:30:34 |Black List Yes |Use Type: Residential|
 socks://212.83.143.103:11616#🇬🇧 England|Dagenham|RM8|cpc86459-seve24-2-0-cust108.13-3.cable.virginm.net| 86.21.64.109 |Time View 15/03/2024 14:30:31 |Black List No |Use Type: Residential|
 socks://212.83.138.245:62199#🇬🇧 England|St Helens|WA10|cpc155059-know18-2-0-cust79.17-2.cable.virginm.net| 80.193.204.80 |Time View 15/03/2024 14:30:28 |Black List Yes |Use Type: Residential|
+socks://51.83.116.2:26469#🇳🇿 Auckland|Auckland|1010|ip-103-14-70-54.static.vorco.net| 103.14.70.54 |Time View 15/03/2024 18:45:34 |Black List No |Use Type: Business|
+socks://170.205.37.196:38660#🇳🇿 Auckland|Auckland|1050|125-236-232-206.adsl.xtra.co.nz| 125.236.232.206 |Time View 15/03/2024 18:45:31 |Black List No |Use Type: Residential|
