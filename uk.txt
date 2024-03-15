@@ -12,3 +12,5 @@ socks://138.201.21.228:56660#🇬🇧 England|Bath|BA2|cpc1-bath8-2-0-cust867.18
 socks://138.201.21.228:45889#🇬🇧 England|Westbury|BA13|trow-08-b2-v4wan-166475-cust114.vm26.cable.virginm.net| 94.173.74.115 |Time View 15/03/2024 08:42:56 |Black List Yes |Use Type: Residential|
 socks://138.201.21.218:53218#🇬🇧 England|Warrington|WA5|warr-08-b2-v4wan-167995-cust499.vm21.cable.virginm.net| 82.9.29.244 |Time View 15/03/2024 08:42:32 |Black List Yes |Use Type: Residential|
 socks://212.83.143.103:45138#🇬🇧 England|Dagenham|RM8|cpc86459-seve24-2-0-cust108.13-3.cable.virginm.net| 86.21.64.109 |Time View 15/03/2024 08:42:23 |Black List No |Use Type: Residential|
+socks://162.19.7.61:10633#🇬🇧 Northern Ireland|Belfast|BT7|EE Limited| 91.110.205.88 |Time View 15/03/2024 09:42:37 |Black List Yes |Use Type: Business|
+socks://212.83.143.118:36089#🇬🇧 Northern Ireland|Newtownabbey|BT37|host217-39-35-136.range217-39.btcentralplus.com| 217.39.35.136 |Time View 15/03/2024 09:42:31 |Black List Yes |Use Type: Business|
