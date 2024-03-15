@@ -57,3 +57,5 @@ socks://212.83.142.158:25771#🇨🇦 Ontario|Hamilton|L9B|cpeac202e11ca73-cmac2
 socks://138.201.21.232:11758#🇨🇦 British Columbia|Surrey|V4N|d64-180-198-97.bchsia.telus.net| 64.180.198.97 |Time View 15/03/2024 00:01:06 |Black List Yes |Use Type: Business|
 socks://51.83.116.2:36182#🇳🇿 Auckland|Auckland|1010|ip-103-14-70-54.static.vorco.net| 103.14.70.54 |Time View 15/03/2024 13:09:35 |Black List No |Use Type: Business|
 socks://37.59.213.49:35120#🇳🇿 Auckland|Auckland|0627|220.host-49-50-215.euba.megatel.co.nz| 49.50.215.220 |Time View 15/03/2024 13:09:30 |Black List No |Use Type: Business|
+socks://212.83.138.192:30857#🇵🇱 Podlasie|Lyski|16-070|acev173.neoplus.adsl.tpnet.pl| 83.9.197.173 |Time View 15/03/2024 14:38:32 |Black List No |Use Type: Residential|
+socks://212.83.142.149:45343#🇵🇱 Łódź Voivodeship|Lodz|90-131|83.27.251.196.ipv4.supernova.orange.pl| 83.27.251.196 |Time View 15/03/2024 14:38:25 |Black List Yes |Use Type: Residential|
