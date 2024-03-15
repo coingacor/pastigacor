@@ -12,3 +12,4 @@ socks://66.29.129.52:40656#🇺🇸 Georgia|Conyers|30012|c-73-82-126-248.hsd1.g
 socks://66.23.233.210:30834#🇺🇸 Georgia|Atlanta|30341|50-248-253-86-static.hfc.comcastbusiness.net| 50.248.253.86 |Time View 15/03/2024 22:00:34 |Black List No |Use Type: Residential|
 socks://67.213.212.58:35480#🇺🇸 Georgia|Augusta|30907|c-73-190-248-57.hsd1.ga.comcast.net| 73.190.248.57 |Time View 15/03/2024 22:00:30 |Black List Yes |Use Type: Residential|
 socks://66.29.129.54:39743#🇺🇸 Georgia|Douglasville|30134|c-73-106-56-5.hsd1.ga.comcast.net| 73.106.56.5 |Time View 15/03/2024 21:59:58 |Black List Yes |Use Type: Residential|
+socks://212.83.143.118:46738#🇸🇬Unknown|Singapore|17|SingNet Pte Ltd| 58.185.228.46 |Time View 15/03/2024 23:47:41 |Black List No |Use Type: Business|
