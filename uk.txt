@@ -14,3 +14,8 @@ socks://138.201.21.218:53218#🇬🇧 England|Warrington|WA5|warr-08-b2-v4wan-16
 socks://212.83.143.103:45138#🇬🇧 England|Dagenham|RM8|cpc86459-seve24-2-0-cust108.13-3.cable.virginm.net| 86.21.64.109 |Time View 15/03/2024 08:42:23 |Black List No |Use Type: Residential|
 socks://162.19.7.61:10633#🇬🇧 Northern Ireland|Belfast|BT7|EE Limited| 91.110.205.88 |Time View 15/03/2024 09:42:37 |Black List Yes |Use Type: Business|
 socks://212.83.143.118:36089#🇬🇧 Northern Ireland|Newtownabbey|BT37|host217-39-35-136.range217-39.btcentralplus.com| 217.39.35.136 |Time View 15/03/2024 09:42:31 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:25292#🇬🇧 England|Halifax|HX2|hali-08-b2-v4wan-165876-cust768.vm3.cable.virginm.net| 82.33.19.1 |Time View 15/03/2024 14:30:43 |Black List Yes |Use Type: Residential|
+socks://138.201.21.238:14284#🇬🇧 England|Luton|LU4|lutn-16-b2-v4wan-163894-cust557.vm32.cable.virginm.net| 86.16.158.46 |Time View 15/03/2024 14:30:38 |Black List Yes |Use Type: Residential|
+socks://138.201.21.233:61477#🇬🇧 Wales|Swansea|SA1|cpc77587-cwma11-2-0-cust18.7-3.cable.virginm.net| 82.4.49.19 |Time View 15/03/2024 14:30:34 |Black List Yes |Use Type: Residential|
+socks://212.83.143.103:11616#🇬🇧 England|Dagenham|RM8|cpc86459-seve24-2-0-cust108.13-3.cable.virginm.net| 86.21.64.109 |Time View 15/03/2024 14:30:31 |Black List No |Use Type: Residential|
+socks://212.83.138.245:62199#🇬🇧 England|St Helens|WA10|cpc155059-know18-2-0-cust79.17-2.cable.virginm.net| 80.193.204.80 |Time View 15/03/2024 14:30:28 |Black List Yes |Use Type: Residential|
