@@ -26,3 +26,10 @@ socks://212.83.143.97:18674#🇪🇸 Catalonia|Terrassa|08224|212.red-83-45-2.dy
 socks://51.83.116.4:49096#🇪🇸 Madrid|Madrid|28029|79-117-3-180.digimobil.es| 79.117.3.180 |Time View 15/03/2024 23:41:07 |Black List Yes |Use Type: Business|
 socks://212.83.142.149:46132#🇪🇸 Murcia|Murcia|30100|static.139.194.213.82.ibercom.com| 82.213.194.139 |Time View 15/03/2024 23:41:04 |Black List Yes |Use Type: Business|
 socks://212.83.143.118:43333#🇪🇸 Basque Country|Leioa|48940|cm-81-9-132-202.telecable.es| 81.9.132.202 |Time View 15/03/2024 23:40:56 |Black List Yes |Use Type: Residential|
+socks://51.83.116.5:46717#🇬🇧 England|Greenwich|SE18|92.40.112.200.threembb.co.uk| 92.40.112.200 |Time View 15/03/2024 23:58:39 |Black List Yes |Use Type: Residential|
+socks://138.201.21.238:30916#🇬🇧 England|Bradford|BD3|80-44-155-147.dynamic.dsl.as9105.com| 80.44.155.147 |Time View 15/03/2024 23:58:24 |Black List Yes |Use Type: Residential|
+socks://212.83.143.118:38667#🇬🇧 England|Devizes|SN10|static-84-9-183-112.vodafonexdsl.co.uk| 84.9.183.112 |Time View 15/03/2024 23:58:19 |Black List No |Use Type: Residential|
+socks://212.83.138.186:64347#🇬🇧 England|Hemel Hempstead|HP1|cpc119496-heme14-2-0-cust2.9-1.cable.virginm.net| 82.12.238.3 |Time View 15/03/2024 23:58:13 |Black List Yes |Use Type: Residential|
+socks://138.201.21.233:11156#🇬🇧 England|Stoke-on-Trent|ST4|host-78-151-175-27.as13285.net| 78.151.175.27 |Time View 15/03/2024 23:57:50 |Black List Yes |Use Type: Residential|
+socks://212.83.142.149:64509#🇬🇧 England|Milton Keynes|MK10|33bfb7d0.skybroadband.com| 51.191.183.208 |Time View 15/03/2024 23:57:42 |Black List Yes |Use Type: Residential|
+socks://212.83.142.149:56554#🇬🇧 England|Ipswich|IP1|5adda284.bb.sky.com| 90.221.162.132 |Time View 15/03/2024 23:57:24 |Black List Yes |Use Type: Business|
