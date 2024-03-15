@@ -9,3 +9,6 @@ socks://138.201.21.232:23491#🇬🇧 England|Acton|W3|static-193-237-80-45.voda
 socks://51.83.116.4:27025#🇬🇧 England|Southwark|SE16|ftip004586425.acc3.sf.21cn-nte.bt.net| 217.41.185.21 |Time View 14/03/2024 23:31:48 |Black List No |Use Type: Business|
 socks://138.201.21.218:35987#🇬🇧 England|Manchester|M14|host-2-101-67-178.as13285.net| 2.101.67.178 |Time View 14/03/2024 23:31:27 |Black List Yes |Use Type: Business|
 socks://138.201.21.228:56660#🇬🇧 England|Bath|BA2|cpc1-bath8-2-0-cust867.18-1.cable.virginm.net| 86.8.35.100 |Time View 14/03/2024 23:31:22 |Black List Yes |Use Type: Residential|
+socks://138.201.21.228:45889#🇬🇧 England|Westbury|BA13|trow-08-b2-v4wan-166475-cust114.vm26.cable.virginm.net| 94.173.74.115 |Time View 15/03/2024 08:42:56 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:53218#🇬🇧 England|Warrington|WA5|warr-08-b2-v4wan-167995-cust499.vm21.cable.virginm.net| 82.9.29.244 |Time View 15/03/2024 08:42:32 |Black List Yes |Use Type: Residential|
+socks://212.83.143.103:45138#🇬🇧 England|Dagenham|RM8|cpc86459-seve24-2-0-cust108.13-3.cable.virginm.net| 86.21.64.109 |Time View 15/03/2024 08:42:23 |Black List No |Use Type: Residential|
