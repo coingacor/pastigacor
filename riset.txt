@@ -55,3 +55,5 @@ socks://209.159.153.21:49818#🇺🇸 New Jersey|Newark|07105|static-71-251-219-
 socks://138.201.21.228:23160#🇨🇦 Quebec|Beaux-Rivages--Lac-des-Ecorces--Val-Barrette|J0W|BLU Fibre Networks inc| 216.39.226.195 |Time View 15/03/2024 00:01:16 |Black List No |Use Type: Residential|
 socks://212.83.142.158:25771#🇨🇦 Ontario|Hamilton|L9B|cpeac202e11ca73-cmac202e11ca70.sdns.net.rogers.com| 99.236.119.224 |Time View 15/03/2024 00:01:09 |Black List Yes |Use Type: Residential|
 socks://138.201.21.232:11758#🇨🇦 British Columbia|Surrey|V4N|d64-180-198-97.bchsia.telus.net| 64.180.198.97 |Time View 15/03/2024 00:01:06 |Black List Yes |Use Type: Business|
+socks://51.83.116.2:36182#🇳🇿 Auckland|Auckland|1010|ip-103-14-70-54.static.vorco.net| 103.14.70.54 |Time View 15/03/2024 13:09:35 |Black List No |Use Type: Business|
+socks://37.59.213.49:35120#🇳🇿 Auckland|Auckland|0627|220.host-49-50-215.euba.megatel.co.nz| 49.50.215.220 |Time View 15/03/2024 13:09:30 |Black List No |Use Type: Business|
