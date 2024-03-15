@@ -22,3 +22,7 @@ socks://212.83.138.245:62199#🇬🇧 England|St Helens|WA10|cpc155059-know18-2-
 socks://51.83.116.2:26469#🇳🇿 Auckland|Auckland|1010|ip-103-14-70-54.static.vorco.net| 103.14.70.54 |Time View 15/03/2024 18:45:34 |Black List No |Use Type: Business|
 socks://170.205.37.196:38660#🇳🇿 Auckland|Auckland|1050|125-236-232-206.adsl.xtra.co.nz| 125.236.232.206 |Time View 15/03/2024 18:45:31 |Black List No |Use Type: Residential|
 socks://212.83.138.192:42232#🇮🇪 Leinster|Dublin|D11|Liberty Global B.V.| 109.255.19.27 |Time View 15/03/2024 23:33:18 |Black List Yes |Use Type: Business|
+socks://212.83.143.97:18674#🇪🇸 Catalonia|Terrassa|08224|212.red-83-45-2.dynamicip.rima-tde.net| 83.45.2.212 |Time View 15/03/2024 23:41:18 |Black List Yes |Use Type: Business|
+socks://51.83.116.4:49096#🇪🇸 Madrid|Madrid|28029|79-117-3-180.digimobil.es| 79.117.3.180 |Time View 15/03/2024 23:41:07 |Black List Yes |Use Type: Business|
+socks://212.83.142.149:46132#🇪🇸 Murcia|Murcia|30100|static.139.194.213.82.ibercom.com| 82.213.194.139 |Time View 15/03/2024 23:41:04 |Black List Yes |Use Type: Business|
+socks://212.83.143.118:43333#🇪🇸 Basque Country|Leioa|48940|cm-81-9-132-202.telecable.es| 81.9.132.202 |Time View 15/03/2024 23:40:56 |Black List Yes |Use Type: Residential|
