@@ -15,3 +15,10 @@ socks://66.29.128.244:38077#🇺🇸 Georgia|Lawrenceville|30046|75-150-8-217-At
 socks://212.83.138.245:33211#🇦🇺 Victoria|Melbourne|3001|cpe-138-130-20-49.qb50.nqld.asp.telstra.net| 138.130.20.49 |Time View 16/03/2024 12:30:12 |Black List Yes |Use Type: Business|
 socks://51.83.116.6:43910#🇦🇺 Victoria|Melbourne|3056|52.142.220.111.sta.wbroadband.net.au| 111.220.142.52 |Time View 16/03/2024 12:30:07 |Black List No |Use Type: Business|
 socks://212.83.143.60:57471#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 101.187.15.146 |Time View 16/03/2024 12:30:03 |Black List No |Use Type: Business|
+socks://66.29.128.244:45432#🇺🇸 Oklahoma|Guymon|73942|host-208-114-94-242.vyvebroadband.net| 208.114.94.242 |Time View 16/03/2024 14:19:39 |Black List No |Use Type: Residential|
+socks://37.221.193.221:13484#🇺🇸 Oklahoma|Altus|73521|24-117-109-190.cpe.sparklight.net| 24.117.109.190 |Time View 16/03/2024 14:19:33 |Black List Yes |Use Type: Residential|
+socks://66.29.128.241:39024#🇺🇸 Oklahoma|Guymon|73942|host-24-112-111-22.vyvebroadband.net| 24.112.111.22 |Time View 16/03/2024 14:19:29 |Black List No |Use Type: Residential|
+socks://67.213.210.168:43160#🇺🇸 Oklahoma|Bixby|74008|olp-209-150-243-159.olp.net| 209.150.243.159 |Time View 16/03/2024 14:19:19 |Black List No |Use Type: Residential|
+socks://37.59.213.49:14437#🇺🇸 Arizona|Phoenix|85042|ip68-109-140-86.ph.ph.cox.net| 68.109.140.86 |Time View 16/03/2024 14:18:51 |Black List Yes |Use Type: Business|
+socks://67.213.212.48:40339#🇺🇸 Arizona|Tucson|85719|Pavlov Media Inc| 153.33.13.109 |Time View 16/03/2024 14:18:19 |Black List Yes |Use Type: Business|
+socks://67.213.210.115:20911#🇺🇸 Arizona|Tucson|85710|wsip-72-210-2-253.ph.ph.cox.net| 72.210.2.253 |Time View 16/03/2024 14:18:16 |Black List No |Use Type: Business|
