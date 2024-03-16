@@ -37,3 +37,7 @@ socks://212.83.142.149:24740#🇮🇪 Leinster|Greystones|A63|Virgin Media Irela
 socks://212.83.142.100:32931#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 16/03/2024 10:26:07 |Black List Yes |Use Type: Business|
 socks://46.105.44.29:16158#🇳🇿 Southland|Invercargill|9810|125-239-128-253-fibre.sparkbb.co.nz| 125.239.128.253 |Time View 16/03/2024 10:25:26 |Black List Yes |Use Type: Residential|
 socks://138.201.21.238:34642#🇬🇧 England|Southwark|SE1P|02dc9d62.bb.sky.com| 2.220.157.98 |Time View 16/03/2024 10:24:34 |Black List Yes |Use Type: Residential|
+socks://212.83.142.131:37520#🇬🇧 England|Rugeley|WS15|host217-42-140-189.range217-42.btcentralplus.com| 217.42.140.189 |Time View 16/03/2024 22:05:58 |Black List Yes |Use Type: Business|
+socks://212.83.143.118:48356#🇬🇧 England|Halifax|HX2|host86-157-120-43.range86-157.btcentralplus.com| 86.157.120.43 |Time View 16/03/2024 22:05:55 |Black List Yes |Use Type: Business|
+socks://212.83.143.97:14951#🇬🇧 England|Mansfield|NG18|host109-157-60-237.range109-157.btcentralplus.com| 109.157.60.237 |Time View 16/03/2024 22:05:52 |Black List Yes |Use Type: Business|
+socks://212.83.143.118:32687#🇬🇧 Northern Ireland|Newtownabbey|BT37|host217-39-35-136.range217-39.btcentralplus.com| 217.39.35.136 |Time View 16/03/2024 22:05:50 |Black List Yes |Use Type: Business|
