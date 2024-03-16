@@ -1,42 +1,15 @@
-socks://67.213.212.52:20115#🇺🇸 Georgia|Savannah|31407|50-244-87-38-static.hfc.comcastbusiness.net| 50.244.87.38 |Time View 16/03/2024 13:09:35 |Black List No |Use Type: Residential|
-socks://38.91.107.229:50822#🇺🇸 Georgia|Macon|31294|Clearwave Communications| 207.5.58.95 |Time View 16/03/2024 13:09:31 |Black List No |Use Type: Residential|
-socks://67.213.212.51:17541#🇺🇸 Georgia|Swainsboro|30401|Northland Cable Television Inc.| 38.165.176.79 |Time View 16/03/2024 13:09:23 |Black List No |Use Type: Residential|
-socks://66.29.128.246:25895#🇺🇸 Georgia|Statesboro|30458|host-64-234-97-41.vyvebroadband.net| 64.234.97.41 |Time View 16/03/2024 13:09:21 |Black List Yes |Use Type: Residential|
-socks://67.213.212.54:43644#🇺🇸 Georgia|Waycross|31503|Vyve Broadband| 38.178.84.81 |Time View 16/03/2024 13:09:14 |Black List No |Use Type: Residential|
-socks://67.213.212.54:23215#🇺🇸 Georgia|Waycross|31503|Vyve Broadband| 38.178.71.232 |Time View 16/03/2024 13:09:08 |Black List No |Use Type: Residential|
-socks://66.29.128.241:60578#🇺🇸 Georgia|Statesboro|30458|host-69-59-102-226.vyvebroadband.net| 69.59.102.226 |Time View 16/03/2024 13:09:06 |Black List Yes |Use Type: Residential|
-socks://66.29.128.241:47768#🇺🇸 Georgia|Douglas|31535|Vyve Broadband| 38.178.22.122 |Time View 16/03/2024 13:09:02 |Black List No |Use Type: Residential|
-socks://66.29.128.241:48103#🇺🇸 Georgia|Marietta|30066|c-24-30-56-240.hsd1.ga.comcast.net| 24.30.56.240 |Time View 16/03/2024 13:08:56 |Black List Yes |Use Type: Residential|
-socks://51.254.149.59:34871#🇺🇸 Georgia|Peachtree City|30269|c-73-237-196-131.hsd1.ga.comcast.net| 73.237.196.131 |Time View 16/03/2024 13:08:53 |Black List Yes |Use Type: Residential|
-socks://66.29.129.56:62899#🇺🇸 Georgia|Washington|30673|static-173-233-189-231.nu-z.net| 173.233.189.231 |Time View 16/03/2024 13:08:42 |Black List No |Use Type: Business|
-socks://66.29.128.244:50927#🇺🇸 Georgia|Statesboro|30458|host-24-54-111-99.vyvebroadband.net| 24.54.111.99 |Time View 16/03/2024 13:08:37 |Black List Yes |Use Type: Residential|
-socks://67.213.212.51:25250#🇺🇸 Georgia|Waycross|31503|Vyve Broadband| 38.178.68.2 |Time View 16/03/2024 13:08:35 |Black List No |Use Type: Residential|
-socks://66.29.128.244:38077#🇺🇸 Georgia|Lawrenceville|30046|75-150-8-217-Atlanta.hfc.comcastbusiness.net| 75.150.8.217 |Time View 16/03/2024 13:08:30 |Black List No |Use Type: Residential|
-socks://212.83.138.245:33211#🇦🇺 Victoria|Melbourne|3001|cpe-138-130-20-49.qb50.nqld.asp.telstra.net| 138.130.20.49 |Time View 16/03/2024 12:30:12 |Black List Yes |Use Type: Business|
-socks://51.83.116.6:43910#🇦🇺 Victoria|Melbourne|3056|52.142.220.111.sta.wbroadband.net.au| 111.220.142.52 |Time View 16/03/2024 12:30:07 |Black List No |Use Type: Business|
-socks://212.83.143.60:57471#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 101.187.15.146 |Time View 16/03/2024 12:30:03 |Black List No |Use Type: Business|
-socks://66.29.128.244:45432#🇺🇸 Oklahoma|Guymon|73942|host-208-114-94-242.vyvebroadband.net| 208.114.94.242 |Time View 16/03/2024 14:19:39 |Black List No |Use Type: Residential|
-socks://37.221.193.221:13484#🇺🇸 Oklahoma|Altus|73521|24-117-109-190.cpe.sparklight.net| 24.117.109.190 |Time View 16/03/2024 14:19:33 |Black List Yes |Use Type: Residential|
-socks://66.29.128.241:39024#🇺🇸 Oklahoma|Guymon|73942|host-24-112-111-22.vyvebroadband.net| 24.112.111.22 |Time View 16/03/2024 14:19:29 |Black List No |Use Type: Residential|
-socks://67.213.210.168:43160#🇺🇸 Oklahoma|Bixby|74008|olp-209-150-243-159.olp.net| 209.150.243.159 |Time View 16/03/2024 14:19:19 |Black List No |Use Type: Residential|
-socks://37.59.213.49:14437#🇺🇸 Arizona|Phoenix|85042|ip68-109-140-86.ph.ph.cox.net| 68.109.140.86 |Time View 16/03/2024 14:18:51 |Black List Yes |Use Type: Business|
-socks://67.213.212.48:40339#🇺🇸 Arizona|Tucson|85719|Pavlov Media Inc| 153.33.13.109 |Time View 16/03/2024 14:18:19 |Black List Yes |Use Type: Business|
-socks://67.213.210.115:20911#🇺🇸 Arizona|Tucson|85710|wsip-72-210-2-253.ph.ph.cox.net| 72.210.2.253 |Time View 16/03/2024 14:18:16 |Black List No |Use Type: Business|
-socks://212.83.143.97:35203#🇸🇪 Stockholm County|Stockholm|141 82|host-95-205-52-172.mobileonline.telia.com| 95.205.52.172 |Time View 16/03/2024 14:42:28 |Black List Yes |Use Type: Cellular|
-socks://185.244.36.245:33467#🇸🇪 Uppsala County|Uppsala|753 18|217-210-21-226-no2663.tbcn.telia.com| 217.210.21.226 |Time View 16/03/2024 14:42:22 |Black List Yes |Use Type: Business|
-socks://212.83.143.49:57634#🇸🇪 Stockholm County|Stockholm|116 38|212-107-136-33.customers.ownit.se| 212.107.136.33 |Time View 16/03/2024 14:42:19 |Black List No |Use Type: Residential|
-socks://212.83.138.186:41388#🇸🇪 Stockholm County|Stockholm|127 40|c83-252-240-68.bredband.tele2.se| 83.252.240.68 |Time View 16/03/2024 14:42:16 |Black List No |Use Type: Residential|
-socks://51.83.116.4:57348#🇵🇱 Mazovia|Warsaw|00-002|apf245.neoplus.adsl.tpnet.pl| 83.26.139.245 |Time View 16/03/2024 14:42:05 |Black List Yes |Use Type: Residential|
-socks://212.83.142.100:42900#🇵🇱 Lesser Poland|Wierzchowisko|32-340|31.42.3.169.alfanet24.pl| 31.42.3.169 |Time View 16/03/2024 14:41:54 |Black List No |Use Type: Business|
-socks://51.83.116.2:37438#🇵🇱 Mazovia|Warsaw|00-139|static-78-11-96-141.warszawa.dialog.net.pl| 78.11.96.141 |Time View 16/03/2024 14:41:50 |Black List No |Use Type: Business|
-socks://176.126.84.126:35432#🇵🇱 Mazovia|Majdan|05-462|pdd238.internetdsl.tpnet.pl| 46.171.81.238 |Time View 16/03/2024 14:41:46 |Black List Yes |Use Type: Residential|
-socks://195.154.43.184:48699#🇦🇹 Unknown|Unknown|Unknown|k000866g.ipax.at| 93.189.27.197 |Time View 16/03/2024 14:41:32 |Black List No |Use Type: Business|
-socks://212.83.143.118:20996#🇦🇹 Vienna|Vienna|1010|A1 Telekom Austria AG| 88.116.161.186 |Time View 16/03/2024 14:41:24 |Black List No |Use Type: Business|
-socks://138.201.21.233:24127#🇦🇹 Vienna|Vienna|1190|194-166-134-92.hdsl.highway.telekom.at| 194.166.134.92 |Time View 16/03/2024 14:41:21 |Black List Yes |Use Type: Residential|
-socks://51.68.244.19:24109#🇨🇦 British Columbia|Maple Ridge|V2X|d209-121-26-240.bchsia.telus.net| 209.121.26.240 |Time View 16/03/2024 15:09:17 |Black List Yes |Use Type: Residential|
-socks://138.201.21.232:60919#🇨🇦 British Columbia|Vancouver|V6N|d206-116-156-71.bchsia.telus.net| 206.116.156.71 |Time View 16/03/2024 15:09:10 |Black List No |Use Type: Residential|
-socks://212.83.143.60:60573#🇨🇦 Alberta|Calgary|T2B|s204-191-108-32.ab.hsia.telus.net| 204.191.108.32 |Time View 16/03/2024 15:08:59 |Black List No |Use Type: Business|
-socks://212.83.138.186:63570#🇨🇦 Ontario|Toronto|M5J|TELUS Communications Inc.| 173.182.71.50 |Time View 16/03/2024 17:13:08 |Black List No |Use Type: Business|
-socks://212.83.142.114:41456#🇨🇦 Ontario|Toronto|M6M|unallocated-static.rogers.com| 72.139.119.210 |Time View 16/03/2024 17:12:59 |Black List No |Use Type: Business|
-socks://51.83.116.7:50605#🇨🇦 Ontario|Toronto|M6M|CIK Telecom INC| 209.141.185.141 |Time View 16/03/2024 17:12:51 |Black List No |Use Type: Residential|
-socks://51.83.116.2:33235#🇨🇦 Ontario|Toronto|M5H|Rogers Communications Canada Inc| 173.239.180.6 |Time View 16/03/2024 17:12:45 |Black List No |Use Type: Business|
+socks://67.213.212.57:38518#🇺🇸 Florida|Pompano Beach|33064|c-73-204-48-17.hsd1.fl.comcast.net| 73.204.48.17 |Time View 17/03/2024 04:37:38 |Black List Yes |Use Type: Residential|
+socks://23.105.170.32:24682#🇺🇸 Illinois|Chicago|60625|c-67-163-51-14.hsd1.il.comcast.net| 67.163.51.14 |Time View 17/03/2024 04:37:17 |Black List Yes |Use Type: Residential|
+socks://23.105.170.34:57679#🇺🇸 Michigan|Richland|49083|c-68-36-204-90.hsd1.mi.comcast.net| 68.36.204.90 |Time View 17/03/2024 04:37:14 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:24955#🇺🇸 Florida|Hobe Sound|33455|c-76-108-92-223.hsd1.fl.comcast.net| 76.108.92.223 |Time View 17/03/2024 04:37:09 |Black List Yes |Use Type: Residential|
+socks://162.19.7.57:15557#🇺🇸 Connecticut|Oxford|06478|c-73-17-142-227.hsd1.ct.comcast.net| 73.17.142.227 |Time View 17/03/2024 04:37:07 |Black List Yes |Use Type: Residential|
+socks://67.213.212.57:54529#🇺🇸 Pennsylvania|Philadelphia|19146|c-73-188-60-250.hsd1.pa.comcast.net| 73.188.60.250 |Time View 17/03/2024 04:36:56 |Black List Yes |Use Type: Residential|
+socks://162.19.7.53:18569#🇺🇸 Maryland|Gaithersburg|20878|c-73-39-150-90.hsd1.md.comcast.net| 73.39.150.90 |Time View 17/03/2024 04:36:52 |Black List Yes |Use Type: Residential|
+socks://46.105.44.29:63267#🇺🇸 California|Antelope|95843|c-67-187-210-57.hsd1.ca.comcast.net| 67.187.210.57 |Time View 17/03/2024 04:36:45 |Black List Yes |Use Type: Residential|
+socks://66.29.129.52:10196#🇺🇸 Georgia|Conyers|30012|c-73-82-126-248.hsd1.ga.comcast.net| 73.82.126.248 |Time View 17/03/2024 04:36:27 |Black List Yes |Use Type: Residential|
+socks://23.105.170.30:16120#🇺🇸 Georgia|Marietta|30067|50-199-113-217-static.hfc.comcastbusiness.net| 50.199.113.217 |Time View 17/03/2024 04:36:13 |Black List No |Use Type: Residential|
+socks://67.213.212.55:12121#🇺🇸 Georgia|Powder Springs|30127|50-243-201-17-static.hfc.comcastbusiness.net| 50.243.201.17 |Time View 17/03/2024 04:36:11 |Black List No |Use Type: Residential|
+socks://174.138.176.77:13463#🇺🇸 Georgia|Hawkinsville|31036|Hargray Communications Group, Inc.| 192.222.24.211 |Time View 17/03/2024 04:36:06 |Black List No |Use Type: Business|
+socks://67.213.210.118:35021#🇺🇸 Georgia|Macon|31294|Clearwave Communications| 207.5.58.161 |Time View 17/03/2024 04:36:03 |Black List No |Use Type: Residential|
+socks://67.213.212.48:62460#🇺🇸 Georgia|Atlanta|30319|96-71-86-254-static.hfc.comcastbusiness.net| 96.71.86.254 |Time View 17/03/2024 04:35:56 |Black List No |Use Type: Residential|
+socks://37.59.213.49:43474#🇺🇸 Georgia|Fairburn|30213|c-73-43-130-237.hsd1.ga.comcast.net| 73.43.130.237 |Time View 17/03/2024 04:35:50 |Black List Yes |Use Type: Residential|
