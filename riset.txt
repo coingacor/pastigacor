@@ -1,18 +1,17 @@
-socks://66.29.128.246:63987#🇺🇸 New Jersey|Jersey City|07306|static-71-172-124-202.nwrknj.fios.verizon.net| 71.172.124.202 |Time View 15/03/2024 22:03:53 |Black List Yes |Use Type: Residential|
-socks://209.159.153.21:52439#🇺🇸 New Jersey|Newark|07105|static-71-251-219-122.nwrknj.fios.verizon.net| 71.251.219.122 |Time View 15/03/2024 22:03:38 |Black List No |Use Type: Residential|
-socks://209.159.153.20:59796#🇺🇸 New Jersey|Sicklerville|08081|c-73-160-158-182.hsd1.nj.comcast.net| 73.160.158.182 |Time View 15/03/2024 22:03:14 |Black List Yes |Use Type: Residential|
-socks://67.213.210.62:18617#🇺🇸 New Jersey|Matawan|07747|pool-100-8-132-139.nwrknj.fios.verizon.net| 100.8.132.139 |Time View 15/03/2024 22:03:09 |Black List Yes |Use Type: Residential|
-socks://38.91.107.2:13155#🇺🇸 New Jersey|Jersey City|07302|Honest Networks, LLC| 154.27.26.113 |Time View 15/03/2024 22:03:04 |Black List No |Use Type: Business|
-socks://66.29.128.246:13329#🇺🇸 New Jersey|Mount Laurel|08054|c-69-142-88-207.hsd1.nj.comcast.net| 69.142.88.207 |Time View 15/03/2024 22:02:50 |Black List Yes |Use Type: Residential|
-socks://209.159.153.21:58351#🇺🇸 New Jersey|Long Branch|07740|static-71-187-8-26.nwrknj.fios.verizon.net| 71.187.8.26 |Time View 15/03/2024 22:02:20 |Black List No |Use Type: Residential|
-socks://37.221.193.221:30864#🇺🇸 New Jersey|Hackensack|07601|static-72-76-250-128.nwrknj.fios.verizon.net| 72.76.250.128 |Time View 15/03/2024 22:02:12 |Black List Yes |Use Type: Business|
-socks://67.213.212.48:24206#🇺🇸 Georgia|Avondale Estates|30002|c-24-99-165-106.hsd1.ga.comcast.net| 24.99.165.106 |Time View 15/03/2024 22:01:54 |Black List Yes |Use Type: Residential|
-socks://162.19.7.47:15195#🇺🇸 Georgia|Atlanta|30349|c-73-184-223-168.hsd1.ga.comcast.net| 73.184.223.168 |Time View 15/03/2024 22:01:39 |Black List Yes |Use Type: Residential|
-socks://66.29.129.52:40656#🇺🇸 Georgia|Conyers|30012|c-73-82-126-248.hsd1.ga.comcast.net| 73.82.126.248 |Time View 15/03/2024 22:01:22 |Black List Yes |Use Type: Residential|
-socks://66.23.233.210:30834#🇺🇸 Georgia|Atlanta|30341|50-248-253-86-static.hfc.comcastbusiness.net| 50.248.253.86 |Time View 15/03/2024 22:00:34 |Black List No |Use Type: Residential|
-socks://67.213.212.58:35480#🇺🇸 Georgia|Augusta|30907|c-73-190-248-57.hsd1.ga.comcast.net| 73.190.248.57 |Time View 15/03/2024 22:00:30 |Black List Yes |Use Type: Residential|
-socks://66.29.129.54:39743#🇺🇸 Georgia|Douglasville|30134|c-73-106-56-5.hsd1.ga.comcast.net| 73.106.56.5 |Time View 15/03/2024 21:59:58 |Black List Yes |Use Type: Residential|
-socks://212.83.143.118:46738#🇸🇬 Unknown|Singapore|17|SingNet Pte Ltd| 58.185.228.46 |Time View 15/03/2024 23:47:41 |Black List No |Use Type: Business|
+socks://67.213.212.52:20115#🇺🇸 Georgia|Savannah|31407|50-244-87-38-static.hfc.comcastbusiness.net| 50.244.87.38 |Time View 16/03/2024 13:09:35 |Black List No |Use Type: Residential|
+socks://38.91.107.229:50822#🇺🇸 Georgia|Macon|31294|Clearwave Communications| 207.5.58.95 |Time View 16/03/2024 13:09:31 |Black List No |Use Type: Residential|
+socks://67.213.212.51:17541#🇺🇸 Georgia|Swainsboro|30401|Northland Cable Television Inc.| 38.165.176.79 |Time View 16/03/2024 13:09:23 |Black List No |Use Type: Residential|
+socks://66.29.128.246:25895#🇺🇸 Georgia|Statesboro|30458|host-64-234-97-41.vyvebroadband.net| 64.234.97.41 |Time View 16/03/2024 13:09:21 |Black List Yes |Use Type: Residential|
+socks://67.213.212.54:43644#🇺🇸 Georgia|Waycross|31503|Vyve Broadband| 38.178.84.81 |Time View 16/03/2024 13:09:14 |Black List No |Use Type: Residential|
+socks://67.213.212.54:23215#🇺🇸 Georgia|Waycross|31503|Vyve Broadband| 38.178.71.232 |Time View 16/03/2024 13:09:08 |Black List No |Use Type: Residential|
+socks://66.29.128.241:60578#🇺🇸 Georgia|Statesboro|30458|host-69-59-102-226.vyvebroadband.net| 69.59.102.226 |Time View 16/03/2024 13:09:06 |Black List Yes |Use Type: Residential|
+socks://66.29.128.241:47768#🇺🇸 Georgia|Douglas|31535|Vyve Broadband| 38.178.22.122 |Time View 16/03/2024 13:09:02 |Black List No |Use Type: Residential|
+socks://66.29.128.241:48103#🇺🇸 Georgia|Marietta|30066|c-24-30-56-240.hsd1.ga.comcast.net| 24.30.56.240 |Time View 16/03/2024 13:08:56 |Black List Yes |Use Type: Residential|
+socks://51.254.149.59:34871#🇺🇸 Georgia|Peachtree City|30269|c-73-237-196-131.hsd1.ga.comcast.net| 73.237.196.131 |Time View 16/03/2024 13:08:53 |Black List Yes |Use Type: Residential|
+socks://66.29.129.56:62899#🇺🇸 Georgia|Washington|30673|static-173-233-189-231.nu-z.net| 173.233.189.231 |Time View 16/03/2024 13:08:42 |Black List No |Use Type: Business|
+socks://66.29.128.244:50927#🇺🇸 Georgia|Statesboro|30458|host-24-54-111-99.vyvebroadband.net| 24.54.111.99 |Time View 16/03/2024 13:08:37 |Black List Yes |Use Type: Residential|
+socks://67.213.212.51:25250#🇺🇸 Georgia|Waycross|31503|Vyve Broadband| 38.178.68.2 |Time View 16/03/2024 13:08:35 |Black List No |Use Type: Residential|
+socks://66.29.128.244:38077#🇺🇸 Georgia|Lawrenceville|30046|75-150-8-217-Atlanta.hfc.comcastbusiness.net| 75.150.8.217 |Time View 16/03/2024 13:08:30 |Black List No |Use Type: Residential|
 socks://212.83.138.245:33211#🇦🇺 Victoria|Melbourne|3001|cpe-138-130-20-49.qb50.nqld.asp.telstra.net| 138.130.20.49 |Time View 16/03/2024 12:30:12 |Black List Yes |Use Type: Business|
 socks://51.83.116.6:43910#🇦🇺 Victoria|Melbourne|3056|52.142.220.111.sta.wbroadband.net.au| 111.220.142.52 |Time View 16/03/2024 12:30:07 |Black List No |Use Type: Business|
 socks://212.83.143.60:57471#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 101.187.15.146 |Time View 16/03/2024 12:30:03 |Black List No |Use Type: Business|
