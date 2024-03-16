@@ -22,3 +22,14 @@ socks://67.213.210.168:43160#🇺🇸 Oklahoma|Bixby|74008|olp-209-150-243-159.o
 socks://37.59.213.49:14437#🇺🇸 Arizona|Phoenix|85042|ip68-109-140-86.ph.ph.cox.net| 68.109.140.86 |Time View 16/03/2024 14:18:51 |Black List Yes |Use Type: Business|
 socks://67.213.212.48:40339#🇺🇸 Arizona|Tucson|85719|Pavlov Media Inc| 153.33.13.109 |Time View 16/03/2024 14:18:19 |Black List Yes |Use Type: Business|
 socks://67.213.210.115:20911#🇺🇸 Arizona|Tucson|85710|wsip-72-210-2-253.ph.ph.cox.net| 72.210.2.253 |Time View 16/03/2024 14:18:16 |Black List No |Use Type: Business|
+socks://212.83.143.97:35203#🇸🇪 Stockholm County|Stockholm|141 82|host-95-205-52-172.mobileonline.telia.com| 95.205.52.172 |Time View 16/03/2024 14:42:28 |Black List Yes |Use Type: Cellular|
+socks://185.244.36.245:33467#🇸🇪 Uppsala County|Uppsala|753 18|217-210-21-226-no2663.tbcn.telia.com| 217.210.21.226 |Time View 16/03/2024 14:42:22 |Black List Yes |Use Type: Business|
+socks://212.83.143.49:57634#🇸🇪 Stockholm County|Stockholm|116 38|212-107-136-33.customers.ownit.se| 212.107.136.33 |Time View 16/03/2024 14:42:19 |Black List No |Use Type: Residential|
+socks://212.83.138.186:41388#🇸🇪 Stockholm County|Stockholm|127 40|c83-252-240-68.bredband.tele2.se| 83.252.240.68 |Time View 16/03/2024 14:42:16 |Black List No |Use Type: Residential|
+socks://51.83.116.4:57348#🇵🇱 Mazovia|Warsaw|00-002|apf245.neoplus.adsl.tpnet.pl| 83.26.139.245 |Time View 16/03/2024 14:42:05 |Black List Yes |Use Type: Residential|
+socks://212.83.142.100:42900#🇵🇱 Lesser Poland|Wierzchowisko|32-340|31.42.3.169.alfanet24.pl| 31.42.3.169 |Time View 16/03/2024 14:41:54 |Black List No |Use Type: Business|
+socks://51.83.116.2:37438#🇵🇱 Mazovia|Warsaw|00-139|static-78-11-96-141.warszawa.dialog.net.pl| 78.11.96.141 |Time View 16/03/2024 14:41:50 |Black List No |Use Type: Business|
+socks://176.126.84.126:35432#🇵🇱 Mazovia|Majdan|05-462|pdd238.internetdsl.tpnet.pl| 46.171.81.238 |Time View 16/03/2024 14:41:46 |Black List Yes |Use Type: Residential|
+socks://195.154.43.184:48699#🇦🇹 Unknown|Unknown|Unknown|k000866g.ipax.at| 93.189.27.197 |Time View 16/03/2024 14:41:32 |Black List No |Use Type: Business|
+socks://212.83.143.118:20996#🇦🇹 Vienna|Vienna|1010|A1 Telekom Austria AG| 88.116.161.186 |Time View 16/03/2024 14:41:24 |Black List No |Use Type: Business|
+socks://138.201.21.233:24127#🇦🇹 Vienna|Vienna|1190|194-166-134-92.hdsl.highway.telekom.at| 194.166.134.92 |Time View 16/03/2024 14:41:21 |Black List Yes |Use Type: Residential|
