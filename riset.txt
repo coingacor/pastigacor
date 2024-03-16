@@ -33,3 +33,6 @@ socks://176.126.84.126:35432#🇵🇱 Mazovia|Majdan|05-462|pdd238.internetdsl.t
 socks://195.154.43.184:48699#🇦🇹 Unknown|Unknown|Unknown|k000866g.ipax.at| 93.189.27.197 |Time View 16/03/2024 14:41:32 |Black List No |Use Type: Business|
 socks://212.83.143.118:20996#🇦🇹 Vienna|Vienna|1010|A1 Telekom Austria AG| 88.116.161.186 |Time View 16/03/2024 14:41:24 |Black List No |Use Type: Business|
 socks://138.201.21.233:24127#🇦🇹 Vienna|Vienna|1190|194-166-134-92.hdsl.highway.telekom.at| 194.166.134.92 |Time View 16/03/2024 14:41:21 |Black List Yes |Use Type: Residential|
+socks://51.68.244.19:24109#🇨🇦 British Columbia|Maple Ridge|V2X|d209-121-26-240.bchsia.telus.net| 209.121.26.240 |Time View 16/03/2024 15:09:17 |Black List Yes |Use Type: Residential|
+socks://138.201.21.232:60919#🇨🇦 British Columbia|Vancouver|V6N|d206-116-156-71.bchsia.telus.net| 206.116.156.71 |Time View 16/03/2024 15:09:10 |Black List No |Use Type: Residential|
+socks://212.83.143.60:60573#🇨🇦 Alberta|Calgary|T2B|s204-191-108-32.ab.hsia.telus.net| 204.191.108.32 |Time View 16/03/2024 15:08:59 |Black List No |Use Type: Business|
