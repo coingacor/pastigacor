@@ -13,9 +13,9 @@ socks://174.138.176.77:13463#🇺🇸 Georgia|Hawkinsville|31036|Hargray Communi
 socks://67.213.210.118:35021#🇺🇸 Georgia|Macon|31294|Clearwave Communications| 207.5.58.161 |Time View 17/03/2024 04:36:03 |Black List No |Use Type: Residential|
 socks://67.213.212.48:62460#🇺🇸 Georgia|Atlanta|30319|96-71-86-254-static.hfc.comcastbusiness.net| 96.71.86.254 |Time View 17/03/2024 04:35:56 |Black List No |Use Type: Residential|
 socks://37.59.213.49:43474#🇺🇸 Georgia|Fairburn|30213|c-73-43-130-237.hsd1.ga.comcast.net| 73.43.130.237 |Time View 17/03/2024 04:35:50 |Black List Yes |Use Type: Residential|
-socks://212.83.143.60:51943#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 101.187.15.146 |Time View 17/03/2024 05:27:49 |Black List No |Use Type: Business|
-socks://138.201.21.228:37498#🇦🇺 New South Wales|Sydney|2141|Telstra Internet| 123.209.112.16 |Time View 17/03/2024 05:27:36 |Black List Yes |Use Type: Business|
-socks://212.83.143.60:28984#🇦🇺 Queensland|Brisbane|4000|paw2697105.lnk.telstra.net| 101.187.147.137 |Time View 17/03/2024 05:27:27 |Black List No |Use Type: Business|
+socks://212.83.142.100:40738#🇦🇺 Victoria|Melbourne|3001|boo3129727.lnk.telstra.net| 101.187.30.152 |Time View 17/03/2024 14:19:59 |Black List No |Use Type: Business|
+socks://212.83.142.131:45608#🇦🇺 New South Wales|Sydney|2011|countrystatedevelopment.cust.1145.bdr01.syd01.nsw.VOCUS.net.au| 49.255.225.142 |Time View 17/03/2024 14:19:46 |Black List No |Use Type: Business|
+socks://89.58.45.94:34295#🇦🇺 New South Wales|Sydney|2000|Telstra Corporation Limited| 60.231.34.210 |Time View 17/03/2024 14:19:22 |Black List No |Use Type: Business|
 socks://195.154.43.86:23621#🇧🇪 Flanders|Destelbergen|9070|dd5773f34.access.telenet.be| 213.119.63.52 |Time View 17/03/2024 06:09:30 |Black List Yes |Use Type: Business|
 socks://212.83.138.186:31895#🇧🇪 Brussels Capital|Brussels|1000|90.182-129-109.adsl-dyn.isp.belgacom.be| 109.129.182.90 |Time View 17/03/2024 06:09:08 |Black List Yes |Use Type: Residential|
 socks://212.83.138.192:28541#🇷🇴 Arges|Piteşti|110107|static-86-123-53-17.rdsnet.ro| 86.123.53.17 |Time View 17/03/2024 09:55:21 |Black List No |Use Type: Business|t
