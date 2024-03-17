@@ -24,3 +24,5 @@ socks://162.19.7.59:40839#🇺🇸 Michigan|New Baltimore|48047|c-73-191-165-51.
 socks://162.19.7.50:28568#🇺🇸 West Virginia|Wheeling|26003|c-71-206-252-226.hsd1.pa.comcast.net| 71.206.252.226 |Time View 17/03/2024 10:04:11 |Black List Yes |Use Type: Residential|
 socks://162.0.220.220:56932#🇺🇸 Michigan|Macomb|48044|c-98-209-33-58.hsd1.mi.comcast.net| 98.209.33.58 |Time View 17/03/2024 18:36:25 |Black List Yes |Use Type: Residential|
 socks://23.105.170.34:41268#🇺🇸 Michigan|Richland|49083|c-68-36-204-90.hsd1.mi.comcast.net| 68.36.204.90 |Time View 17/03/2024 18:36:21 |Black List Yes |Use Type: Residential|
+socks://162.19.7.60:49533#🇮🇪 Ulster|Monaghan|H18|86-46-27-240-dynamic.b-ras1.bdt.dublin.eircom.net| 86.46.27.240 |Time View 17/03/2024 20:39:50 |Black List Yes |Use Type: Residential|
+socks://212.83.142.100:48823#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 17/03/2024 20:39:46 |Black List Yes |Use Type: Business|
