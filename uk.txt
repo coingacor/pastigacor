@@ -15,3 +15,5 @@ socks://138.201.21.238:38150#🇬🇧 England|Liverpool|L4|host-78-144-100-2.as1
 socks://212.83.142.149:15058#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 17/03/2024 07:15:14 |Black List Yes |Use Type: Business|
 socks://212.83.142.100:46003#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 17/03/2024 07:15:06 |Black List Yes |Use Type: Business|
 socks://212.83.138.192:59069#🇮🇪 Leinster|Dublin|D11|Liberty Global B.V.| 109.255.19.27 |Time View 17/03/2024 07:15:03 |Black List Yes |Use Type: Business|
+socks://165.22.98.229:37249#🇮🇪 Leinster|Dublin|D07|BT Communications Ireland Limited| 194.125.59.53 |Time View 17/03/2024 14:30:06 |Black List No |Use Type: Business|
+socks://51.254.149.59:48861#🇮🇪 Leinster|Dublin|D02|Vodafone Ireland| 109.78.242.71 |Time View 17/03/2024 14:30:00 |Black List Yes |Use Type: Residential|
