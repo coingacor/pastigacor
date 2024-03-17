@@ -20,3 +20,5 @@ socks://195.154.43.86:23621#🇧🇪 Flanders|Destelbergen|9070|dd5773f34.access
 socks://212.83.138.186:31895#🇧🇪 Brussels Capital|Brussels|1000|90.182-129-109.adsl-dyn.isp.belgacom.be| 109.129.182.90 |Time View 17/03/2024 06:09:08 |Black List Yes |Use Type: Residential|
 socks://212.83.138.192:28541#🇷🇴 Arges|Piteşti|110107|static-86-123-53-17.rdsnet.ro| 86.123.53.17 |Time View 17/03/2024 09:55:21 |Black List No |Use Type: Business|t
 socks://51.83.116.2:22212#🇷🇴 Brașov County|Brasov|500170|82-79-23-231.dynamic.brasov.rdsnet.ro| 82.79.23.231 |Time View 17/03/2024 09:55:04 |Black List No |Use Type: Residential|
+socks://162.19.7.59:40839#🇺🇸 Michigan|New Baltimore|48047|c-73-191-165-51.hsd1.mi.comcast.net| 73.191.165.51 |Time View 17/03/2024 10:04:31 |Black List Yes |Use Type: Residential|
+socks://162.19.7.50:28568#🇺🇸 West Virginia|Wheeling|26003|c-71-206-252-226.hsd1.pa.comcast.net| 71.206.252.226 |Time View 17/03/2024 10:04:11 |Black List Yes |Use Type: Residential|
