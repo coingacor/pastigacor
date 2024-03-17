@@ -22,3 +22,5 @@ socks://212.83.138.192:28541#🇷🇴 Arges|Piteşti|110107|static-86-123-53-17.
 socks://51.83.116.2:22212#🇷🇴 Brașov County|Brasov|500170|82-79-23-231.dynamic.brasov.rdsnet.ro| 82.79.23.231 |Time View 17/03/2024 09:55:04 |Black List No |Use Type: Residential|
 socks://162.19.7.59:40839#🇺🇸 Michigan|New Baltimore|48047|c-73-191-165-51.hsd1.mi.comcast.net| 73.191.165.51 |Time View 17/03/2024 10:04:31 |Black List Yes |Use Type: Residential|
 socks://162.19.7.50:28568#🇺🇸 West Virginia|Wheeling|26003|c-71-206-252-226.hsd1.pa.comcast.net| 71.206.252.226 |Time View 17/03/2024 10:04:11 |Black List Yes |Use Type: Residential|
+socks://162.0.220.220:56932#🇺🇸 Michigan|Macomb|48044|c-98-209-33-58.hsd1.mi.comcast.net| 98.209.33.58 |Time View 17/03/2024 18:36:25 |Black List Yes |Use Type: Residential|
+socks://23.105.170.34:41268#🇺🇸 Michigan|Richland|49083|c-68-36-204-90.hsd1.mi.comcast.net| 68.36.204.90 |Time View 17/03/2024 18:36:21 |Black List Yes |Use Type: Residential|
