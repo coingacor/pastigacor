@@ -18,3 +18,5 @@ socks://138.201.21.228:37498#🇦🇺 New South Wales|Sydney|2141|Telstra Intern
 socks://212.83.143.60:28984#🇦🇺 Queensland|Brisbane|4000|paw2697105.lnk.telstra.net| 101.187.147.137 |Time View 17/03/2024 05:27:27 |Black List No |Use Type: Business|
 socks://195.154.43.86:23621#🇧🇪 Flanders|Destelbergen|9070|dd5773f34.access.telenet.be| 213.119.63.52 |Time View 17/03/2024 06:09:30 |Black List Yes |Use Type: Business|
 socks://212.83.138.186:31895#🇧🇪 Brussels Capital|Brussels|1000|90.182-129-109.adsl-dyn.isp.belgacom.be| 109.129.182.90 |Time View 17/03/2024 06:09:08 |Black List Yes |Use Type: Residential|
+socks://212.83.138.192:28541#🇷🇴 Arges|Piteşti|110107|static-86-123-53-17.rdsnet.ro| 86.123.53.17 |Time View 17/03/2024 09:55:21 |Black List No |Use Type: Business|t
+socks://51.83.116.2:22212#🇷🇴 Brașov County|Brasov|500170|82-79-23-231.dynamic.brasov.rdsnet.ro| 82.79.23.231 |Time View 17/03/2024 09:55:04 |Black List No |Use Type: Residential|
