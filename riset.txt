@@ -20,3 +20,8 @@ socks://67.213.212.57:39380#🇺🇸 Georgia|Buford|30519|c-76-97-49-40.hsd1.ga.
 socks://67.213.212.47:20708#🇺🇸 Georgia|Macon|31210|ip72-210-67-27.mc.at.cox.net| 72.210.67.27 |Time View 18/03/2024 21:30:56 |Black List No |Use Type: Business|
 socks://108.181.132.118:43919#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 69.168.35.179 |Time View 18/03/2024 21:30:48 |Black List Yes |Use Type: Business|
 socks://141.94.238.246:12538#🇺🇸 Georgia|Fayetteville|30214|c-73-207-66-90.hsd1.ga.comcast.net| 73.207.66.90 |Time View 18/03/2024 21:30:28 |Black List Yes |Use Type: Residential|
+socks://67.213.212.57:20788#🇺🇸 Georgia|Marietta|30066|c-98-62-135-154.hsd1.ga.comcast.net| 98.62.135.154 |Time View 18/03/2024 23:38:15 |Black List Yes |Use Type: Residential|
+socks://67.213.212.51:40423#🇺🇸 Georgia|Swainsboro|30401|Northland Cable Television Inc.| 38.165.176.79 |Time View 18/03/2024 23:37:37 |Black List No |Use Type: Residential|
+socks://162.19.7.59:28405#🇺🇸 Georgia|Richmond Hill|31324|c-76-29-181-198.hsd1.ga.comcast.net| 76.29.181.198 |Time View 18/03/2024 23:34:44 |Black List Yes |Use Type: Residential|
+socks://67.213.210.168:33959#🇺🇸 Georgia|Jonesboro|30236|c-174-163-114-182.hsd1.ga.comcast.net| 174.163.114.182 |Time View 18/03/2024 23:34:37 |Black List Yes |Use Type: Residential|
+socks://46.105.44.29:46976#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 69.168.34.12 |Time View 18/03/2024 21:31:17 |Black List No |Use Type: Business|
