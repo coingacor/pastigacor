@@ -25,3 +25,20 @@ socks://67.213.212.51:40423#🇺🇸 Georgia|Swainsboro|30401|Northland Cable Te
 socks://162.19.7.59:28405#🇺🇸 Georgia|Richmond Hill|31324|c-76-29-181-198.hsd1.ga.comcast.net| 76.29.181.198 |Time View 18/03/2024 23:34:44 |Black List Yes |Use Type: Residential|
 socks://67.213.210.168:33959#🇺🇸 Georgia|Jonesboro|30236|c-174-163-114-182.hsd1.ga.comcast.net| 174.163.114.182 |Time View 18/03/2024 23:34:37 |Black List Yes |Use Type: Residential|
 socks://46.105.44.29:46976#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 69.168.34.12 |Time View 18/03/2024 21:31:17 |Black List No |Use Type: Business|
+socks://138.201.21.238:60973#🇦🇺 South Australia|Adelaide|5008|58-179-231-199.sta.dodo.net.au| 58.179.231.199 |Time View 18/03/2024 23:57:44 |Black List Yes |Use Type: Business|
+socks://212.83.143.49:48096#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 110.143.90.155 |Time View 18/03/2024 23:57:37 |Black List No |Use Type: Business|
+socks://212.83.143.147:55879#🇦🇺 New South Wales|Sydney|2023|cpe-110-141-216-44.static.nsw.bigpond.net.au| 110.141.216.44 |Time View 18/03/2024 23:57:32 |Black List No |Use Type: Business|
+socks://212.83.143.97:15333#🇦🇺 New South Wales|Sydney Olympic Park|2750|n49-187-42-151.bla1.nsw.optusnet.com.au| 49.187.42.151 |Time View 18/03/2024 23:57:27 |Black List Yes |Use Type: Business|
+socks://212.83.138.172:47689#🇦🇺 Victoria|Melbourne|3181|cpe-58-168-248-192.static.vic.asp.telstra.net| 58.168.248.192 |Time View 18/03/2024 23:57:12 |Black List No |Use Type: Business|
+socks://51.83.116.5:63471#🇦🇺 New South Wales|Sydney|2000|cpe-110-142-188-41.static.nsw.asp.telstra.net| 110.142.188.41 |Time View 18/03/2024 23:57:07 |Black List No |Use Type: Business|
+socks://51.254.167.45:28219#🇦🇺 Queensland|Brisbane|4066|Telstra Corporation Limited| 1.128.30.16 |Time View 18/03/2024 23:56:59 |Black List Yes |Use Type: Business|
+socks://212.83.138.192:53590#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 120.150.233.17 |Time View 18/03/2024 23:56:49 |Black List No |Use Type: Business|
+socks://212.83.143.97:30702#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 165.228.221.16 |Time View 18/03/2024 23:56:34 |Black List No |Use Type: Business|
+socks://162.19.7.56:62951#🇦🇺 New South Wales|Wollongong|2519|cpe-120-159-17-29.dyn.belong.com.au| 120.159.17.29 |Time View 18/03/2024 23:56:23 |Black List No |Use Type: Business|
+socks://212.83.142.100:18758#🇦🇺 Queensland|Brisbane|4000|gre1060202.lnk.telstra.net| 120.151.215.57 |Time View 18/03/2024 23:56:18 |Black List No |Use Type: Business|
+socks://51.83.116.4:31319#🇦🇺 Western Australia|Perth|6800|Telstra Internet| 110.143.193.108 |Time View 18/03/2024 23:56:06 |Black List No |Use Type: Business|
+socks://138.201.21.218:38544#🇦🇺 Queensland|Brisbane|4006|123-243-57-236.static.tpgi.com.au| 123.243.57.236 |Time View 18/03/2024 23:55:59 |Black List No |Use Type: Business|
+socks://138.201.21.227:59912#🇦🇺 Victoria|Melbourne|3140|Telstra Internet| 120.157.34.222 |Time View 18/03/2024 23:55:50 |Black List Yes |Use Type: Business|
+socks://67.213.212.57:20788#🇺🇸 Georgia|Marietta|30066|c-98-62-135-154.hsd1.ga.comcast.net| 98.62.135.154 |Time View 18/03/2024 23:38:15 |Black List Yes |Use Type: Residential|
+socks://162.19.7.59:28405#🇺🇸 Georgia|Richmond Hill|31324|c-76-29-181-198.hsd1.ga.comcast.net| 76.29.181.198 |Time View 18/03/2024 23:34:44 |Black List Yes |Use Type: Residential|
+socks://67.213.210.168:33959#🇺🇸 Georgia|Jonesboro|30236|c-174-163-114-182.hsd1.ga.comcast.net| 174.163.114.182 |Time View 18/03/2024 23:34:37 |Black List Yes |Use Type: Residential|
