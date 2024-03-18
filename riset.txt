@@ -10,3 +10,6 @@ socks://162.19.7.57:26305#🇦🇺 New South Wales|Sydney|2145|Wideband Networks
 socks://138.201.21.228:50509#🇦🇺 Victoria|Melbourne|3186|193-114-154-66.static.tpgi.com.au| 193.114.154.66 |Time View 18/03/2024 04:18:36 |Black List No |Use Type: Business|
 socks://195.154.43.198:47677#🇮🇪 Leinster|Dublin|D24|cpanel1.flowebdesign.ie| 217.115.113.22 |Time View 18/03/2024 09:58:29 |Black List No |Use Type: Business|
 socks://212.83.142.100:22789#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 18/03/2024 09:58:03 |Black List Yes |Use Type: Business|
+socks://67.213.210.118:39646#🇺🇸 Georgia|Rome|30161|c-73-43-225-33.hsd1.ga.comcast.net| 73.43.225.33 |Time View 18/03/2024 12:10:39 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:17301#🇺🇸 Georgia|Atlanta|30339|c-98-62-71-98.hsd1.ga.comcast.net| 98.62.71.98 |Time View 18/03/2024 12:10:36 |Black List Yes |Use Type: Residential|
+socks://66.29.129.52:60781#🇺🇸 Georgia|Conyers|30012|c-73-82-126-248.hsd1.ga.comcast.net| 73.82.126.248 |Time View 18/03/2024 12:10:25 |Black List Yes |Use Type: Residential|
