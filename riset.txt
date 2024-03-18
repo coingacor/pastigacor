@@ -42,3 +42,7 @@ socks://138.201.21.227:59912#🇦🇺 Victoria|Melbourne|3140|Telstra Internet| 
 socks://67.213.212.57:20788#🇺🇸 Georgia|Marietta|30066|c-98-62-135-154.hsd1.ga.comcast.net| 98.62.135.154 |Time View 18/03/2024 23:38:15 |Black List Yes |Use Type: Residential|
 socks://162.19.7.59:28405#🇺🇸 Georgia|Richmond Hill|31324|c-76-29-181-198.hsd1.ga.comcast.net| 76.29.181.198 |Time View 18/03/2024 23:34:44 |Black List Yes |Use Type: Residential|
 socks://67.213.210.168:33959#🇺🇸 Georgia|Jonesboro|30236|c-174-163-114-182.hsd1.ga.comcast.net| 174.163.114.182 |Time View 18/03/2024 23:34:37 |Black List Yes |Use Type: Residential|
+socks://162.0.220.220:33496#🇺🇸 Michigan|Macomb|48044|c-98-209-33-58.hsd1.mi.comcast.net| 98.209.33.58 |Time View 19/03/2024 03:10:16 |Black List Yes |Use Type: Residential|
+socks://162.19.7.48:63588#🇺🇸 Michigan|Taylor|48180|c-71-227-45-2.hsd1.mi.comcast.net| 71.227.45.2 |Time View 19/03/2024 03:10:09 |Black List Yes |Use Type: Residential|
+socks://209.159.153.19:48450#🇺🇸 Michigan|Lake Orion|48360|c-68-36-20-189.hsd1.mi.comcast.net| 68.36.20.189 |Time View 19/03/2024 03:09:46 |Black List Yes |Use Type: Residential|
+socks://108.181.132.118:60537#🇺🇸 Michigan|Bad Axe|48413|c-68-48-218-211.hsd1.mi.comcast.net| 68.48.218.211 |Time View 19/03/2024 03:09:20 |Black List Yes |Use Type: Residential|
