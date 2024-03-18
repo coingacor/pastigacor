@@ -6,3 +6,4 @@ socks://138.201.21.218:54593#🇬🇧 England|Bradford|BD1|80-44-152-117.dynamic
 socks://138.201.21.232:54363#🇬🇧 England|Brent|NW2|host-92-16-175-151.as13285.net| 92.16.175.151 |Time View 18/03/2024 06:56:02 |Black List Yes |Use Type: Residential|
 socks://212.83.143.97:12839#🇬🇧 Wales|Merthyr Tydfil|CF47|97e70f44.skybroadband.com| 151.231.15.68 |Time View 18/03/2024 06:55:54 |Black List Yes |Use Type: Residential|
 socks://138.201.21.233:38334#🇬🇧 England|Manchester|M12|host-92-19-23-100.as13285.net| 92.19.23.100 |Time View 18/03/2024 06:55:44 |Black List Yes |Use Type: Residential|
+socks://138.201.21.238:58588#🇬🇧England|Manchester|M14|host-92-18-228-47.as13285.net| 92.18.228.47 |Time View 18/03/2024 07:02:51 |Black List Yes |Use Type: Residential|
