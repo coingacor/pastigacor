@@ -8,3 +8,5 @@ socks://212.83.138.186:37987#🇦🇺 Victoria|Melbourne|3001|Telstra Internet| 
 socks://89.58.45.94:35132#🇦🇺 New South Wales|Sydney|2086|Telstra Corporation Limited| 60.231.34.210 |Time View 18/03/2024 04:19:15 |Black List Yes |Use Type: Business|
 socks://162.19.7.57:26305#🇦🇺 New South Wales|Sydney|2145|Wideband Networks Pty Ltd| 159.196.169.88 |Time View 18/03/2024 04:18:50 |Black List No |Use Type: Cellular|
 socks://138.201.21.228:50509#🇦🇺 Victoria|Melbourne|3186|193-114-154-66.static.tpgi.com.au| 193.114.154.66 |Time View 18/03/2024 04:18:36 |Black List No |Use Type: Business|
+socks://195.154.43.198:47677#🇮🇪 Leinster|Dublin|D24|cpanel1.flowebdesign.ie| 217.115.113.22 |Time View 18/03/2024 09:58:29 |Black List No |Use Type: Business|
+socks://212.83.142.100:22789#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 18/03/2024 09:58:03 |Black List Yes |Use Type: Business|
