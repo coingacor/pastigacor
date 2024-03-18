@@ -12,4 +12,11 @@ socks://195.154.43.198:47677#🇮🇪 Leinster|Dublin|D24|cpanel1.flowebdesign.i
 socks://212.83.142.100:22789#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 18/03/2024 09:58:03 |Black List Yes |Use Type: Business|
 socks://67.213.210.118:39646#🇺🇸 Georgia|Rome|30161|c-73-43-225-33.hsd1.ga.comcast.net| 73.43.225.33 |Time View 18/03/2024 12:10:39 |Black List Yes |Use Type: Residential|
 socks://209.159.153.21:17301#🇺🇸 Georgia|Atlanta|30339|c-98-62-71-98.hsd1.ga.comcast.net| 98.62.71.98 |Time View 18/03/2024 12:10:36 |Black List Yes |Use Type: Residential|
-socks://66.29.129.52:60781#🇺🇸 Georgia|Conyers|30012|c-73-82-126-248.hsd1.ga.comcast.net| 73.82.126.248 |Time View 18/03/2024 12:10:25 |Black List Yes |Use Type: Residential|
+socks://66.29.129.52:22410#🇺🇸 Georgia|Conyers|30012|c-73-82-126-248.hsd1.ga.comcast.net| 73.82.126.248 |Time View 18/03/2024 21:31:28 |Black List Yes |Use Type: Residential|
+socks://38.91.106.252:54275#🇺🇸 Georgia|Dawsonville|30534|North Georgia Network Cooperative, Inc.| 162.142.81.177 |Time View 18/03/2024 21:31:19 |Black List No |Use Type: Residential|
+socks://46.105.44.29:46976#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 69.168.34.12 |Time View 18/03/2024 21:31:17 |Black List No |Use Type: Business|
+socks://23.105.170.33:46396#🇺🇸 Georgia|Atlanta|30341|Comcast Cable Communications, LLC| 50.232.69.26 |Time View 18/03/2024 21:31:02 |Black List No |Use Type: Residential|
+socks://67.213.212.57:39380#🇺🇸 Georgia|Buford|30519|c-76-97-49-40.hsd1.ga.comcast.net| 76.97.49.40 |Time View 18/03/2024 21:30:59 |Black List Yes |Use Type: Residential|
+socks://67.213.212.47:20708#🇺🇸 Georgia|Macon|31210|ip72-210-67-27.mc.at.cox.net| 72.210.67.27 |Time View 18/03/2024 21:30:56 |Black List No |Use Type: Business|
+socks://108.181.132.118:43919#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 69.168.35.179 |Time View 18/03/2024 21:30:48 |Black List Yes |Use Type: Business|
+socks://141.94.238.246:12538#🇺🇸 Georgia|Fayetteville|30214|c-73-207-66-90.hsd1.ga.comcast.net| 73.207.66.90 |Time View 18/03/2024 21:30:28 |Black List Yes |Use Type: Residential|
