@@ -12,3 +12,10 @@ socks://134.195.91.76:36656#🇬🇧 England|Dewsbury|WF12|NTE| 185.7.165.239 |T
 socks://212.83.143.191:32032#🇬🇧 England|Reading|RG2|s1.comandonline.co.uk| 151.236.39.162 |Time View 19/03/2024 18:42:00 |Black List No |Use Type: Hosting|
 socks://195.154.43.184:41290#🇮🇪 Leinster|Blanchardstown|D15|lh913.dnsireland.com| 80.93.29.13 |Time View 19/03/2024 18:43:30 |Black List No |Use Type: Hosting|
 socks://212.83.143.191:38147#🇮🇪 Leinster|Dublin|D02|ec2-34-240-145-76.eu-west-1.compute.amazonaws.com| 34.240.145.76 |Time View 19/03/2024 18:43:21 |Black List No |Use Type: Hosting|
+socks://138.201.21.218:39260#🇬🇧 England|Birmingham|B16|host-92-12-84-71.as13285.net| 92.12.84.71 |Time View 19/03/2024 20:48:25 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:18675#🇬🇧 England|Barnsley|S74|host-92-17-112-199.as13285.net| 92.17.112.199 |Time View 19/03/2024 20:48:18 |Black List Yes |Use Type: Residential|
+socks://212.83.142.149:18607#🇬🇧 England|Corby|NN18|33bfb7d0.skybroadband.com| 51.191.183.208 |Time View 19/03/2024 20:48:04 |Black List Yes |Use Type: Residential|
+socks://51.83.116.2:54999#🇬🇧 England|Bristol|BS4|054555c9.skybroadband.com| 5.69.85.201 |Time View 19/03/2024 20:47:48 |Black List Yes |Use Type: Residential|
+socks://138.201.21.227:23123#🇬🇧 England|Bolton|BL1|host-78-151-154-6.as13285.net| 78.151.154.6 |Time View 19/03/2024 20:47:20 |Black List Yes |Use Type: Residential|
+socks://212.83.138.245:48529#🇬🇧 England|Market Harborough|LE16|02d8a6a4.bb.sky.com| 2.216.166.164 |Time View 19/03/2024 20:47:09 |Black List Yes |Use Type: Residential|
+socks://212.83.138.186:48033#🇬🇧 England|Leicester|LE5|cpc87259-nfds16-2-0-cust632.8-2.cable.virginm.net| 86.12.14.121 |Time View 19/03/2024 20:47:00 |Black List Yes |Use Type: Residential|
