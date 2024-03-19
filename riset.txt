@@ -46,3 +46,5 @@ socks://162.0.220.220:33496#🇺🇸 Michigan|Macomb|48044|c-98-209-33-58.hsd1.m
 socks://162.19.7.48:63588#🇺🇸 Michigan|Taylor|48180|c-71-227-45-2.hsd1.mi.comcast.net| 71.227.45.2 |Time View 19/03/2024 03:10:09 |Black List Yes |Use Type: Residential|
 socks://209.159.153.19:48450#🇺🇸 Michigan|Lake Orion|48360|c-68-36-20-189.hsd1.mi.comcast.net| 68.36.20.189 |Time View 19/03/2024 03:09:46 |Black List Yes |Use Type: Residential|
 socks://108.181.132.118:60537#🇺🇸 Michigan|Bad Axe|48413|c-68-48-218-211.hsd1.mi.comcast.net| 68.48.218.211 |Time View 19/03/2024 03:09:20 |Black List Yes |Use Type: Residential|
+socks://51.83.116.5:59505#🇵🇱 Kujawsko-Pomorskie|Osada Lubicz|87-162|jwv81.internetdsl.tpnet.pl| 95.48.229.81 |Time View 19/03/2024 14:54:41 |Black List No |Use Type: Residential|
+socks://212.83.137.142:59033#🇵🇱 Lesser Poland|Krakow|31-005|host42.pk.edu.pl| 149.156.132.42 |Time View 19/03/2024 14:54:20 |Black List No |Use Type: Business|
