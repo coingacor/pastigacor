@@ -16,3 +16,9 @@ socks://67.213.210.168:54453#🇺🇸 Florida|Jacksonville|32208|c-73-104-12-3.h
 socks5://38.91.106.252:62928/#%F0%9F%87%BA%F0%9F%87%B8Georgia%7CLincolnton%7C30817%7Coccm-172.dhcp.grp1-rng1.tnbcgv.blomand.net%7C%20137.119.140.172%20%7CTime%20View%2019%2F03%2F2024%2020%3A43%3A54%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
 socks5://212.83.143.49:48096/#%F0%9F%87%A6%F0%9F%87%BA%20New%20South%20Wales%7CSydney%7C2000%7CTelstra%20Internet%7C%20110.143.90.155%20%7CTime%20View%2018%2F03%2F2024%2023%3A57%3A37%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
 socks5://212.83.138.192:33636/#%F0%9F%87%AE%F0%9F%87%AA%20Leinster%7CDublin%7CD11%7CLiberty%20Global%20B.V.%7C%20109.255.19.27%20%7CTime%20View%2019%2F03%2F2024%2021%3A42%3A51%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
+socks://138.201.21.232:39307#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 123.209.92.165 |Time View 19/03/2024 22:40:26 |Black List Yes |Use Type: Business|
+socks://51.83.116.4:63394#🇦🇺 Victoria|Melbourne|3150|cpe-120-147-151-155.vb10.vic.asp.telstra.net| 120.147.151.155 |Time View 19/03/2024 22:40:14 |Black List Yes |Use Type: Business|
+socks://51.83.116.5:45532#🇦🇺 Victoria|Melbourne|3195|cpe-1-159-67-127.vb12.vic.asp.telstra.net| 1.159.67.127 |Time View 19/03/2024 22:40:07 |Black List Yes |Use Type: Business|
+socks://212.83.138.245:47867#🇦🇺 New South Wales|Sydney|2000|cpe-101-190-7-40.nb16.nsw.asp.telstra.net| 101.190.7.40 |Time View 19/03/2024 22:39:59 |Black List Yes |Use Type: Business|
+socks://212.83.143.103:54128#🇦🇺 Victoria|Melbourne|3149|Telstra Internet| 120.157.201.219 |Time View 19/03/2024 22:39:49 |Black List Yes |Use Type: Business|
+socks://46.105.44.29:24379#🇦🇺 Victoria|Melbourne|3000|Telstra Corporation Limited| 1.145.159.124 |Time View 19/03/2024 22:39:44 |Black List Yes |Use Type: Business|
