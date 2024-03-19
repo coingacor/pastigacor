@@ -1,9 +1,9 @@
-socks://212.83.143.118:28223#🇬🇧 England|Walton on Thames|KT12|cpc114882-hers8-2-0-cust88.6-3.cable.virginm.net| 82.8.53.89 |Time View 18/03/2024 06:57:04 |Black List Yes |Use Type: Residential|
-socks://212.83.143.147:11414#🇬🇧 England|Romford|RM7|cpc160181-seve24-2-0-cust322.13-3.cable.virginm.net| 82.21.49.67 |Time View 18/03/2024 06:57:00 |Black List Yes |Use Type: Residential|
-socks://138.201.21.218:55065#🇬🇧 England|Halifax|HX2|hali-08-b2-v4wan-165876-cust768.vm3.cable.virginm.net| 82.33.19.1 |Time View 18/03/2024 06:56:57 |Black List Yes |Use Type: Residential|
-socks://138.201.21.227:54998#🇬🇧 England|Hebburn|NE31|host-92-6-29-150.as13285.net| 92.6.29.150 |Time View 18/03/2024 06:56:43 |Black List Yes |Use Type: Residential|
-socks://138.201.21.218:54593#🇬🇧 England|Bradford|BD1|80-44-152-117.dynamic.dsl.as9105.com| 80.44.152.117 |Time View 18/03/2024 06:56:13 |Black List Yes |Use Type: Residential|
-socks://138.201.21.232:54363#🇬🇧 England|Brent|NW2|host-92-16-175-151.as13285.net| 92.16.175.151 |Time View 18/03/2024 06:56:02 |Black List Yes |Use Type: Residential|
-socks://212.83.143.97:12839#🇬🇧 Wales|Merthyr Tydfil|CF47|97e70f44.skybroadband.com| 151.231.15.68 |Time View 18/03/2024 06:55:54 |Black List Yes |Use Type: Residential|
-socks://138.201.21.233:38334#🇬🇧 England|Manchester|M12|host-92-19-23-100.as13285.net| 92.19.23.100 |Time View 18/03/2024 06:55:44 |Black List Yes |Use Type: Residential|
-socks://138.201.21.238:58588#🇬🇧England|Manchester|M14|host-92-18-228-47.as13285.net| 92.18.228.47 |Time View 18/03/2024 07:02:51 |Black List Yes |Use Type: Residential|
+socks://138.201.21.238:12602#🇬🇧 Northern Ireland|Belfast|BT11|host-80-43-132-48.as13285.net| 80.43.132.48 |Time View 19/03/2024 10:15:15 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:64737#🇬🇧 Northern Ireland|Belfast|BT13|host-78-148-160-24.as13285.net| 78.148.160.24 |Time View 19/03/2024 10:15:05 |Black List Yes |Use Type: Residential|
+socks://138.201.21.233:14501#🇬🇧 England|Fulham|SW6|212.154-31-62.static.virginmediabusiness.co.uk| 62.31.154.212 |Time View 19/03/2024 10:14:25 |Black List No |Use Type: Business|
+socks://212.83.142.131:63893#🇬🇧 England|Lambeth|SW4|78-32-160-57.static.enta.net| 78.32.160.57 |Time View 19/03/2024 10:14:04 |Black List No |Use Type: Residential|
+socks://51.83.116.4:27614#🇬🇧 England|Southwark|SE16|ftip004586425.acc3.sf.21cn-nte.bt.net| 217.41.185.21 |Time View 19/03/2024 10:13:50 |Black List No |Use Type: Business|
+socks://138.201.21.233:42973#🇬🇧 England|London|WC1A|Vaioni Group Ltd| 88.211.68.36 |Time View 19/03/2024 10:13:45 |Black List No |Use Type: Business|
+socks://212.83.142.114:42328#🇬🇧 England|Batley|WF17|wjyoung.force9.co.uk| 212.159.72.6 |Time View 19/03/2024 10:13:27 |Black List No |Use Type: Residential|
+socks://138.201.21.238:59356#🇬🇧 England|Hackney|N4|host-92-27-13-120.static.as13285.net| 92.27.13.120 |Time View 19/03/2024 10:13:13 |Black List No |Use Type: Residential|
+socks://138.201.21.227:61682#🇬🇧 England|Bishop's Stortford|CM23|host-81-86-80-182.static.as9105.net| 81.86.80.182 |Time View 19/03/2024 10:13:04 |Black List No |Use Type: Residential|
