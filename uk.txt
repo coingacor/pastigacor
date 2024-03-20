@@ -13,3 +13,5 @@ socks://138.201.21.232:14391#🇬🇧 England|Croydon|CR0|80-42-177-59.dynamic.d
 socks://138.201.21.227:34367#🇬🇧 England|Hendon|NW4|80-42-158-49.dynamic.dsl.as9105.com| 80.42.158.49 |Time View 20/03/2024 18:37:01 |Black List Yes |Use Type: Residential|
 socks://195.154.43.86:24272#🇬🇧 England|Wokingham|RG40|cpc157713-rdng30-2-0-cust812.15-3.cable.virginm.net| 86.20.227.45 |Time View 20/03/2024 18:36:57 |Black List Yes |Use Type: Residential|
 socks://138.201.21.232:62375#🇬🇧 England|Long Eaton|NG10|109-170-132-248.xdsl.murphx.net| 109.170.132.248 |Time View 20/03/2024 18:36:34 |Black List No |Use Type: Residential|
+socks://212.83.138.245:24427#🇬🇧 England|St Helens|WA10|cpc155059-know18-2-0-cust79.17-2.cable.virginm.net| 80.193.204.80 |Time View 20/03/2024 23:16:14 |Black List Yes |Use Type: Residential|
+socks://212.83.143.118:22763#🇬🇧 England|Walton on Thames|KT12|cpc114882-hers8-2-0-cust88.6-3.cable.virginm.net| 82.8.53.89 |Time View 20/03/2024 23:16:04 |Black List Yes |Use Type: Residential|
