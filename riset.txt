@@ -1,18 +1,11 @@
-socks://108.181.132.118:26786#🇺🇸 South Carolina|Ridgeway|29130|206-74-183-124.dsl.g01.scches.spirittelecom.com| 206.74.183.124 |Time View 19/03/2024 21:49:10 |Black List Yes |Use Type: Residential|
-socks://162.19.7.46:21865#🇺🇸 Colorado|Arvada|80007|c-24-9-248-240.hsd1.co.comcast.net| 24.9.248.240 |Time View 19/03/2024 21:49:09 |Black List Yes |Use Type: Residential|
-socks://162.0.220.214:64995#🇺🇸 Minnesota|Minneapolis|55443|c-98-240-169-109.hsd1.mn.comcast.net| 98.240.169.109 |Time View 19/03/2024 21:48:52 |Black List Yes |Use Type: Residential|
-socks://67.213.210.168:56347#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl70250.iro.ptd.net| 204.186.70.250 |Time View 19/03/2024 21:48:47 |Black List Yes |Use Type: Residential|
-socks://66.29.128.244:45518#🇺🇸 Michigan|Belleville|48111|96-91-172-41-static.hfc.comcastbusiness.net| 96.91.172.41 |Time View 19/03/2024 21:48:42 |Black List Yes |Use Type: Residential|
-socks://66.29.128.244:63198#🇺🇸 Colorado|Aurora|80013|c-73-3-142-141.hsd1.co.comcast.net| 73.3.142.141 |Time View 19/03/2024 21:48:29 |Black List Yes |Use Type: Residential|
-socks://23.105.170.32:36134#🇺🇸 Maryland|Towson|21204|c-69-255-78-243.hsd1.md.comcast.net| 69.255.78.243 |Time View 19/03/2024 21:48:24 |Black List Yes |Use Type: Residential|
-socks://162.19.7.50:48358#🇺🇸 Florida|Ft. Pierce|34951|c-67-191-58-26.hsd1.fl.comcast.net| 67.191.58.26 |Time View 19/03/2024 21:48:16 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:26156#🇺🇸 Florida|Jacksonville Beach|32250|c-24-129-4-128.hsd1.fl.comcast.net| 24.129.4.128 |Time View 19/03/2024 21:48:06 |Black List Yes |Use Type: Residential|
-socks://67.213.212.50:60130#🇺🇸 Louisiana|Kinder|70648|host-24-112-124-142.vyvebroadband.net| 24.112.124.142 |Time View 19/03/2024 21:47:56 |Black List Yes |Use Type: Residential|
-socks://162.0.220.161:46983#🇺🇸 New Jersey|Lyndhurst|07071|pool-74-102-236-80.nwrknj.fios.verizon.net| 74.102.236.80 |Time View 19/03/2024 21:47:51 |Black List Yes |Use Type: Residential|
-socks://174.138.176.77:43736#🇺🇸 South Carolina|Chester|29706|204-116-40-133.dsl.g01.scches.spirittelecom.com| 204.116.40.133 |Time View 19/03/2024 21:47:44 |Black List Yes |Use Type: Residential|
-socks://67.213.212.49:54165#🇺🇸 Colorado|Breckenridge|80424|c-73-14-154-206.hsd1.co.comcast.net| 73.14.154.206 |Time View 19/03/2024 21:47:39 |Black List Yes |Use Type: Residential|
-socks://51.68.244.19:46547#🇺🇸 Colorado|Denver|80249|c-24-9-73-146.hsd1.co.comcast.net| 24.9.73.146 |Time View 19/03/2024 21:47:28 |Black List Yes |Use Type: Residential|
-socks://67.213.210.168:54453#🇺🇸 Florida|Jacksonville|32208|c-73-104-12-3.hsd1.fl.comcast.net| 73.104.12.3 |Time View 19/03/2024 21:46:58 |Black List Yes |Use Type: Residential|
+socks://162.0.220.216:47484#🇺🇸 California|Gilroy|95020|174-085-076-172.res.spectrum.com| 174.85.76.172 |Time View 20/03/2024 12:49:11 |Black List Yes |Use Type: Business|
+socks://209.159.153.20:39194#🇺🇸 Florida|Spring Hill|34609|072-184-195-089.res.spectrum.com| 72.184.195.89 |Time View 20/03/2024 12:48:59 |Black List Yes |Use Type: Business|
+socks://67.213.212.57:57283#🇺🇸 Pennsylvania|Philadelphia|19146|c-73-188-60-250.hsd1.pa.comcast.net| 73.188.60.250 |Time View 20/03/2024 12:48:52 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:55031#🇺🇸 New York|Roslyn|11576|pool-108-27-22-132.nycmny.fios.verizon.net| 108.27.22.132 |Time View 20/03/2024 12:48:21 |Black List Yes |Use Type: Residential|
+socks://67.213.212.57:15007#🇺🇸 Oklahoma|Oklahoma City|73142|COX-98-173-255-218-static.coxinet.net| 98.173.255.218 |Time View 20/03/2024 12:46:58 |Black List Yes |Use Type: Residential|
+socks://193.29.62.48:25812#🇺🇸 California|Antioch|94509|203-211-50-185-static.hfc.comcastbusiness.net| 50.211.203.185 |Time View 20/03/2024 12:46:28 |Black List Yes |Use Type: Residential|
+socks://170.205.37.196:34353#🇺🇸 Nevada|Unknown|Unknown|AIRESPRING, INC.| 199.116.108.203 |Time View 20/03/2024 12:46:07 |Black List Yes |Use Type: Business|
+socks://67.213.212.53:57613#🇺🇸 Massachusetts|Boston|02127|c-24-34-16-241.hsd1.ma.comcast.net| 24.34.16.241 |Time View 20/03/2024 12:46:02 |Black List Yes |Use Type: Residential|
 socks5://38.91.106.252:62928/#%F0%9F%87%BA%F0%9F%87%B8Georgia%7CLincolnton%7C30817%7Coccm-172.dhcp.grp1-rng1.tnbcgv.blomand.net%7C%20137.119.140.172%20%7CTime%20View%2019%2F03%2F2024%2020%3A43%3A54%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
 socks5://212.83.143.49:48096/#%F0%9F%87%A6%F0%9F%87%BA%20New%20South%20Wales%7CSydney%7C2000%7CTelstra%20Internet%7C%20110.143.90.155%20%7CTime%20View%2018%2F03%2F2024%2023%3A57%3A37%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
 socks5://212.83.138.192:33636/#%F0%9F%87%AE%F0%9F%87%AA%20Leinster%7CDublin%7CD11%7CLiberty%20Global%20B.V.%7C%20109.255.19.27%20%7CTime%20View%2019%2F03%2F2024%2021%3A42%3A51%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
