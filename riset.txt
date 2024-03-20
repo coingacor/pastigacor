@@ -18,3 +18,17 @@ socks://46.105.44.29:24379#🇦🇺 Victoria|Melbourne|3000|Telstra Corporation 
 socks://89.58.45.94:37706#🇮🇩 Jakarta|Jakarta|Unknown|ip-210-208-26-103.neuviz.net.id| 103.26.208.210 |Time View 20/03/2024 11:45:28 |Black List Yes |Use Type: Residential|
 socks://170.205.37.196:38676#🇮🇩 West Java|Bekasi|Unknown|host-158.140.176-169.myrepublic.co.id| 158.140.176.169 |Time View 20/03/2024 11:45:19 |Black List Yes |Use Type: Business|
 socks://170.205.37.196:40253#🇮🇩 South Sumatra|Palembang|Unknown|Biznet Metronet| 118.99.94.71 |Time View 20/03/2024 11:45:12 |Black List Yes |Use Type: Business|
+socks://212.83.142.131:59638#🇦🇺 New South Wales|Sydney|2066|n114-77-132-27.mas2.nsw.optusnet.com.au| 114.77.132.27 |Time View 20/03/2024 23:13:17 |Black List No |Use Type: Business|
+socks://212.83.143.103:61919#🇦🇺 Victoria|Melbourne|3149|Telstra Internet| 120.157.201.219 |Time View 20/03/2024 23:13:08 |Black List Yes |Use Type: Business|
+socks://138.201.21.233:55369#🇦🇺 Western Australia|Perth|6050|139-218-241-44.sta.wbroadband.net.au| 139.218.241.44 |Time View 20/03/2024 23:13:00 |Black List No |Use Type: Business|
+socks://170.205.37.196:33264#🇦🇺 New South Wales|Sydney|2170|175.46.168.125.sta.wbroadband.net.au| 125.168.46.175 |Time View 20/03/2024 23:12:52 |Black List Yes |Use Type: Business|
+socks://162.19.7.56:60122#🇺🇸 Massachusetts|Weymouth|02190|c-24-62-12-141.hsd1.ma.comcast.net| 24.62.12.141 |Time View 20/03/2024 23:12:16 |Black List Yes |Use Type: Residential|
+socks://162.19.7.59:37623#🇺🇸 Maryland|Gaithersburg|20879|pool-96-231-190-125.washdc.fios.verizon.net| 96.231.190.125 |Time View 20/03/2024 23:12:04 |Black List Yes |Use Type: Residential|
+socks://174.138.176.74:12577#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.53.183 |Time View 20/03/2024 23:11:50 |Black List Yes |Use Type: Business|
+socks://162.19.7.53:53987#🇺🇸 Florida|Miami|33165|c-76-128-215-171.hsd1.fl.comcast.net| 76.128.215.171 |Time View 20/03/2024 23:11:44 |Black List Yes |Use Type: Residential|
+socks://51.254.149.59:16092#🇺🇸 Colorado|Colorado Springs|80922|97-121-167-9.clsp.qwest.net| 97.121.167.9 |Time View 20/03/2024 23:11:35 |Black List Yes |Use Type: Business|
+socks://162.19.7.53:53972#🇺🇸 Tennessee|Memphis|38134|114.sub-174-230-158.myvzw.com| 174.230.158.114 |Time View 20/03/2024 23:11:32 |Black List Yes |Use Type: Cellular|
+socks://38.91.107.224:32299#🇺🇸 Georgia|Kingsland|31548|173-207-197-114.cpe.cableone.net| 173.207.197.114 |Time View 20/03/2024 23:11:23 |Black List Yes |Use Type: Residential|
+socks://174.138.176.74:60481#🇺🇸 New Hampshire|Hancock|03449|pool-70-109-165-88.cncdnh.east.myfairpoint.net| 70.109.165.88 |Time View 20/03/2024 23:11:21 |Black List Yes |Use Type: Business|
+socks://193.29.62.48:16564#🇺🇸 Tennessee|Columbia|38401|137-027-032-070.biz.spectrum.com| 137.27.32.70 |Time View 20/03/2024 23:11:18 |Black List Yes |Use Type: Business|
+socks://209.159.153.20:61039#🇺🇸 Pennsylvania|Exton|19341|host-131-239-224-50.customer.veroxity.net| 131.239.224.50 |Time View 20/03/2024 23:02:42 |Black List No |Use Type: Residential|
