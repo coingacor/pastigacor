@@ -22,3 +22,6 @@ socks://51.83.116.5:45532#🇦🇺 Victoria|Melbourne|3195|cpe-1-159-67-127.vb12
 socks://212.83.138.245:47867#🇦🇺 New South Wales|Sydney|2000|cpe-101-190-7-40.nb16.nsw.asp.telstra.net| 101.190.7.40 |Time View 19/03/2024 22:39:59 |Black List Yes |Use Type: Business|
 socks://212.83.143.103:54128#🇦🇺 Victoria|Melbourne|3149|Telstra Internet| 120.157.201.219 |Time View 19/03/2024 22:39:49 |Black List Yes |Use Type: Business|
 socks://46.105.44.29:24379#🇦🇺 Victoria|Melbourne|3000|Telstra Corporation Limited| 1.145.159.124 |Time View 19/03/2024 22:39:44 |Black List Yes |Use Type: Business|
+socks://89.58.45.94:37706#🇮🇩 Jakarta|Jakarta|Unknown|ip-210-208-26-103.neuviz.net.id| 103.26.208.210 |Time View 20/03/2024 11:45:28 |Black List Yes |Use Type: Residential|
+socks://170.205.37.196:38676#🇮🇩 West Java|Bekasi|Unknown|host-158.140.176-169.myrepublic.co.id| 158.140.176.169 |Time View 20/03/2024 11:45:19 |Black List Yes |Use Type: Business|
+socks://170.205.37.196:40253#🇮🇩 South Sumatra|Palembang|Unknown|Biznet Metronet| 118.99.94.71 |Time View 20/03/2024 11:45:12 |Black List Yes |Use Type: Business|
