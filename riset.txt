@@ -32,3 +32,5 @@ socks://38.91.107.224:32299#🇺🇸 Georgia|Kingsland|31548|173-207-197-114.cpe
 socks://174.138.176.74:60481#🇺🇸 New Hampshire|Hancock|03449|pool-70-109-165-88.cncdnh.east.myfairpoint.net| 70.109.165.88 |Time View 20/03/2024 23:11:21 |Black List Yes |Use Type: Business|
 socks://193.29.62.48:16564#🇺🇸 Tennessee|Columbia|38401|137-027-032-070.biz.spectrum.com| 137.27.32.70 |Time View 20/03/2024 23:11:18 |Black List Yes |Use Type: Business|
 socks://209.159.153.20:61039#🇺🇸 Pennsylvania|Exton|19341|host-131-239-224-50.customer.veroxity.net| 131.239.224.50 |Time View 20/03/2024 23:02:42 |Black List No |Use Type: Residential|
+socks://212.83.138.192:12449#🇮🇪 Leinster|Dublin|D11|Liberty Global B.V.| 109.255.19.27 |Time View 21/03/2024 05:04:09 |Black List Yes |Use Type: Business|
+socks://212.83.142.149:17178#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 21/03/2024 05:04:05 |Black List Yes |Use Type: Business|
