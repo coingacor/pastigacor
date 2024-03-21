@@ -31,6 +31,11 @@ socks://162.19.7.53:53972#🇺🇸 Tennessee|Memphis|38134|114.sub-174-230-158.m
 socks://38.91.107.224:32299#🇺🇸 Georgia|Kingsland|31548|173-207-197-114.cpe.cableone.net| 173.207.197.114 |Time View 20/03/2024 23:11:23 |Black List Yes |Use Type: Residential|
 socks://174.138.176.74:60481#🇺🇸 New Hampshire|Hancock|03449|pool-70-109-165-88.cncdnh.east.myfairpoint.net| 70.109.165.88 |Time View 20/03/2024 23:11:21 |Black List Yes |Use Type: Business|
 socks://193.29.62.48:16564#🇺🇸 Tennessee|Columbia|38401|137-027-032-070.biz.spectrum.com| 137.27.32.70 |Time View 20/03/2024 23:11:18 |Black List Yes |Use Type: Business|
-socks://209.159.153.20:61039#🇺🇸 Pennsylvania|Exton|19341|host-131-239-224-50.customer.veroxity.net| 131.239.224.50 |Time View 20/03/2024 23:02:42 |Black List No |Use Type: Residential|
-socks://212.83.138.192:12449#🇮🇪 Leinster|Dublin|D11|Liberty Global B.V.| 109.255.19.27 |Time View 21/03/2024 05:04:09 |Black List Yes |Use Type: Business|
-socks://212.83.142.149:17178#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 21/03/2024 05:04:05 |Black List Yes |Use Type: Business|
+socks://209.159.153.20:61039#🇺🇸 Pennsylvania|Exton|19341|host-131-239-224-50.customer.veroxity.net| 131.239.224.50 |Time View 20/03/2024 23:02:42 |Black List No |Use Type: Residential|170.205.37.196:34291#🇦🇺 South Australia|Thebarton|5031|203-174-182-38.ade.static-ipl.aapt.com.au| 203.174.182.38 |Time View 21/03/2024 15:47:23 |Black List Yes |Use Type: Business|
+162.19.7.53:41275#🇦🇺 Queensland|Gold Coast|4215|cpe-131-162-211-157.matenbn.com.au| 157.211.162.131 |Time View 21/03/2024 15:47:02 |Black List No |Use Type: Business|
+212.83.142.100:42968#🇦🇺 Queensland|Brisbane|4000|gre1060202.lnk.telstra.net| 120.151.215.57 |Time View 21/03/2024 15:46:53 |Black List No |Use Type: Business|
+170.205.37.196:43751#🇦🇺 Western Australia|Perth|6000|116.120.218.139.sta.wbroadband.net.au| 139.218.120.116 |Time View 21/03/2024 15:46:48 |Black List Yes |Use Type: Business|
+89.58.45.94:44624#🇦🇺 New South Wales|Sydney|2086|Telstra Corporation Limited| 60.231.34.210 |Time View 21/03/2024 15:46:41 |Black List Yes |Use Type: Business|
+51.83.116.5:64744#🇦🇺 Queensland|Brisbane|4000|Telstra Internet| 139.130.218.14 |Time View 21/03/2024 15:46:26 |Black List No |Use Type: Business|
+212.83.138.192:12449#🇮🇪 Leinster|Dublin|D11|Liberty Global B.V.| 109.255.19.27 |Time View 21/03/2024 05:04:09 |Black List Yes |Use Type: Business|
+212.83.142.149:17178#🇮🇪 Leinster|Greystones|A63|Virgin Media Ireland| 46.7.224.72 |Time View 21/03/2024 05:04:05 |Black List Yes |Use Type: Business|
