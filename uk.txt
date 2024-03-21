@@ -15,3 +15,7 @@ socks://195.154.43.86:24272#🇬🇧 England|Wokingham|RG40|cpc157713-rdng30-2-0
 socks://138.201.21.232:62375#🇬🇧 England|Long Eaton|NG10|109-170-132-248.xdsl.murphx.net| 109.170.132.248 |Time View 20/03/2024 18:36:34 |Black List No |Use Type: Residential|
 socks://212.83.138.245:24427#🇬🇧 England|St Helens|WA10|cpc155059-know18-2-0-cust79.17-2.cable.virginm.net| 80.193.204.80 |Time View 20/03/2024 23:16:14 |Black List Yes |Use Type: Residential|
 socks://212.83.143.118:22763#🇬🇧 England|Walton on Thames|KT12|cpc114882-hers8-2-0-cust88.6-3.cable.virginm.net| 82.8.53.89 |Time View 20/03/2024 23:16:04 |Black List Yes |Use Type: Residential|
+socks://138.201.21.233:29034#🇬🇧 England|Halifax|HX3|hali-08-b2-v4wan-165836-cust778.vm3.cable.virginm.net| 82.32.131.11 |Time View 21/03/2024 09:07:46 |Black List Yes |Use Type: Residential|
+socks://212.83.143.49:60195#🇬🇧 England|Barnet|N3|cpc1-finc17-2-0-cust1450.4-2.cable.virginm.net| 82.19.229.171 |Time View 21/03/2024 09:07:40 |Black List No |Use Type: Residential|
+socks://138.201.21.233:16603#🇬🇧 England|Fulham|SW6|212.154-31-62.static.virginmediabusiness.co.uk| 62.31.154.212 |Time View 21/03/2024 09:07:35 |Black List No |Use Type: Business|
+socks://138.201.21.218:16585#🇬🇧 England|Birmingham|B17|cpc158507-smal20-2-0-cust20.19-1.cable.virginm.net| 86.15.176.21 |Time View 21/03/2024 09:07:32 |Black List No |Use Type: Residential|
