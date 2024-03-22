@@ -15,3 +15,6 @@ socks://67.213.212.50:19251#🇺🇸 Washington|Seattle|98102|136-27-4-26.cab.we
 socks://174.138.176.78:34247#🇺🇸 West Virginia|Huntington|25705|c-76-26-71-16.hsd1.wv.comcast.net| 76.26.71.16 |Time View 23/03/2024 05:07:03 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://67.213.212.47:26744#🇺🇸 Wisconsin|River Falls|54022|c-68-47-95-51.hsd1.mn.comcast.net| 68.47.95.51 |Time View 23/03/2024 05:06:25 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://162.19.7.57:16674#🇺🇸 Wisconsin|Platteville|53818|76-4-25-89.lcrs.centurylink.net| 76.4.25.89 |Time View 23/03/2024 05:06:19 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.114:12077#🇨🇿 Prague|Prague|150 00|ip-78-45-149-141.bb.vodafone.cz| 78.45.149.141 |Time View 23/03/2024 05:13:31 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.149:39276#🇨🇿 Central Bohemia|Kamenice|251 68|83-208-46-17.rcc.o2.cz| 83.208.46.17 |Time View 23/03/2024 05:13:26 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.143.103:33115#🇵🇱West Pomerania|Stargard|73-110|host-81-190-32-11.dynamic.mm.pl| 81.190.32.11 |Time View 23/03/2024 05:12:39 |Black List Yes |Use Type: Residential|https://dichvusocks.net
