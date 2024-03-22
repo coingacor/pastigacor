@@ -22,3 +22,7 @@ socks://138.201.21.218:16585#🇬🇧 England|Birmingham|B17|cpc158507-smal20-2-
 socks://138.201.21.227:64990#🇬🇧 England|Cambridge|CB2|TalkTalk| 78.145.52.0 |Time View 21/03/2024 17:59:22 |Black List Yes |Use Type: Residential|
 socks://212.83.138.172:31499#🇬🇧 England|Bolton|BL2|host81-155-240-77.range81-155.btcentralplus.com| 81.155.240.77 |Time View 21/03/2024 17:58:48 |Black List Yes |Use Type: Business|
 socks://212.83.142.158:33863#🇬🇧 England|Lewisham|SE13|host217-41-76-54.in-addr.btopenworld.com| 217.41.76.54 |Time View 21/03/2024 17:57:49 |Black List No |Use Type: Business|
+socks://162.19.7.57:62463#🇬🇧 Scotland|Inverurie|AB51|host86-145-125-80.range86-145.btcentralplus.com| 86.145.125.80 |Time View 22/03/2024 08:45:45 |Black List Yes |Use Type: Business|
+socks://51.83.116.4:15010#🇬🇧 England|Ferryhill|DL17|host165-120-239-18.range165-120.btcentralplus.com| 165.120.239.18 |Time View 22/03/2024 08:45:27 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:21430#🇬🇧 England|Cannock|WS12|host86-185-160-238.range86-185.btcentralplus.com| 86.185.160.238 |Time View 22/03/2024 08:45:07 |Black List Yes |Use Type: Business|
+socks://138.201.21.233:51777#🇬🇧 England|Hook|RG27|host5-80-40-180.range5-80.btcentralplus.com| 5.80.40.180 |Time View 22/03/2024 08:44:59 |Black List Yes |Use Type: Business|
