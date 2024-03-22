@@ -26,3 +26,9 @@ socks://162.19.7.57:62463#🇬🇧 Scotland|Inverurie|AB51|host86-145-125-80.ran
 socks://51.83.116.4:15010#🇬🇧 England|Ferryhill|DL17|host165-120-239-18.range165-120.btcentralplus.com| 165.120.239.18 |Time View 22/03/2024 08:45:27 |Black List Yes |Use Type: Business|
 socks://138.201.21.227:21430#🇬🇧 England|Cannock|WS12|host86-185-160-238.range86-185.btcentralplus.com| 86.185.160.238 |Time View 22/03/2024 08:45:07 |Black List Yes |Use Type: Business|
 socks://138.201.21.233:51777#🇬🇧 England|Hook|RG27|host5-80-40-180.range5-80.btcentralplus.com| 5.80.40.180 |Time View 22/03/2024 08:44:59 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:58255#🇬🇧 England|Liverpool|L33|host109-147-245-155.range109-147.btcentralplus.com| 109.147.245.155 |Time View 22/03/2024 16:21:06 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:58761#🇬🇧 England|Dewsbury|WF13|host86-159-19-24.range86-159.btcentralplus.com| 86.159.19.24 |Time View 22/03/2024 16:21:01 |Black List Yes |Use Type: Business|
+socks://5.161.74.235:7209#🇬🇧 Wales|Abergavenny|NP7|host81-151-245-112.range81-151.btcentralplus.com| 81.151.245.112 |Time View 22/03/2024 16:20:56 |Black List Yes |Use Type: Business|
+socks://212.83.142.145:15989#🇬🇧 England|Trowbridge|BA14|cpc123804-trow7-2-0-cust39.18-1.cable.virginm.net| 77.100.233.40 |Time View 22/03/2024 16:20:45 |Black List Yes |Use Type: Residential|
+socks://195.154.43.86:60429#🇬🇧 England|Wokingham|RG40|cpc157713-rdng30-2-0-cust812.15-3.cable.virginm.net| 86.20.227.45 |Time View 22/03/2024 16:20:36 |Black List Yes |Use Type: Residential|
+socks://51.83.116.3:60750#🇬🇧 England|Islington|N7|host217-35-74-63.in-addr.btopenworld.com| 217.35.74.63 |Time View 22/03/2024 16:20:22 |Black List No |Use Type: Residential|
