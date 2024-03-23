@@ -21,3 +21,5 @@ socks://212.83.143.103:33115#🇵🇱West Pomerania|Stargard|73-110|host-81-190-
 socks://212.83.143.60:56558#🇦🇺 Victoria|Melbourne|3065|60-241-88-58.static.tpgi.com.au| 60.241.88.58 |Time View 23/03/2024 10:53:37 |Black List No |Use Type: Business|
 socks://212.83.143.147:57627#🇦🇺 New South Wales|Sydney|2023|cpe-110-141-216-44.static.nsw.bigpond.net.au| 110.141.216.44 |Time View 23/03/2024 10:53:29 |Black List No |Use Type: Business|
 socks://51.83.116.4:10482#🇦🇺 New South Wales|Sydney|2006|ppp239-119.static.internode.on.net| 59.167.239.119 |Time View 23/03/2024 10:53:26 |Black List No |Use Type: Business|
+socks://212.83.138.245:53732#🇦🇺 New South Wales|Sydney|2000|cpe-101-190-7-40.nb16.nsw.asp.telstra.net| 101.190.7.40 |Time View 23/03/2024 16:23:29 |Black List Yes |Use Type: Business|
+socks://212.83.143.103:41635#🇦🇺 Victoria|Melbourne|3149|Telstra Internet| 120.157.201.219 |Time View 23/03/2024 16:23:24 |Black List Yes |Use Type: Business|
