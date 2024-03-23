@@ -4,3 +4,4 @@ socks://51.83.116.3:47722#🇬🇧 England|Barnet|NW11|host109-152-73-205.range1
 socks://212.83.138.172:58684#🇬🇧 England|Bolton|BL2|host81-155-240-77.range81-155.btcentralplus.com| 81.155.240.77 |Time View 23/03/2024 05:19:30 |Black List Yes |Use Type: Business
 socks://212.83.138.245:22157#🇬🇧 England|Newark on Trent|NG24|host81-146-6-132.range81-146.btcentralplus.com| 81.146.6.132 |Time View 23/03/2024 05:19:28 |Black List Yes |Use Type: Business
 socks://138.201.21.218:30586#🇬🇧 England|Cobham|KT11|host86-177-148-108.range86-177.btcentralplus.com| 86.177.148.108 |Time View 23/03/2024 05:19:25 |Black List Yes |Use Type: Business
+socks://212.83.143.118:36089#🇬🇧 Northern Ireland|Newtownabbey|BT37|host217-39-35-136.range217-39.btcentralplus.com| 217.39.35.136 |Time View 23/03/2024 09:20:09 |Black List Yes |Use Type: Business|
