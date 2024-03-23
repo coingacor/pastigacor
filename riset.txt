@@ -18,3 +18,6 @@ socks://162.19.7.57:16674#🇺🇸 Wisconsin|Platteville|53818|76-4-25-89.lcrs.c
 socks://212.83.142.114:12077#🇨🇿 Prague|Prague|150 00|ip-78-45-149-141.bb.vodafone.cz| 78.45.149.141 |Time View 23/03/2024 05:13:31 |Black List Yes |Use Type: Residential| DITUNGGU LAPORAN IKLAN GACOR NYA!!!
 socks://212.83.142.149:39276#🇨🇿 Central Bohemia|Kamenice|251 68|83-208-46-17.rcc.o2.cz| 83.208.46.17 |Time View 23/03/2024 05:13:26 |Black List No |Use Type: Residential| DITUNGGU LAPORAN IKLAN GACOR NYA!!!
 socks://212.83.143.103:33115#🇵🇱West Pomerania|Stargard|73-110|host-81-190-32-11.dynamic.mm.pl| 81.190.32.11 |Time View 23/03/2024 05:12:39 |Black List Yes |Use Type: Residential| DITUNGGU LAPORAN IKLAN GACOR NYA!!!
+socks://212.83.143.60:56558#🇦🇺 Victoria|Melbourne|3065|60-241-88-58.static.tpgi.com.au| 60.241.88.58 |Time View 23/03/2024 10:53:37 |Black List No |Use Type: Business|
+socks://212.83.143.147:57627#🇦🇺 New South Wales|Sydney|2023|cpe-110-141-216-44.static.nsw.bigpond.net.au| 110.141.216.44 |Time View 23/03/2024 10:53:29 |Black List No |Use Type: Business|
+socks://51.83.116.4:10482#🇦🇺 New South Wales|Sydney|2006|ppp239-119.static.internode.on.net| 59.167.239.119 |Time View 23/03/2024 10:53:26 |Black List No |Use Type: Business|
