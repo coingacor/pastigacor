@@ -10,3 +10,10 @@ socks://212.83.138.172:15584#🇬🇧 England|Bolton|BL2|host81-155-240-77.range
 socks://212.83.143.49:12891#🇬🇧 England|Preston|PR4|pres-24-b2-v4wan-161429-cust3210.vm29.cable.virginm.net| 86.23.140.139 |Time View 23/03/2024 14:29:59 |Black List Yes |Use Type: Residential|
 socks://212.83.138.186:52218#🇬🇧 England|Hemel Hempstead|HP3|cpc119496-heme14-2-0-cust2.9-1.cable.virginm.net| 82.12.238.3 |Time View 24/03/2024 17:39:45 |Black List Yes |Use Type: Residential|
 socks://212.83.138.186:43763#🇬🇧 England|Leicester|LE5|cpc87259-nfds16-2-0-cust632.8-2.cable.virginm.net| 86.12.14.121 |Time View 24/03/2024 17:39:40 |Black List Yes |Use Type: Residential|
+socks://195.154.43.86:32853#🇬🇧 England|Wokingham|RG40|cpc157713-rdng30-2-0-cust812.15-3.cable.virginm.net| 86.20.227.45 |Time View 24/03/2024 22:29:32 |Black List Yes |Use Type: Residential|
+socks://138.201.21.227:64144#🇬🇧 England|Dunstable|LU5|cpc124162-duns9-2-0-cust85.9-3.cable.virginm.net| 86.3.80.86 |Time View 24/03/2024 22:29:30 |Black List Yes |Use Type: Residential|
+socks://212.83.142.145:32035#🇬🇧 England|Trowbridge|BA14|cpc123804-trow7-2-0-cust39.18-1.cable.virginm.net| 77.100.233.40 |Time View 24/03/2024 22:29:27 |Black List Yes |Use Type: Residential|
+socks://138.201.21.233:19629#🇬🇧 England|Halifax|HX3|hali-08-b2-v4wan-165836-cust778.vm3.cable.virginm.net| 82.32.131.11 |Time View 24/03/2024 22:29:24 |Black List Yes |Use Type: Residential|
+socks://138.201.21.228:10716#🇬🇧 England|Letchworth Garden City|SG6|cpc160891-lutn15-2-0-cust674.9-3.cable.virginm.net| 82.5.110.163 |Time View 24/03/2024 22:29:15 |Black List Yes |Use Type: Residential|
+socks://212.83.138.186:14141#🇬🇧 England|Hemel Hempstead|HP2|cpc119496-heme14-2-0-cust2.9-1.cable.virginm.net| 82.12.238.3 |Time View 24/03/2024 22:28:31 |Black List Yes |Use Type: Residential|
+socks://212.83.138.245:37556#🇬🇧 England|Newark on Trent|NG24|host81-146-6-132.range81-146.btcentralplus.com| 81.146.6.132 |Time View 24/03/2024 22:28:09 |Black List Yes |Use Type: Business|
