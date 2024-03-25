@@ -23,3 +23,7 @@ socks://138.201.21.232:47429#🇬🇧 England|Liverpool|L13|TalkTalk| 81.178.157
 socks://138.201.21.233:28120#🇬🇧 England|Bolton|BL3|TalkTalk| 81.178.146.71 |Time View 25/03/2024 11:59:46 |Black List Yes |Use Type: Residential|
 socks://138.201.21.218:60952#🇬🇧 England|Milton Keynes|MK6|TalkTalk| 79.79.154.46 |Time View 25/03/2024 11:59:34 |Black List Yes |Use Type: Business|
 socks://138.201.21.232:39335#🇬🇧 England|Gillingham|ME8|TalkTalk| 79.79.135.135 |Time View 25/03/2024 11:59:30 |Black List Yes |Use Type: Business|
+socks://51.83.116.3:47722#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 25/03/2024 19:34:54 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:55496#🇬🇧 England|Wigan|WN3|host31-50-241-135.range31-50.btcentralplus.com| 31.50.241.135 |Time View 25/03/2024 19:34:52 |Black List Yes |Use Type: Business|
+socks://138.201.21.232:29442#🇬🇧 England|Bolton|BL2|host31-126-47-12.range31-126.btcentralplus.com| 31.126.47.12 |Time View 25/03/2024 19:34:47 |Black List Yes |Use Type: Business|
+socks://51.83.116.4:62948#🇬🇧 England|Skelmersdale|WN8|host86-140-238-118.range86-140.btcentralplus.com| 86.140.238.118 |Time View 25/03/2024 19:34:23 |Black List Yes |Use Type: Business|
