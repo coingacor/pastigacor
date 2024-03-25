@@ -39,3 +39,4 @@ socks://212.83.138.245:53732#🇦🇺 New South Wales|Sydney|2000|cpe-101-190-7-
 socks://212.83.142.114:27612#🇨🇭 Bern|Bern|3012|99.95.63.188.dynamic.wline.res.cust.swisscom.ch| 188.63.95.99 |Time View 25/03/2024 14:16:10 |Black List Yes |Use Type: Business|
 socks://212.83.142.149:58417#🇨🇭 Grisons|Fläsch|7306|103.17.3.213.static.wline.lns.sme.cust.swisscom.ch| 213.3.17.103 |Time View 25/03/2024 14:16:06 |Black List No |Use Type: Residential|
 socks://212.83.138.186:61088#🇨🇭 Bern|Bern|3014|196.202.6.85.dynamic.wline.res.cust.swisscom.ch| 85.6.202.196 |Time View 25/03/2024 14:16:03 |Black List Yes |Use Type: Business|
+socks://212.83.143.60:20190#🇨🇭 Geneva|Geneva|1207|151.64.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.64.151 |Time View 25/03/2024 19:24:35 |Black List Yes |Use Type: Business|
