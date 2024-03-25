@@ -17,3 +17,9 @@ socks://138.201.21.233:19629#🇬🇧 England|Halifax|HX3|hali-08-b2-v4wan-16583
 socks://138.201.21.228:10716#🇬🇧 England|Letchworth Garden City|SG6|cpc160891-lutn15-2-0-cust674.9-3.cable.virginm.net| 82.5.110.163 |Time View 24/03/2024 22:29:15 |Black List Yes |Use Type: Residential|
 socks://212.83.138.186:14141#🇬🇧 England|Hemel Hempstead|HP2|cpc119496-heme14-2-0-cust2.9-1.cable.virginm.net| 82.12.238.3 |Time View 24/03/2024 22:28:31 |Black List Yes |Use Type: Residential|
 socks://212.83.138.245:37556#🇬🇧 England|Newark on Trent|NG24|host81-146-6-132.range81-146.btcentralplus.com| 81.146.6.132 |Time View 24/03/2024 22:28:09 |Black List Yes |Use Type: Business|
+socks://138.201.21.233:11129#🇬🇧 England|Chatham|ME5|TalkTalk| 79.79.130.128 |Time View 25/03/2024 12:00:33 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:51939#🇬🇧 England|Slough|SL1|TalkTalk| 81.178.249.34 |Time View 25/03/2024 12:00:00 |Black List Yes |Use Type: Residential|
+socks://138.201.21.232:47429#🇬🇧 England|Liverpool|L13|TalkTalk| 81.178.157.96 |Time View 25/03/2024 11:59:51 |Black List Yes |Use Type: Residential|
+socks://138.201.21.233:28120#🇬🇧 England|Bolton|BL3|TalkTalk| 81.178.146.71 |Time View 25/03/2024 11:59:46 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:60952#🇬🇧 England|Milton Keynes|MK6|TalkTalk| 79.79.154.46 |Time View 25/03/2024 11:59:34 |Black List Yes |Use Type: Business|
+socks://138.201.21.232:39335#🇬🇧 England|Gillingham|ME8|TalkTalk| 79.79.135.135 |Time View 25/03/2024 11:59:30 |Black List Yes |Use Type: Business|
