@@ -40,3 +40,36 @@ socks://212.83.142.114:27612#🇨🇭 Bern|Bern|3012|99.95.63.188.dynamic.wline.
 socks://212.83.142.149:58417#🇨🇭 Grisons|Fläsch|7306|103.17.3.213.static.wline.lns.sme.cust.swisscom.ch| 213.3.17.103 |Time View 25/03/2024 14:16:06 |Black List No |Use Type: Residential|
 socks://212.83.138.186:61088#🇨🇭 Bern|Bern|3014|196.202.6.85.dynamic.wline.res.cust.swisscom.ch| 85.6.202.196 |Time View 25/03/2024 14:16:03 |Black List Yes |Use Type: Business|
 socks://212.83.143.60:20190#🇨🇭 Geneva|Geneva|1207|151.64.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.64.151 |Time View 25/03/2024 19:24:35 |Black List Yes |Use Type: Business|
+socks://88.99.138.21:5769#🇷🇺 Chelyabinsk Oblast|Chelyabinsk|454000|94x181x44x239.static-customer.chel.ertelecom.ru| 94.181.44.239 |Time View 25/03/2024 22:28:25 |Black List Yes |Use Type: Residential|
+socks://193.29.62.48:29741#🇷🇺 Unknown|Unknown|Unknown|Telezon-Seti LCC| 195.209.97.161 |Time View 25/03/2024 22:28:22 |Black List Yes |Use Type: Business|
+socks://88.99.138.21:5412#🇷🇺 Tomsk Oblast|Tomsk|634049|JSC Rostelecom regional branch "Siberia"| 37.21.149.215 |Time View 25/03/2024 22:28:09 |Black List Yes |Use Type: Business|
+socks://88.99.138.21:5180#🇷🇺 Unknown|Unknown|Unknown|eTelecom Customers NAT Network| 91.108.28.242 |Time View 25/03/2024 22:28:00 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:45220#🇷🇺 Moscow|Moscow|125310|168.86.45-166.in-addr.netone.ru| 45.86.168.166 |Time View 25/03/2024 22:27:56 |Black List No |Use Type: Business|
+socks://176.126.84.126:32663#🇷🇺 Saratov Oblast|Saratov|410999|pppoe-217-23-74-96-fix-srv.retail.ttk.ru| 217.23.74.96 |Time View 25/03/2024 22:27:48 |Black List Yes |Use Type: Residential|
+socks://162.19.7.46:60861#🇩🇪 Bavaria|Munich|81669|dynamic-176-002-146-026.176.2.pool.telefonica.de| 176.2.146.26 |Time View 25/03/2024 22:27:28 |Black List Yes |Use Type: Business|
+socks://89.58.45.94:43134#🇩🇪 Thuringia|Bad Langensalza|99947|Thueringer Netkom GmbH| 109.73.31.91 |Time View 25/03/2024 22:27:21 |Black List Yes |Use Type: Business|
+socks://212.83.143.97:40175#🇩🇪 Bavaria|Illertissen|89257|ipb219606a.dynamic.kabel-deutschland.de| 178.25.96.106 |Time View 25/03/2024 22:27:18 |Black List Yes |Use Type: Residential|
+socks://212.83.142.114:11732#🇩🇪 Free and Hanseatic City of Hamburg|Hamburg|21107|pd953ffb3.dip0.t-ipconnect.de| 217.83.255.179 |Time View 25/03/2024 22:27:13 |Black List Yes |Use Type: Residential|
+socks://66.29.128.246:12621#🇺🇸 New Jersey|Riverside Park|08075|c-73-196-181-138.hsd1.nj.comcast.net| 73.196.181.138 |Time View 25/03/2024 22:26:06 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:37006#🇺🇸 Georgia|Peachtree Corners|30092|76-216-120-234.lightspeed.tukrga.sbcglobal.net| 76.216.120.234 |Time View 25/03/2024 22:26:01 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:14505#🇺🇸 Massachusetts|Acton|01720|static-71-248-181-83.bstnma.fios.verizon.net| 71.248.181.83 |Time View 25/03/2024 22:25:55 |Black List No |Use Type: Residential|
+socks://209.159.153.21:13585#🇺🇸 Alabama|Madison|35758|user-24-96-232-155.knology.net| 24.96.232.155 |Time View 25/03/2024 22:25:42 |Black List Yes |Use Type: Business|
+socks://67.213.212.52:51636#🇺🇸 Florida|Palm Harbor|34683|user-69-73-73-218.knology.net| 69.73.73.218 |Time View 25/03/2024 22:25:40 |Black List Yes |Use Type: Business|
+socks://67.213.212.55:49327#🇺🇸 Florida|Panama City|32404|user-24-96-112-239.knology.net| 24.96.112.239 |Time View 25/03/2024 22:25:16 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:18588#🇦🇺 Victoria|Melbourne|3001|Telstra Internet| 120.157.253.141 |Time View 25/03/2024 22:24:52 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:58096#🇦🇺 New South Wales|Sydney|2000|60-241-245-126.static.tpgi.com.au| 60.241.245.126 |Time View 25/03/2024 22:24:45 |Black List No |Use Type: Business|
+socks://212.83.143.60:51482#🇦🇺 Victoria|Melbourne|3181|60-241-88-58.static.tpgi.com.au| 60.241.88.58 |Time View 25/03/2024 22:24:38 |Black List No |Use Type: Business|
+socks://162.19.7.47:50010#🇦🇺 Queensland|Brisbane|4000|cpe-101-180-225-217.tb01.tas.asp.telstra.net| 101.180.225.217 |Time View 25/03/2024 22:24:33 |Black List Yes |Use Type: Business|
+socks://89.58.45.94:33826#🇦🇺 New South Wales|Sydney|2086|Telstra Corporation Limited| 60.231.34.210 |Time View 25/03/2024 22:24:28 |Black List No |Use Type: Business|
+socks://212.83.138.245:13300#🇧🇬 Veliko Tarnovo|Pavlikeni|5200|19683.telnet.bg| 109.199.141.125 |Time View 25/03/2024 22:23:32 |Black List No |Use Type: Business|
+socks://134.195.91.76:35648#🇧🇬 Veliko Tarnovo|Unknown|Unknown|242.uMa.HeT.oT.telnet.bg| 212.50.64.242 |Time View 25/03/2024 22:23:30 |Black List No |Use Type: Residential|
+socks://134.195.91.76:26257#🇧🇬 Sofia-Capital|Sofia|1000|84-40-111-182.net1.bg| 84.40.111.182 |Time View 25/03/2024 22:23:25 |Black List Yes |Use Type: Business|
+socks://89.58.45.94:37952#🇧🇬 Sliven|Sliven|8800|Neterra Ltd| 87.121.76.210 |Time View 25/03/2024 22:23:21 |Black List No |Use Type: Business|
+socks://31.220.43.141:21645#🇵🇱 Mazovia|Majdan|05-462|pdd238.internetdsl.tpnet.pl| 46.171.81.238 |Time View 25/03/2024 22:21:40 |Black List No |Use Type: Residential|
+socks://212.83.142.149:50905#🇵🇱 Pomerania|Sopot|81-805|89-78-97-65.dynamic.chello.pl| 89.78.97.65 |Time View 25/03/2024 22:21:30 |Black List Yes |Use Type: Business|
+socks://212.83.138.186:50969#🇵🇱 Mazovia|Warsaw|00-510|85-222-79-46.dynamic.chello.pl| 85.222.79.46 |Time View 25/03/2024 22:21:26 |Black List No |Use Type: Business|
+socks://212.83.143.97:13600#🇸🇪 Stockholm County|Stockholm|100 04|195-198-118-12.customer.telia.com| 195.198.118.12 |Time View 25/03/2024 22:20:50 |Black List No |Use Type: Business|
+socks://212.83.143.147:31598#🇸🇪 Norrbotten County|Boden|961 50|c80-216-199-80.bredband.tele2.se| 80.216.199.80 |Time View 25/03/2024 22:20:46 |Black List No |Use Type: Residential|
+socks://212.83.143.49:23403#🇸🇪 Jämtland County|Strömsund|833 31|81-235-129-106-no14.tbcn.telia.com| 81.235.129.106 |Time View 25/03/2024 22:20:43 |Black List No |Use Type: Business|
+socks://212.83.143.147:58498#🇨🇭 Zurich|Zurich|8001|105.55.174.178.static.wline.lns.sme.cust.swisscom.ch| 178.174.55.105 |Time View 25/03/2024 22:20:13 |Black List No |Use Type: Hosting|
+socks://195.154.43.86:39155#🇨🇭 Zurich|Zurich|8046|234-34-48-195.pool.dsl-net.ch| 195.48.34.234 |Time View 25/03/2024 22:20:10 |Black List No |Use Type: Residential|
