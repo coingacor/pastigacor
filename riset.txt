@@ -36,3 +36,6 @@ socks://212.83.138.186:43763#🇬🇧 England|Leicester|LE5|cpc87259-nfds16-2-0-
 socks://51.83.116.2:36353#🇦🇺 New South Wales|Sydney|2000|cpe-101-173-242-172.nb13.nsw.asp.telstra.net| 101.173.242.172 |Time View 25/03/2024 13:16:50 |Black List Yes |Use Type: Business|
 socks://51.83.116.4:49537#🇦🇺 Victoria|Melbourne|3150|cpe-120-147-151-155.vb10.vic.asp.telstra.net| 120.147.151.155 |Time View 25/03/2024 13:16:44 |Black List Yes |Use Type: Business|
 socks://212.83.138.245:53732#🇦🇺 New South Wales|Sydney|2000|cpe-101-190-7-40.nb16.nsw.asp.telstra.net| 101.190.7.40 |Time View 25/03/2024 13:16:26 |Black List Yes |Use Type: Business|
+socks://212.83.142.114:27612#🇨🇭 Bern|Bern|3012|99.95.63.188.dynamic.wline.res.cust.swisscom.ch| 188.63.95.99 |Time View 25/03/2024 14:16:10 |Black List Yes |Use Type: Business|
+socks://212.83.142.149:58417#🇨🇭 Grisons|Fläsch|7306|103.17.3.213.static.wline.lns.sme.cust.swisscom.ch| 213.3.17.103 |Time View 25/03/2024 14:16:06 |Black List No |Use Type: Residential|
+socks://212.83.138.186:61088#🇨🇭 Bern|Bern|3014|196.202.6.85.dynamic.wline.res.cust.swisscom.ch| 85.6.202.196 |Time View 25/03/2024 14:16:03 |Black List Yes |Use Type: Business|
