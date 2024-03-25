@@ -33,3 +33,6 @@ socks://23.105.170.30:30103#🇺🇸 Massachusetts|Andover|01810|c-75-68-227-248
 socks://23.105.170.32:49340#🇺🇸 Maryland|Timonium|21093|c-69-255-78-243.hsd1.md.comcast.net| 69.255.78.243 |Time View 24/03/2024 19:43:19 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.138.186:52218#🇬🇧 England|Hemel Hempstead|HP3|cpc119496-heme14-2-0-cust2.9-1.cable.virginm.net| 82.12.238.3 |Time View 24/03/2024 17:39:45 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.138.186:43763#🇬🇧 England|Leicester|LE5|cpc87259-nfds16-2-0-cust632.8-2.cable.virginm.net| 86.12.14.121 |Time View 24/03/2024 17:39:40 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.2:36353#🇦🇺 New South Wales|Sydney|2000|cpe-101-173-242-172.nb13.nsw.asp.telstra.net| 101.173.242.172 |Time View 25/03/2024 13:16:50 |Black List Yes |Use Type: Business|
+socks://51.83.116.4:49537#🇦🇺 Victoria|Melbourne|3150|cpe-120-147-151-155.vb10.vic.asp.telstra.net| 120.147.151.155 |Time View 25/03/2024 13:16:44 |Black List Yes |Use Type: Business|
+socks://212.83.138.245:53732#🇦🇺 New South Wales|Sydney|2000|cpe-101-190-7-40.nb16.nsw.asp.telstra.net| 101.190.7.40 |Time View 25/03/2024 13:16:26 |Black List Yes |Use Type: Business|
