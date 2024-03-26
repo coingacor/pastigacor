@@ -6,3 +6,10 @@ socks://138.201.21.232:17640#🇬🇧 England|Bromsgrove|B60|host81-152-172-103.
 socks://138.201.21.218:64097#🇬🇧 England|Cobham|KT11|host86-177-148-108.range86-177.btcentralplus.com| 86.177.148.108 |Time View 26/03/2024 10:14:06 |Black List Yes |Use Type: Business|
 socks5://51.83.116.3:47722/#%F0%9F%87%AC%F0%9F%87%A7%20England%7CBarnet%7CNW11%7Chost109-152-73-205.range109-152.btcentralplus.com%7C%20109.152.73.205%20%7CTime%20View%2023%2F03%2F2024%2005%3A19%3A34%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business
 socks5://212.83.138.245:37556/#%F0%9F%87%AC%F0%9F%87%A7%20England%7CNewark%20on%20Trent%7CNG24%7Chost81-146-6-132.range81-146.btcentralplus.com%7C%2081.146.6.132%20%7CTime%20View%2024%2F03%2F2024%2022%3A28%3A09%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
+socks://212.83.142.131:22389#🇬🇧 England|Stowmarket|IP14|5ad69396.bb.sky.com| 90.214.147.150 |Time View 26/03/2024 23:30:52 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:58453#🇬🇧 England|Nottingham|NG7|host-213-78-254-225.as13285.net| 213.78.254.225 |Time View 26/03/2024 23:30:50 |Black List Yes |Use Type: Residential|
+socks://51.83.116.3:46075#🇬🇧 England|Islington|N7|host217-35-74-63.in-addr.btopenworld.com| 217.35.74.63 |Time View 26/03/2024 23:30:42 |Black List No |Use Type: Residential|
+socks://51.83.116.6:64725#🇬🇧 England|Aylesbury|HP18|0540e47f.skybroadband.com| 5.64.228.127 |Time View 26/03/2024 23:29:45 |Black List Yes |Use Type: Residential|
+socks://212.83.138.186:14141#🇬🇧 England|Hemel Hempstead|HP2|cpc119496-heme14-2-0-cust2.9-1.cable.virginm.net| 82.12.238.3 |Time View 26/03/2024 23:28:56 |Black List Yes |Use Type: Residential|
+socks://212.83.138.186:14567#🇬🇧 England|Leicester|LE5|cpc87259-nfds16-2-0-cust632.8-2.cable.virginm.net| 86.12.14.121 |Time View 26/03/2024 23:28:54 |Black List Yes |Use Type: Residential|
+socks://212.83.143.118:58170#🇬🇧 England|Walton on Thames|KT12|cpc114882-hers8-2-0-cust88.6-3.cable.virginm.net| 82.8.53.89 |Time View 26/03/2024 23:28:52 |Black List Yes |Use Type: Residential|
