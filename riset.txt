@@ -73,3 +73,22 @@ socks://212.83.143.147:31598#🇸🇪 Norrbotten County|Boden|961 50|c80-216-199
 socks://212.83.143.49:23403#🇸🇪 Jämtland County|Strömsund|833 31|81-235-129-106-no14.tbcn.telia.com| 81.235.129.106 |Time View 25/03/2024 22:20:43 |Black List No |Use Type: Business|
 socks://212.83.143.147:58498#🇨🇭 Zurich|Zurich|8001|105.55.174.178.static.wline.lns.sme.cust.swisscom.ch| 178.174.55.105 |Time View 25/03/2024 22:20:13 |Black List No |Use Type: Hosting|
 socks://195.154.43.86:39155#🇨🇭 Zurich|Zurich|8046|234-34-48-195.pool.dsl-net.ch| 195.48.34.234 |Time View 25/03/2024 22:20:10 |Black List No |Use Type: Residential|
+socks://212.83.138.186:37382#🇨🇭 Bern|Bern|3014|196.202.6.85.dynamic.wline.res.cust.swisscom.ch| 85.6.202.196 |Time View 26/03/2024 09:38:00 |Black List Yes |Use Type: Business|
+socks://212.83.142.114:41916#🇨🇭 Bern|Bern|3012|99.95.63.188.dynamic.wline.res.cust.swisscom.ch| 188.63.95.99 |Time View 26/03/2024 09:37:57 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:24599#🇨🇭 Valais|Martigny-Ville|1920|182.147.198.178.dynamic.wline.res.cust.swisscom.ch| 178.198.147.182 |Time View 26/03/2024 09:37:54 |Black List Yes |Use Type: Business|
+socks://51.83.116.2:43868#🇨🇭 Zurich|Zurich|8051|75-230-221-81.pool.dsl-net.ch| 81.221.230.75 |Time View 26/03/2024 09:37:48 |Black List No |Use Type: Residential|
+socks://212.83.138.192:35064#🇨🇭 Bern|Biel/Bienne|2503|46-126-81-96.dynamic.hispeed.ch| 46.126.81.96 |Time View 26/03/2024 09:37:46 |Black List Yes |Use Type: Residential|
+socks://212.83.142.149:61721#🇨🇭 Grisons|Fläsch|7306|103.17.3.213.static.wline.lns.sme.cust.swisscom.ch| 213.3.17.103 |Time View 26/03/2024 09:37:43 |Black List No |Use Type: Residential|
+socks://212.83.143.97:61606#🇨🇭 Saint Gallen|St. Gallen|9011|6.194.1.85.dynamic.wline.res.cust.swisscom.ch| 85.1.194.6 |Time View 26/03/2024 09:37:41 |Black List Yes |Use Type: Business|
+socks://212.83.143.60:18572#🇨🇭 Geneva|Geneva|1207|151.64.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.64.151 |Time View 26/03/2024 09:37:38 |Black List Yes |Use Type: Business|
+socks://195.154.43.86:26606#🇨🇭 Zurich|Zurich|8046|234-34-48-195.pool.dsl-net.ch| 195.48.34.234 |Time View 26/03/2024 09:37:35 |Black List No |Use Type: Residential|
+socks://212.83.142.131:26711#🇨🇭 Saint Gallen|Jona|8645|77-58-52-56.dclient.hispeed.ch| 77.58.52.56 |Time View 26/03/2024 09:37:33 |Black List Yes |Use Type: Residential|
+socks://195.154.43.86:36033#🇨🇭 Geneva|Geneva|1205|212.33.196.178.dynamic.wline.res.cust.swisscom.ch| 178.196.33.212 |Time View 26/03/2024 09:37:30 |Black List Yes |Use Type: Business|
+socks://212.83.142.149:60642#🇨🇭 Lucerne|Lucerne|6005|134.98.7.85.dynamic.wline.res.cust.swisscom.ch| 85.7.98.134 |Time View 26/03/2024 09:37:29 |Black List Yes |Use Type: Business|
+socks://51.83.116.5:43372#🇨🇭 Thurgau|Amriswil|8580|Iway AG| 178.250.131.42 |Time View 26/03/2024 09:37:25 |Black List No |Use Type: Business|
+socks://212.83.142.100:42143#🇨🇭 Zurich|Zurich|8004|emea.switzerland.5247.ip5.regusnet.com| 84.20.50.164 |Time View 26/03/2024 09:37:22 |Black List No |Use Type: Residential|
+socks://212.83.143.60:55391#🇨🇭 Aargau|Mellingen|5507|77-56-0-51.dclient.hispeed.ch| 77.56.0.51 |Time View 26/03/2024 09:37:19 |Black List Yes |Use Type: Residential|
+socks://212.83.143.103:57122#🇨🇭 Vaud|Cugy|1053|85-218-51-22.dclient.lsne.ch| 85.218.51.22 |Time View 26/03/2024 09:37:17 |Black List Yes |Use Type: Residential|
+socks://51.83.116.4:37172#🇨🇭 Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 26/03/2024 09:37:14 |Black List Yes |Use Type: Business|
+socks://51.83.116.7:55512#🇨🇭 Vaud|Sarzens|1683|118.116.105.92.dynamic.wline.res.cust.swisscom.ch| 92.105.116.118 |Time View 26/03/2024 09:37:11 |Black List Yes |Use Type: Business|
+socks://212.83.138.186:27769#🇨🇭 Solothurn|Dornach|4143|cable-static-245-237.breitband.ch| 87.102.245.237 |Time View 26/03/2024 09:37:08 |Black List No |Use Type: Residential|
