@@ -95,3 +95,18 @@ socks://212.83.138.186:27769#🇨🇭 Solothurn|Dornach|4143|cable-static-245-23
 socks://212.83.142.131:15011#🇨🇭 Uri|Altdorf|6460|80-219-99-224.dclient.hispeed.ch| 80.219.99.224 |Time View 26/03/2024 09:39:56 |Black List Yes |Use Type: Residential|
 socks://212.83.143.204:64728#🇨🇭 Vaud|Lausanne|1007|gwendon.knobl.ch| 62.220.136.99 |Time View 26/03/2024 09:39:54 |Black List No |Use Type: Business|
 socks://212.83.138.172:14502#🇨🇭 Basel-Landschaft|Liestal|4410|61.59.77.83.dynamic.wline.res.cust.swisscom.ch| 83.77.59.61 |Time View 26/03/2024 09:39:51 |Black List Yes |Use Type: Business|
+socks://212.83.142.131:24694#🇳🇱 North Brabant|Goirle|5051|217-63-50-184.cable.dynamic.v4.ziggo.nl| 217.63.50.184 |Time View 26/03/2024 23:35:38 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.149:22413#🇳🇱 North Holland|Heerhugowaard|1704|BlackGATE B.V.| 45.128.1.99 |Time View 26/03/2024 23:35:35 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.158:51072#🇳🇱 North Brabant|Vught|5261|83-81-93-242.cable.dynamic.v4.ziggo.nl| 83.81.93.242 |Time View 26/03/2024 23:35:32 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.143.147:48311#🇨🇭 Valais|Martigny-Ville|1920|182.147.198.178.dynamic.wline.res.cust.swisscom.ch| 178.198.147.182 |Time View 26/03/2024 23:35:15 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.204:52151#🇨🇭 Vaud|Lausanne|1007|gwendon.knobl.ch| 62.220.136.99 |Time View 26/03/2024 23:35:11 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.100:47923#🇨🇭 Zurich|Zurich|8004|emea.switzerland.5247.ip5.regusnet.com| 84.20.50.164 |Time View 26/03/2024 23:34:58 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.4:37013#🇨🇭 Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 26/03/2024 23:34:46 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.2:34200#🇨🇭 Zurich|Zurich|8051|75-230-221-81.pool.dsl-net.ch| 81.221.230.75 |Time View 26/03/2024 23:34:13 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://162.19.7.59:49814#🇨🇭 Bern|Ostermundigen|3072|46-127-116-121.dynamic.hispeed.ch| 46.127.116.121 |Time View 26/03/2024 23:34:10 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://195.154.43.86:25248#🇨🇭 Zurich|Zurich|8046|234-34-48-195.pool.dsl-net.ch| 195.48.34.234 |Time View 26/03/2024 23:34:05 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.143.103:52380#🇨🇭 Vaud|Cugy|1053|85-218-51-22.dclient.lsne.ch| 85.218.51.22 |Time View 26/03/2024 23:34:02 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://195.154.43.86:11253#🇨🇭 Thurgau|Stachen|9320|212.226.1.85.dynamic.wline.res.cust.swisscom.ch| 85.1.226.212 |Time View 26/03/2024 23:33:59 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.158:11160#🇦🇺 New South Wales|Sydney|2000|Telstra Corporation Limited| 101.166.5.51 |Time View 26/03/2024 23:33:34 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://162.19.7.48:59532#🇦🇺 South Australia|Barinia|5453|Beam Barossa| 45.253.129.88 |Time View 26/03/2024 23:33:25 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.3:62327#🇦🇺 New South Wales|Sydney|2000|Telstra Corporation Limited| 60.231.93.168 |Time View 26/03/2024 23:33:11 |Black List No |Use Type: Business|https://dichvusocks.net
