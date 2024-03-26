@@ -92,3 +92,6 @@ socks://212.83.143.103:57122#🇨🇭 Vaud|Cugy|1053|85-218-51-22.dclient.lsne.c
 socks://51.83.116.4:37172#🇨🇭 Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 26/03/2024 09:37:14 |Black List Yes |Use Type: Business|
 socks://51.83.116.7:55512#🇨🇭 Vaud|Sarzens|1683|118.116.105.92.dynamic.wline.res.cust.swisscom.ch| 92.105.116.118 |Time View 26/03/2024 09:37:11 |Black List Yes |Use Type: Business|
 socks://212.83.138.186:27769#🇨🇭 Solothurn|Dornach|4143|cable-static-245-237.breitband.ch| 87.102.245.237 |Time View 26/03/2024 09:37:08 |Black List No |Use Type: Residential|
+socks://212.83.142.131:15011#🇨🇭 Uri|Altdorf|6460|80-219-99-224.dclient.hispeed.ch| 80.219.99.224 |Time View 26/03/2024 09:39:56 |Black List Yes |Use Type: Residential|
+socks://212.83.143.204:64728#🇨🇭 Vaud|Lausanne|1007|gwendon.knobl.ch| 62.220.136.99 |Time View 26/03/2024 09:39:54 |Black List No |Use Type: Business|
+socks://212.83.138.172:14502#🇨🇭 Basel-Landschaft|Liestal|4410|61.59.77.83.dynamic.wline.res.cust.swisscom.ch| 83.77.59.61 |Time View 26/03/2024 09:39:51 |Black List Yes |Use Type: Business|
