@@ -110,3 +110,23 @@ socks://195.154.43.86:11253#🇨🇭 Thurgau|Stachen|9320|212.226.1.85.dynamic.w
 socks://212.83.142.158:11160#🇦🇺 New South Wales|Sydney|2000|Telstra Corporation Limited| 101.166.5.51 |Time View 26/03/2024 23:33:34 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://162.19.7.48:59532#🇦🇺 South Australia|Barinia|5453|Beam Barossa| 45.253.129.88 |Time View 26/03/2024 23:33:25 |Black List No |Use Type: Business|https://dichvusocks.net
 socks://51.83.116.3:62327#🇦🇺 New South Wales|Sydney|2000|Telstra Corporation Limited| 60.231.93.168 |Time View 26/03/2024 23:33:11 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.97:65467#🇨🇭 Saint Gallen|St. Gallen|9011|6.194.1.85.dynamic.wline.res.cust.swisscom.ch| 85.1.194.6 |Time View 27/03/2024 15:05:40 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://195.154.43.86:41775#🇨🇭 Geneva|Geneva|1205|212.33.196.178.dynamic.wline.res.cust.swisscom.ch| 178.196.33.212 |Time View 27/03/2024 15:05:32 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.60:29951#🇨🇭 Aargau|Mellingen|5507|77-56-0-51.dclient.hispeed.ch| 77.56.0.51 |Time View 27/03/2024 15:05:23 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.100:64941#🇨🇭 Zurich|Zurich|8004|emea.switzerland.5247.ip5.regusnet.com| 84.20.50.164 |Time View 27/03/2024 15:05:20 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.114:45968#🇨🇭 Bern|Bern|3012|99.95.63.188.dynamic.wline.res.cust.swisscom.ch| 188.63.95.99 |Time View 27/03/2024 15:05:18 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.149:48957#🇨🇭 Lucerne|Lucerne|6005|134.98.7.85.dynamic.wline.res.cust.swisscom.ch| 85.7.98.134 |Time View 27/03/2024 15:05:17 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.138.186:10520#🇨🇭 Solothurn|Dornach|4143|cable-static-245-237.breitband.ch| 87.102.245.237 |Time View 27/03/2024 15:05:15 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://195.154.43.86:41569#🇨🇭 Zurich|Zurich|8046|234-34-48-195.pool.dsl-net.ch| 195.48.34.234 |Time View 27/03/2024 15:05:11 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.138.192:35064#🇨🇭 Bern|Biel/Bienne|2503|46-126-81-96.dynamic.hispeed.ch| 46.126.81.96 |Time View 27/03/2024 15:05:10 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.143.204:38643#🇨🇭 Vaud|Lausanne|1007|gwendon.knobl.ch| 62.220.136.99 |Time View 27/03/2024 15:05:09 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.103:38463#🇨🇭 Vaud|Cugy|1053|85-218-51-22.dclient.lsne.ch| 85.218.51.22 |Time View 27/03/2024 15:05:01 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.138.172:34100#🇨🇭 Basel-Landschaft|Liestal|4410|61.59.77.83.dynamic.wline.res.cust.swisscom.ch| 83.77.59.61 |Time View 27/03/2024 15:04:59 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.6:57069#🇦🇺 New South Wales|Sydney|2128|boo3114898.lnk.telstra.net| 58.171.252.53 |Time View 27/03/2024 15:04:45 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.3:52844#🇦🇺 New South Wales|Sydney|2000|Telstra Corporation Limited| 60.231.93.168 |Time View 27/03/2024 15:04:41 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://138.201.21.228:65014#🇦🇺 South Australia|Adelaide|5042|31-54-136-123.ip.esc.net.au| 123.136.54.31 |Time View 27/03/2024 15:04:32 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://89.58.45.94:43530#🇦🇺 New South Wales|Sydney|2086|Telstra Corporation Limited| 60.231.34.210 |Time View 27/03/2024 15:04:23 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.49:57059#🇦🇺 Queensland|Brisbane|4101|203-121-199-36.r.fuzenet.com.au| 203.121.199.36 |Time View 27/03/2024 15:04:19 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://138.201.21.228:48019#🇦🇺 Queensland|Mount Beppo|4313|120-88-113-67.785871.bne.static.aussiebb.net| 120.88.113.67 |Time View 27/03/2024 15:04:14 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.143.97:64207#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 165.228.221.16 |Time View 27/03/2024 15:04:09 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.60:48033#🇦🇺 Queensland|Brisbane|4000|paw2697105.lnk.telstra.net| 101.187.147.137 |Time View 27/03/2024 15:04:03 |Black List No |Use Type: Business|https://dichvusocks.net
