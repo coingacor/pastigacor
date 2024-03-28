@@ -7,3 +7,6 @@ socks://212.83.143.49:26914#🇬🇧 England|Barnet|N3|cpc1-finc17-2-0-cust1450.
 socks://138.201.21.228:64776#🇬🇧 England|Bolton|BL1|cpc157885-bolt19-2-0-cust925.10-3.cable.virginm.net| 86.12.19.158 |Time View 28/03/2024 18:34:07 |Black List Yes |Use Type: Residential|
 socks://138.201.21.218:64569#🇬🇧 England|Halifax|HX2|hali-08-b2-v4wan-165876-cust768.vm3.cable.virginm.net| 82.33.19.1 |Time View 28/03/2024 18:34:01 |Black List Yes |Use Type: Residential|
 socks://138.201.21.232:39506#🇬🇧 England|Bolton|BL2|host31-126-47-12.range31-126.btcentralplus.com| 31.126.47.12 |Time View 28/03/2024 18:33:39 |Black List Yes |Use Type: Business|
+socks://212.83.143.103:34074#🇬🇧 England|Harlow|CM20|cpc136876-bsfd10-2-0-cust330.5-3.cable.virginm.net| 82.5.249.75 |Time View 28/03/2024 23:28:04 |Black List Yes |Use Type: Residential|
+socks://138.201.21.238:27855#🇬🇧 England|Epsom|KT17|cpc115930-epso6-2-0-cust1011.6-3.cable.virginm.net| 81.107.247.244 |Time View 28/03/2024 23:28:01 |Black List Yes |Use Type: Residential|
+socks://138.201.21.232:51859#🇬🇧 England|Southampton|SO15|cpc72417-sotn15-2-0-cust174.15-1.cable.virginm.net| 82.3.208.175 |Time View 28/03/2024 23:27:57 |Black List Yes |Use Type: Residential|
