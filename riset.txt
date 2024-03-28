@@ -3,3 +3,11 @@ socks5://212.83.142.114:41916/#%F0%9F%87%A8%F0%9F%87%AD%20Bern%7CBern%7C3012%7C9
 socks5://195.154.43.86:36033/#%F0%9F%87%A8%F0%9F%87%AD%20Geneva%7CGeneva%7C1205%7C212.33.196.178.dynamic.wline.res.cust.swisscom.ch%7C%20178.196.33.212%20%7CTime%20View%2026%2F03%2F2024%2009%3A37%3A30%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
 socks5://212.83.142.158:51072/#%F0%9F%87%B3%F0%9F%87%B1%20North%20Brabant%7CVught%7C5261%7C83-81-93-242.cable.dynamic.v4.ziggo.nl%7C%2083.81.93.242%20%7CTime%20View%2026%2F03%2F2024%2023%3A35%3A32%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7Chttps%3A%2F%2Fdichvusocks.net
 socks5://212.83.143.147:48311/#%F0%9F%87%A8%F0%9F%87%AD%20Valais%7CMartigny-Ville%7C1920%7C182.147.198.178.dynamic.wline.res.cust.swisscom.ch%7C%20178.198.147.182%20%7CTime%20View%2026%2F03%2F2024%2023%3A35%3A15%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7Chttps%3A%2F%2Fdichvusocks.net
+socks://89.58.45.94:34769#🇦🇺 New South Wales|Sydney|2086|Telstra Corporation Limited| 60.231.34.210 |Time View 28/03/2024 18:41:48 |Black List Yes |Use Type: Business|
+socks://170.205.37.196:40561#🇦🇺 Western Australia|Perth|6000|116.120.218.139.sta.wbroadband.net.au| 139.218.120.116 |Time View 28/03/2024 18:41:41 |Black List Yes |Use Type: Business|
+socks://170.205.37.196:41000#🇦🇺 New South Wales|Sydney|2011|175.46.168.125.sta.wbroadband.net.au| 125.168.46.175 |Time View 28/03/2024 18:41:31 |Black List Yes |Use Type: Business|
+socks://51.83.116.4:37210#🇦🇺 Victoria|Melbourne|3150|cpe-120-147-151-155.vb10.vic.asp.telstra.net| 120.147.151.155 |Time View 28/03/2024 18:41:26 |Black List Yes |Use Type: Business|
+socks://185.244.36.237:33468#🇦🇺 Victoria|Unknown|Unknown|119-18-26-133.77121a.mel.nbn.aussiebb.net| 119.18.26.133 |Time View 28/03/2024 18:41:22 |Black List Yes |Use Type: Residential|
+socks://51.254.149.59:53103#🇦🇺 New South Wales|Sydney|2040|Wireline| 161.8.213.209 |Time View 28/03/2024 18:41:14 |Black List No |Use Type: Business|
+socks://212.83.143.147:29339#🇦🇺 Victoria|Melbourne|3001|pjs2797834.lnk.telstra.net| 120.151.249.52 |Time View 28/03/2024 18:41:07 |Black List No |Use Type: Business|
+socks://51.83.116.6:47388#🇦🇺 New South Wales|Sydney|2128|boo3114898.lnk.telstra.net| 58.171.252.53 |Time View 28/03/2024 18:40:58 |Black List No |Use Type: Business|
