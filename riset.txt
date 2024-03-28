@@ -17,3 +17,25 @@ socks://212.83.143.204:64728#🇨🇭 Vaud|Lausanne|1007|gwendon.knobl.ch| 62.22
 socks://212.83.142.131:49682#🇨🇭 Uri|Altdorf|6460|80-219-99-224.dclient.hispeed.ch| 80.219.99.224 |Time View 28/03/2024 23:40:00 |Black List Yes |Use Type: Residential|
 socks://67.213.210.60:35973#🇨🇭 Saint Gallen|Sankt Margrethen|9430|80-219-136-203.dclient.hispeed.ch| 80.219.136.203 |Time View 28/03/2024 23:39:58 |Black List Yes |Use Type: Residential|
 socks://212.83.142.100:22562#🇨🇭 Zurich|Zurich|8004|emea.switzerland.5247.ip5.regusnet.com| 84.20.50.164 |Time View 28/03/2024 23:39:55 |Black List No |Use Type: Residential|
+socks://212.83.143.49:37526#🇧🇪 Flanders|Edegem|2650|124.198-244-81.adsl-dyn.isp.belgacom.be| 81.244.198.124 |Time View 28/03/2024 23:44:49 |Black List Yes |Use Type: Residential|
+socks://212.83.138.192:47139#🇧🇪 Brussels Capital|Brussels|1000|55.226-240-81.adsl-dyn.isp.belgacom.be| 81.240.226.55 |Time View 28/03/2024 23:44:42 |Black List Yes |Use Type: Residential|
+socks://212.83.138.186:49629#🇧🇪 Brussels Capital|Brussels|1000|90.182-129-109.adsl-dyn.isp.belgacom.be| 109.129.182.90 |Time View 28/03/2024 23:44:39 |Black List Yes |Use Type: Residential|
+socks://212.83.138.172:31501#🇧🇪 Flanders|Dilbeek|1700|d51A4A129.access.telenet.be| 81.164.161.41 |Time View 28/03/2024 23:44:36 |Black List No |Use Type: Business|
+socks://212.83.142.131:15546#🇧🇪 Flanders|Deurne|2100|d54c438aa.access.telenet.be| 84.196.56.170 |Time View 28/03/2024 23:44:34 |Black List No |Use Type: Business|
+socks://51.83.116.6:58862#🇧🇪 Flanders|Sint-Lievens-Houtem|9520|178-119-47-2.access.telenet.be| 178.119.47.2 |Time View 28/03/2024 23:44:31 |Black List Yes |Use Type: Business|
+socks://138.201.21.233:46001#🇧🇪 Wallonia|Gembloux|5030|host-95-182-232-126.dynamic.voo.be| 95.182.232.126 |Time View 28/03/2024 23:44:30 |Black List Yes |Use Type: Business|
+socks://67.213.212.51:30349#🇺🇸 Pennsylvania|Merion|19066|75-150-181-146-Philadelphia.hfc.comcastbusiness.net| 75.150.181.146 |Time View 28/03/2024 23:43:27 |Black List No |Use Type: Residential|
+socks://67.213.210.115:61927#🇺🇸 Georgia|Rome|30161|c-73-43-225-33.hsd1.ga.comcast.net| 73.43.225.33 |Time View 28/03/2024 23:43:26 |Black List Yes |Use Type: Residential|
+socks://66.29.128.244:13330#🇺🇸 Illinois|Schaumburg|60173|50-247-139-82-static.hfc.comcastbusiness.net| 50.247.139.82 |Time View 28/03/2024 23:43:17 |Black List No |Use Type: Residential|
+socks://209.159.153.21:16506#🇺🇸 California|Union City|94587|96-90-210-50-static.hfc.comcastbusiness.net| 96.90.210.50 |Time View 28/03/2024 23:43:11 |Black List No |Use Type: Residential|
+socks://67.213.212.38:23709#🇺🇸 California|Stockton|95209|c-76-158-157-139.hsd1.ca.comcast.net| 76.158.157.139 |Time View 28/03/2024 23:43:07 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:54973#🇺🇸 Delaware|Wilmington|19810|74-95-190-186-Philadelphia.hfc.comcastbusiness.net| 74.95.190.186 |Time View 28/03/2024 23:43:04 |Black List Yes |Use Type: Residential|
+socks://66.29.128.245:51371#🇺🇸 Colorado|Winter Park|80482|50-253-117-154-static.hfc.comcastbusiness.net| 50.253.117.154 |Time View 28/03/2024 23:42:59 |Black List No |Use Type: Residential|
+socks://67.213.212.48:14620#🇺🇸 Colorado|Littleton|80120|c-73-78-203-244.hsd1.co.comcast.net| 73.78.203.244 |Time View 28/03/2024 23:42:55 |Black List Yes |Use Type: Residential|
+socks://66.29.128.241:22526#🇺🇸 New Jersey|Atlantic Highlands|07716|50-195-110-217-static.hfc.comcastbusiness.net| 50.195.110.217 |Time View 28/03/2024 23:42:53 |Black List No |Use Type: Residential|
+socks://209.159.153.19:58618#🇺🇸 Massachusetts|Wilmington|01887|96-70-234-158-static.hfc.comcastbusiness.net| 96.70.234.158 |Time View 28/03/2024 23:42:48 |Black List No |Use Type: Residential|
+socks://67.213.210.168:22519#🇺🇸 South Carolina|Bluffton|29910|hargray-119.22.116.204.in-addr.arpa| 204.116.22.119 |Time View 28/03/2024 23:42:34 |Black List No |Use Type: Business|
+socks://23.105.170.34:63544#🇺🇸 Michigan|Richland|49083|c-68-36-204-90.hsd1.mi.comcast.net| 68.36.204.90 |Time View 28/03/2024 23:42:22 |Black List Yes |Use Type: Residential|
+socks://108.181.133.58:36729#🇺🇸 Nevada|Mesquite|89027|pppoe-38-87-120-222.rioaccess.com| 38.87.120.222 |Time View 28/03/2024 23:42:19 |Black List No |Use Type: Residential|
+socks://174.138.176.76:17220#🇺🇸 California|Roseville|95678|Consolidated Communications, Inc.| 156.47.78.67 |Time View 28/03/2024 23:42:17 |Black List No |Use Type: Business|
+socks://67.213.212.39:22105#🇺🇸 Georgia|Douglasville|30135|c-24-99-13-2.hsd1.ga.comcast.net| 24.99.13.2 |Time View 28/03/2024 23:42:12 |Black List Yes |Use Type: Residential|
