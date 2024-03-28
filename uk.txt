@@ -1,2 +1,5 @@
 socks://138.201.21.218:59892#🇬🇧 England|Liverpool|L33|host109-147-245-155.range109-147.btcentralplus.com| 109.147.245.155 |Time View 28/03/2024 07:12:45 |Black List Yes |Use Type: Business|
 socks://212.83.138.172:58877#🇬🇧 England|Bolton|BL2|host81-155-240-77.range81-155.btcentralplus.com| 81.155.240.77 |Time View 28/03/2024 07:12:40 |Black List Yes |Use Type: Business|
+socks://138.201.21.233:37252#🇬🇧 England|Hook|RG27|host5-80-40-180.range5-80.btcentralplus.com| 5.80.40.180 |Time View 28/03/2024 11:42:56 |Black List Yes |Use Type: Business|
+socks://138.201.21.228:21469#🇬🇧 England|Chester|CH3|host86-157-198-77.range86-157.btcentralplus.com| 86.157.198.77 |Time View 28/03/2024 11:42:53 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:36844#🇬🇧 England|Bromsgrove|B60|host86-165-198-140.range86-165.btcentralplus.com| 86.165.198.140 |Time View 28/03/2024 11:42:50 |Black List Yes |Use Type: Business|
