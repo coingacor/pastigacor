@@ -11,3 +11,9 @@ socks://185.244.36.237:33468#🇦🇺 Victoria|Unknown|Unknown|119-18-26-133.771
 socks://51.254.149.59:53103#🇦🇺 New South Wales|Sydney|2040|Wireline| 161.8.213.209 |Time View 28/03/2024 18:41:14 |Black List No |Use Type: Business|
 socks://212.83.143.147:29339#🇦🇺 Victoria|Melbourne|3001|pjs2797834.lnk.telstra.net| 120.151.249.52 |Time View 28/03/2024 18:41:07 |Black List No |Use Type: Business|
 socks://51.83.116.6:47388#🇦🇺 New South Wales|Sydney|2128|boo3114898.lnk.telstra.net| 58.171.252.53 |Time View 28/03/2024 18:40:58 |Black List No |Use Type: Business|
+socks://195.154.43.86:37034#🇨🇭 Zurich|Zurich|8046|234-34-48-195.pool.dsl-net.ch| 195.48.34.234 |Time View 28/03/2024 23:40:13 |Black List No |Use Type: Residential|
+socks://212.83.143.103:64984#🇨🇭 Vaud|Le Mont-sur-Lausanne|1052|85-218-51-22.dclient.lsne.ch| 85.218.51.22 |Time View 28/03/2024 23:40:10 |Black List Yes |Use Type: Residential|
+socks://212.83.143.204:64728#🇨🇭 Vaud|Lausanne|1007|gwendon.knobl.ch| 62.220.136.99 |Time View 28/03/2024 23:40:05 |Black List No |Use Type: Business|
+socks://212.83.142.131:49682#🇨🇭 Uri|Altdorf|6460|80-219-99-224.dclient.hispeed.ch| 80.219.99.224 |Time View 28/03/2024 23:40:00 |Black List Yes |Use Type: Residential|
+socks://67.213.210.60:35973#🇨🇭 Saint Gallen|Sankt Margrethen|9430|80-219-136-203.dclient.hispeed.ch| 80.219.136.203 |Time View 28/03/2024 23:39:58 |Black List Yes |Use Type: Residential|
+socks://212.83.142.100:22562#🇨🇭 Zurich|Zurich|8004|emea.switzerland.5247.ip5.regusnet.com| 84.20.50.164 |Time View 28/03/2024 23:39:55 |Black List No |Use Type: Residential|
