@@ -39,3 +39,8 @@ socks://23.105.170.34:63544#🇺🇸 Michigan|Richland|49083|c-68-36-204-90.hsd1
 socks://108.181.133.58:36729#🇺🇸 Nevada|Mesquite|89027|pppoe-38-87-120-222.rioaccess.com| 38.87.120.222 |Time View 28/03/2024 23:42:19 |Black List No |Use Type: Residential|
 socks://174.138.176.76:17220#🇺🇸 California|Roseville|95678|Consolidated Communications, Inc.| 156.47.78.67 |Time View 28/03/2024 23:42:17 |Black List No |Use Type: Business|
 socks://67.213.212.39:22105#🇺🇸 Georgia|Douglasville|30135|c-24-99-13-2.hsd1.ga.comcast.net| 24.99.13.2 |Time View 28/03/2024 23:42:12 |Black List Yes |Use Type: Residential|
+socks://51.83.116.4:37210#🇦🇺 Victoria|Melbourne|3150|cpe-120-147-151-155.vb10.vic.asp.telstra.net| 120.147.151.155 |Time View 29/03/2024 20:20:12 |Black List Yes |Use Type: Business|
+socks://162.19.7.58:17652#🇦🇺 Victoria|Melbourne|3000|pa49-199-152-17.pa.vic.optusnet.com.au| 49.199.152.17 |Time View 29/03/2024 20:20:07 |Black List Yes |Use Type: Business|
+socks://138.201.21.228:30410#🇦🇺 Victoria|Melbourne|3181|58-7-103-83.tpgi.com.au| 58.7.103.83 |Time View 29/03/2024 20:20:02 |Black List Yes |Use Type: Business|
+socks://212.83.143.60:40292#🇦🇺 Victoria|Melbourne|3806|52.142.220.111.sta.wbroadband.net.au| 111.220.142.52 |Time View 29/03/2024 20:19:54 |Black List No |Use Type: Business|
+socks://141.94.238.246:44123#🇦🇺 Victoria|Melbourne|3181|Telstra Corporation Limited| 1.145.164.59 |Time View 29/03/2024 20:19:49 |Black List Yes |Use Type: Business|
