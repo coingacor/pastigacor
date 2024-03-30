@@ -44,3 +44,8 @@ socks://162.19.7.58:17652#🇦🇺 Victoria|Melbourne|3000|pa49-199-152-17.pa.vi
 socks://138.201.21.228:30410#🇦🇺 Victoria|Melbourne|3181|58-7-103-83.tpgi.com.au| 58.7.103.83 |Time View 29/03/2024 20:20:02 |Black List Yes |Use Type: Business|
 socks://212.83.143.60:40292#🇦🇺 Victoria|Melbourne|3806|52.142.220.111.sta.wbroadband.net.au| 111.220.142.52 |Time View 29/03/2024 20:19:54 |Black List No |Use Type: Business|
 socks://141.94.238.246:44123#🇦🇺 Victoria|Melbourne|3181|Telstra Corporation Limited| 1.145.164.59 |Time View 29/03/2024 20:19:49 |Black List Yes |Use Type: Business|
+socks://67.213.212.38:18132#🇺🇸 Maine|Yarmouth|04096|216-107-199-145.static.firstlight.net| 216.107.199.145 |Time View 30/03/2024 08:10:14 |Black List No |Use Type: Residential|
+socks://23.105.170.34:14381#🇺🇸 New York|Yonkers|10703|66-109-46-19.static.firstlight.net| 66.109.46.19 |Time View 30/03/2024 08:09:57 |Black List No |Use Type: Residential|
+socks://66.29.129.53:49864#🇺🇸 New York|Pattersonville|12137|ip-pool.nyisp.net| 64.246.156.198 |Time View 30/03/2024 08:09:47 |Black List Yes |Use Type: Business|
+socks://67.213.212.55:56771#🇺🇸 Texas|Houston|77024|104-7-233-105.lightspeed.hstntx.sbcglobal.net| 104.7.233.105 |Time View 30/03/2024 08:09:43 |Black List No |Use Type: Residential|
+socks://66.23.233.210:56284#🇺🇸 North Carolina|Pittsboro|27312|070-063-230-006.biz.spectrum.com| 70.63.230.6 |Time View 30/03/2024 08:09:36 |Black List No |Use Type: Residential|
