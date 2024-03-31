@@ -13,3 +13,37 @@ socks://212.83.142.100:10711#🇨🇭 Zurich|Zurich|8004|emea.switzerland.5247.i
 socks://212.83.143.103:45896#🇨🇭 Vaud|Le Mont-sur-Lausanne|1052|85-218-51-22.dclient.lsne.ch| 85.218.51.22 |Time View 31/03/2024 13:21:37 |Black List Yes |Use Type: Residential|
 socks://195.154.43.86:19720#🇨🇭 Saint Gallen|Degersheim|9113|212.226.1.85.dynamic.wline.res.cust.swisscom.ch| 85.1.226.212 |Time View 31/03/2024 13:21:32 |Black List Yes |Use Type: Business|
 socks://212.83.138.192:56072#🇨🇭 Bern|Biel/Bienne|2503|46-126-81-96.dynamic.hispeed.ch| 46.126.81.96 |Time View 31/03/2024 13:21:30 |Black List Yes |Use Type: Residential|
+socks://212.83.143.118:23905#🇬🇧 Newtownabbey|BT37|host217-39-35-136.range217-39.btcentralplus.com| 217.39.35.136 |Time View 31/03/2024 23:52:03 |Black List Yes |Use Type: Business|
+socks://138.201.21.232:47328#🏴󠁧󠁢󠁳󠁣󠁴󠁿 Edinburgh|EH8|host-62-3-239-83.as13285.net| 62.3.239.83 |Time View 31/03/2024 23:51:54 |Black List Yes |Use Type: Residential|
+socks://23.105.170.35:25559#🇺🇸 Maryland|Baltimore|21209|c-174-172-49-24.hsd1.md.comcast.net| 174.172.49.24 |Time View 31/03/2024 23:51:45 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:19508#🇺🇸 Pennsylvania|Wexford|15090|static-acs-72-23-101-35.zoominternet.net| 72.23.101.35 |Time View 31/03/2024 23:51:41 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:28357#🇺🇸 Florida|Hobe Sound|33455|c-76-108-92-223.hsd1.fl.comcast.net| 76.108.92.223 |Time View 31/03/2024 23:51:36 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:33043#🇺🇸 New York|Fairport|14450|098-010-121-246.res.spectrum.com| 98.10.121.246 |Time View 31/03/2024 23:51:34 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:15090#🇺🇸 New York|Brooklyn|11212|ool-4b7fcd5b.static.optonline.net| 75.127.205.91 |Time View 31/03/2024 23:51:30 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:33270#🇺🇸 New Jersey|Annandale|08801|215.sub-166-150-2.myvzw.com| 166.150.2.215 |Time View 31/03/2024 23:51:28 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:29254#🇺🇸 Georgia|Peachtree Corners|30092|76-216-120-234.lightspeed.tukrga.sbcglobal.net| 76.216.120.234 |Time View 31/03/2024 23:51:25 |Black List Yes |Use Type: Residential|
+socks://67.213.210.118:62164#🇺🇸 New Hampshire|Derry|03038|d-rev-bng-70-20-47-192.ngn.east.myfairpoint.net| 70.20.47.192 |Time View 31/03/2024 23:51:20 |Black List Yes |Use Type: Business|
+socks://67.213.212.50:40818#🇺🇸 Colorado|Aurora|80015|c-71-196-226-174.hsd1.co.comcast.net| 71.196.226.174 |Time View 31/03/2024 23:51:13 |Black List Yes |Use Type: Residential|
+socks://67.213.212.50:32298#🇺🇸 New Jersey|Whitehouse Station|08889|c-73-80-61-106.hsd1.nj.comcast.net| 73.80.61.106 |Time View 31/03/2024 23:51:00 |Black List Yes |Use Type: Residential|
+socks://67.213.210.167:10331#🇺🇸 California|Los Angeles|90014|Bel Air Internet, LLC| 69.26.154.19 |Time View 31/03/2024 23:50:35 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:49873#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Hackney|E2|host-92-27-163-237.static.as13285.net| 92.27.163.237 |Time View 31/03/2024 23:49:45 |Black List No |Use Type: Residential|
+socks://212.83.142.149:45675#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tower Hamlets|E1|Vaioni Group Ltd| 88.211.79.10 |Time View 31/03/2024 23:49:41 |Black List No |Use Type: Business|
+socks://138.201.21.232:30355#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Nelson|BB9|176-35-140-195.xdsl.murphx.net| 176.35.140.195 |Time View 31/03/2024 23:49:38 |Black List No |Use Type: Residential|
+socks://212.83.143.118:64846#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Christchurch|BH23|static-84-9-183-112.vodafonexdsl.co.uk| 84.9.183.112 |Time View 31/03/2024 23:49:33 |Black List No |Use Type: Residential|
+socks://176.126.84.126:16707#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Dewsbury|WF12|NTE| 185.7.165.239 |Time View 31/03/2024 23:49:29 |Black List No |Use Type: Residential|
+socks://138.201.21.232:46475#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Kensington|W11|email.folkestonebuilders.com| 92.27.173.96 |Time View 31/03/2024 23:49:21 |Black List No |Use Type: Residential|
+socks://138.201.21.238:40500#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tower Hamlets|E14|default-46-33-142-134.interdsl.co.uk| 46.33.142.134 |Time View 31/03/2024 23:49:09 |Black List Yes |Use Type: Residential|
+socks://138.201.21.232:46476#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Liverpool|L31|static-84-9-16-248.vodafonexdsl.co.uk| 84.9.16.248 |Time View 31/03/2024 23:49:04 |Black List No |Use Type: Residential|
+socks://195.154.43.86:62156#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Wokingham|RG40|cpc157713-rdng30-2-0-cust812.15-3.cable.virginm.net| 86.20.227.45 |Time View 31/03/2024 23:48:44 |Black List Yes |Use Type: Residential|
+socks://51.83.116.4:18632#🏴󠁧󠁢󠁳󠁣󠁴󠁿 Greenock|PA15|cpc89262-grnk8-2-0-cust2044.14-2.cable.virginm.net| 86.29.39.253 |Time View 31/03/2024 23:48:41 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:10784#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Leicester|LE4|cpc160359-nfds18-2-0-cust837.8-2.cable.virginm.net| 86.31.83.70 |Time View 31/03/2024 23:48:36 |Black List Yes |Use Type: Residential|
+socks://212.83.142.145:17271#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Trowbridge|BA14|cpc123804-trow7-2-0-cust39.18-1.cable.virginm.net| 77.100.233.40 |Time View 31/03/2024 23:48:28 |Black List Yes |Use Type: Residential|
+socks://138.201.21.228:19131#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Cobham|KT11|host81-158-175-151.range81-158.btcentralplus.com| 81.158.175.151 |Time View 31/03/2024 23:47:57 |Black List Yes |Use Type: Business|
+socks://138.201.21.228:57050#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Chester|CH3|host86-169-6-48.range86-169.btcentralplus.com| 86.169.6.48 |Time View 31/03/2024 23:47:54 |Black List Yes |Use Type: Business|
+socks://138.201.21.232:20871#🏴󠁧󠁢󠁥󠁮󠁧󠁿 Bolton|BL1|host86-156-141-253.range86-156.btcentralplus.com| 86.156.141.253 |Time View 31/03/2024 23:47:51 |Black List Yes |Use Type: Business|
+socks://212.83.143.204:20922#🇨🇭 Vaud|Lausanne|1007|gwendon.knobl.ch| 62.220.136.99 |Time View 31/03/2024 23:47:28 |Black List No |Use Type: Business|
+socks://195.154.43.86:50834#🇨🇭 Zurich|Zurich|8046|234-34-48-195.pool.dsl-net.ch| 195.48.34.234 |Time View 31/03/2024 23:47:23 |Black List No |Use Type: Residential|
+socks://51.83.116.2:40151#🇨🇭 Zurich|Zurich|8051|75-230-221-81.pool.dsl-net.ch| 81.221.230.75 |Time View 31/03/2024 23:47:21 |Black List No |Use Type: Residential|
+socks://212.83.142.114:20722#🇨🇭 Bern|Bern|3012|99.95.63.188.dynamic.wline.res.cust.swisscom.ch| 188.63.95.99 |Time View 31/03/2024 23:47:17 |Black List Yes |Use Type: Business|
+socks://51.83.116.4:14448#🇨🇭 Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 31/03/2024 23:47:13 |Black List Yes |Use Type: Business|
+socks://212.83.143.103:37800#🇨🇭 Vaud|Cugy|1053|85-218-51-22.dclient.lsne.ch| 85.218.51.22 |Time View 31/03/2024 23:47:12 |Black List Yes |Use Type: Residential|
