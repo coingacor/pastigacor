@@ -47,3 +47,4 @@ socks://51.83.116.2:40151#🇨🇭 Zurich|Zurich|8051|75-230-221-81.pool.dsl-net
 socks://212.83.142.114:20722#🇨🇭 Bern|Bern|3012|99.95.63.188.dynamic.wline.res.cust.swisscom.ch| 188.63.95.99 |Time View 31/03/2024 23:47:17 |Black List Yes |Use Type: Business|
 socks://51.83.116.4:14448#🇨🇭 Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 31/03/2024 23:47:13 |Black List Yes |Use Type: Business|
 socks://212.83.143.103:37800#🇨🇭 Vaud|Cugy|1053|85-218-51-22.dclient.lsne.ch| 85.218.51.22 |Time View 31/03/2024 23:47:12 |Black List Yes |Use Type: Residential|
+socks://212.83.142.100:51670#🇮🇪 Leinster|Dublin|A94|NTL Ireland| 109.255.77.139 |Time View 01/04/2024 08:08:50 |Black List Yes |Use Type: Business|
