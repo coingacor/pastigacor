@@ -1,3 +1,4 @@
+socks5://212.83.143.60:45214/#%F0%9F%87%A8%F0%9F%87%AD%20Geneva%7CGeneva%7C1205%7C151.64.106.92.dynamic.wline.res.cust.swisscom.ch%7C%2092.106.64.151%20%7CTime%20View%2001%2F04%2F2024%2014%3A32%3A23%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
 socks://212.83.143.204:22433#🇨🇭 Vaud|Lausanne|1007|gwendon.knobl.ch| 62.220.136.99 |Time View 02/04/2024 07:33:11 |Black List No |Use Type: Business|
 socks://212.83.142.114:48325#🇨🇭 Bern|Bern|3012|99.95.63.188.dynamic.wline.res.cust.swisscom.ch| 188.63.95.99 |Time View 02/04/2024 07:33:08 |Black List Yes |Use Type: Business|
 socks://212.83.138.186:45863#🇨🇭 Bern|Bern|3000|196.202.6.85.dynamic.wline.res.cust.swisscom.ch| 85.6.202.196 |Time View 02/04/2024 07:33:06 |Black List Yes |Use Type: Business|
