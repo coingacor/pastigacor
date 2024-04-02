@@ -1,7 +1,23 @@
-socks://195.154.43.86:61356#🇨🇭 Geneva|Chene-Bougeries|1224|212.33.196.178.dynamic.wline.res.cust.swisscom.ch| 178.196.33.212 |Time View 01/04/2024 14:32:28 |Black List Yes |Use Type: Business|
-socks://51.83.116.4:23820#🇨🇭 Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 01/04/2024 14:32:27 |Black List Yes |Use Type: Business|
-socks://212.83.143.60:45214#🇨🇭 Geneva|Geneva|1205|151.64.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.64.151 |Time View 01/04/2024 14:32:23 |Black List Yes |Use Type: Business|
-socks://212.83.142.100:26795#🇨🇭 Zurich|Zurich|8004|emea.switzerland.5247.ip5.regusnet.com| 84.20.50.164 |Time View 01/04/2024 14:32:20 |Black List No |Use Type: Residential|
-socks://212.83.143.103:48436#🇨🇭 Vaud|Cugy|1053|85-218-51-22.dclient.lsne.ch| 85.218.51.22 |Time View 01/04/2024 14:32:17 |Black List Yes |Use Type: Residential|
-socks://212.83.142.114:60677#🇨🇭 Bern|Bern|3012|99.95.63.188.dynamic.wline.res.cust.swisscom.ch| 188.63.95.99 |Time View 01/04/2024 14:32:14 |Black List Yes |Use Type: Business|
-socks://51.83.116.2:39566#🇨🇭 Zurich|Zurich|8051|75-230-221-81.pool.dsl-net.ch| 81.221.230.75 |Time View 01/04/2024 14:32:11 |Black List No |Use Type: Residential|
+socks://212.83.143.204:22433#🇨🇭 Vaud|Lausanne|1007|gwendon.knobl.ch| 62.220.136.99 |Time View 02/04/2024 07:33:11 |Black List No |Use Type: Business|
+socks://212.83.142.114:48325#🇨🇭 Bern|Bern|3012|99.95.63.188.dynamic.wline.res.cust.swisscom.ch| 188.63.95.99 |Time View 02/04/2024 07:33:08 |Black List Yes |Use Type: Business|
+socks://212.83.138.186:45863#🇨🇭 Bern|Bern|3000|196.202.6.85.dynamic.wline.res.cust.swisscom.ch| 85.6.202.196 |Time View 02/04/2024 07:33:06 |Black List Yes |Use Type: Business|
+socks://212.83.138.192:12299#🇨🇭 Bern|Biel/Bienne|2503|46-126-81-96.dynamic.hispeed.ch| 46.126.81.96 |Time View 02/04/2024 07:33:03 |Black List Yes |Use Type: Residential|
+socks://212.83.143.60:19899#🇨🇭 Aargau|Mellingen|5507|77-56-0-51.dclient.hispeed.ch| 77.56.0.51 |Time View 02/04/2024 07:33:02 |Black List Yes |Use Type: Residential|
+socks://195.154.43.86:62541#🇨🇭 Saint Gallen|Degersheim|9113|212.226.1.85.dynamic.wline.res.cust.swisscom.ch| 85.1.226.212 |Time View 02/04/2024 07:32:58 |Black List Yes |Use Type: Business|
+socks://212.83.142.131:14172#🇨🇭 Saint Gallen|Jona|8645|77-58-52-56.dclient.hispeed.ch| 77.58.52.56 |Time View 02/04/2024 07:32:57 |Black List Yes |Use Type: Residential|
+socks://88.99.138.21:5093#🇺🇸 Minnesota|Hastings|55033|c-24-7-248-218.hsd1.mn.comcast.net| 24.7.248.218 |Time View 02/04/2024 07:32:48 |Black List Yes |Use Type: Residential|
+socks://67.213.212.52:22558#🇺🇸 Florida|Pompano Beach|33060|96-75-95-153-static.hfc.comcastbusiness.net| 96.75.95.153 |Time View 02/04/2024 07:32:42 |Black List No |Use Type: Residential|
+socks://67.213.212.52:37126#🇺🇸 New Jersey|Bordentown|08505|96-82-191-170-static.hfc.comcastbusiness.net| 96.82.191.170 |Time View 02/04/2024 07:32:32 |Black List No |Use Type: Residential|
+socks://67.213.212.36:28490#🇺🇸 Illinois|Chicago|60607|Comcast Cable Communications, LLC| 50.219.95.243 |Time View 02/04/2024 07:32:28 |Black List No |Use Type: Residential|
+socks://209.159.153.20:28595#🇺🇸 Oregon|Portland|97211|Comcast Cable Communications, LLC| 50.209.39.61 |Time View 02/04/2024 07:32:24 |Black List No |Use Type: Residential|
+socks://37.221.193.221:27644#🇺🇸 Florida|Jacksonville|32246|Comcast Cable Communications, LLC| 50.217.121.109 |Time View 02/04/2024 07:32:10 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:35735#🇺🇸 Maryland|Columbia|21044|static-151-196-120-66.bltmmd.fios.verizon.net| 151.196.120.66 |Time View 02/04/2024 07:31:57 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:13982#🇺🇸 Massachusetts|Lincoln|01773|static-70-20-25-250.bstnma.fios.verizon.net| 70.20.25.250 |Time View 02/04/2024 07:31:52 |Black List No |Use Type: Residential|
+socks://67.213.210.175:55666#🇺🇸 Pennsylvania|Elizabeth|15037|pool-72-65-223-29.pitbpa.fios.verizon.net| 72.65.223.29 |Time View 02/04/2024 07:31:50 |Black List Yes |Use Type: Residential|
+socks://67.213.212.56:61162#🇺🇸 New Jersey|Jersey City|07306|static-71-172-124-202.nwrknj.fios.verizon.net| 71.172.124.202 |Time View 02/04/2024 07:31:47 |Black List Yes |Use Type: Residential|
+socks://162.19.7.58:27066#🇺🇸 Delaware|Wilmington|19809|pool-100-14-253-211.phlapa.fios.verizon.net| 100.14.253.211 |Time View 02/04/2024 07:31:28 |Black List Yes |Use Type: Residential|
+socks://67.213.212.39:63291#🇺🇸 New Jersey|Hackensack|07601|static-71-172-91-234.nwrknj.fios.verizon.net| 71.172.91.234 |Time View 02/04/2024 07:31:23 |Black List No |Use Type: Residential|
+socks://66.29.128.244:32915#🇺🇸 New York|New York|10022|static-68-160-219-218.nycmny.fios.verizon.net| 68.160.219.218 |Time View 02/04/2024 07:31:21 |Black List No |Use Type: Residential|
+socks://67.213.212.38:64025#🇺🇸 New York|Queens|11422|static-108-30-132-5.nycmny.fios.verizon.net| 108.30.132.5 |Time View 02/04/2024 07:31:17 |Black List No |Use Type: Residential|
+socks://212.83.143.60:45391#🇨🇭 Geneva|Geneva|1205|151.64.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.64.151 |Time View 02/04/2024 05:07:50 |Black List Yes |Use Type: Business|
+socks://138.201.21.232:43982#🇨🇭 Geneva|Geneva|1205|mob-194-230-146-152.cgn.sunrise.net| 194.230.146.152 |Time View 02/04/2024 05:07:43 |Black List Yes |Use Type: Cellular|
