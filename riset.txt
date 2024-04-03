@@ -12,3 +12,15 @@ socks://23.105.170.30:13915#🇺🇸 Florida|Jacksonville|32224|c-73-53-185-105.
 socks://37.221.193.221:28161#🇺🇸 Virginia|Charlottesville|22902|c-71-62-236-131.hsd1.va.comcast.net| 71.62.236.131 |Time View 03/04/2024 03:52:01 |Black List Yes |Use Type: Residential|
 socks://23.105.170.32:25642#🇺🇸 New Jersey|Cherry Hill|08034|c-24-0-117-211.hsd1.nj.comcast.net| 24.0.117.211 |Time View 03/04/2024 03:51:57 |Black List Yes |Use Type: Residential|
 socks://209.159.153.22:25375#🇺🇸 Florida|Sunrise|33323|c-73-124-206-71.hsd1.fl.comcast.net| 73.124.206.71 |Time View 03/04/2024 03:51:50 |Black List Yes |Use Type: Residential|
+socks://23.105.170.30:10191#🇺🇸 New Jersey|Bridgewater|08807|static-72-88-198-162.nwrknj.fios.verizon.net| 72.88.198.162 |Time View 03/04/2024 12:29:24 |Black List No |Use Type: Residential|
+socks://67.213.210.62:62707#🇺🇸 New Jersey|Dunellen|08812|ool-182feef9.dyn.optonline.net| 24.47.238.249 |Time View 03/04/2024 12:29:16 |Black List Yes |Use Type: Residential|
+socks://174.138.176.74:34267#🇺🇸 New Jersey|Scotch Plains|07076|c-76-117-233-163.hsd1.nj.comcast.net| 76.117.233.163 |Time View 03/04/2024 12:29:13 |Black List Yes |Use Type: Residential|
+socks://66.29.128.245:34222#🇺🇸 New Jersey|Secaucus|07094|static-100-8-194-42.nwrknj.fios.verizon.net| 100.8.194.42 |Time View 03/04/2024 12:29:11 |Black List No |Use Type: Residential|
+socks://37.221.193.221:17580#🇺🇸 New Jersey|Middlesex|08846|Verizon Communications| 152.179.173.218 |Time View 03/04/2024 12:29:06 |Black List Yes |Use Type: Business|
+socks://67.213.212.54:22484#🇺🇸 New Jersey|Fort Lee|07024|static-96-242-234-229.nwrknj.fios.verizon.net| 96.242.234.229 |Time View 03/04/2024 12:28:57 |Black List No |Use Type: Residential|
+socks://67.213.212.39:26615#🇺🇸 New Jersey|Hackensack|07601|static-71-172-91-234.nwrknj.fios.verizon.net| 71.172.91.234 |Time View 03/04/2024 12:28:55 |Black List No |Use Type: Residential|
+socks://209.159.153.21:49917#🇺🇸 New Jersey|Newark|07105|static-71-251-219-122.nwrknj.fios.verizon.net| 71.251.219.122 |Time View 03/04/2024 12:28:50 |Black List No |Use Type: Residential|
+socks://66.29.128.245:13218#🇺🇸 New Jersey|Clifton|07011|ool-6c3a9554.static.optonline.net| 108.58.149.84 |Time View 03/04/2024 12:28:48 |Black List No |Use Type: Business|
+socks://193.29.62.48:34743#🇺🇸 New Jersey|Cedar Grove|07009|4133fde2.cst.lightpath.net| 65.51.253.226 |Time View 03/04/2024 12:28:40 |Black List No |Use Type: Residential|
+socks://209.159.153.19:27987#🇺🇸 New Jersey|Jersey City|07305|static-108-5-138-12.nwrknj.fios.verizon.net| 108.5.138.12 |Time View 03/04/2024 12:28:36 |Black List No |Use Type: Residential|
+socks://67.213.212.38:51058#🇺🇸 New Jersey|Red Bank|07701|pool-100-35-142-42.nwrknj.fios.verizon.net| 100.35.142.42 |Time View 03/04/2024 12:28:23 |Black List Yes |Use Type: Residential|
