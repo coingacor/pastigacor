@@ -48,3 +48,6 @@ socks://67.213.212.57:56373#🇺🇸 New York|Syosset|11791|pool-108-21-188-33.n
 socks://67.213.212.56:15186#🇺🇸 Massachusetts|Westborough|01581|static-71-248-188-12.bstnma.fios.verizon.net| 71.248.188.12 |Time View 04/04/2024 23:28:15 |Black List No |Use Type: Business|
 socks://209.159.153.20:47109#🇺🇸 New York|The Bronx|10466|pool-100-33-146-109.nycmny.fios.verizon.net| 100.33.146.109 |Time View 04/04/2024 13:21:59 |Black List Yes |Use Type: Residential|
 socks://212.83.138.192:45151#🇮🇪 Leinster|Dublin|D07|Liberty Global B.V.| 109.255.19.27 |Time View 05/04/2024 00:33:00 |Black List Yes |Use Type: Business|
+socks://67.213.210.115:27234#🇺🇸 Georgia|Rome|30161|c-73-43-225-33.hsd1.ga.comcast.net| 73.43.225.33 |Time View 05/04/2024 02:11:21 |Black List Yes |Use Type: Residential|
+socks://66.29.129.54:64881#🇺🇸 Georgia|Douglasville|30134|c-73-106-56-5.hsd1.ga.comcast.net| 73.106.56.5 |Time View 05/04/2024 02:11:13 |Black List Yes |Use Type: Residential|
+socks://66.29.128.245:25764#🇺🇸 Georgia|Stone Mountain|30083|c-76-145-192-31.hsd1.ga.comcast.net| 76.145.192.31 |Time View 05/04/2024 02:10:59 |Black List Yes |Use Type: Residential|
