@@ -56,3 +56,16 @@ socks://51.83.116.7:18583#🇦🇺 New South Wales|Sydney|2200|n175-32-177-128.b
 socks://138.201.21.233:46586#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 123.209.95.70 |Time View 05/04/2024 02:49:33 |Black List Yes |Use Type: Business|
 socks://162.19.7.57:49852#🇦🇺 Victoria|Melbourne|3181|Telstra Corporation Limited| 1.136.17.190 |Time View 05/04/2024 02:49:29 |Black List Yes |Use Type: Business|
 socks://89.58.45.94:34935#🇦🇺 New South Wales|Sydney|2086|Telstra Corporation Limited| 60.231.34.210 |Time View 05/04/2024 02:49:22 |Black List Yes |Use Type: Business|
+socks://174.138.176.74:28531#🇺🇸 New Jersey|Scotch Plains|07076|c-76-117-233-163.hsd1.nj.comcast.net| 76.117.233.163 |Time View 05/04/2024 14:29:37 |Black List Yes |Use Type: Residential|
+socks://67.213.212.50:16311#🇺🇸 New Jersey|Flemington|08822|c-73-80-61-106.hsd1.nj.comcast.net| 73.80.61.106 |Time View 05/04/2024 14:29:27 |Black List Yes |Use Type: Residential|
+socks://67.213.212.55:60972#🇺🇸 New Jersey|Atlantic City|08401|c-69-248-64-171.hsd1.nj.comcast.net| 69.248.64.171 |Time View 05/04/2024 14:29:14 |Black List Yes |Use Type: Residential|
+socks://23.105.170.30:46757#🇺🇸 New Jersey|Ocean View|08230|c-73-226-82-191.hsd1.nj.comcast.net| 73.226.82.191 |Time View 05/04/2024 14:28:58 |Black List Yes |Use Type: Residential|
+socks://23.105.170.34:19111#🇺🇸 New Jersey|Bellmawr|08031|c-73-178-143-238.hsd1.nj.comcast.net| 73.178.143.238 |Time View 05/04/2024 14:28:50 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:51965#🇺🇸 New Jersey|Wayne|07470|Verizon Business| 65.223.216.110 |Time View 05/04/2024 14:28:41 |Black List No |Use Type: Business|
+socks://212.83.137.150:65287#🇺🇸 New Jersey|Jersey City|07302|static-100-35-239-250.nwrknj.fios.verizon.net| 100.35.239.250 |Time View 05/04/2024 14:28:39 |Black List No |Use Type: Residential|
+socks://67.213.212.53:19505#🇺🇸 New Jersey|Toms River|08753|Verizon Business| 199.172.47.13 |Time View 05/04/2024 14:28:30 |Black List No |Use Type: Business|
+socks://67.213.212.47:39791#🇺🇸 New Jersey|Edison|08817|ool-18bbdbcb.static.optonline.net| 24.187.219.203 |Time View 05/04/2024 14:28:28 |Black List No |Use Type: Business|
+socks://67.213.212.36:18240#🇺🇸 New Jersey|Newark|07112|96-75-171-155-static.hfc.comcastbusiness.net| 96.75.171.155 |Time View 05/04/2024 14:28:21 |Black List No |Use Type: Residential|
+socks://66.29.128.245:55496#🇺🇸 New Jersey|Cassville|08527|ool-4b7fc135.static.optonline.net| 75.127.193.53 |Time View 05/04/2024 14:28:17 |Black List No |Use Type: Business|
+socks://66.29.128.241:17524#🇺🇸 New Jersey|Vineland|08361|c-73-198-220-99.hsd1.nj.comcast.net| 73.198.220.99 |Time View 05/04/2024 14:28:11 |Black List Yes |Use Type: Business|
+socks://67.213.212.56:27415#🇺🇸 New Jersey|Jersey City|07302|static-72-80-19-26.nwrknj.fios.verizon.net| 72.80.19.26 |Time View 05/04/2024 14:28:06 |Black List No |Use Type: Residential|
