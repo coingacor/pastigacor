@@ -1,12 +1,1 @@
-socks://138.201.21.233:46780#🇬🇧 Wales|Pembroke|SA71|host86-176-78-224.range86-176.btcentralplus.com| 86.176.78.224 |Time View 30/03/2024 04:09:17 |Black List Yes |Use Type: Business|
-socks://212.83.143.118:56171#🇬🇧 Northern Ireland|Newtownabbey|BT37|host217-39-35-136.range217-39.btcentralplus.com| 217.39.35.136 |Time View 30/03/2024 04:09:14 |Black List Yes |Use Type: Business|
-socks://51.83.116.2:50390#🇬🇧 England|East Grinstead|RH19|host86-144-8-104.range86-144.btcentralplus.com| 86.144.8.104 |Time View 30/03/2024 04:09:10 |Black List Yes |Use Type: Business|
-socks://138.201.21.218:43089#🇬🇧 England|Liverpool|L33|host109-147-245-155.range109-147.btcentralplus.com| 109.147.245.155 |Time View 30/03/2024 04:09:08 |Black List Yes |Use Type: Business|
-socks://212.83.138.172:48356#🇬🇧 England|Bolton|BL1|host81-155-240-77.range81-155.btcentralplus.com| 81.155.240.77 |Time View 30/03/2024 04:09:03 |Black List Yes |Use Type: Business|
-socks://138.201.21.238:23492#🇬🇧 England|Lambeth|SE1|default-46-33-140-133.interdsl.co.uk| 46.33.140.133 |Time View 30/03/2024 07:15:26 |Black List Yes |Use Type: Residential|
-socks://138.201.21.238:50231#🇬🇧 England|Lambeth|SE24|default-80-209-138-105.interdsl.co.uk| 80.209.138.105 |Time View 30/03/2024 07:15:23 |Black List No |Use Type: Business|
-socks://138.201.21.233:51158#🇬🇧 England|Milton Keynes|MK6|default-46-33-144-4.interdsl.co.uk| 46.33.144.4 |Time View 30/03/2024 07:15:22 |Black List Yes |Use Type: Residential|
-socks://138.201.21.238:32084#🇬🇧 England|Tower Hamlets|E14|default-46-33-142-128.interdsl.co.uk| 46.33.142.128 |Time View 30/03/2024 07:15:18 |Black List Yes |Use Type: Residential|
-socks://138.201.21.233:39079#🇬🇧 England|Tower Hamlets|E14|default-80-209-138-135.interdsl.co.uk| 80.209.138.135 |Time View 30/03/2024 07:15:15 |Black List No |Use Type: Business|
-socks://138.201.21.238:39122#🇬🇧 England|Camden|NW1|default-46-33-154-147.interdsl.co.uk| 46.33.154.147 |Time View 30/03/2024 07:15:11 |Black List No |Use Type: Residential|
-socks://138.201.21.238:59912#🇬🇧 England|Tower Hamlets|E14|default-46-33-142-149.interdsl.co.uk| 46.33.142.149 |Time View 30/03/2024 14:56:42 |Black List Yes |Use Type: Residential
+socks://162.19.7.49:40125#🇬🇧 England|Blackpool|FY4|blac-09-b2-v4wan-169002-cust2527.vm29.cable.virginm.net| 82.47.57.224 |Time View 07/04/2024 01:05:43 |Black List Yes |Use Type: Residential|
