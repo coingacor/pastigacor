@@ -1,13 +1,25 @@
-socks://67.213.210.167:40780#🇺🇸 New Hampshire|Belmont|03220|pool-71-161-199-114.burl.east.myfairpoint.net| 71.161.199.114 |Time View 06/04/2024 17:03:56 |Black List Yes |Use Type: Business|
+socks://108.181.133.59:37733#🇺🇸 New Hampshire|Hudson|03051|d-rev-bng-70-20-45-164.ngn.east.myfairpoint.net| 70.20.45.164 |Time View 06/04/2024 23:23:13 |Black List No |Use Type: Business|
+socks://174.138.176.76:48883#🇺🇸 Maine|Bingham|04920|pool-64-222-220-163.port.east.myfairpoint.net| 64.222.220.163 |Time View 06/04/2024 23:22:53 |Black List Yes |Use Type: Business|
+socks://67.213.210.168:41290#🇺🇸 New Hampshire|Sanbornton|03269|pool-70-109-179-80.burl.east.myfairpoint.net| 70.109.179.80 |Time View 06/04/2024 23:22:51 |Black List No |Use Type: Business|
+socks://108.181.132.118:27130#🇺🇸 New Hampshire|Milford|03055|pool-70-109-153-223.cncdnh.east.myfairpoint.net| 70.109.153.223 |Time View 06/04/2024 23:22:47 |Black List Yes |Use Type: Business|
+socks://108.181.132.118:21377#🇺🇸 Maine|Bowdoin Center|04287|pool-70-16-208-17.man.east.myfairpoint.net| 70.16.208.17 |Time View 06/04/2024 23:22:44 |Black List Yes |Use Type: Business|
+socks://67.213.210.175:35118#🇺🇸 New Hampshire|Keene|03431|pool-70-109-130-66.cncdnh.east.myfairpoint.net| 70.109.130.66 |Time View 06/04/2024 23:22:40 |Black List Yes |Use Type: Business|
+socks://174.138.176.75:24097#🇺🇸 Maine|Dexter|04930|pool-72-73-104-34.ptldme.east.myfairpoint.net| 72.73.104.34 |Time View 06/04/2024 23:22:29 |Black List Yes |Use Type: Business|
+socks://108.181.132.115:46272#🇺🇸 Maine|Farmington|04938|pool-70-16-201-59.man.east.myfairpoint.net| 70.16.201.59 |Time View 06/04/2024 23:22:21 |Black List Yes |Use Type: Business|
+socks://108.181.132.117:10399#🇺🇸 New Hampshire|Dublin|03444|pool-70-109-132-24.cncdnh.east.myfairpoint.net| 70.109.132.24 |Time View 06/04/2024 23:22:18 |Black List Yes |Use Type: Business|
+socks://162.0.220.215:14537#🇺🇸 New Hampshire|Belmont|03220|pool-71-168-86-178.cncdnh.east.myfairpoint.net| 71.168.86.178 |Time View 06/04/2024 23:22:14 |Black List Yes |Use Type: Business|
+socks://174.138.176.75:52020#🇺🇸 Maine|Woolwich|04579|d-ptld-bng1-70-20-39-240.ngn.east.myfairpoint.net| 70.20.39.240 |Time View 06/04/2024 23:22:12 |Black List Yes |Use Type: Business|
+socks://67.213.210.115:65347#🇺🇸 Vermont|Montpelier|05602|pool-64-222-108-177.burl.east.myfairpoint.net| 64.222.108.177 |Time View 06/04/2024 23:22:09 |Black List Yes |Use Type: Business|
+socks://67.213.210.168:29928#🇺🇸 New Hampshire|Enfield|03748|d-ptld-bng1-64-223-157-146.ngn.east.myfairpoint.net| 64.223.157.146 |Time View 06/04/2024 23:22:04 |Black List Yes |Use Type: Business|
+socks://67.213.210.118:10289#🇺🇸 New Hampshire|Rindge|03461|pool-70-105-242-213.port.east.myfairpoint.net| 70.105.242.213 |Time View 06/04/2024 23:21:59 |Black List Yes |Use Type: Business|
+socks://162.0.220.214:55129#🇺🇸 Maine|Farmington|04938|d-ptld-bng1-70-16-219-172.ngn.east.myfairpoint.net| 70.16.219.172 |Time View 06/04/2024 23:21:46 |Black List Yes |Use Type: Business|
+socks://108.181.132.118:46300#🇺🇸 New Hampshire|Exeter|03833|pool-71-161-207-168.burl.east.myfairpoint.net| 71.161.207.168 |Time View 06/04/2024 23:21:46 |Black List Yes |Use Type: Business|
+socks://66.29.129.53:39092#🇺🇸 Maine|Dexter|04930|pool-72-73-116-40.ptldme.east.myfairpoint.net| 72.73.116.40 |Time View 06/04/2024 23:21:43 |Black List Yes |Use Type: Business|
+socks://67.213.210.118:19154#🇺🇸 Vermont|Brattleboro|05301|pool-71-241-140-88.burl.east.myfairpoint.net| 71.241.140.88 |Time View 06/04/2024 23:21:41 |Black List Yes |Use Type: Business|
+socks://67.213.210.175:24026#🇺🇸 Maine|Bowdoinham|04008|pool-70-16-207-92.man.east.myfairpoint.net| 70.16.207.92 |Time View 06/04/2024 23:21:36 |Black List Yes |Use Type: Business|
 socks://67.213.210.61:15074#🇺🇸 New Hampshire|Walpole|03608|pool-71-169-139-139.burl.east.myfairpoint.net| 71.169.139.139 |Time View 06/04/2024 17:03:53 |Black List Yes |Use Type: Business|
 socks://67.213.210.168:11542#🇺🇸 New Hampshire|Tilton|03276|pool-71-161-199-3.burl.east.myfairpoint.net| 71.161.199.3 |Time View 06/04/2024 17:03:36 |Black List Yes |Use Type: Business|
 socks://162.0.220.215:16285#🇺🇸 New Hampshire|Keene|03431|pool-70-109-129-167.cncdnh.east.myfairpoint.net| 70.109.129.167 |Time View 06/04/2024 17:03:33 |Black List Yes |Use Type: Business|
 socks://67.213.210.115:60717#🇺🇸 Maine|Greenbush|04418|pool-72-73-93-104.ptldme.east.myfairpoint.net| 72.73.93.104 |Time View 06/04/2024 17:03:30 |Black List Yes |Use Type: Business|
-socks://38.91.107.2:64290#🇺🇸 Vermont|Brattleboro|05301|pool-72-64-2-177.cncdnh.east.myfairpoint.net| 72.64.2.177 |Time View 06/04/2024 17:03:20 |Black List Yes |Use Type: Business|
 socks://38.91.107.229:48020#🇺🇸 New Hampshire|Londonderry|03053|pool-70-20-58-254.man.east.myfairpoint.net| 70.20.58.254 |Time View 06/04/2024 17:03:14 |Black List Yes |Use Type: Business|
 socks://108.181.133.59:47794#🇺🇸 New Hampshire|Milford|03055|pool-70-105-241-228.port.east.myfairpoint.net| 70.105.241.228 |Time View 06/04/2024 17:03:13 |Black List Yes |Use Type: Business|
-socks://108.181.132.117:41425#🇺🇸 New Hampshire|Dublin|03444|pool-70-109-132-24.cncdnh.east.myfairpoint.net| 70.109.132.24 |Time View 06/04/2024 17:03:05 |Black List Yes |Use Type: Business|
-socks://174.138.176.76:40623#🇺🇸 Maine|Bingham|04920|pool-64-222-220-163.port.east.myfairpoint.net| 64.222.220.163 |Time View 06/04/2024 17:02:46 |Black List Yes |Use Type: Business|
-socks://67.213.212.57:23321#🇺🇸 New York|Syosset|11791|pool-108-21-188-33.nycmny.fios.verizon.net| 108.21.188.33 |Time View 06/04/2024 07:35:47 |Black List Yes |Use Type: Residential|
-socks://67.213.212.55:22289#🇺🇸 New Jersey|East Orange|07017|c-73-215-220-222.hsd1.nj.comcast.net| 73.215.220.222 |Time View 06/04/2024 07:35:30 |Black List Yes |Use Type: Residential|
-socks://67.213.212.48:61895#🇺🇸 New Jersey|Plainfield|07060|c-73-198-21-70.hsd1.nj.comcast.net| 73.198.21.70 |Time View 06/04/2024 07:35:24 |Black List Yes |Use Type: Business|
