@@ -1,21 +1,13 @@
-socks://66.23.233.210:40984#🇺🇸 New Jersey|Elizabeth|07201|static-74-102-123-126.nwrknj.fios.verizon.net| 74.102.123.126 |Time View 06/04/2024 07:36:42 |Black List No |Use Type: Residential|
-socks://67.213.212.36:46354#🇺🇸 New York|Brooklyn|11215|pool-96-232-104-136.nycmny.fios.verizon.net| 96.232.104.136 |Time View 06/04/2024 07:36:37 |Black List Yes |Use Type: Residential|
-socks://209.159.153.21:59027#🇺🇸 Virginia|Virginia Beach|23464|static-96-225-173-21.nrflva.fios.verizon.net| 96.225.173.21 |Time View 06/04/2024 07:36:32 |Black List No |Use Type: Residential|
-socks://66.29.128.245:48661#🇺🇸 New Jersey|Cranford|07016|static-71-187-249-75.nwrknj.fios.verizon.net| 71.187.249.75 |Time View 06/04/2024 07:36:28 |Black List No |Use Type: Residential|
-socks://67.213.212.54:33809#🇺🇸 New York|The Bronx|10451|static-108-6-49-216.nycmny.fios.verizon.net| 108.6.49.216 |Time View 06/04/2024 07:36:24 |Black List No |Use Type: Residential|
-socks://23.105.170.33:24511#🇺🇸 New York|Brooklyn|11209|static-96-232-162-184.nycmny.fios.verizon.net| 96.232.162.184 |Time View 06/04/2024 07:36:15 |Black List No |Use Type: Business|
-socks://38.91.107.2:38038#🇺🇸 New York|Staten Island|10312|pool-100-33-122-38.nycmny.fios.verizon.net| 100.33.122.38 |Time View 06/04/2024 07:36:06 |Black List Yes |Use Type: Residential|
-socks://209.159.153.19:24542#🇺🇸 New York|Brooklyn|11206|static-100-38-80-242.nycmny.fios.verizon.net| 100.38.80.242 |Time View 06/04/2024 07:36:05 |Black List No |Use Type: Residential|
-socks://66.29.128.244:37961#🇺🇸 New York|Brooklyn|11201|static-74-108-8-47.nycmny.fios.verizon.net| 74.108.8.47 |Time View 06/04/2024 07:36:00 |Black List No |Use Type: Residential|
-socks://37.221.193.221:17894#🇺🇸 New York|New York|10013|static-68-129-140-40.nycmny.fios.verizon.net| 68.129.140.40 |Time View 06/04/2024 07:35:55 |Black List No |Use Type: Residential|
-socks://66.23.233.210:61830#🇺🇸 New York|Glen Cove|11542|static-72-89-182-16.nycmny.fios.verizon.net| 72.89.182.16 |Time View 06/04/2024 07:35:51 |Black List No |Use Type: Residential|
+socks://67.213.210.167:40780#🇺🇸 New Hampshire|Belmont|03220|pool-71-161-199-114.burl.east.myfairpoint.net| 71.161.199.114 |Time View 06/04/2024 17:03:56 |Black List Yes |Use Type: Business|
+socks://67.213.210.61:15074#🇺🇸 New Hampshire|Walpole|03608|pool-71-169-139-139.burl.east.myfairpoint.net| 71.169.139.139 |Time View 06/04/2024 17:03:53 |Black List Yes |Use Type: Business|
+socks://67.213.210.168:11542#🇺🇸 New Hampshire|Tilton|03276|pool-71-161-199-3.burl.east.myfairpoint.net| 71.161.199.3 |Time View 06/04/2024 17:03:36 |Black List Yes |Use Type: Business|
+socks://162.0.220.215:16285#🇺🇸 New Hampshire|Keene|03431|pool-70-109-129-167.cncdnh.east.myfairpoint.net| 70.109.129.167 |Time View 06/04/2024 17:03:33 |Black List Yes |Use Type: Business|
+socks://67.213.210.115:60717#🇺🇸 Maine|Greenbush|04418|pool-72-73-93-104.ptldme.east.myfairpoint.net| 72.73.93.104 |Time View 06/04/2024 17:03:30 |Black List Yes |Use Type: Business|
+socks://38.91.107.2:64290#🇺🇸 Vermont|Brattleboro|05301|pool-72-64-2-177.cncdnh.east.myfairpoint.net| 72.64.2.177 |Time View 06/04/2024 17:03:20 |Black List Yes |Use Type: Business|
+socks://38.91.107.229:48020#🇺🇸 New Hampshire|Londonderry|03053|pool-70-20-58-254.man.east.myfairpoint.net| 70.20.58.254 |Time View 06/04/2024 17:03:14 |Black List Yes |Use Type: Business|
+socks://108.181.133.59:47794#🇺🇸 New Hampshire|Milford|03055|pool-70-105-241-228.port.east.myfairpoint.net| 70.105.241.228 |Time View 06/04/2024 17:03:13 |Black List Yes |Use Type: Business|
+socks://108.181.132.117:41425#🇺🇸 New Hampshire|Dublin|03444|pool-70-109-132-24.cncdnh.east.myfairpoint.net| 70.109.132.24 |Time View 06/04/2024 17:03:05 |Black List Yes |Use Type: Business|
+socks://174.138.176.76:40623#🇺🇸 Maine|Bingham|04920|pool-64-222-220-163.port.east.myfairpoint.net| 64.222.220.163 |Time View 06/04/2024 17:02:46 |Black List Yes |Use Type: Business|
 socks://67.213.212.57:23321#🇺🇸 New York|Syosset|11791|pool-108-21-188-33.nycmny.fios.verizon.net| 108.21.188.33 |Time View 06/04/2024 07:35:47 |Black List Yes |Use Type: Residential|
 socks://67.213.212.55:22289#🇺🇸 New Jersey|East Orange|07017|c-73-215-220-222.hsd1.nj.comcast.net| 73.215.220.222 |Time View 06/04/2024 07:35:30 |Black List Yes |Use Type: Residential|
 socks://67.213.212.48:61895#🇺🇸 New Jersey|Plainfield|07060|c-73-198-21-70.hsd1.nj.comcast.net| 73.198.21.70 |Time View 06/04/2024 07:35:24 |Black List Yes |Use Type: Business|
-socks://67.213.212.48:23585#🇺🇸 New Jersey|Trenton|08618|c-174-167-22-25.hsd1.nj.comcast.net| 174.167.22.25 |Time View 06/04/2024 07:35:22 |Black List Yes |Use Type: Residential|
-socks://67.213.212.56:62300#🇺🇸 New Jersey|Ocean City|08226|c-76-117-57-105.hsd1.nj.comcast.net| 76.117.57.105 |Time View 06/04/2024 07:35:20 |Black List Yes |Use Type: Residential|
-socks://66.29.128.241:21900#🇺🇸 New Jersey|Vineland|08361|c-73-198-220-99.hsd1.nj.comcast.net| 73.198.220.99 |Time View 06/04/2024 07:35:14 |Black List Yes |Use Type: Business|
-socks://66.29.129.52:17278#🇺🇸 New Hampshire|Newport|03773|Consolidated Communications| 64.223.232.86 |Time View 06/04/2024 13:20:42 |Black List Yes |Use Type: Residential|
-socks://174.138.176.76:61073#🇺🇸 New Hampshire|Portsmouth|03801|pool-64-223-233-21.port.east.myfairpoint.net| 64.223.233.21 |Time View 06/04/2024 13:20:18 |Black List Yes |Use Type: Residential|
-socks://209.159.153.21:45376#🇺🇸 New Hampshire|Hudson|03051|Comcast Cable Communications, LLC| 50.214.222.61 |Time View 06/04/2024 13:20:09 |Black List No |Use Type: Residential|
-socks://67.213.212.52:10422#🇺🇸 New Hampshire|Somersworth|03878|d-159-250-24-27.nh.cpe.atlanticbb.net| 159.250.24.27 |Time View 06/04/2024 13:20:06 |Black List No |Use Type: Residential|
