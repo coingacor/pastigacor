@@ -1,29 +1,17 @@
-socks://37.221.193.221:26700#🇺🇸 Ohio|Toledo|43615|cm-72-240-121-31.buckeyecom.net| 72.240.121.31 |Time View 05/04/2024 23:55:58 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:34541#🇺🇸 North Carolina|Washington|27889|207-192-227-12.washnc.static.suddenlink.net| 207.192.227.12 |Time View 05/04/2024 23:55:42 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:25909#🇺🇸 Georgia|Roswell|30075|96-67-125-41-static.hfc.comcastbusiness.net| 96.67.125.41 |Time View 05/04/2024 23:54:58 |Black List Yes |Use Type: Residential|
-socks://66.29.129.52:52666#🇺🇸 Georgia|Conyers|30012|c-73-82-126-248.hsd1.ga.comcast.net| 73.82.126.248 |Time View 05/04/2024 23:54:41 |Black List Yes |Use Type: Residential|
-socks://174.138.176.75:64381#🇺🇸 New Jersey|Wayne|07470|ool-45786fa6.dyn.optonline.net| 69.120.111.166 |Time View 05/04/2024 23:54:01 |Black List Yes |Use Type: Residential|
-socks://108.181.132.115:51663#🇺🇸 New Jersey|Paterson|07514|ool-ae2c95c4.dyn.optonline.net| 174.44.149.196 |Time View 05/04/2024 23:53:59 |Black List Yes |Use Type: Residential|
-socks://209.159.153.19:49398#🇺🇸 New Jersey|Bound Brook|08805|pool-74-105-23-252.nwrknj.fios.verizon.net| 74.105.23.252 |Time View 05/04/2024 23:53:54 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:52889#🇺🇸 New York|The Bronx|10466|pool-100-33-146-109.nycmny.fios.verizon.net| 100.33.146.109 |Time View 05/04/2024 23:53:22 |Black List Yes |Use Type: Residential|
-socks://141.94.238.246:20042#🇺🇸 New York|Fishkill|12524|pool-173-62-108-177.pghkny.fios.verizon.net| 173.62.108.177 |Time View 05/04/2024 23:53:12 |Black List Yes |Use Type: Residential|
-socks://67.213.212.57:63990#🇺🇸 New York|Syosset|11791|pool-108-21-188-33.nycmny.fios.verizon.net| 108.21.188.33 |Time View 05/04/2024 23:52:55 |Black List Yes |Use Type: Residential|
-socks://66.29.128.244:23931#🇺🇸 New York|New York|10022|static-68-160-219-218.nycmny.fios.verizon.net| 68.160.219.218 |Time View 05/04/2024 23:52:46 |Black List No |Use Type: Residential|
-socks://67.213.212.54:39829#🇺🇸 New York|The Bronx|10451|static-108-6-49-216.nycmny.fios.verizon.net| 108.6.49.216 |Time View 05/04/2024 23:52:40 |Black List No |Use Type: Residential|
-socks://209.159.153.19:31645#🇺🇸 New Jersey|Jersey City|07305|static-108-5-138-12.nwrknj.fios.verizon.net| 108.5.138.12 |Time View 05/04/2024 23:52:36 |Black List No |Use Type: Residential|
-socks://67.213.212.54:64602#🇺🇸 New Jersey|Ridgewood|07450|pool-96-242-38-141.nwrknj.fios.verizon.net| 96.242.38.141 |Time View 05/04/2024 23:52:33 |Black List Yes |Use Type: Residential|
-socks://209.159.153.19:52564#🇺🇸 New York|Brooklyn|11206|static-100-38-80-242.nycmny.fios.verizon.net| 100.38.80.242 |Time View 05/04/2024 23:52:30 |Black List No |Use Type: Residential|
-socks://209.159.153.21:14575#🇺🇸 New Jersey|Newark|07105|static-71-251-219-122.nwrknj.fios.verizon.net| 71.251.219.122 |Time View 05/04/2024 23:52:22 |Black List No |Use Type: Residential|
-socks://67.213.212.52:32055#🇺🇸 New York|Queens|11366|static-100-12-12-199.nycmny.fios.verizon.net| 100.12.12.199 |Time View 05/04/2024 23:52:19 |Black List No |Use Type: Residential|
-socks://23.105.170.30:22579#🇺🇸 New York|New York|10001|pool-68-160-231-169.nycmny.fios.verizon.net| 68.160.231.169 |Time View 05/04/2024 23:52:08 |Black List Yes |Use Type: Residential|
-socks://67.213.212.50:58902#🇺🇸 New York|Queens|11354|static-108-21-232-170.nycmny.fios.verizon.net| 108.21.232.170 |Time View 05/04/2024 23:52:04 |Black List No |Use Type: Residential|
-socks://209.159.153.20:15555#🇺🇸 New York|Queens|11375|static-71-105-100-76.nycmny.fios.verizon.net| 71.105.100.76 |Time View 05/04/2024 23:51:59 |Black List No |Use Type: Residential|
-socks://162.19.7.49:34311#🇺🇸 New York|Staten Island|10312|pool-100-37-64-88.nycmny.fios.verizon.net| 100.37.64.88 |Time View 05/04/2024 23:51:58 |Black List Yes |Use Type: Residential|
-socks://67.213.212.56:58279#🇺🇸 New Jersey|Riverside Park|08075|c-73-196-181-138.hsd1.nj.comcast.net| 73.196.181.138 |Time View 05/04/2024 23:51:33 |Black List Yes |Use Type: Business|
-socks://67.213.212.55:13852#🇺🇸 New Jersey|East Orange|07017|c-73-215-220-222.hsd1.nj.comcast.net| 73.215.220.222 |Time View 05/04/2024 23:51:31 |Black List Yes |Use Type: Residential|
-socks://162.19.7.61:29701#🇺🇸 New Jersey|Browns Mills|08015|c-174-166-94-186.hsd1.nj.comcast.net| 174.166.94.186 |Time View 05/04/2024 23:51:26 |Black List Yes |Use Type: Residential|
-socks://23.105.170.32:31482#🇺🇸 New Jersey|Cherry Hill|08034|c-24-0-117-211.hsd1.nj.comcast.net| 24.0.117.211 |Time View 05/04/2024 23:51:06 |Black List Yes |Use Type: Residential|
-socks://67.213.212.56:51831#🇺🇸 New Jersey|Ocean City|08226|c-76-117-57-105.hsd1.nj.comcast.net| 76.117.57.105 |Time View 05/04/2024 23:51:02 |Black List Yes |Use Type: Residential|
-socks://108.181.133.59:56166#🇺🇸 Washington|Bellevue|98004|c-24-17-182-156.hsd1.wa.comcast.net| 24.17.182.156 |Time View 05/04/2024 23:45:33 |Black List Yes |Use Type: Residential|
-socks://67.213.212.50:16311#🇺🇸 New Jersey|Flemington|08822|c-73-80-61-106.hsd1.nj.comcast.net| 73.80.61.106 |Time View 05/04/2024 14:29:27 |Black List Yes |Use Type: Residential|
-socks://212.83.138.192:45151|Ireland|Leinster|Dublin|D07|Liberty Global B.V.| 109.255.19.27 |Time View 05/04/2024 00:33:00 |Black List Yes |Use Type: Business|
+socks://66.23.233.210:40984#🇺🇸 New Jersey|Elizabeth|07201|static-74-102-123-126.nwrknj.fios.verizon.net| 74.102.123.126 |Time View 06/04/2024 07:36:42 |Black List No |Use Type: Residential|
+socks://67.213.212.36:46354#🇺🇸 New York|Brooklyn|11215|pool-96-232-104-136.nycmny.fios.verizon.net| 96.232.104.136 |Time View 06/04/2024 07:36:37 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:59027#🇺🇸 Virginia|Virginia Beach|23464|static-96-225-173-21.nrflva.fios.verizon.net| 96.225.173.21 |Time View 06/04/2024 07:36:32 |Black List No |Use Type: Residential|
+socks://66.29.128.245:48661#🇺🇸 New Jersey|Cranford|07016|static-71-187-249-75.nwrknj.fios.verizon.net| 71.187.249.75 |Time View 06/04/2024 07:36:28 |Black List No |Use Type: Residential|
+socks://67.213.212.54:33809#🇺🇸 New York|The Bronx|10451|static-108-6-49-216.nycmny.fios.verizon.net| 108.6.49.216 |Time View 06/04/2024 07:36:24 |Black List No |Use Type: Residential|
+socks://23.105.170.33:24511#🇺🇸 New York|Brooklyn|11209|static-96-232-162-184.nycmny.fios.verizon.net| 96.232.162.184 |Time View 06/04/2024 07:36:15 |Black List No |Use Type: Business|
+socks://38.91.107.2:38038#🇺🇸 New York|Staten Island|10312|pool-100-33-122-38.nycmny.fios.verizon.net| 100.33.122.38 |Time View 06/04/2024 07:36:06 |Black List Yes |Use Type: Residential|
+socks://209.159.153.19:24542#🇺🇸 New York|Brooklyn|11206|static-100-38-80-242.nycmny.fios.verizon.net| 100.38.80.242 |Time View 06/04/2024 07:36:05 |Black List No |Use Type: Residential|
+socks://66.29.128.244:37961#🇺🇸 New York|Brooklyn|11201|static-74-108-8-47.nycmny.fios.verizon.net| 74.108.8.47 |Time View 06/04/2024 07:36:00 |Black List No |Use Type: Residential|
+socks://37.221.193.221:17894#🇺🇸 New York|New York|10013|static-68-129-140-40.nycmny.fios.verizon.net| 68.129.140.40 |Time View 06/04/2024 07:35:55 |Black List No |Use Type: Residential|
+socks://66.23.233.210:61830#🇺🇸 New York|Glen Cove|11542|static-72-89-182-16.nycmny.fios.verizon.net| 72.89.182.16 |Time View 06/04/2024 07:35:51 |Black List No |Use Type: Residential|
+socks://67.213.212.57:23321#🇺🇸 New York|Syosset|11791|pool-108-21-188-33.nycmny.fios.verizon.net| 108.21.188.33 |Time View 06/04/2024 07:35:47 |Black List Yes |Use Type: Residential|
+socks://67.213.212.55:22289#🇺🇸 New Jersey|East Orange|07017|c-73-215-220-222.hsd1.nj.comcast.net| 73.215.220.222 |Time View 06/04/2024 07:35:30 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:61895#🇺🇸 New Jersey|Plainfield|07060|c-73-198-21-70.hsd1.nj.comcast.net| 73.198.21.70 |Time View 06/04/2024 07:35:24 |Black List Yes |Use Type: Business|
+socks://67.213.212.48:23585#🇺🇸 New Jersey|Trenton|08618|c-174-167-22-25.hsd1.nj.comcast.net| 174.167.22.25 |Time View 06/04/2024 07:35:22 |Black List Yes |Use Type: Residential|
+socks://67.213.212.56:62300#🇺🇸 New Jersey|Ocean City|08226|c-76-117-57-105.hsd1.nj.comcast.net| 76.117.57.105 |Time View 06/04/2024 07:35:20 |Black List Yes |Use Type: Residential|
+socks://66.29.128.241:21900#🇺🇸 New Jersey|Vineland|08361|c-73-198-220-99.hsd1.nj.comcast.net| 73.198.220.99 |Time View 06/04/2024 07:35:14 |Black List Yes |Use Type: Business|
