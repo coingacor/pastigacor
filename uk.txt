@@ -1,1 +1,4 @@
 socks://162.19.7.49:40125#🇬🇧 England|Blackpool|FY4|blac-09-b2-v4wan-169002-cust2527.vm29.cable.virginm.net| 82.47.57.224 |Time View 07/04/2024 01:05:43 |Black List Yes |Use Type: Residential|
+socks://212.83.143.60:42007#🇨🇭 Geneva|Geneva|1205|151.64.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.64.151 |Time View 07/04/2024 01:16:25 |Black List Yes |Use Type: Business|
+socks://212.83.138.186:64653#🇨🇭 Bern|Bern|3000|196.202.6.85.dynamic.wline.res.cust.swisscom.ch| 85.6.202.196 |Time View 07/04/2024 01:16:20 |Black List Yes |Use Type: Business|
+socks://138.201.21.228:61144#🇬🇧 England|Dewsbury|WF12|host86-182-15-60.range86-182.btcentralplus.com| 86.182.15.60 |Time View 07/04/2024 01:15:40 |Black List Yes |Use Type: Business|
