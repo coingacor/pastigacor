@@ -15,4 +15,4 @@ socks://66.23.233.210:48212#🇺🇸 New York|Queens|11423|pool-96-224-80-180.ny
 socks://23.105.170.33:11964#🇺🇸 New York|Brooklyn|11209|static-96-232-162-184.nycmny.fios.verizon.net| 96.232.162.184 |Time View 07/04/2024 15:22:40 |Black List No |Use Type: Business|
 socks://37.59.213.49:35173#🇺🇸 New Jersey|Princeton|08540|c-73-196-24-153.hsd1.nj.comcast.net| 73.196.24.153 |Time View 07/04/2024 07:40:52 |Black List Yes |Use Type: Business|
 socks://67.213.212.55:13895#🇺🇸 New Jersey|East Orange|07017|c-73-215-220-222.hsd1.nj.comcast.net| 73.215.220.222 |Time View 07/04/2024 07:40:49 |Black List Yes |Use Type: Residential|
-socks://212.83.143.60:42007|Switzerland|Geneva|Geneva|1205|151.64.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.64.151 |Time View 07/04/2024 01:16:25 |Black List Yes |Use Type: Business|
+socks://212.83.143.60:42007#Switzerland|Geneva|Geneva|1205|151.64.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.64.151 |Time View 07/04/2024 01:16:25 |Black List Yes |Use Type: Business|
