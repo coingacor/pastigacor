@@ -1,7 +1,13 @@
-socks://67.213.212.52:26584#🇺🇸 New York|Queens|11366|static-100-12-12-199.nycmny.fios.verizon.net| 100.12.12.199 |Time View 08/04/2024 00:40:08 |Black List No |Use Type: Residential|
-socks://23.105.170.30:38674#🇺🇸 New Jersey|Lyndhurst|07071|pool-108-35-186-83.nwrknj.fios.verizon.net| 108.35.186.83 |Time View 08/04/2024 00:40:00 |Black List Yes |Use Type: Residential|
-socks://66.29.128.245:53814#🇺🇸 New Jersey|Cranford|07016|static-71-187-249-75.nwrknj.fios.verizon.net| 71.187.249.75 |Time View 08/04/2024 00:39:57 |Black List No |Use Type: Residential|
-socks://23.105.170.30:14252#🇺🇸 New Jersey|Somerville|08876|static-72-88-198-162.nwrknj.fios.verizon.net| 72.88.198.162 |Time View 08/04/2024 00:39:47 |Black List No |Use Type: Residential|
-socks://209.159.153.21:62495#🇺🇸 New Jersey|Newark|07105|static-71-251-219-122.nwrknj.fios.verizon.net| 71.251.219.122 |Time View 08/04/2024 00:39:40 |Black List No |Use Type: Residential|
-socks://66.29.128.245:26554#🇺🇸 New Jersey|Secaucus|07094|static-100-8-194-42.nwrknj.fios.verizon.net| 100.8.194.42 |Time View 08/04/2024 00:39:39 |Black List No |Use Type: Residential|
-socks://67.213.212.54:37230#🇺🇸 New Jersey|East Orange|07018|static-108-53-248-60.nwrknj.fios.verizon.net| 108.53.248.60 |Time View 08/04/2024 00:39:36 |Black List No |Use Type: Residential|
+socks://67.213.210.62:33006#🇺🇸 New Jersey|Warren Township|07059|ool-182feef9.dyn.optonline.net| 24.47.238.249 |Time View 08/04/2024 08:52:22 |Black List Yes |Use Type: Residential|
+socks://162.19.7.47:23926#🇺🇸 New Jersey|Kearny|07032|pool-71-187-205-220.nwrknj.fios.verizon.net| 71.187.205.220 |Time View 08/04/2024 08:51:14 |Black List Yes |Use Type: Residential|
+socks://67.213.212.38:49986#🇺🇸 New Jersey|Red Bank|07701|pool-100-35-142-42.nwrknj.fios.verizon.net| 100.35.142.42 |Time View 08/04/2024 08:51:05 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:14772#🇺🇸 New York|New York|10013|static-68-129-140-40.nycmny.fios.verizon.net| 68.129.140.40 |Time View 08/04/2024 08:50:49 |Black List No |Use Type: Residential|
+socks://67.213.212.47:37821#🇺🇸 New York|Queens|11429|pool-173-52-101-9.nycmny.fios.verizon.net| 173.52.101.9 |Time View 08/04/2024 08:50:43 |Black List Yes |Use Type: Residential|
+socks://67.213.212.51:57846#🇺🇸 New York|The Bronx|10467|pool-173-68-116-239.nycmny.fios.verizon.net| 173.68.116.239 |Time View 08/04/2024 08:50:30 |Black List Yes |Use Type: Residential|
+socks://209.159.153.22:11154#🇺🇸 New York|Bay Shore|11706|pool-68-132-218-214.nycmny.fios.verizon.net| 68.132.218.214 |Time View 08/04/2024 08:50:29 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:13469#🇺🇸 New Jersey|Newark|07105|static-71-251-219-122.nwrknj.fios.verizon.net| 71.251.219.122 |Time View 08/04/2024 08:50:01 |Black List No |Use Type: Residential|
+socks://66.29.128.245:13971#🇺🇸 New Jersey|Secaucus|07094|static-100-8-194-42.nwrknj.fios.verizon.net| 100.8.194.42 |Time View 08/04/2024 08:49:56 |Black List No |Use Type: Residential|
+socks://67.213.212.50:65030#🇺🇸 New York|Queens|11356|static-108-21-232-170.nycmny.fios.verizon.net| 108.21.232.170 |Time View 08/04/2024 08:49:50 |Black List No |Use Type: Residential|
+socks://67.213.212.48:21967#🇺🇸 New York|New Rochelle|10801|pool-108-14-55-201.nycmny.fios.verizon.net| 108.14.55.201 |Time View 08/04/2024 08:49:39 |Black List Yes |Use Type: Residential|
+socks://67.213.212.39:36613#🇺🇸 New Jersey|Hackensack|07601|static-71-172-91-234.nwrknj.fios.verizon.net| 71.172.91.234 |Time View 08/04/2024 08:49:20 |Black List No |Use Type: Residential|
+socks://23.105.170.30:46765#🇺🇸 New Jersey|Somerville|08876|static-72-88-198-162.nwrknj.fios.verizon.net| 72.88.198.162 |Time View 08/04/2024 08:49:16 |Black List No |Use Type: Residential|
