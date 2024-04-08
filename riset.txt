@@ -11,3 +11,6 @@ socks://67.213.212.50:65030#🇺🇸 New York|Queens|11356|static-108-21-232-170
 socks://67.213.212.48:21967#🇺🇸 New York|New Rochelle|10801|pool-108-14-55-201.nycmny.fios.verizon.net| 108.14.55.201 |Time View 08/04/2024 08:49:39 |Black List Yes |Use Type: Residential|
 socks://67.213.212.39:36613#🇺🇸 New Jersey|Hackensack|07601|static-71-172-91-234.nwrknj.fios.verizon.net| 71.172.91.234 |Time View 08/04/2024 08:49:20 |Black List No |Use Type: Residential|
 socks://23.105.170.30:46765#🇺🇸 New Jersey|Somerville|08876|static-72-88-198-162.nwrknj.fios.verizon.net| 72.88.198.162 |Time View 08/04/2024 08:49:16 |Black List No |Use Type: Residential|
+socks://67.213.212.36:62093#🇺🇸 New Jersey|Mount Laurel|08054|c-69-142-88-207.hsd1.nj.comcast.net| 69.142.88.207 |Time View 08/04/2024 10:38:05 |Black List Yes |Use Type: Residential|
+socks://67.213.212.39:53287#🇺🇸 New Jersey|Englewood|07631|098-014-026-037.res.spectrum.com| 98.14.26.37 |Time View 08/04/2024 10:37:49 |Black List Yes |Use Type: Residential|
+socks://23.105.170.30:25167#🇺🇸 New Jersey|Lyndhurst|07071|pool-108-35-186-83.nwrknj.fios.verizon.net| 108.35.186.83 |Time View 08/04/2024 10:37:36 |Black List Yes |Use Type: Residential|
