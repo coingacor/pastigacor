@@ -7,3 +7,6 @@ socks://209.159.153.19:60348#🇺🇸 New Jersey|Jersey City|07305|static-108-5-
 socks://67.213.212.38:23508#🇺🇸 New Jersey|Red Bank|07701|pool-100-35-142-42.nwrknj.fios.verizon.net| 100.35.142.42 |Time View 09/04/2024 01:03:58 |Black List Yes |Use Type: Residential|
 socks://67.213.212.56:57627#🇺🇸 New Jersey|Jersey City|07306|static-71-172-124-202.nwrknj.fios.verizon.net| 71.172.124.202 |Time View 09/04/2024 01:03:53 |Black List Yes |Use Type: Residential|
 socks://51.83.116.7:34368#🇨🇦 Ontario|Toronto|M6N|CIK Telecom INC| 209.141.185.141 |Time View 09/04/2024 03:09:34 |Black List No |Use Type: Residential|
+socks://67.213.210.167:18238#🇺🇸 New Jersey|Cherry Hill|08002|pool-173-61-25-77.cmdnnj.fios.verizon.net| 173.61.25.77 |Time View 09/04/2024 03:19:41 |Black List Yes |Use Type: Residential|
+socks://67.213.210.115:37353#🇺🇸 Pennsylvania|Pittsburgh|15237|c-73-154-207-173.hsd1.pa.comcast.net| 73.154.207.173 |Time View 09/04/2024 03:19:26 |Black List Yes |Use Type: Residential|
+socks://174.138.176.74:60004#🇺🇸 Pennsylvania|Philadelphia|19150|pool-108-52-127-80.phlapa.fios.verizon.net| 108.52.127.80 |Time View 09/04/2024 03:19:13 |Black List Yes |Use Type: Residential|
