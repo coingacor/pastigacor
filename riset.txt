@@ -1,6 +1,10 @@
-socks://23.105.170.32:37262#🇺🇸 Maryland|Cockeysville|21030|c-69-255-78-243.hsd1.md.comcast.net| 69.255.78.243 |Time View 09/04/2024 08:08:37 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:24221#🇺🇸 New York|Queens|11375|static-71-105-100-76.nycmny.fios.verizon.net| 71.105.100.76 |Time View 09/04/2024 09:52:21 |Black List No |Use Type: Residential|
+socks://66.29.128.241:28799#🇺🇸 New York|Queens|11372|pool-100-12-194-201.nycmny.fios.verizon.net| 100.12.194.201 |Time View 09/04/2024 09:52:16 |Black List Yes |Use Type: Residential|
+socks://23.105.170.33:12512#🇺🇸 New Hampshire|Durham|03824|c-73-61-63-10.hsd1.nh.comcast.net| 73.61.63.10 |Time View 09/04/2024 09:51:37 |Black List Yes |Use Type: Residential|
+socks://174.138.176.77:47437#🇺🇸 New Hampshire|Canaan|03741|pool-64-223-224-163.port.east.myfairpoint.net| 64.223.224.163 |Time View 09/04/2024 09:51:27 |Black List Yes |Use Type: Residential|
+socks://108.181.133.59:62546#🇺🇸 New Hampshire|Canaan|03741|pool-64-223-227-180.port.east.myfairpoint.net| 64.223.227.180 |Time View 09/04/2024 09:51:25 |Black List Yes |Use Type: Residential|
+socks://108.181.133.58:22361#🇺🇸 New Hampshire|Laconia|03246|pool-71-169-140-138.burl.east.myfairpoint.net| 71.169.140.138 |Time View 09/04/2024 09:51:16 |Black List Yes |Use Type: Business|
 socks://23.105.170.33:47799#🇺🇸 Maryland|Owings Mills|21117|c-98-218-114-193.hsd1.md.comcast.net| 98.218.114.193 |Time View 09/04/2024 08:08:33 |Black List Yes |Use Type: Residential|
 socks://51.254.149.59:16657#🇺🇸 Maryland|Baltimore|21215|c-71-206-37-23.hsd1.md.comcast.net| 71.206.37.23 |Time View 09/04/2024 05:23:41 |Black List Yes |Use Type: Residential|
-socks://174.138.176.74:60004#🇺🇸 Pennsylvania|Philadelphia|19150|pool-108-52-127-80.phlapa.fios.verizon.net| 108.52.127.80 |Time View 09/04/2024 03:19:13 |Black List Yes |Use Type: Residential|
 socks://51.83.116.7:34368|Canada|Ontario|Toronto|M6N|CIK Telecom INC| 209.141.185.141 |Time View 09/04/2024 03:09:34 |Black List No |Use Type: Residential|
 socks://209.159.153.20:38421#🇺🇸 New Jersey|Sicklerville|08081|c-73-160-158-182.hsd1.nj.comcast.net| 73.160.158.182 |Time View 09/04/2024 01:04:36 |Black List Yes |Use Type: Residential|
