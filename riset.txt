@@ -4,3 +4,4 @@ socks://67.213.210.167:18238#🇺🇸 New Jersey|Cherry Hill|08002|pool-173-61-2
 socks://174.138.176.74:60004#🇺🇸 Pennsylvania|Philadelphia|19150|pool-108-52-127-80.phlapa.fios.verizon.net| 108.52.127.80 |Time View 09/04/2024 03:19:13 |Black List Yes |Use Type: Residential|
 socks://51.83.116.7:34368|Canada|Ontario|Toronto|M6N|CIK Telecom INC| 209.141.185.141 |Time View 09/04/2024 03:09:34 |Black List No |Use Type: Residential|
 socks://209.159.153.20:38421#🇺🇸 New Jersey|Sicklerville|08081|c-73-160-158-182.hsd1.nj.comcast.net| 73.160.158.182 |Time View 09/04/2024 01:04:36 |Black List Yes |Use Type: Residential|
+socks://67.213.212.39:12483#🇺🇸 Maryland|Gaithersburg|20877|c-73-163-144-105.hsd1.md.comcast.net| 73.163.144.105 |Time View 09/04/2024 07:03:58 |Black List Yes |Use Type: Residential|
