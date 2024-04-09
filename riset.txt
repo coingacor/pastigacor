@@ -7,3 +7,5 @@ socks://23.105.170.35:31022#🇺🇸 Maryland|Baltimore|21209|c-174-172-49-24.hs
 socks://174.138.176.77:47437#🇺🇸 New Hampshire|Canaan|03741|pool-64-223-224-163.port.east.myfairpoint.net| 64.223.224.163 |Time View 09/04/2024 09:51:27 |Black List Yes |Use Type: Residential|
 socks://51.83.116.7:34368|Canada|Ontario|Toronto|M6N|CIK Telecom INC| 209.141.185.141 |Time View 09/04/2024 03:09:34 |Black List No |Use Type: Residential|
 socks://209.159.153.20:38421#🇺🇸 New Jersey|Sicklerville|08081|c-73-160-158-182.hsd1.nj.comcast.net| 73.160.158.182 |Time View 09/04/2024 01:04:36 |Black List Yes |Use Type: Residential|
+socks://212.83.143.49:16388#🇬🇧 England|Barnet|N3|cpc1-finc17-2-0-cust1450.4-2.cable.virginm.net| 82.19.229.171 |Time View 09/04/2024 16:59:20 |Black List No |Use Type: Residential|
+socks://138.201.21.232:14036#🇬🇧 England|Halifax|HX1|bolt-19-b2-v4wan-169906-cust911.vm18.cable.virginm.net| 81.103.83.144 |Time View 09/04/2024 16:59:17 |Black List Yes |Use Type: Residential|
