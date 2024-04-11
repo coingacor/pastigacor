@@ -27,3 +27,4 @@ socks://174.138.176.78:12710#🇺🇸 New Hampshire|Grafton|03240|pool-64-223-23
 socks://66.29.128.244:47931#🇺🇸 New York|Queens|11360|pool-100-12-108-192.nycmny.fios.verizon.net| 100.12.108.192 |Time View 11/04/2024 21:11:07 |Black List Yes |Use Type: Business|
 socks://209.159.153.20:28562#🇺🇸 New York|Queens|11375|pool-72-80-7-115.nycmny.fios.verizon.net| 72.80.7.115 |Time View 11/04/2024 21:11:07 |Black List Yes |Use Type: Residential|
 socks://185.198.58.47:33409#🇺🇸 Pennsylvania|Philadelphia|19133|c-68-81-165-10.hsd1.pa.comcast.net| 68.81.165.10 |Time View 11/04/2024 21:08:06 |Black List Yes |Use Type: Residential|
+socks://67.213.212.57:30691#🇺🇸 Utah|Salt Lake City|84104|93.sub-166-154-133.myvzw.com| 166.154.133.93 |Time View 12/04/2024 01:30:44 |Black List Yes |Use Type: Business|
