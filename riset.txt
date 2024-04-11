@@ -8,3 +8,6 @@ socks://185.198.58.47:33409#🇺🇸 Pennsylvania|Philadelphia|19133|c-68-81-165
 socks://209.159.153.19:23536#🇺🇸 Pennsylvania|Philadelphia|19134|c-73-165-62-222.hsd1.pa.comcast.net| 73.165.62.222 |Time View 11/04/2024 21:08:00 |Black List Yes |Use Type: Residential|
 socks://209.159.153.19:13188#🇺🇸 Maryland|Baltimore|21217|c-73-39-229-57.hsd1.md.comcast.net| 73.39.229.57 |Time View 11/04/2024 21:05:27 |Black List Yes |Use Type: Residential|
 socks://67.213.212.50:63757#🇺🇸 Texas|Houston|77057|104-184-133-58.lightspeed.hstntx.sbcglobal.net| 104.184.133.58 |Time View 11/04/2024 15:05:57 |Black List No |Use Type: Residential|
+socks://66.29.128.241:62273#🇺🇸 Indiana|Indianapolis|46229|c-68-51-113-194.hsd1.in.comcast.net| 68.51.113.194 |Time View 11/04/2024 21:57:50 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:34363#🇺🇸 Indiana|Saint John|46373|c-73-73-251-195.hsd1.in.comcast.net| 73.73.251.195 |Time View 11/04/2024 21:57:40 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:62156#🇺🇸 Indiana|Fort Wayne|46845|c-73-102-174-70.hsd1.in.comcast.net| 73.102.174.70 |Time View 11/04/2024 21:57:38 |Black List Yes |Use Type: Residential|
