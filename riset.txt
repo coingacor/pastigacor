@@ -1,8 +1,10 @@
+socks://67.213.212.49:36382#🇺🇸 New Hampshire|Manchester|03102|96-92-141-13-static.hfc.comcastbusiness.net| 96.92.141.13 |Time View 11/04/2024 21:13:32 |Black List No |Use Type: Residential|
+socks://108.181.132.115:28105#🇺🇸 New Hampshire|Etna|03750|pool-64-223-235-225.port.east.myfairpoint.net| 64.223.235.225 |Time View 11/04/2024 21:12:37 |Black List Yes |Use Type: Residential|
+socks://174.138.176.78:12710#🇺🇸 New Hampshire|Grafton|03240|pool-64-223-235-83.port.east.myfairpoint.net| 64.223.235.83 |Time View 11/04/2024 21:12:25 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:56096#🇺🇸 New York|Queens|11375|static-71-105-100-76.nycmny.fios.verizon.net| 71.105.100.76 |Time View 11/04/2024 21:11:10 |Black List No |Use Type: Residential|
+socks://66.29.128.244:47931#🇺🇸 New York|Queens|11360|pool-100-12-108-192.nycmny.fios.verizon.net| 100.12.108.192 |Time View 11/04/2024 21:11:07 |Black List Yes |Use Type: Business|
+socks://209.159.153.20:28562#🇺🇸 New York|Queens|11375|pool-72-80-7-115.nycmny.fios.verizon.net| 72.80.7.115 |Time View 11/04/2024 21:11:07 |Black List Yes |Use Type: Residential|
+socks://185.198.58.47:33409#🇺🇸 Pennsylvania|Philadelphia|19133|c-68-81-165-10.hsd1.pa.comcast.net| 68.81.165.10 |Time View 11/04/2024 21:08:06 |Black List Yes |Use Type: Residential|
+socks://209.159.153.19:23536#🇺🇸 Pennsylvania|Philadelphia|19134|c-73-165-62-222.hsd1.pa.comcast.net| 73.165.62.222 |Time View 11/04/2024 21:08:00 |Black List Yes |Use Type: Residential|
+socks://209.159.153.19:13188#🇺🇸 Maryland|Baltimore|21217|c-73-39-229-57.hsd1.md.comcast.net| 73.39.229.57 |Time View 11/04/2024 21:05:27 |Black List Yes |Use Type: Residential|
 socks://67.213.212.50:63757#🇺🇸 Texas|Houston|77057|104-184-133-58.lightspeed.hstntx.sbcglobal.net| 104.184.133.58 |Time View 11/04/2024 15:05:57 |Black List No |Use Type: Residential|
-socks://67.213.212.53:17975#🇺🇸 Texas|Houston|77065|c-73-155-145-31.hsd1.tx.comcast.net| 73.155.145.31 |Time View 11/04/2024 15:05:53 |Black List Yes |Use Type: Residential|
-socks://162.19.7.50:47885#🇺🇸 Maryland|Baltimore|21212|c-73-163-192-33.hsd1.md.comcast.net| 73.163.192.33 |Time View 11/04/2024 12:35:34 |Black List Yes |Use Type: Residential|
-socks://162.19.7.61:39789#🇺🇸 Maryland|Havre de Grace|21078|c-73-212-210-79.hsd1.md.comcast.net| 73.212.210.79 |Time View 11/04/2024 12:35:28 |Black List Yes |Use Type: Residential|
-socks://209.159.153.22:44077#🇺🇸 Arkansas|Little Rock|72212|c-71-238-141-44.hsd1.ar.comcast.net| 71.238.141.44 |Time View 11/04/2024 12:34:18 |Black List Yes |Use Type: Residential|
-socks://141.94.238.246:42094#🇺🇸 Maryland|Baltimore|21218|c-174-172-200-65.hsd1.md.comcast.net| 174.172.200.65 |Time View 11/04/2024 11:14:38 |Black List Yes |Use Type: Residential|
-socks://162.19.7.60:24640#🇺🇸 Maryland|Salisbury|21804|c-98-211-110-197.hsd1.md.comcast.net| 98.211.110.197 |Time View 11/04/2024 11:14:22 |Black List Yes |Use Type: Residential|
-socks://67.213.212.55:59966#🇺🇸 Maryland|Glen Burnie|21061|c-73-201-89-2.hsd1.md.comcast.net| 73.201.89.2 |Time View 11/04/2024 02:30:03 |Black List Yes |Use Type: Residential|
