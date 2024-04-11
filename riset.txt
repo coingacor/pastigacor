@@ -11,3 +11,7 @@ socks://67.213.212.50:63757#🇺🇸 Texas|Houston|77057|104-184-133-58.lightspe
 socks://66.29.128.241:62273#🇺🇸 Indiana|Indianapolis|46229|c-68-51-113-194.hsd1.in.comcast.net| 68.51.113.194 |Time View 11/04/2024 21:57:50 |Black List Yes |Use Type: Residential|
 socks://209.159.153.20:34363#🇺🇸 Indiana|Saint John|46373|c-73-73-251-195.hsd1.in.comcast.net| 73.73.251.195 |Time View 11/04/2024 21:57:40 |Black List Yes |Use Type: Residential|
 socks://209.159.153.20:62156#🇺🇸 Indiana|Fort Wayne|46845|c-73-102-174-70.hsd1.in.comcast.net| 73.102.174.70 |Time View 11/04/2024 21:57:38 |Black List Yes |Use Type: Residential|
+socks://67.213.212.50:14311#🇺🇸 Maryland|California|20619|d-24-153-42-22.md.cpe.atlanticbb.net| 24.153.42.22 |Time View 11/04/2024 22:21:01 |Black List Yes |Use Type: Residential|
+socks://209.159.153.22:43672#🇺🇸 Maryland|Woodbine|21797|Comcast Cable Communications, LLC| 71.26.37.234 |Time View 11/04/2024 22:20:53 |Black List No |Use Type: Residential|
+socks://67.213.212.36:11146#🇺🇸 Maryland|Lexington Park|20653|d-72-9-7-27.md.cpe.atlanticbb.net| 72.9.7.27 |Time View 11/04/2024 22:20:50 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:65244#🇺🇸 Maryland|Westminster|21157|96-70-190-242-static.hfc.comcastbusiness.net| 96.70.190.242 |Time View 11/04/2024 22:20:43 |Black List No |Use Type: Residential|
