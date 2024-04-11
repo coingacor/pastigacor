@@ -1,14 +1,5 @@
-socks://51.254.149.59:62811#🇺🇸 Maryland|Havre de Grace|21078|c-73-212-210-79.hsd1.md.comcast.net| 73.212.210.79 |Time View 10/04/2024 11:40:10 |Black List Yes |Use Type: Residential|
-socks://67.213.212.39:62291#🇺🇸 Maryland|Gaithersburg|20877|c-73-163-144-105.hsd1.md.comcast.net| 73.163.144.105 |Time View 10/04/2024 11:39:45 |Black List Yes |Use Type: Residential|
-socks://67.213.212.36:61021#🇺🇸 New Jersey|Mount Laurel|08054|c-69-142-88-207.hsd1.nj.comcast.net| 69.142.88.207 |Time View 10/04/2024 02:00:31 |Black List Yes |Use Type: Residential|
-socks://67.213.212.55:34969#🇺🇸 Maryland|Glen Burnie|21061|c-73-201-89-2.hsd1.md.comcast.net| 73.201.89.2 |Time View 10/04/2024 01:56:05 |Black List Yes |Use Type: Residential|
-socks://67.213.212.50:14325#🇺🇸 New York|Queens|11356|static-108-21-232-170.nycmny.fios.verizon.net| 108.21.232.170 |Time View 10/04/2024 23:24:38 |Black List No |Use Type: Residential|
-socks://23.105.170.32:41775#🇺🇸 Maryland|Cockeysville|21030|c-69-255-78-243.hsd1.md.comcast.net| 69.255.78.243 |Time View 10/04/2024 23:23:22 |Black List Yes |Use Type: Residential|
-socks://67.213.212.36:23025#🇺🇸 Maryland|Gaithersburg|20878|pool-71-178-195-16.washdc.fios.verizon.net| 71.178.195.16 |Time View 10/04/2024 23:22:41 |Black List Yes |Use Type: Residential|
-socks://141.94.238.246:42094#🇺🇸 Maryland|Baltimore|21218|c-174-172-200-65.hsd1.md.comcast.net| 174.172.200.65 |Time View 10/04/2024 23:22:38 |Black List Yes |Use Type: Residential|
-socks://67.213.212.57:12976#🇺🇸 Maryland|Baltimore|21202|c-73-250-218-43.hsd1.md.comcast.net| 73.250.218.43 |Time View 10/04/2024 23:22:01 |Black List Yes |Use Type: Residential|
-socks://162.19.7.59:63769#🇺🇸 California|Manteca|95336|c-73-116-124-48.hsd1.ca.comcast.net| 73.116.124.48 |Time View 10/04/2024 23:49:35 |Black List Yes |Use Type: Residential|
+socks://141.94.238.246:42094#🇺🇸 Maryland|Baltimore|21218|c-174-172-200-65.hsd1.md.comcast.net| 174.172.200.65 |Time View 11/04/2024 11:14:38 |Black List Yes |Use Type: Residential|
+socks://67.213.212.57:46306#🇺🇸 Maryland|Baltimore|21202|c-73-250-218-43.hsd1.md.comcast.net| 73.250.218.43 |Time View 11/04/2024 11:14:25 |Black List Yes |Use Type: Residential|
+socks://162.19.7.60:24640#🇺🇸 Maryland|Salisbury|21804|c-98-211-110-197.hsd1.md.comcast.net| 98.211.110.197 |Time View 11/04/2024 11:14:22 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:27057#🇺🇸 California|Vacaville|95687|21.sub-166-255-147.myvzw.com| 166.255.147.21 |Time View 11/04/2024 02:55:51 |Black List Yes |Use Type: Business|
 socks://67.213.212.55:59966#🇺🇸 Maryland|Glen Burnie|21061|c-73-201-89-2.hsd1.md.comcast.net| 73.201.89.2 |Time View 11/04/2024 02:30:03 |Black List Yes |Use Type: Residential|
-socks://67.213.212.39:21903#🇺🇸 Maryland|Gaithersburg|20877|c-73-163-144-105.hsd1.md.comcast.net| 73.163.144.105 |Time View 11/04/2024 02:29:15 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:28613#🇺🇸 California|Sun City|92586|97.sub-166-248-212.myvzw.com| 166.248.212.97 |Time View 11/04/2024 02:56:24 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:2705#🇺🇸 California|Vacaville|95687|21.sub-166-255-147.myvzw.com| 166.255.147.21 |Time View 11/04/2024 02:55:51 |Black List Yes |Use Type: Business|
