@@ -1,16 +1,29 @@
-socks://67.213.212.56:40515#🇺🇸 New York|Queens|11694|pool-173-56-102-26.nycmny.ftas.verizon.net| 173.56.102.26 |Time View 16/04/2024 14:59:48 |Black List Yes |Use Type: Business|
-socks://67.213.212.38:47888#🇺🇸 New York|Queens|11427|static-108-30-132-5.nycmny.fios.verizon.net| 108.30.132.5 |Time View 16/04/2024 14:59:41 |Black List No |Use Type: Residential|
-socks://66.29.128.241:58173#🇺🇸 New York|Queens|11377|pool-100-12-194-201.nycmny.fios.verizon.net| 100.12.194.201 |Time View 16/04/2024 14:59:38 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:34672#🇺🇸 New York|Queens|11375|static-71-105-100-76.nycmny.fios.verizon.net| 71.105.100.76 |Time View 16/04/2024 14:59:34 |Black List No |Use Type: Residential|
+socks://67.213.212.39:30155#🇺🇸 Colorado|Denver|80220|c-73-169-42-89.hsd1.co.comcast.net| 73.169.42.89 |Time View 16/04/2024 23:03:34 |Black List Yes |Use Type: Residential|
+socks://66.29.128.241:16040#🇺🇸 Colorado|Denver|80218|c-76-155-48-162.hsd1.co.comcast.net| 76.155.48.162 |Time View 16/04/2024 23:03:32 |Black List Yes |Use Type: Residential|
+socks://67.213.212.50:50573#🇺🇸 Colorado|Aurora|80015|c-71-196-226-174.hsd1.co.comcast.net| 71.196.226.174 |Time View 16/04/2024 23:03:27 |Black List Yes |Use Type: Residential|
+socks://67.213.212.55:32482#🇺🇸 Alabama|Huntsville|35802|c-98-54-85-32.hsd1.al.comcast.net| 98.54.85.32 |Time View 16/04/2024 23:03:04 |Black List Yes |Use Type: Residential|
+socks://67.213.210.61:51426#🇺🇸 Alabama|Anniston|36206|174-126-172-176.cpe.sparklight.net| 174.126.172.176 |Time View 16/04/2024 23:03:00 |Black List No |Use Type: Residential|
+socks://67.213.212.55:17703#🇺🇸 Texas|Houston|77044|c-98-200-63-140.hsd1.tx.comcast.net| 98.200.63.140 |Time View 16/04/2024 22:50:42 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:18231#🇺🇸 Texas|Emory|75440|Peoples Communications Inc.| 69.46.52.119 |Time View 16/04/2024 22:50:28 |Black List Yes |Use Type: Business|
+socks://67.213.212.56:61986#🇺🇸 Texas|Odessa|79765|68-78-99-232.lightspeed.mdldtx.sbcglobal.net| 68.78.99.232 |Time View 16/04/2024 22:49:56 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:33266#🇺🇸 Texas|Sugar Land|77479|c-73-32-209-110.hsd1.tx.comcast.net| 73.32.209.110 |Time View 16/04/2024 22:49:46 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:39009#🇺🇸 Georgia|Madison|30650|AT&T Services, Inc.| 104.8.100.221 |Time View 16/04/2024 22:48:55 |Black List No |Use Type: Business|
+socks://66.29.128.245:23896#🇺🇸 Georgia|Atlanta|30329|162-193-208-227.lightspeed.tukrga.sbcglobal.net| 162.193.208.227 |Time View 16/04/2024 22:48:48 |Black List No |Use Type: Residential|
+socks://23.105.170.33:56322#🇺🇸 Georgia|Atlanta|30341|Comcast Cable Communications, LLC| 50.232.69.26 |Time View 16/04/2024 22:48:44 |Black List No |Use Type: Residential|
+socks://66.29.128.244:35857#🇺🇸 Georgia|Atlanta|30338|Comcast Cable Communications, LLC| 50.234.191.227 |Time View 16/04/2024 22:48:16 |Black List No |Use Type: Residential|
+socks://37.221.193.221:16275#🇺🇸 Georgia|Alpharetta|30004|96-67-125-41-static.hfc.comcastbusiness.net| 96.67.125.41 |Time View 16/04/2024 22:48:07 |Black List No |Use Type: Residential|
+socks://67.213.212.58:36003#🇺🇸 Georgia|Augusta|30907|c-73-190-248-57.hsd1.ga.comcast.net| 73.190.248.57 |Time View 16/04/2024 22:47:19 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:23533#🇺🇸 Georgia|Statesboro|30458|host-24-54-106-94.vyvebroadband.net| 24.54.106.94 |Time View 16/04/2024 22:47:14 |Black List Yes |Use Type: Residential|
+socks://162.0.220.215:22696#🇺🇸 New York|Queens|11101|Honest Networks, LLC| 38.125.207.190 |Time View 16/04/2024 22:45:10 |Black List No |Use Type: Business|
+socks://162.0.220.219:39915#🇺🇸 New York|Monroe|10950|ool-44c22fac.dyn.optonline.net| 68.194.47.172 |Time View 16/04/2024 22:45:07 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:13328#🇺🇸 California|Irvine|92618|136-52-13-251.googlefiber.net| 136.52.13.251 |Time View 16/04/2024 22:42:22 |Black List Yes |Use Type: Residential|
+socks://162.19.7.61:12720#🇺🇸 California|Santa Cruz|95062|c-67-169-51-158.hsd1.ca.comcast.net| 67.169.51.158 |Time View 16/04/2024 22:42:19 |Black List Yes |Use Type: Residential|
+socks://174.138.176.74:60636#🇺🇸 California|Antelope|95843|013.69-4-149-nokia-dsl.dynamic.surewest.net| 69.4.149.13 |Time View 16/04/2024 22:42:07 |Black List Yes |Use Type: Residential|
+socks://108.181.132.116:62986#🇺🇸 California|San Jose|95127|c-73-162-95-183.hsd1.ca.comcast.net| 73.162.95.183 |Time View 16/04/2024 22:41:52 |Black List Yes |Use Type: Residential|
+socks://67.213.212.38:15176#🇺🇸 New Jersey|Rumson|07760|pool-100-35-142-42.nwrknj.fios.verizon.net| 100.35.142.42 |Time View 16/04/2024 22:40:32 |Black List Yes |Use Type: Residential|
+socks://209.159.153.22:53265#🇺🇸 New Jersey|Chester|07930|c-73-80-61-106.hsd1.nj.comcast.net| 73.80.61.106 |Time View 16/04/2024 22:40:23 |Black List Yes |Use Type: Residential|
+socks://23.105.170.34:15187#🇺🇸 Maryland|Baltimore|21217|c-98-204-78-67.hsd1.md.comcast.net| 98.204.78.67 |Time View 16/04/2024 22:11:04 |Black List Yes |Use Type: Residential|
+socks://162.19.7.53:33004|Australia|New South Wales|Sydney|2145|pa49-180-88-133.pa.nsw.optusnet.com.au| 49.180.88.133 |Time View 16/04/2024 19:53:45 |Black List Yes |Use Type: Business|
+socks://51.83.116.4:60250|Australia|New South Wales|Sydney|2000|182-239-128-225.tpgi.com.au| 182.239.128.225 |Time View 16/04/2024 19:53:32 |Black List Yes |Use Type: Business|
+socks://37.59.213.49:63169|Australia|New South Wales|Sydney|2000|cpe-120-147-226-128.nb09.nsw.asp.telstra.net| 120.147.226.128 |Time View 16/04/2024 19:53:07 |Black List Yes |Use Type: Business|
 socks://67.213.212.52:42035#🇺🇸 New Jersey|Mickleton|08056|c-73-178-162-85.hsd1.nj.comcast.net| 73.178.162.85 |Time View 16/04/2024 14:59:14 |Black List Yes |Use Type: Residential|
-socks://23.105.170.30:57109#🇺🇸 New Jersey|Lyndhurst|07071|50-248-163-198-static.hfc.comcastbusiness.net| 50.248.163.198 |Time View 16/04/2024 14:58:40 |Black List No |Use Type: Residential|
-socks://67.213.212.57:46642#🇺🇸 Maryland|Baltimore|21201|c-73-250-218-43.hsd1.md.comcast.net| 73.250.218.43 |Time View 16/04/2024 10:53:44 |Black List Yes |Use Type: Residential|
-socks://138.201.21.232:15521#🇬🇧 England|Ellesmere Port|CH66|cpc155811-brmb11-2-0-cust92.1-3.cable.virginm.net| 81.109.220.93 |Time View 16/04/2024 15:06:49 |Black List No |Use Type: Residential|
-socks://195.154.43.86:50685#🇬🇧 England|Reading|RG6|cpc157713-rdng30-2-0-cust812.15-3.cable.virginm.net| 86.20.227.45 |Time View 16/04/2024 15:06:15 |Black List Yes |Use Type: Residential|
-socks://138.201.21.233:37546#🇦🇺 New South Wales|Sydney|2000|Telstra Internet| 123.209.65.239 |Time View 16/04/2024 19:54:11 |Black List Yes |Use Type: Business|
-socks://89.58.45.94:45638#🇦🇺 New South Wales|Sydney|2066|Telstra Corporation Limited| 60.231.34.210 |Time View 16/04/2024 19:54:01 |Black List No |Use Type: Business|
-socks://162.19.7.53:33004#🇦🇺 New South Wales|Sydney|2145|pa49-180-88-133.pa.nsw.optusnet.com.au| 49.180.88.133 |Time View 16/04/2024 19:53:45 |Black List Yes |Use Type: Business|
-socks://212.83.143.97:47337#🇦🇺 Queensland|Brisbane|4067|203-59-187-77.tpgi.com.au| 203.59.187.77 |Time View 16/04/2024 19:53:38 |Black List Yes |Use Type: Business|
-socks://51.83.116.4:60250#🇦🇺 New South Wales|Sydney|2000|182-239-128-225.tpgi.com.au| 182.239.128.225 |Time View 16/04/2024 19:53:32 |Black List Yes |Use Type: Business|
-socks://212.83.143.147:15553#🇦🇺 Queensland|Brisbane|4000|gre1060202.lnk.telstra.net| 120.151.215.57 |Time View 16/04/2024 19:53:21 |Black List No |Use Type: Business|
-socks://37.59.213.49:63169#🇦🇺 New South Wales|Sydney|2000|cpe-120-147-226-128.nb09.nsw.asp.telstra.net| 120.147.226.128 |Time View 16/04/2024 19:53:07 |Black List Yes |Use Type: Business|
