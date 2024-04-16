@@ -1,4 +1,7 @@
+socks://67.213.212.56:40515#🇺🇸 New York|Queens|11694|pool-173-56-102-26.nycmny.ftas.verizon.net| 173.56.102.26 |Time View 16/04/2024 14:59:48 |Black List Yes |Use Type: Business|
+socks://67.213.212.38:47888#🇺🇸 New York|Queens|11427|static-108-30-132-5.nycmny.fios.verizon.net| 108.30.132.5 |Time View 16/04/2024 14:59:41 |Black List No |Use Type: Residential|
+socks://66.29.128.241:58173#🇺🇸 New York|Queens|11377|pool-100-12-194-201.nycmny.fios.verizon.net| 100.12.194.201 |Time View 16/04/2024 14:59:38 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:34672#🇺🇸 New York|Queens|11375|static-71-105-100-76.nycmny.fios.verizon.net| 71.105.100.76 |Time View 16/04/2024 14:59:34 |Black List No |Use Type: Residential|
+socks://67.213.212.52:42035#🇺🇸 New Jersey|Mickleton|08056|c-73-178-162-85.hsd1.nj.comcast.net| 73.178.162.85 |Time View 16/04/2024 14:59:14 |Black List Yes |Use Type: Residential|
+socks://23.105.170.30:57109#🇺🇸 New Jersey|Lyndhurst|07071|50-248-163-198-static.hfc.comcastbusiness.net| 50.248.163.198 |Time View 16/04/2024 14:58:40 |Black List No |Use Type: Residential|
 socks://67.213.212.57:46642#🇺🇸 Maryland|Baltimore|21201|c-73-250-218-43.hsd1.md.comcast.net| 73.250.218.43 |Time View 16/04/2024 10:53:44 |Black List Yes |Use Type: Residential|
-socks://209.159.153.19:17921#🇺🇸 Maryland|Baltimore|21217|c-73-39-229-57.hsd1.md.comcast.net| 73.39.229.57 |Time View 16/04/2024 10:53:29 |Black List Yes |Use Type: Residential|
-socks://67.213.212.39:47744#🇺🇸 Maryland|Gaithersburg|20877|c-73-163-144-105.hsd1.md.comcast.net| 73.163.144.105 |Time View 16/04/2024 10:53:22 |Black List Yes |Use Type: Residential|
-socks://23.105.170.35:51551#🇺🇸 Maryland|Baltimore|21209|c-174-172-49-24.hsd1.md.comcast.net| 174.172.49.24 |Time View 16/04/2024 10:53:16 |Black List Yes |Use Type: Residential|
