@@ -41,3 +41,16 @@ socks://46.105.44.29:11930#🇺🇸 Oregon|Portland|97229|c-67-169-211-50.hsd1.o
 socks://38.91.106.214:60394#🇺🇸 Texas|Tomball|77377|c-73-232-205-63.hsd1.tx.comcast.net| 73.232.205.63 |Time View 18/04/2024 23:22:19 |Black List Yes |Use Type: Residential|
 socks://174.138.176.74:57671#🇺🇸 Massachusetts|Sharon|02067|c-76-152-185-185.hsd1.ma.comcast.net| 76.152.185.185 |Time View 18/04/2024 23:22:14 |Black List Yes |Use Type: Residential|
 socks://67.213.212.48:16456#🇺🇸 Florida|Davie|33328|c-73-49-60-250.hsd1.fl.comcast.net| 73.49.60.250 |Time View 18/04/2024 23:22:10 |Black List Yes |Use Type: Residential|
+socks://108.181.132.116:58430#🇺🇸 Georgia|Reynolds|31076|ip-207-171-204-239.nefcom.net| 207.171.204.239 |Time View 19/04/2024 01:09:25 |Black List No |Use Type: Business|
+socks://174.138.176.76:17231#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 69.168.35.103 |Time View 19/04/2024 01:09:14 |Black List No |Use Type: Business|
+socks://162.19.7.58:14075#🇺🇸 Georgia|Hephzibah|30815|c-73-108-143-172.hsd1.ga.comcast.net| 73.108.143.172 |Time View 19/04/2024 01:08:53 |Black List Yes |Use Type: Residential|
+socks://23.105.170.33:54182#🇺🇸 Georgia|Lawrenceville|30043|AT&T Services, Inc.| 69.218.215.26 |Time View 19/04/2024 01:08:37 |Black List No |Use Type: Business|
+socks://67.213.210.175:64259#🇺🇸 Georgia|Cochran|31014|Hargray Communications Group, Inc.| 170.205.177.205 |Time View 19/04/2024 01:08:31 |Black List No |Use Type: Business|
+socks://162.0.220.215:17807#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 64.179.193.11 |Time View 19/04/2024 01:08:26 |Black List No |Use Type: Business|
+socks://67.213.212.54:49941#🇺🇸 Georgia|Acworth|30102|AT&T Services, Inc.| 68.72.137.130 |Time View 19/04/2024 01:08:21 |Black List Yes |Use Type: Business|
+socks://174.138.176.76:27591#🇺🇸 Georgia|Hawkinsville|31036|67.168.205.170.dynamic-pool.hargray.net| 170.205.168.67 |Time View 19/04/2024 01:08:15 |Black List Yes |Use Type: Business|
+socks://67.213.212.49:49874#🇺🇸 Georgia|La Grange|30240|syn-047-048-238-042.biz.spectrum.com| 47.48.238.42 |Time View 19/04/2024 01:08:13 |Black List No |Use Type: Business|
+socks://67.213.212.53:62102#🇺🇸 Georgia|Monroe|30655|syn-075-131-183-138.res.spectrum.com| 75.131.183.138 |Time View 19/04/2024 01:08:06 |Black List No |Use Type: Business|
+socks://67.213.212.48:47351#🇺🇸 Georgia|Atlanta|30305|96-91-154-141-static.hfc.comcastbusiness.net| 96.91.154.141 |Time View 19/04/2024 01:07:51 |Black List No |Use Type: Residential|
+socks://67.213.212.58:22965#🇺🇸 Georgia|Duluth|30096|syn-068-115-182-171.res.spectrum.com| 68.115.182.171 |Time View 19/04/2024 01:07:49 |Black List No |Use Type: Residential|
+socks://67.213.212.55:46976#🇺🇸 Georgia|McDonough|30253|syn-047-046-151-235.biz.spectrum.com| 47.46.151.235 |Time View 19/04/2024 01:07:16 |Black List No |Use Type: Business|
