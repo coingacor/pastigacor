@@ -1,19 +1,15 @@
-socks://67.213.210.115:43553#🇺🇸 Arizona|Paradise Valley|85253|dynamic-162-219-130-253.hopitelecom.net| 162.219.130.253 |Time View 19/04/2024 17:43:28 |Black List Yes |Use Type: Business|
-socks://67.213.210.62:36512#🇺🇸 Arizona|Paradise Valley|85253|dynamic-162-219-131-239.hopitelecom.net| 162.219.131.239 |Time View 19/04/2024 17:43:23 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:25153#🇺🇸 Illinois|Crystal Lake|60014|c-98-52-116-108.hsd1.il.comcast.net| 98.52.116.108 |Time View 19/04/2024 17:42:51 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:33322#🇺🇸 Illinois|Mundelein|60060|c-76-29-47-29.hsd1.il.comcast.net| 76.29.47.29 |Time View 19/04/2024 17:42:49 |Black List Yes |Use Type: Residential|
-socks://209.159.153.19:17961#🇺🇸 Illinois|Rockford|61103|c-73-111-102-208.hsd1.il.comcast.net| 73.111.102.208 |Time View 19/04/2024 17:42:41 |Black List Yes |Use Type: Residential|
+socks://108.181.133.58:60043#🇺🇸 Nevada|Mesquite|89027|pppoe-38-87-120-222.rioaccess.com| 38.87.120.222 |Time View 19/04/2024 23:41:29 |Black List No |Use Type: Residential|
+socks://162.0.220.218:37390#🇺🇸 Nevada|Mesquite|89027|pppoe-140-82-245-054.rioaccess.com| 140.82.245.54 |Time View 19/04/2024 23:41:25 |Black List No |Use Type: Residential|
+socks://67.213.210.60:14965#🇺🇸 Kansas|Saint Marys|66536|64-6-122-188.famshield.wtcks.net| 64.6.122.188 |Time View 19/04/2024 23:40:47 |Black List No |Use Type: Business|
+socks://174.138.176.76:59650#🇺🇸 Kansas|Waterville|66548|68-234-121-32.dsl.bluevalley.net| 68.234.121.32 |Time View 19/04/2024 23:40:44 |Black List No |Use Type: Residential|
+socks://67.213.210.60:25619#🇺🇸 Kansas|Overland Park|66213|74-222-192-230.dyn.everestkc.net| 74.222.192.230 |Time View 19/04/2024 23:40:40 |Black List Yes |Use Type: Residential|
+socks://67.213.210.62:62073#🇺🇸 Georgia|Cochran|31014|Hargray Communications Group, Inc.| 170.205.177.9 |Time View 19/04/2024 23:37:46 |Black List No |Use Type: Business|
+socks://67.213.212.53:38949#🇺🇸 Colorado|Edwards|81632|c-73-14-243-93.hsd1.co.comcast.net| 73.14.243.93 |Time View 19/04/2024 23:35:46 |Black List Yes |Use Type: Residential|
+socks://162.19.7.46:60676#🇺🇸 Colorado|Denver|80238|184-96-181-223.hlrn.qwest.net| 184.96.181.223 |Time View 19/04/2024 23:35:44 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:28634#🇺🇸 Colorado|Parker|80134|c-67-190-56-219.hsd1.co.comcast.net| 67.190.56.219 |Time View 19/04/2024 23:35:40 |Black List Yes |Use Type: Residential|
+socks://23.105.170.30:31559#🇺🇸 Texas|Hawkins|75765|Peoples Communications Inc.| 69.46.54.78 |Time View 19/04/2024 23:35:27 |Black List Yes |Use Type: Business|
+socks://66.29.128.245:41596#🇺🇸 Texas|Emory|75440|Peoples Communications Inc.| 69.46.53.4 |Time View 19/04/2024 23:35:23 |Black List Yes |Use Type: Business|
+socks://209.159.153.21:11246#🇺🇸 Texas|Mineola|75773|Peoples Communications Inc.| 69.46.55.90 |Time View 19/04/2024 23:35:13 |Black List Yes |Use Type: Business|
+socks://67.213.212.58:32724#🇺🇸 Georgia|Augusta|30907|c-73-190-248-57.hsd1.ga.comcast.net| 73.190.248.57 |Time View 19/04/2024 23:18:51 |Black List Yes |Use Type: Residential|
+socks://108.181.133.58:31790#🇺🇸 Illinois|Charleston|61920|client-66-116-17-205.consolidated.net| 66.116.17.205 |Time View 19/04/2024 23:17:33 |Black List Yes |Use Type: Business|
 socks://162.0.220.219:54048#🇺🇸 Illinois|Mattoon|61938|client-66-116-6-59.consolidated.net| 66.116.6.59 |Time View 19/04/2024 17:42:39 |Black List Yes |Use Type: Business|
-socks://67.213.210.175:60183#🇺🇸 Illinois|Mattoon|61938|client-66-116-5-133.consolidated.net| 66.116.5.133 |Time View 19/04/2024 17:42:36 |Black List Yes |Use Type: Business|
-socks://108.181.133.58:54467#🇺🇸 Illinois|Charleston|61920|client-66-116-10-235.consolidated.net| 66.116.10.235 |Time View 19/04/2024 17:42:30 |Black List Yes |Use Type: Business|
-socks://66.29.129.54:58441#🇺🇸 Ohio|Aurora|44202|syn-104-230-112-245.res.spectrum.com| 104.230.112.245 |Time View 19/04/2024 17:42:07 |Black List Yes |Use Type: Business|
-socks://67.213.210.115:47115#🇺🇸 Ohio|Chardon|44024|syn-184-056-053-204.res.spectrum.com| 184.56.53.204 |Time View 19/04/2024 17:41:55 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:37073#🇺🇸 Florida|Hobe Sound|33455|c-76-108-92-223.hsd1.fl.comcast.net| 76.108.92.223 |Time View 19/04/2024 17:39:53 |Black List Yes |Use Type: Residential|
-socks://66.29.128.241:30189#🇺🇸 Florida|Lake Worth|33463|c-76-128-169-23.hsd1.fl.comcast.net| 76.128.169.23 |Time View 19/04/2024 17:39:47 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:31989#🇺🇸 Florida|Jacksonville|32257|c-73-171-144-54.hsd1.fl.comcast.net| 73.171.144.54 |Time View 19/04/2024 17:39:44 |Black List Yes |Use Type: Residential|
-socks://162.0.220.215:43729#🇺🇸 Florida|Jacksonville|32218|c-73-104-12-3.hsd1.fl.comcast.net| 73.104.12.3 |Time View 19/04/2024 17:39:42 |Black List Yes |Use Type: Residential|
-socks://66.29.129.54:47848#🇺🇸 Georgia|Douglasville|30134|c-73-106-56-5.hsd1.ga.comcast.net| 73.106.56.5 |Time View 19/04/2024 17:39:22 |Black List Yes |Use Type: Residential|
-socks://162.19.7.47:15030#🇺🇸 Georgia|Marietta|30067|c-76-145-11-243.hsd1.ga.comcast.net| 76.145.11.243 |Time View 19/04/2024 17:39:13 |Black List Yes |Use Type: Residential|
-socks://162.19.7.60:44265#🇺🇸 Georgia|Jonesboro|30236|c-24-30-16-2.hsd1.ga.comcast.net| 24.30.16.2 |Time View 19/04/2024 17:39:09 |Black List Yes |Use Type: Residential|
-socks://46.105.44.29:43367#🇺🇸 Georgia|Cumming|30041|c-76-145-201-26.hsd1.ga.comcast.net| 76.145.201.26 |Time View 19/04/2024 17:39:04 |Black List Yes |Use Type: Residential|
-socks://67.213.212.38:10456#🇺🇸 Georgia|Avondale Estates|30002|c-24-99-82-247.hsd1.ga.comcast.net| 24.99.82.247 |Time View 19/04/2024 17:38:57 |Black List Yes |Use Type: Residential|
