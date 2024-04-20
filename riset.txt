@@ -1,19 +1,9 @@
-socks://108.181.133.58:60043#🇺🇸 Nevada|Mesquite|89027|pppoe-38-87-120-222.rioaccess.com| 38.87.120.222 |Time View 19/04/2024 23:41:29 |Black List No |Use Type: Residential|
-socks://162.0.220.218:37390#🇺🇸 Nevada|Mesquite|89027|pppoe-140-82-245-054.rioaccess.com| 140.82.245.54 |Time View 19/04/2024 23:41:25 |Black List No |Use Type: Residential|
-socks://67.213.210.60:14965#🇺🇸 Kansas|Saint Marys|66536|64-6-122-188.famshield.wtcks.net| 64.6.122.188 |Time View 19/04/2024 23:40:47 |Black List No |Use Type: Business|
-socks://174.138.176.76:59650#🇺🇸 Kansas|Waterville|66548|68-234-121-32.dsl.bluevalley.net| 68.234.121.32 |Time View 19/04/2024 23:40:44 |Black List No |Use Type: Residential|
-socks://67.213.210.60:25619#🇺🇸 Kansas|Overland Park|66213|74-222-192-230.dyn.everestkc.net| 74.222.192.230 |Time View 19/04/2024 23:40:40 |Black List Yes |Use Type: Residential|
-socks://67.213.210.62:62073#🇺🇸 Georgia|Cochran|31014|Hargray Communications Group, Inc.| 170.205.177.9 |Time View 19/04/2024 23:37:46 |Black List No |Use Type: Business|
-socks://67.213.212.53:38949#🇺🇸 Colorado|Edwards|81632|c-73-14-243-93.hsd1.co.comcast.net| 73.14.243.93 |Time View 19/04/2024 23:35:46 |Black List Yes |Use Type: Residential|
-socks://162.19.7.46:60676#🇺🇸 Colorado|Denver|80238|184-96-181-223.hlrn.qwest.net| 184.96.181.223 |Time View 19/04/2024 23:35:44 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:28634#🇺🇸 Colorado|Parker|80134|c-67-190-56-219.hsd1.co.comcast.net| 67.190.56.219 |Time View 19/04/2024 23:35:40 |Black List Yes |Use Type: Residential|
-socks://23.105.170.30:31559#🇺🇸 Texas|Hawkins|75765|Peoples Communications Inc.| 69.46.54.78 |Time View 19/04/2024 23:35:27 |Black List Yes |Use Type: Business|
-socks://66.29.128.245:41596#🇺🇸 Texas|Emory|75440|Peoples Communications Inc.| 69.46.53.4 |Time View 19/04/2024 23:35:23 |Black List Yes |Use Type: Business|
-socks://209.159.153.21:11246#🇺🇸 Texas|Mineola|75773|Peoples Communications Inc.| 69.46.55.90 |Time View 19/04/2024 23:35:13 |Black List Yes |Use Type: Business|
-socks://67.213.212.58:32724#🇺🇸 Georgia|Augusta|30907|c-73-190-248-57.hsd1.ga.comcast.net| 73.190.248.57 |Time View 19/04/2024 23:18:51 |Black List Yes |Use Type: Residential|
-socks://108.181.133.58:31790#🇺🇸 Illinois|Charleston|61920|client-66-116-17-205.consolidated.net| 66.116.17.205 |Time View 19/04/2024 23:17:33 |Black List Yes |Use Type: Business|
-socks://162.0.220.219:54048#🇺🇸 Illinois|Mattoon|61938|client-66-116-6-59.consolidated.net| 66.116.6.59 |Time View 19/04/2024 17:42:39 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:27301#🇺🇸 Illinois|Mundelein|60060|c-76-29-47-29.hsd1.il.comcast.net| 76.29.47.29 |Time View 20/04/2024 05:54:18 |Black List Yes |Use Type: Residential|
-socks://66.29.129.52:48494#🇺🇸 Georgia|Conyers|30012|c-73-82-126-248.hsd1.ga.comcast.net| 73.82.126.248 |Time View 20/04/2024 05:53:43 |Black List Yes |Use Type: Residential|
-socks://162.19.7.60:35255#🇺🇸 Georgia|Riverdale|30274|c-69-180-16-33.hsd1.ga.comcast.net| 69.180.16.33 |Time View 20/04/2024 05:53:31 |Black List Yes |Use Type: Residential|
-socks://66.29.129.54:49534#🇺🇸 Georgia|Douglasville|30134|c-73-106-56-5.hsd1.ga.comcast.net| 73.106.56.5 |Time View 20/04/2024 05:53:25 |Black List Yes |Use Type: Residential|
+socks://162.19.7.46:26917#🇺🇸 Georgia|Conyers|30094|c-73-237-135-43.hsd1.ga.comcast.net| 73.237.135.43 |Time View 20/04/2024 13:27:52 |Black List Yes |Use Type: Residential|
+socks://67.213.212.38:63098#🇺🇸 Georgia|Avondale Estates|30002|c-24-99-82-247.hsd1.ga.comcast.net| 24.99.82.247 |Time View 20/04/2024 13:27:38 |Black List Yes |Use Type: Residential|
+socks://66.29.129.52:48157#🇺🇸 Illinois|Martinsville|62442|dynamic-216-227-39-74.yelm.fairpoint.net| 216.227.39.74 |Time View 20/04/2024 13:27:06 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:30905#🇺🇸 Illinois|Crystal Lake|60014|c-98-52-116-108.hsd1.il.comcast.net| 98.52.116.108 |Time View 20/04/2024 13:26:48 |Black List Yes |Use Type: Residential|
+socks://67.213.212.36:18279#🇺🇸 Illinois|Wilmette|60091|c-73-247-61-23.hsd1.il.comcast.net| 73.247.61.23 |Time View 20/04/2024 13:26:42 |Black List Yes |Use Type: Residential|
+socks://37.59.213.49:13301#🇺🇸 Texas|Georgetown|78633|r74-193-120-135.drdrcmta01.drdrla.by.dh.suddenlink.net| 74.193.120.135 |Time View 20/04/2024 13:25:42 |Black List Yes |Use Type: Business|
+socks://67.213.212.58:14093#🇺🇸 Texas|Crockett|75835|host-64-139-244-195.vyvebroadband.net| 64.139.244.195 |Time View 20/04/2024 13:25:25 |Black List Yes |Use Type: Residential|
+socks://37.221.193.221:17885#🇺🇸 Texas|Tomball|77375|41.sub-166-141-228.myvzw.com| 166.141.228.41 |Time View 20/04/2024 13:25:06 |Black List Yes |Use Type: Business|
+socks://37.59.213.49:38855#🇺🇸 Maryland|Baltimore|21206|c-73-133-202-117.hsd1.md.comcast.net| 73.133.202.117 |Time View 20/04/2024 13:23:20 |Black List Yes |Use Type: Residential|
