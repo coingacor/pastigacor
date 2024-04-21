@@ -1,6 +1,2 @@
-socks://37.221.193.221:11856#🇺🇸 Oregon|Portland|97233|231.sub-166-164-114.myvzw.com| 166.164.114.231 |Time View 22/04/2024 03:18:33 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://209.159.153.20:16681#🇺🇸 Oregon|Portland|97211|Comcast Cable Communications, LLC| 50.209.39.61 |Time View 22/04/2024 03:18:29 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://162.0.220.218:59440#🇺🇸 Oregon|Portland|97214|50-252-4-78-static.hfc.comcastbusiness.net| 50.252.4.78 |Time View 22/04/2024 03:18:26 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://37.221.193.221:28260#🇺🇸 Oregon|Portland|97210|50-246-244-209-static.hfc.comcastbusiness.net| 50.246.244.209 |Time View 22/04/2024 03:18:24 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://66.29.129.54:40571#🇺🇸 Georgia|Douglasville|30134|c-73-106-56-5.hsd1.ga.comcast.net| 73.106.56.5 |Time View 22/04/2024 05:03:49 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://209.159.153.19:48812#🇺🇸 Georgia|Douglas|31533|Vyve Broadband| 38.178.33.213 |Time View 22/04/2024 03:17:43 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://67.213.212.52:27396#🇺🇸 Georgia|Douglas|31533|Vyve Broadband| 38.178.27.74 |Time View 22/04/2024 03:17:41 |Black List No |Use Type: Residential|https://dichvusocks.net
