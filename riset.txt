@@ -1,26 +1,6 @@
-socks://67.213.212.39:37906#🇺🇸 California|San Francisco|94109|c-67-174-198-16.hsd1.ca.comcast.net| 67.174.198.16 |Time View 20/04/2024 22:43:40 |Black List Yes |Use Type: Residential|
-socks://162.0.220.219:17008#🇺🇸 Illinois|Martinsville|62442|dsl227-38-119.otecom.net| 216.227.38.119 |Time View 20/04/2024 22:43:25 |Black List Yes |Use Type: Residential|
-socks://174.138.176.78:49035#🇺🇸 Illinois|Martinsville|62442|dsl227-38-150.otecom.net| 216.227.38.150 |Time View 20/04/2024 22:43:18 |Black List Yes |Use Type: Residential|
-socks://108.181.133.58:64308#🇺🇸 Illinois|Charleston|61920|client-66-116-10-235.consolidated.net| 66.116.10.235 |Time View 20/04/2024 22:43:03 |Black List Yes |Use Type: Business|
-socks://67.213.210.175:45735#🇺🇸 Illinois|Highland|62249|Bluebird Network| 107.182.81.19 |Time View 20/04/2024 22:42:48 |Black List No |Use Type: Business|
-socks://162.19.7.49:47339#🇺🇸 Colorado|Monument|80132|c-71-229-248-120.hsd1.co.comcast.net| 71.229.248.120 |Time View 20/04/2024 22:42:18 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:19628#🇺🇸 Texas|Emory|75440|Peoples Communications Inc.| 69.46.52.131 |Time View 20/04/2024 22:42:01 |Black List Yes |Use Type: Business|
-socks://66.29.128.241:45611#🇺🇸 Texas|Mineola|75773|Peoples Communications Inc.| 69.46.54.188 |Time View 20/04/2024 22:41:58 |Black List Yes |Use Type: Business|
-socks://108.181.133.58:31784#🇺🇸 Illinois|Melrose Park|60160|c-24-12-3-236.hsd1.il.comcast.net| 24.12.3.236 |Time View 20/04/2024 22:41:33 |Black List Yes |Use Type: Residential|
-socks://162.19.7.46:63507#🇺🇸 Oregon|Salem|97304|c-76-144-126-132.hsd1.or.comcast.net| 76.144.126.132 |Time View 20/04/2024 22:41:29 |Black List Yes |Use Type: Residential|
-socks://162.19.7.59:19942#🇺🇸 California|Manteca|95336|c-73-116-124-48.hsd1.ca.comcast.net| 73.116.124.48 |Time View 20/04/2024 22:41:26 |Black List Yes |Use Type: Residential|
-socks://162.19.7.58:19978#🇺🇸 Colorado|Aurora|80016|c-75-70-153-12.hsd1.co.comcast.net| 75.70.153.12 |Time View 20/04/2024 22:41:21 |Black List Yes |Use Type: Residential|
-socks://162.19.7.61:24082#🇺🇸 Texas|Houston|77057|c-76-142-30-67.hsd1.tx.comcast.net| 76.142.30.67 |Time View 20/04/2024 22:41:05 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:15530#🇺🇸 Massachusetts|Centerville|02632|c-73-142-56-244.hsd1.ma.comcast.net| 73.142.56.244 |Time View 20/04/2024 22:41:00 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:30018#🇺🇸 Illinois|Mundelein|60060|c-76-29-47-29.hsd1.il.comcast.net| 76.29.47.29 |Time View 20/04/2024 22:40:23 |Black List Yes |Use Type: Residential|
-socks://67.213.212.38:40728#🇺🇸 Georgia|Avondale Estates|30002|c-24-99-82-247.hsd1.ga.comcast.net| 24.99.82.247 |Time View 20/04/2024 22:40:19 |Black List Yes |Use Type: Residential|
-socks://162.19.7.47:54071#🇺🇸 Minnesota|Minneapolis|55443|c-98-240-168-168.hsd1.mn.comcast.net| 98.240.168.168 |Time View 20/04/2024 22:40:17 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:26033#🇺🇸 Illinois|Crystal Lake|60014|c-98-52-116-108.hsd1.il.comcast.net| 98.52.116.108 |Time View 20/04/2024 22:40:09 |Black List Yes |Use Type: Residential|
-socks://174.138.176.75:62281#🇺🇸 Michigan|Detroit|48235|c-68-37-240-227.hsd1.mi.comcast.net| 68.37.240.227 |Time View 20/04/2024 22:40:06 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:12009#🇺🇸 Massachusetts|Brewster|02631|c-24-61-96-61.hsd1.ma.comcast.net| 24.61.96.61 |Time View 20/04/2024 22:39:59 |Black List Yes |Use Type: Residential|
-socks://162.19.7.60:63436#🇺🇸 Delaware|Dover|19901|c-76-111-128-39.hsd1.de.comcast.net| 76.111.128.39 |Time View 20/04/2024 22:39:53 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:10396#🇺🇸 Virginia|Charlottesville|22901|c-71-62-236-131.hsd1.va.comcast.net| 71.62.236.131 |Time View 20/04/2024 22:39:48 |Black List Yes |Use Type: Residential|
-socks://162.0.220.214:47720#🇺🇸 Minnesota|Minneapolis|55443|c-98-240-169-109.hsd1.mn.comcast.net| 98.240.169.109 |Time View 20/04/2024 22:39:34 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:27722#🇺🇸 Colorado|Parker|80134|c-67-190-56-219.hsd1.co.comcast.net| 67.190.56.219 |Time View 20/04/2024 22:39:30 |Black List Yes |Use Type: Residential|
-socks://162.19.7.50:14201#🇺🇸 Tennessee|Gallatin|37066|c-68-53-150-207.hsd1.tn.comcast.net| 68.53.150.207 |Time View 20/04/2024 22:39:27 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:17885#🇺🇸 Texas|Tomball|77375|41.sub-166-141-228.myvzw.com| 166.141.228.41 |Time View 20/04/2024 13:25:06 |Black List Yes |Use Type: Business|
+socks://174.138.176.78:52140#🇺🇸 New Hampshire|Rindge|03461|pool-70-105-252-149.port.east.myfairpoint.net| 70.105.252.149 |Time View 21/04/2024 15:20:24 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:22144#🇺🇸 New York|White Plains|10601|static-68-132-165-85.nycmny.fios.verizon.net| 68.132.165.85 |Time View 21/04/2024 15:19:56 |Black List Yes |Use Type: Business|
+socks://67.213.212.53:37901#🇺🇸 New Jersey|Westfield|07090|pool-100-1-244-38.nwrknj.fios.verizon.net| 100.1.244.38 |Time View 21/04/2024 15:19:50 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:55394#🇺🇸 New York|Queens|11375|pool-72-80-7-115.nycmny.fios.verizon.net| 72.80.7.115 |Time View 21/04/2024 15:19:48 |Black List Yes |Use Type: Residential|
+socks://212.83.137.150:44201#🇺🇸 New Jersey|Jersey City|07302|static-100-35-239-250.nwrknj.fios.verizon.net| 100.35.239.250 |Time View 21/04/2024 15:19:46 |Black List No |Use Type: Residential|
+socks://162.0.220.161:32473#🇺🇸 New York|Brooklyn|11223|pool-70-107-214-225.nycmny.fios.verizon.net| 70.107.214.225 |Time View 21/04/2024 15:19:37 |Black List Yes |Use Type: Residential|
