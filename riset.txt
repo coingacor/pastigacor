@@ -1,8 +1,5 @@
-socks://37.221.193.221:10180#🇺🇸 Colorado|Parker|80134|c-67-190-56-219.hsd1.co.comcast.net| 67.190.56.219 |Time View 22/04/2024 11:20:40 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:61667#🇺🇸 New York|Queens|11375|pool-72-80-7-115.nycmny.fios.verizon.net| 72.80.7.115 |Time View 22/04/2024 11:20:03 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:58292#🇺🇸 New York|Roslyn|11576|pool-108-27-22-132.nycmny.fios.verizon.net| 108.27.22.132 |Time View 22/04/2024 11:19:53 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:30246#🇺🇸 New Jersey|Unknown|Unknown|75.sub-166-139-7.myvzw.com| 166.139.7.75 |Time View 22/04/2024 11:19:41 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:31490#🇺🇸 New Jersey|Annandale|08801|215.sub-166-150-2.myvzw.com| 166.150.2.215 |Time View 22/04/2024 11:19:36 |Black List Yes |Use Type: Business|
-socks://67.213.210.60:50482#🇺🇸 New Jersey|Jersey City|07302|Honest Networks, LLC| 154.27.20.195 |Time View 22/04/2024 11:19:32 |Black List No |Use Type: Business|
-socks://108.181.132.116:26433#🇺🇸 New Jersey|Paterson|07503|pool-71-187-14-155.nwrknj.fios.verizon.net| 71.187.14.155 |Time View 22/04/2024 11:19:21 |Black List Yes |Use Type: Residential|
-socks://212.83.137.150:10431#🇺🇸 New Jersey|Jersey City|07302|static-100-35-239-250.nwrknj.fios.verizon.net| 100.35.239.250 |Time View 22/04/2024 11:19:03 |Black List No |Use Type: Residential|
+socks://51.83.116.4:54127#🇯🇵 Ōsaka|Kikawahigashi|532-0011|y057202.ppp.asahi-net.or.jp| 118.243.57.202 |Time View 22/04/2024 13:13:25 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://195.154.43.86:13393#🇯🇵 Kyoto|Kyoto|602-8051|m009061.ppp.asahi-net.or.jp| 219.121.9.61 |Time View 22/04/2024 13:13:18 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://134.195.91.76:20987#🇯🇵 Fukuoka|Ōmiya|810-0013|116-94-0-159.ppps.bbiq.jp| 116.94.0.159 |Time View 22/04/2024 13:12:55 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://37.221.193.221:31490#🇺🇸 New Jersey|Annandale|08801|215.sub-166-150-2.myvzw.com| 166.150.2.215 |Time View 22/04/2024 11:19:36 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.210.60:50482#🇺🇸 New Jersey|Jersey City|07302|Honest Networks, LLC| 154.27.20.195 |Time View 22/04/2024 11:19:32 |Black List No |Use Type: Business|https://dichvusocks.net
