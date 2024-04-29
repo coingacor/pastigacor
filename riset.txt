@@ -37,3 +37,4 @@ socks://67.213.210.168:35953#🇺🇸 California|Visalia|93291|c-76-158-205-48.h
 socks://162.0.220.215:44127#🇺🇸 Tennessee|Cordova|38018|c-174-161-254-156.hsd1.tn.comcast.net| 174.161.254.156 |Time View 29/04/2024 23:50:43 |Black List Yes |Use Type: Residential|
 socks://67.213.212.58:64802#🇺🇸 Tennessee|New Tazewell|37825|Vyve Broadband| 38.178.109.143 |Time View 29/04/2024 23:50:35 |Black List No |Use Type: Residential|
 socks://174.138.176.76:33784#🇺🇸 Tennessee|Bradford|38316|208-86-11-167.rev.tec.com| 208.86.11.167 |Time View 29/04/2024 23:50:30 |Black List No |Use Type: Business|
+socks://67.213.210.62:31838#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 108.175.194.17 |Time View 30/04/2024 02:14:52 |Black List No |Use Type: Business|
