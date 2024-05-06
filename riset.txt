@@ -41,3 +41,4 @@ socks://38.91.107.220:41008#🇺🇸 Tennessee|Nashville|37207|c-68-53-10-116.hs
 socks://162.0.220.215:46457#🇺🇸 Tennessee|Cordova|38018|c-174-161-254-156.hsd1.tn.comcast.net| 174.161.254.156 |Time View 06/05/2024 22:42:54 |Black List Yes |Use Type: Residential|
 socks://209.159.153.19:19611#🇺🇸 Tennessee|Sevierville|37862|c-73-121-134-60.hsd1.tn.comcast.net| 73.121.134.60 |Time View 06/05/2024 22:42:40 |Black List Yes |Use Type: Residential|
 socks://67.213.212.47:41536#🇺🇸 Tennessee|Knoxville|37923|c-73-113-2-228.hsd1.tn.comcast.net| 73.113.2.228 |Time View 06/05/2024 22:34:12 |Black List Yes |Use Type: Residential|
+socks://212.83.138.192:46370#🇺🇸 Alberta|Sylvan Lake|T4S|S01066cf17edb0dee.rd.shawcable.net| 68.144.164.203 |Time View 07/05/2024 05:24:24 |Black List Yes |Use Type: Residential|
