@@ -1,1 +1,2 @@
-socks://67.213.212.39:43516#🇺🇸 Tennessee|Hendersonville|37075|c-76-18-142-154.hsd1.tn.comcast.net| 76.18.142.154 |Time View 06/05/2024 14:08:02 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.39:43516#🇺🇸 Tennessee|Hendersonville|37075|c-76-18-142-154.hsd1.tn.comcast.net| 76.18.142.154 |Time View 06/05/2024 14:08:02 |Black List Yes |Use Type: Residential
+socks://67.213.212.51:32928#🇺🇸 Tennessee|Knoxville|37922|Comcast Cable Communications, LLC| 50.234.150.5 |Time View 06/05/2024 20:52:39 |Black List No |Use Type: Residential
