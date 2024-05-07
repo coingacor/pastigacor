@@ -1,1 +1,2 @@
-socks://209.159.153.21:43573#🇺🇸 Tennessee|Murfreesboro|37130|c-98-240-7-144.hsd1.tn.comcast.net| 98.240.7.144 |Time View 07/05/2024 19:48:00 |Black List Yes |Use Type: Residential
+socks://67.213.212.47:61793#🇺🇸 Tennessee|Knoxville|37923|c-73-113-2-228.hsd1.tn.comcast.net| 73.113.2.228 |Time View 07/05/2024 20:16:48 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:43573#🇺🇸 Tennessee|Murfreesboro|37130|c-98-240-7-144.hsd1.tn.comcast.net| 98.240.7.144 |Time View 07/05/2024 19:48:00 |Black List Yes |Use Type: Residential|
