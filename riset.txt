@@ -26,3 +26,4 @@ socks://67.213.212.56:63936#🇺🇸 Tennessee|Nashville|37218|c-107-3-208-226.h
 socks://67.213.212.47:61793#🇺🇸 Tennessee|Knoxville|37923|c-73-113-2-228.hsd1.tn.comcast.net| 73.113.2.228 |Time View 07/05/2024 20:16:48 |Black List Yes |Use Type: Residential|
 socks://209.159.153.21:43573#🇺🇸 Tennessee|Murfreesboro|37130|c-98-240-7-144.hsd1.tn.comcast.net| 98.240.7.144 |Time View 07/05/2024 19:48:00 |Black List Yes |Use Type: Residential|
 socks://174.138.176.76:27886#🇺🇸 Georgia|Cochran|31014|67.168.205.170.dynamic-pool.hargray.net| 170.205.168.67 |Time View 08/05/2024 07:29:44 |Black List Yes |Use Type: Business
+socks://23.105.170.33:61309#🇺🇸 Georgia|Norcross|30093|c-76-122-91-192.hsd1.ga.comcast.net| 76.122.91.192 |Time View 08/05/2024 20:37:15 |Black List Yes |Use Type: Residential|
