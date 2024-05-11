@@ -31,3 +31,5 @@ socks://67.213.210.115:51544#🇺🇸 South Carolina|Bluffton|29909|Hargray Comm
 socks://67.213.212.38:39556#🇺🇸 Illinois|Chicago|60640|96-68-61-126-static.hfc.comcastbusiness.net| 96.68.61.126 |Time View 11/05/2024 22:10:04 |Black List No |Use Type: Residential|
 socks://67.213.212.36:14255#🇺🇸 Maryland|Marriottsville|21104|162-17-222-114-static.hfc.comcastbusiness.net| 162.17.222.114 |Time View 11/05/2024 22:09:51 |Black List No |Use Type: Residential|
 socks://162.0.220.219:63583#🇺🇸 Pennsylvania|Schnecksville|18078|itcdsl6869.res-iro.ptd.net| 204.186.68.69 |Time View 11/05/2024 22:08:57 |Black List No |Use Type: Residential|
+socks://108.181.132.117:42612#🇺🇸 Wyoming|Afton|83110|207-183-174-206.silverstar.com| 207.183.174.206 |Time View 12/05/2024 06:10:46 |Black List No |Use Type: Residential|
+socks://174.138.176.76:32120#🇺🇸 Wyoming|Jackson|83001|199-66-107-183.silverstar.com| 199.66.107.183 |Time View 12/05/2024 06:10:43 |Black List No |Use Type: Residential|
