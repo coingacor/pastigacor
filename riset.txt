@@ -1,1 +1,2 @@
 socks://138.201.21.228:61941#🇬🇧 England|Bolton|BL1|host86-186-25-188.range86-186.btcentralplus.com| 86.186.25.188 |Time View 12/05/2024 19:26:21 |Black List Yes |Use Type: Business|
+socks://51.83.116.5:44888#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 12/05/2024 19:27:53 |Black List Yes |Use Type: Business|
