@@ -1,2 +1,6 @@
-socks://138.201.21.228:61941#🇬🇧 England|Bolton|BL1|host86-186-25-188.range86-186.btcentralplus.com| 86.186.25.188 |Time View 12/05/2024 19:26:21 |Black List Yes |Use Type: Business|
-socks://51.83.116.5:44888#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 12/05/2024 19:27:53 |Black List Yes |Use Type: Business|
+socks://67.213.212.39:56544#🇺🇸 Colorado|Denver|80229|Comcast Cable Communications, LLC| 50.225.7.154 |Time View 13/05/2024 03:27:33 |Black List No |Use Type: Residential|
+socks://67.213.212.36:34679#🇺🇸 Maryland|Edgewood|21040|Comcast Cable Communications, LLC| 69.243.28.185 |Time View 13/05/2024 03:27:02 |Black List Yes |Use Type: Residential|
+socks://38.91.107.220:40542#🇺🇸 Wyoming|Thayne|83127|162-248-129-101.silverstar.com| 162.248.129.101 |Time View 13/05/2024 03:26:50 |Black List No |Use Type: Business|
+socks://174.138.176.78:53980#🇺🇸 Wyoming|Afton|83110|216-128-228-40.silverstar.com| 216.128.228.40 |Time View 13/05/2024 03:26:45 |Black List No |Use Type: Residential|
+socks://174.138.176.74:59614#🇺🇸 Idaho|Victor|83455|207-183-186-151.silverstar.com| 207.183.186.151 |Time View 13/05/2024 03:26:41 |Black List No |Use Type: Residential|
+socks://162.19.7.50:63170#🇺🇸 Alabama|Montgomery|36116|syn-075-137-234-189.res.spectrum.com| 75.137.234.189 |Time View 13/05/2024 03:26:17 |Black List Yes |Use Type: Business|
