@@ -1,21 +1,9 @@
-socks://51.83.116.3:16372#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.wline.res.cust.swisscom.ch| 178.196.33.212 |Time View 19/05/2024 18:04:48 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.138.192:17806#🇨🇭 Bern|Liebefeld|3097|99.95.63.188.dynamic.wline.res.cust.swisscom.ch| 188.63.95.99 |Time View 19/05/2024 18:04:45 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.143.147:48051#🇨🇭 Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 19/05/2024 18:04:42 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://51.83.116.4:63317#🇦🇺 Victoria|Melbourne|3001|cpe-110-140-141-56.vb05.vic.asp.telstra.net| 110.140.141.56 |Time View 19/05/2024 18:04:16 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.138.172:32155#🇦🇺 New South Wales|Sydney|2210|n1-40-234-150.mas21.nsw.optusnet.com.au| 1.40.234.150 |Time View 19/05/2024 18:04:11 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.142.158:18135#🇦🇺 New South Wales|Sydney|2166|110-175-83-104.static.tpgi.com.au| 110.175.83.104 |Time View 19/05/2024 18:04:05 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.142.100:23026#🇦🇺 Queensland|Brisbane|4300|ppp121-45-152-194.bri-pow-que-bras32.tpg.internode.on.net| 121.45.152.194 |Time View 19/05/2024 18:03:58 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://212.83.138.192:55130#🇦🇺 Victoria|Melbourne|3004|60-241-88-58.static.tpgi.com.au| 60.241.88.58 |Time View 19/05/2024 18:03:53 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://212.83.143.60:29958#🇦🇺 New South Wales|Sydney|2017|220-240-59-244.tpgi.com.au| 220.240.59.244 |Time View 19/05/2024 18:03:48 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.142.149:35874#🇦🇺 Victoria|Melbourne|3001|cpe-138-130-9-83.qb50.nqld.asp.telstra.net| 138.130.9.83 |Time View 19/05/2024 18:03:42 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.143.118:30657#🇦🇺 New South Wales|Sydney|2199|Telstra Corporation Limited| 58.171.249.211 |Time View 19/05/2024 18:03:37 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://212.83.142.131:41817#🇦🇺 New South Wales|Sydney|2146|203-111-7-104.tpgi.com.au| 203.111.7.104 |Time View 19/05/2024 18:03:32 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.142.145:29711#🇦🇺 New South Wales|Sydney|2000|liv2597065.lnk.telstra.net| 101.187.69.43 |Time View 19/05/2024 18:03:28 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://178.63.84.228:63298#🇺🇸 New York|Queens|11429|pool-173-52-99-133.nycmny.fios.verizon.net| 173.52.99.133 |Time View 19/05/2024 18:03:10 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://67.213.212.53:55873#🇺🇸 New York|Staten Island|10306|pool-173-68-247-8.nycmny.east.verizon.net| 173.68.247.8 |Time View 19/05/2024 18:03:05 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://178.63.84.228:63297#🇺🇸 New Jersey|East Orange|07018|pool-96-240-27-216.nwrknj.fios.verizon.net| 96.240.27.216 |Time View 19/05/2024 18:02:55 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://178.63.84.228:63436#🇺🇸 Pennsylvania|Philadelphia|19143|pool-74-109-20-195.phlapa.fios.verizon.net| 74.109.20.195 |Time View 19/05/2024 18:02:52 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://178.63.84.228:63138#🇺🇸 New Jersey|Fair Lawn|07410|pool-74-102-177-7.nwrknj.fios.verizon.net| 74.102.177.7 |Time View 19/05/2024 18:02:49 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://209.159.153.20:29579#🇺🇸 New York|New York|10003|static-71-183-236-100.nycmny.fios.verizon.net| 71.183.236.100 |Time View 19/05/2024 18:02:43 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://178.63.84.228:63148#🇺🇸 Pennsylvania|Philadelphia|19144|pool-100-11-192-26.phlapa.fios.verizon.net| 100.11.192.26 |Time View 19/05/2024 18:02:40 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://178.63.84.228:63484#🇺🇸 New York|Queens|11420|pool-100-33-158-73.nycmny.fios.verizon.net| 100.33.158.73 |Time View 19/05/2024 18:02:36 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://138.201.21.227:13223#🇺🇸 Victoria|Melbourne|3011|Telstra Internet| 120.157.42.48 |Time View 19/05/2024 21:54:45 |Black List Yes |Use Type: Business|
+socks://212.83.142.145:19505#🇺🇸 Victoria|Melbourne|3141|124-148-228-113.tpgi.com.au| 124.148.228.113 |Time View 19/05/2024 21:54:38 |Black List Yes |Use Type: Business|
+socks://212.83.142.158:48645#🇺🇸 New South Wales|Sydney|2166|110-175-83-104.static.tpgi.com.au| 110.175.83.104 |Time View 19/05/2024 21:54:34 |Black List Yes |Use Type: Business|
+socks://212.83.142.114:28003#🇺🇸 South Australia|Adelaide|5035|n122-108-164-163.adl1.sa.optusnet.com.au| 122.108.164.163 |Time View 19/05/2024 21:54:29 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:38874#🇺🇸 Queensland|Brisbane|4127|123-243-57-236.static.tpgi.com.au| 123.243.57.236 |Time View 19/05/2024 21:54:24 |Black List No |Use Type: Business|
+socks://212.83.138.172:30073#🇺🇸 New South Wales|Sydney|2210|n1-40-234-150.mas21.nsw.optusnet.com.au| 1.40.234.150 |Time View 19/05/2024 21:54:18 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:48051|Switzerland|Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 19/05/2024 18:04:42 |Black List Yes |Use Type: Business|
+socks://212.83.143.118:30657#🇺🇸 New South Wales|Sydney|2199|Telstra Corporation Limited| 58.171.249.211 |Time View 19/05/2024 18:03:37 |Black List No |Use Type: Business|
+socks://212.83.142.131:41817#🇺🇸 New South Wales|Sydney|2146|203-111-7-104.tpgi.com.au| 203.111.7.104 |Time View 19/05/2024 18:03:32 |Black List Yes |Use Type: Business|
