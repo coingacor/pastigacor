@@ -1,9 +1,8 @@
-socks://51.83.116.6:15044#🇨🇭 Saint Gallen|Wil|9500|4.185.76.83.dynamic.wline.res.cust.swisscom.ch| 83.76.185.4 |Time View 21/05/2024 16:51:19 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.100:63509#🇨🇭 Bern|Bern|3006|42.243.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.243.42 |Time View 21/05/2024 20:24:54 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.60:50550#🇨🇭 Geneva|Geneva|1205|151.64.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.64.151 |Time View 21/05/2024 20:24:51 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://141.94.238.246:40367#🇨🇭 Zurich|Zurich|8057|38.215.76.83.dynamic.wline.res.cust.swisscom.ch| 83.76.215.38 |Time View 21/05/2024 20:24:39 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://51.83.116.3:58769#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.wline.res.cust.swisscom.ch| 178.196.33.212 |Time View 21/05/2024 16:51:12 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://51.83.116.6:20106#🇮🇪 Connacht|Galway|H91|86-44-137-118-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.118 |Time View 21/05/2024 09:38:33 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://212.83.142.100:43804#🇦🇺 Victoria|Melbourne|3001|Telstra Corporation Limited| 110.145.62.180 |Time View 21/05/2024 09:37:50 |Black List No |Use Type: Business|https://dichvusocks.net
 socks://212.83.143.49:55349#🇦🇺 Queensland|Brisbane|4000|Telstra Internet| 149.135.16.42 |Time View 21/05/2024 09:37:42 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.138.186:26333#🇦🇺 Queensland|Brisbane|4068|Telstra Corporation Limited| 1.141.2.99 |Time View 21/05/2024 09:37:32 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://51.83.116.3:10506#🇬🇧 England|Blackburn|BB1|host31-104-92-150.range31-104.btcentralplus.com| 31.104.92.150 |Time View 21/05/2024 08:39:09 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://195.154.43.86:29452#🇬🇧 England|Pontefract|WF8|host86-136-112-148.range86-136.btcentralplus.com| 86.136.112.148 |Time View 21/05/2024 08:39:07 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://51.83.116.5:44922#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 21/05/2024 08:39:04 |Black List Yes |Use Type: Business|https://dichvusocks.net
