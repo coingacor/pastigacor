@@ -1,9 +1,3 @@
-socks://138.201.21.227:13223#🇦🇺 Victoria|Melbourne|3011|Telstra Internet| 120.157.42.48 |Time View 19/05/2024 21:54:45 |Black List Yes |Use Type: Business|
-socks://212.83.142.145:19505#🇦🇺 Victoria|Melbourne|3141|124-148-228-113.tpgi.com.au| 124.148.228.113 |Time View 19/05/2024 21:54:38 |Black List Yes |Use Type: Business|
-socks://212.83.142.158:48645#🇦🇺 New South Wales|Sydney|2166|110-175-83-104.static.tpgi.com.au| 110.175.83.104 |Time View 19/05/2024 21:54:34 |Black List Yes |Use Type: Business|
-socks://212.83.142.114:28003#🇦🇺 South Australia|Adelaide|5035|n122-108-164-163.adl1.sa.optusnet.com.au| 122.108.164.163 |Time View 19/05/2024 21:54:29 |Black List Yes |Use Type: Business|
-socks://138.201.21.227:38874#🇦🇺 Queensland|Brisbane|4127|123-243-57-236.static.tpgi.com.au| 123.243.57.236 |Time View 19/05/2024 21:54:24 |Black List No |Use Type: Business|
-socks://212.83.138.172:30073#🇦🇺 New South Wales|Sydney|2210|n1-40-234-150.mas21.nsw.optusnet.com.au| 1.40.234.150 |Time View 19/05/2024 21:54:18 |Black List Yes |Use Type: Business|
-socks://212.83.143.147:48051|Switzerland|Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 19/05/2024 18:04:42 |Black List Yes |Use Type: Business|
-socks://212.83.143.118:30657#🇦🇺 New South Wales|Sydney|2199|Telstra Corporation Limited| 58.171.249.211 |Time View 19/05/2024 18:03:37 |Black List No |Use Type: Business|
-socks://212.83.142.131:41817#🇦🇺 New South Wales|Sydney|2146|203-111-7-104.tpgi.com.au| 203.111.7.104 |Time View 19/05/2024 18:03:32 |Black List Yes |Use Type: Business|
+socks://51.83.116.3:10506#🇬🇧 England|Blackburn|BB1|host31-104-92-150.range31-104.btcentralplus.com| 31.104.92.150 |Time View 21/05/2024 08:39:09 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://195.154.43.86:29452#🇬🇧 England|Pontefract|WF8|host86-136-112-148.range86-136.btcentralplus.com| 86.136.112.148 |Time View 21/05/2024 08:39:07 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.5:44922#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 21/05/2024 08:39:04 |Black List Yes |Use Type: Business|https://dichvusocks.net
