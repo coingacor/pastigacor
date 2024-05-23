@@ -31,3 +31,8 @@ socks://51.83.116.2:24204#🇬🇧 England|Barnet|NW11|finc-22-b2-v4wan-161039-c
 socks://138.201.21.227:51416#🇬🇧 England|Hampton|TW12|host165-120-65-235.range165-120.btcentralplus.com| 165.120.65.235 |Time View 23/05/2024 23:46:33 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://138.201.21.227:51448#🇬🇧 England|Islington|N19|host109-155-130-120.range109-155.btcentralplus.com| 109.155.130.120 |Time View 23/05/2024 23:46:30 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://51.83.116.2:35651#🇬🇧 England|Banbury|OX16|host86-157-97-162.range86-157.btcentralplus.com| 86.157.97.162 |Time View 23/05/2024 23:46:25 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://138.201.21.232:23691#🇬🇧 England|Brent|NW2|host-62-3-216-26.as13285.net| 62.3.216.26 |Time View 24/05/2024 04:41:33 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.7:60842#🇬🇧 England|Leeds|LS9|Vibus London| 80.94.201.120 |Time View 24/05/2024 04:41:28 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://138.201.21.218:42834#🇬🇧 England|Islington|N1|host-89-240-113-191.as13285.net| 89.240.113.191 |Time View 24/05/2024 04:41:23 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.5:21460#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 24/05/2024 03:17:23 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.114:11610#🇬🇧 England|Huddersfield|HD2|host109-156-2-51.range109-156.btcentralplus.com| 109.156.2.51 |Time View 24/05/2024 03:17:20 |Black List Yes |Use Type: Business|https://dichvusocks.net
