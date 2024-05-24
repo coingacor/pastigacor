@@ -8,3 +8,7 @@ socks://138.201.21.232:51543#🇬🇧 England|Birmingham|B18|host-2-101-152-246.
 socks://138.201.21.228:27818#🇬🇧 England|Southwark|SE5|static-87-75-108-72.vodafonexdsl.co.uk| 87.75.108.72 |Time View 24/05/2024 13:55:25 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://138.201.21.227:25331#🇬🇧 England|Southall|UB1|host-2-99-204-60.as13285.net| 2.99.204.60 |Time View 24/05/2024 13:55:22 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://51.83.116.7:60842#🇬🇧 England|Leeds|LS9|Vibus London| 80.94.201.120 |Time View 24/05/2024 04:41:28 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://195.154.43.86:39159#🇨🇭 Thurgau|Romanshorn|8590|212.226.1.85.dynamic.wline.res.cust.swisscom.ch| 85.1.226.212 |Time View 24/05/2024 14:58:50 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.131:27602#🇮🇪 Leinster|Dublin|D12|Virgin Media Ireland| 176.61.71.187 |Time View 24/05/2024 14:58:17 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.114:30134#🇧🇪 Flanders|Antwerp|2020|124.100-128-109.adsl-dyn.isp.belgacom.be| 109.128.100.124 |Time View 24/05/2024 14:58:05 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.138.192:17999#🇧🇪 Flanders|Wetteren|9230|65.207-247-81.adsl-dyn.isp.belgacom.be| 81.247.207.65 |Time View 24/05/2024 14:57:48 |Black List Yes |Use Type: Residential|https://dichvusocks.net
