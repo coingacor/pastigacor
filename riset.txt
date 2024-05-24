@@ -19,3 +19,7 @@ socks://212.83.138.192:51734#🇬🇧 England|Wigan|WN2|wiga-16-b2-v4wan-169333-
 socks://108.181.133.58:19475#🇺🇸 South Carolina|Beaufort|29907|Hargray Communications Group, Inc.| 192.152.152.82 |Time View 25/05/2024 01:19:25 |Black List No |Use Type: Business|https://dichvusocks.net
 socks://108.181.133.59:27978#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 108.175.194.6 |Time View 25/05/2024 01:19:19 |Black List No |Use Type: Business|https://dichvusocks.net
 socks://23.105.170.33:62963#🇺🇸 Texas|Fort Worth|76244|Frontier Communications Solutions| 47.185.59.35 |Time View 25/05/2024 01:19:05 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.138.172:47853#🇺🇸 Zurich|Meilen|8706|136.73.107.92.dynamic.wline.res.cust.swisscom.ch| 92.107.73.136 |Time View 25/05/2024 01:54:53 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.6:14503#🇺🇸 Thurgau|Amriswil|8580|4.185.76.83.dynamic.wline.res.cust.swisscom.ch| 83.76.185.4 |Time View 25/05/2024 01:54:50 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.60:43909#🇺🇸 Geneva|Geneva|1205|151.64.106.92.dynamic.wline.res.cust.swisscom.ch| 92.106.64.151 |Time View 25/05/2024 01:54:32 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.138.192:35962#🇺🇸 Thurgau|Amriswil|8580|49.95.76.83.dynamic.wline.res.cust.swisscom.ch| 83.76.95.49 |Time View 25/05/2024 01:54:24 |Black List Yes |Use Type: Business|https://dichvusocks.net
