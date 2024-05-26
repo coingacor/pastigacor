@@ -35,3 +35,7 @@ socks://162.0.220.215:60033#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS,
 socks://67.213.212.40:15243#🇺🇸 Michigan|Taylor|48180|d14-69-209-59.try.wideopenwest.com| 69.14.59.209 |Time View 27/05/2024 02:16:20 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://67.213.212.47:61294#🇺🇸 Michigan|Grand Blanc|48439|c-68-48-76-101.hsd1.mi.comcast.net| 68.48.76.101 |Time View 27/05/2024 02:16:11 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://67.213.212.38:37666#🇺🇸 New Jersey|Union|07083|c-73-215-186-238.hsd1.nj.comcast.net| 73.215.186.238 |Time View 27/05/2024 02:15:47 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.3:33277#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.wline.res.cust.swisscom.ch| 178.196.33.212 |Time View 27/05/2024 02:20:43 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.147:30714#🇨🇭 Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 27/05/2024 02:20:37 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://162.19.7.58:27714#🇦🇺 Victoria|Melbourne|3039|Telstra Corporation Limited| 1.145.233.167 |Time View 27/05/2024 02:20:24 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.118:26264#🇦🇺 New South Wales|Sydney|2199|Telstra Corporation Limited| 58.171.249.211 |Time View 27/05/2024 02:20:18 |Black List No |Use Type: Business|https://dichvusocks.net
