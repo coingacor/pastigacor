@@ -39,3 +39,7 @@ socks://51.83.116.3:33277#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.wli
 socks://212.83.143.147:30714#🇨🇭 Zurich|Zurich|8052|19.32.61.188.dynamic.wline.res.cust.swisscom.ch| 188.61.32.19 |Time View 27/05/2024 02:20:37 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://162.19.7.58:27714#🇦🇺 Victoria|Melbourne|3039|Telstra Corporation Limited| 1.145.233.167 |Time View 27/05/2024 02:20:24 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://212.83.143.118:26264#🇦🇺 New South Wales|Sydney|2199|Telstra Corporation Limited| 58.171.249.211 |Time View 27/05/2024 02:20:18 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://212.83.138.245:24287#🇵🇱 Mazovia|Warsaw|00-510|piy25.internetdsl.tpnet.pl| 46.171.232.25 |Time View 27/05/2024 03:20:00 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.114:47859#🇳🇱 North Brabant|Bergeijk|5571|dhcp-077-248-148-056.chello.nl| 77.248.148.56 |Time View 27/05/2024 03:19:39 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.118:60535#🇧🇪 Flanders|Ghent|9000|78-21-211-7.access.telenet.be| 78.21.211.7 |Time View 27/05/2024 03:19:11 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.6:28029#🇮🇪 Leinster|Dublin|D01|Datcom Connectivity Limited| 193.57.216.7 |Time View 27/05/2024 03:18:54 |Black List No |Use Type: Business|https://dichvusocks.net
