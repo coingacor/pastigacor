@@ -32,3 +32,6 @@ socks://66.29.129.52:37965#🇺🇸 California|Roseville|95661|211.199-93-216-no
 socks://162.0.220.215:37824#🇺🇸 California|Los Angeles|90018|206-72-66-122.dsl.dock.net| 206.72.66.122 |Time View 27/05/2024 01:01:02 |Black List Yes |Use Type: Business|
 socks://162.0.220.219:64597#🇺🇸 California|Los Angeles|90010|206-72-69-248.dsl.dock.net| 206.72.69.248 |Time View 27/05/2024 01:00:59 |Black List No |Use Type: Business|
 socks://162.0.220.215:60033#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 64.179.193.11 |Time View 27/05/2024 01:00:29 |Black List No |Use Type: Business|
+socks://67.213.212.40:15243#🇺🇸 Michigan|Taylor|48180|d14-69-209-59.try.wideopenwest.com| 69.14.59.209 |Time View 27/05/2024 02:16:20 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.47:61294#🇺🇸 Michigan|Grand Blanc|48439|c-68-48-76-101.hsd1.mi.comcast.net| 68.48.76.101 |Time View 27/05/2024 02:16:11 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.38:37666#🇺🇸 New Jersey|Union|07083|c-73-215-186-238.hsd1.nj.comcast.net| 73.215.186.238 |Time View 27/05/2024 02:15:47 |Black List Yes |Use Type: Residential|https://dichvusocks.net
