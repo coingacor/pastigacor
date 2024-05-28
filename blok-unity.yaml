@@ -1,4 +1,4 @@
-payload
+payload:
 - "+.beacons.gvt2.com"
 - "+.beacons.grpc.gvt2.com"
 - "+.track.tenjin.com"
