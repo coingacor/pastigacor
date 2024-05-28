@@ -16,3 +16,7 @@ socks://138.201.21.228:34885#🇬🇧 England|Barnet|EN5|static-193-237-134-3.vo
 socks://212.83.143.49:50308#🇬🇧 England|Oxford|OX4|cpc69387-oxfd28-2-0-cust977.4-3.cable.virginm.net| 82.16.135.210 |Time View 29/05/2024 01:39:14 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://51.83.116.2:63363#🇬🇧 England|Leicester|LE3|cpc82040-leic19-2-0-cust129.8-1.cable.virginm.net| 82.15.175.130 |Time View 29/05/2024 01:38:45 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://138.201.21.218:21938#🇬🇧 England|Harringay|N17|static-84-9-167-103.vodafonexdsl.co.uk| 84.9.167.103 |Time View 29/05/2024 01:38:40 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://174.138.176.78:38183#🇺🇸 New York|Brooklyn|11222|Honest Networks, LLC| 147.185.158.86 |Time View 29/05/2024 02:21:53 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://162.210.192.171:29523#🇺🇸 Unknown|Unknown|Unknown|Performive LLC| 107.181.169.133 |Time View 29/05/2024 02:21:07 |Black List No |Use Type: Hosting|https://dichvusocks.net
+socks://212.83.143.159:43620#🇺🇸 California|Santa Clara|95051|DigitalOcean, LLC| 165.227.16.70 |Time View 29/05/2024 02:21:02 |Black List No |Use Type: Hosting|https://dichvusocks.net
+socks://37.221.193.221:30719#🇺🇸 Alabama|Mobile|36604|Uniti Fiber Holdings Inc.| 170.249.139.106 |Time View 29/05/2024 02:20:56 |Black List No |Use Type: Residential|https://dichvusocks.net
