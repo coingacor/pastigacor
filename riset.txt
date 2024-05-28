@@ -20,3 +20,6 @@ socks://174.138.176.78:38183#🇺🇸 New York|Brooklyn|11222|Honest Networks, L
 socks://162.210.192.171:29523#🇺🇸 Unknown|Unknown|Unknown|Performive LLC| 107.181.169.133 |Time View 29/05/2024 02:21:07 |Black List No |Use Type: Hosting|https://dichvusocks.net
 socks://212.83.143.159:43620#🇺🇸 California|Santa Clara|95051|DigitalOcean, LLC| 165.227.16.70 |Time View 29/05/2024 02:21:02 |Black List No |Use Type: Hosting|https://dichvusocks.net
 socks://37.221.193.221:30719#🇺🇸 Alabama|Mobile|36604|Uniti Fiber Holdings Inc.| 170.249.139.106 |Time View 29/05/2024 02:20:56 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.100:60096#🇦🇺 Victoria|Melbourne|3150|cpe-110-141-223-206.static.vic.bigpond.net.au| 110.141.223.206 |Time View 29/05/2024 04:43:20 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://212.83.138.192:16621#🇦🇺 New South Wales|Sydney|2195|Telstra Internet| 123.209.91.252 |Time View 29/05/2024 04:43:07 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://170.205.37.196:33205#🇦🇺 New South Wales|Sydney|2151|cpe-206-16-211-157.matenbn.com.au| 157.211.16.206 |Time View 29/05/2024 04:42:52 |Black List Yes |Use Type: Business|https://dichvusocks.net
