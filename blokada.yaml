@@ -1,15 +1,15 @@
 payload:
-DOMAIN-KEYWORD,inmobi
-DOMAIN-KEYWORD,vungle
-DOMAIN-KEYWORD,anythinktech
-DOMAIN-KEYWORD,pangle
-DOMAIN-KEYWORD,rayjump
-DOMAIN-KEYWORD,tapjoy
-DOMAIN-KEYWORD,byteoversea
-DOMAIN-KEYWORD,chartboost
-DOMAIN-KEYWORD,liftoff
-DOMAIN-KEYWORD,liftoff-creatives
-DOMAIN,ss.playwinner.org
-DOMAIN-KEYWORD,mtgglobals
-DOMAIN-KEYWORD,mintegral
-DOMAIN-KEYWORD,fyber
+- DOMAIN-KEYWORD,inmobi
+- DOMAIN-KEYWORD,vungle
+- DOMAIN-KEYWORD,anythinktech
+- DOMAIN-KEYWORD,pangle
+- DOMAIN-KEYWORD,rayjump
+- DOMAIN-KEYWORD,tapjoy
+- DOMAIN-KEYWORD,byteoversea
+- DOMAIN-KEYWORD,chartboost
+- DOMAIN-KEYWORD,liftoff
+- DOMAIN-KEYWORD,liftoff-creatives
+- DOMAIN,ss.playwinner.org
+- DOMAIN-KEYWORD,mtgglobals
+- DOMAIN-KEYWORD,mintegral
+- DOMAIN-KEYWORD,fyber
