@@ -1,4 +1,17 @@
-socks://212.83.138.172:23649#🇦🇺 Victoria|Melbourne|3170|cpe-110-141-223-206.static.vic.bigpond.net.au| 110.141.223.206 |Time View 22/02/2024 02:16:59 |Black List No |Use Type: Business|
-socks://51.83.116.7:48908#🇦🇺 Victoria|Melbourne|3008|static-38-115.mel.0101.net.au| 27.116.38.115 |Time View 22/02/2024 02:16:49 |Black List No |Use Type: Business|
-socks://89.58.45.94:37092#🇦🇺 New South Wales|Sydney|2082|Telstra Corporation Limited| 60.231.34.210 |Time View 22/02/2024 02:16:41 |Black List No |Use Type: Business|
-socks://212.83.142.100:59147#🇦🇺 Queensland|Brisbane|4000|bet2886687.lnk.telstra.net| 110.145.106.146 |Time View 22/02/2024 02:16:34 |Black List No |Use Type: Business|
+# payload
+- "+.beacons.gvt2.com"
+- "+.beacons.grpc.gvt2.com"
+- "+.track.tenjin.com"
+- "+.track.tenjin.io"
+- "+.logs.ironsrc.mobi"
+- "+.ae.iads.unity3d.com"
+- "+.c.iads.unity3d.com"
+- "+.o.iads.unity3d.com"
+- "+.o-pxt.iads.unity3d.com"
+- "+.w.isx.unity3d.com"
+- "+.o.isx.unity3d.com"
+- "+.o-iab.mediation.unity3d.com"
+- "+.check.unity.cn"
+- "+.config.uca.cloud.unity3d.com"
+- "+.cdp.cloud.unity3d.com"
+- "+.cdp.cloud.unity.cn"
