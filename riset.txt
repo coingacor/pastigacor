@@ -35,3 +35,5 @@ socks://209.159.153.22:35548#🇺🇸 West Virginia|Moundsville|26041|c-71-206-2
 socks://23.105.170.33:18495#🇺🇸 Pennsylvania|Pittsburgh|15203|c-24-3-241-170.hsd1.pa.comcast.net| 24.3.241.170 |Time View 30/05/2024 10:02:38 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://69.197.135.242:50227#🇺🇸 Maryland|Pasadena|21122|c-76-100-49-150.hsd1.md.comcast.net| 76.100.49.150 |Time View 30/05/2024 10:02:21 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://23.105.170.32:34072#🇺🇸 Tennessee|Nashville|37206|c-98-193-192-42.hsd1.tn.comcast.net| 98.193.192.42 |Time View 30/05/2024 10:02:15 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://170.205.37.196:41119#🇧🇷 São Paulo|Osasco|06000|200-159-14-187.customer.tdatabrasil.net.br| 200.159.14.187 |Time View 30/05/2024 12:28:02 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://185.236.232.20:4715#🇧🇷 São Paulo|Piracaia|12970|Fiber UP Telecom Eireli| 45.164.33.215 |Time View 30/05/2024 12:27:45 |Black List Yes |Use Type: Residential|https://dichvusocks.net
