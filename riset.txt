@@ -22,3 +22,6 @@ socks://212.83.138.172:52985#🇨🇭 Bern|Interlaken|3800|Kabelfernsehen Bodeli
 socks://51.83.116.5:54265#🇳🇱 Gelderland|Harderwijk|3844|232-253-224-141.dynamic.caiway.nl| 141.224.253.232 |Time View 30/05/2024 06:10:58 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://212.83.143.147:51344#🇳🇱 North Holland|Amsterdam|1105|ftth-083-247-074-188.solcon.nl| 83.247.74.188 |Time View 30/05/2024 06:10:54 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://212.83.138.192:47851#🇳🇱 North Brabant|Vlijmen|5251|217-62-19-253.cable.dynamic.v4.ziggo.nl| 217.62.19.253 |Time View 30/05/2024 06:10:44 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.5:11937#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 30/05/2024 07:02:46 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://138.201.21.238:59666#🇬🇧 England|Cobham|KT11|host109-157-172-26.range109-157.btcentralplus.com| 109.157.172.26 |Time View 30/05/2024 07:02:42 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.49:40206#🇬🇧 England|Watford|WD18|host109-158-3-97.range109-158.btcentralplus.com| 109.158.3.97 |Time View 30/05/2024 07:02:40 |Black List Yes |Use Type: Business|https://dichvusocks.net
