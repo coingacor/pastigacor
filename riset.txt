@@ -8,3 +8,8 @@ socks://138.201.21.228:63044#🇬🇧 England|Gateshead|NE10|cpc153931-gate13-2-
 socks://138.201.21.238:52087#🇬🇧 England|Chester|CH2|host62-6-133-21.range62-6.btcentralplus.com| 62.6.133.21 |Time View 31/05/2024 02:05:10 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://138.201.21.232:55571#🇬🇧 England|Cobham|KT11|host86-180-57-184.range86-180.btcentralplus.com| 86.180.57.184 |Time View 31/05/2024 02:05:07 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://51.83.116.5:62732#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 31/05/2024 02:05:04 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://174.138.176.78:54024#🇺🇸 California|Elk Grove|95624|135.94-231-207.res.dyn.surewest.net| 207.231.94.135 |Time View 31/05/2024 02:30:55 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.210.61:47755#🇺🇸 California|Sacramento|95821|Consolidated Communications, Inc.| 69.62.172.36 |Time View 31/05/2024 02:30:52 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://37.221.193.221:22841#🇺🇸 California|Torrance|90503|static-47-181-159-167.lsan.ca.frontiernet.net| 47.181.159.167 |Time View 31/05/2024 02:30:27 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://51.68.244.19:56304#🇺🇸 California|Fairfield|94533|c-24-4-83-237.hsd1.ca.comcast.net| 24.4.83.237 |Time View 31/05/2024 02:30:09 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://174.138.176.78:56736#🇺🇸 New York|New Rochelle|10801|Honest Networks, LLC| 147.185.158.86 |Time View 31/05/2024 02:29:22 |Black List No |Use Type: Business|https://dichvusocks.net
