@@ -31,3 +31,7 @@ socks://38.91.106.214:55000#🇬🇧 England|London|EC4R|static-84-9-97-243.voda
 socks://51.83.116.2:12107#🇬🇧 England|Leicester|LE3|cpc82040-leic19-2-0-cust129.8-1.cable.virginm.net| 82.15.175.130 |Time View 30/05/2024 08:49:04 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://38.91.107.220:32633#🇬🇧 England|Hackney|N16|static-84-9-188-65.vodafonexdsl.co.uk| 84.9.188.65 |Time View 30/05/2024 08:48:58 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://38.91.107.229:32100#🇬🇧 England|Portsmouth|PO5|static-90-255-249-109.vodafonexdsl.co.uk| 90.255.249.109 |Time View 30/05/2024 08:48:54 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://209.159.153.22:35548#🇺🇸 West Virginia|Moundsville|26041|c-71-206-211-20.hsd1.pa.comcast.net| 71.206.211.20 |Time View 30/05/2024 10:03:08 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://23.105.170.33:18495#🇺🇸 Pennsylvania|Pittsburgh|15203|c-24-3-241-170.hsd1.pa.comcast.net| 24.3.241.170 |Time View 30/05/2024 10:02:38 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://69.197.135.242:50227#🇺🇸 Maryland|Pasadena|21122|c-76-100-49-150.hsd1.md.comcast.net| 76.100.49.150 |Time View 30/05/2024 10:02:21 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://23.105.170.32:34072#🇺🇸 Tennessee|Nashville|37206|c-98-193-192-42.hsd1.tn.comcast.net| 98.193.192.42 |Time View 30/05/2024 10:02:15 |Black List Yes |Use Type: Residential|https://dichvusocks.net
