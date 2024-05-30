@@ -25,3 +25,5 @@ socks://212.83.138.192:47851#🇳🇱 North Brabant|Vlijmen|5251|217-62-19-253.c
 socks://51.83.116.5:11937#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 30/05/2024 07:02:46 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://138.201.21.238:59666#🇬🇧 England|Cobham|KT11|host109-157-172-26.range109-157.btcentralplus.com| 109.157.172.26 |Time View 30/05/2024 07:02:42 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://212.83.143.49:40206#🇬🇧 England|Watford|WD18|host109-158-3-97.range109-158.btcentralplus.com| 109.158.3.97 |Time View 30/05/2024 07:02:40 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.100:48988#🇦🇺 Victoria|Melbourne|3150|cpe-110-141-223-206.static.vic.bigpond.net.au| 110.141.223.206 |Time View 30/05/2024 07:39:50 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.49:15371#🇦🇺 Victoria|Melbourne|3001|Telstra Internet| 110.143.45.151 |Time View 30/05/2024 07:39:41 |Black List No |Use Type: Business|https://dichvusocks.net
