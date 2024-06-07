@@ -35,3 +35,6 @@ socks://212.83.138.172:32880#🇬🇧 England|Basildon|SS16|cpc113712-basl12-2-0
 socks://212.83.143.60:28842#🇬🇧 England|Southport|PR9|host86-166-171-45.range86-166.btcentralplus.com| 86.166.171.45 |Time View 07/06/2024 21:51:58 |Black List Yes |Use Type: Business|
 socks://212.83.143.147:29478#🇬🇧 England|Redditch|B98|brom-11-b2-v4wan-165874-cust114.vm31.cable.virginm.net| 82.33.64.115 |Time View 07/06/2024 03:13:46 |Black List Yes |Use Type: Residential|
 socks://51.83.116.5:22567#🇬🇧 England|Verwood|BH31|host109-150-177-2.range109-150.btcentralplus.com| 109.150.177.2 |Time View 07/06/2024 03:13:32 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:39666#🇨🇭 Zurich|Zurich|8002|207.203.193.178.dynamic.cust.swisscom.net| 178.193.203.207 |Time View 08/06/2024 01:17:51 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.3:32431#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 08/06/2024 01:17:39 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.60:54679#🇨🇭 Zurich|Zurich|8044|124.109.5.85.dynamic.cust.swisscom.net| 85.5.109.124 |Time View 08/06/2024 01:17:36 |Black List Yes |Use Type: Business|https://dichvusocks.net
