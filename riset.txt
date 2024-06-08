@@ -31,3 +31,6 @@ socks://51.83.116.3:52434#🇬🇧 England|Batley|WF17|host217-43-99-125.range21
 socks://212.83.143.60:51975#🇨🇭 Geneva|Geneva|1205|151.64.106.92.dynamic.cust.swisscom.net| 92.106.64.151 |Time View 09/06/2024 03:15:15 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://212.83.142.149:32046#🇨🇭 Lucerne|Lucerne|6015|134.98.7.85.dynamic.cust.swisscom.net| 85.7.98.134 |Time View 09/06/2024 03:15:12 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://212.83.143.60:39217#🇨🇭 Zurich|Zurich|8044|124.109.5.85.dynamic.cust.swisscom.net| 85.5.109.124 |Time View 09/06/2024 03:15:06 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://23.105.170.33:59195#🇺🇸 Tennessee|Murfreesboro|37129|c-107-3-226-234.hsd1.tn.comcast.net| 107.3.226.234 |Time View 09/06/2024 03:48:43 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://37.221.193.221:17146#🇺🇸 West Virginia|Romney|26757|static-50-127-177-194.chtn.wv.frontiernet.net| 50.127.177.194 |Time View 09/06/2024 03:48:22 |Black List Yes |Use Type: Cellular|https://dichvusocks.net
+socks://38.91.106.214:17988#🇺🇸 South Carolina|Hilton Head Island|29926|175.67.182.207.dynamic-pool.hargray.net| 207.182.67.175 |Time View 09/06/2024 03:48:09 |Black List No |Use Type: Business|https://dichvusocks.net
