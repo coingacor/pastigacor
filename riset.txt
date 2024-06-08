@@ -28,3 +28,6 @@ socks://51.83.116.5:61652#🇬🇧 England|Barnet|NW11|host109-152-73-205.range1
 socks://138.201.21.228:18173#🇬🇧 England|Liverpool|L9|host81-156-145-108.range81-156.btcentralplus.com| 81.156.145.108 |Time View 08/06/2024 23:57:13 |Black List Yes |Use Type: Business|
 socks://138.201.21.228:43671#🇬🇧 Scotland|Perth|PH2|host86-155-7-63.range86-155.btcentralplus.com| 86.155.7.63 |Time View 08/06/2024 23:57:10 |Black List Yes |Use Type: Business|
 socks://51.83.116.3:52434#🇬🇧 England|Batley|WF17|host217-43-99-125.range217-43.btcentralplus.com| 217.43.99.125 |Time View 08/06/2024 23:57:08 |Black List Yes |Use Type: Business|
+socks://212.83.143.60:51975#🇨🇭 Geneva|Geneva|1205|151.64.106.92.dynamic.cust.swisscom.net| 92.106.64.151 |Time View 09/06/2024 03:15:15 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.149:32046#🇨🇭 Lucerne|Lucerne|6015|134.98.7.85.dynamic.cust.swisscom.net| 85.7.98.134 |Time View 09/06/2024 03:15:12 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.60:39217#🇨🇭 Zurich|Zurich|8044|124.109.5.85.dynamic.cust.swisscom.net| 85.5.109.124 |Time View 09/06/2024 03:15:06 |Black List Yes |Use Type: Business|https://dichvusocks.net
