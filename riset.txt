@@ -34,3 +34,8 @@ socks://212.83.143.60:39217#🇨🇭 Zurich|Zurich|8044|124.109.5.85.dynamic.cus
 socks://23.105.170.33:59195#🇺🇸 Tennessee|Murfreesboro|37129|c-107-3-226-234.hsd1.tn.comcast.net| 107.3.226.234 |Time View 09/06/2024 03:48:43 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://37.221.193.221:17146#🇺🇸 West Virginia|Romney|26757|static-50-127-177-194.chtn.wv.frontiernet.net| 50.127.177.194 |Time View 09/06/2024 03:48:22 |Black List Yes |Use Type: Cellular|https://dichvusocks.net
 socks://38.91.106.214:17988#🇺🇸 South Carolina|Hilton Head Island|29926|175.67.182.207.dynamic-pool.hargray.net| 207.182.67.175 |Time View 09/06/2024 03:48:09 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.2:27085#🇳🇿 Wellington Region|Porirua|5024|222-153-13-243-adsl.sparkbb.co.nz| 222.153.13.243 |Time View 09/06/2024 06:16:43 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://185.198.58.47:33438#🇦🇺 Victoria|Unknown|Unknown|Aussie Broadband| 159.196.249.8 |Time View 09/06/2024 06:16:09 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.100:32370#🇦🇺 Victoria|Melbourne|3001|Telstra Internet| 203.45.65.66 |Time View 09/06/2024 06:16:03 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://212.83.138.245:32131#🇦🇺 Victoria|Melbourne|3001|59-100-192-118.mel.static-ipl.aapt.com.au| 59.100.192.118 |Time View 09/06/2024 06:15:56 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://138.201.21.227:35688#🇦🇺 New South Wales|Richmond|2754|Telstra Internet| 123.209.76.164 |Time View 09/06/2024 06:15:49 |Black List Yes |Use Type: Business|https://dichvusocks.net
