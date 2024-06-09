@@ -35,3 +35,4 @@ socks://138.201.21.233:61865#🇬🇧 England|Cannock|WS11|host81-159-120-61.ran
 socks://212.83.143.147:65092#🇬🇧 England|Tavistock|PL19|host86-138-62-180.range86-138.btcentralplus.com| 86.138.62.180 |Time View 09/06/2024 23:33:45 |Black List Yes |Use Type: Business|
 socks://138.201.21.238:19266#🇬🇧 England|Southport|PR9|host86-143-190-216.range86-143.btcentralplus.com| 86.143.190.216 |Time View 09/06/2024 23:33:44 |Black List Yes |Use Type: Business|
 socks://212.83.143.118:16393#🇬🇧 England|Waltham Forest|E17|host86-161-63-123.range86-161.btcentralplus.com| 86.161.63.123 |Time View 09/06/2024 23:33:39 |Black List Yes |Use Type: Business|
+socks://51.83.116.3:58058#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 10/06/2024 06:40:03 |Black List Yes |Use Type: Business|
