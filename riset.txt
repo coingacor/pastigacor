@@ -14,3 +14,7 @@ socks://212.83.143.97:43779#🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 Penistone|S36|h
 socks://51.83.116.2:48606#🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 Otley|LS21|host86-166-143-86.range86-166.btcentralplus.com| 86.166.143.86 |Time View 11/06/2024 01:06:38 |Black List Yes |Use Type: Business|
 socks://212.83.138.192:24234#🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 Walsall|WS1|host109-157-66-35.range109-157.btcentralplus.com| 109.157.66.35 |Time View 11/06/2024 01:06:36 |Black List Yes |Use Type: Business|
 socks://212.83.142.114:59811#🇬🇧🏴󠁧󠁢󠁥󠁮󠁧󠁿 Tavistock|PL19|host86-151-113-49.range86-151.btcentralplus.com| 86.151.113.49 |Time View 11/06/2024 01:06:33 |Black List Yes |Use Type: Business|
+socks://212.83.143.97:36874#🇨🇭 Zurich|Schlieren|8952|adsl-84-226-16-70.adslplus.ch| 84.226.16.70 |Time View 11/06/2024 01:35:10 |Black List Yes |Use Type: Residential|
+socks://138.201.21.227:61475#🇨🇭 Geneva|Geneva|1205|mob-194-230-146-96.cgn.sunrise.net| 194.230.146.96 |Time View 11/06/2024 01:34:44 |Black List Yes |Use Type: Cellular|
+socks://212.83.138.172:32189#🇨🇭 Zurich|Dübendorf|8600|136.73.107.92.dynamic.cust.swisscom.net| 92.107.73.136 |Time View 11/06/2024 01:34:36 |Black List Yes |Use Type: Business|
+socks://212.83.138.192:35344#🇨🇭 Bern|Liebefeld|3097|99.95.63.188.dynamic.cust.swisscom.net| 188.63.95.99 |Time View 11/06/2024 01:34:32 |Black List Yes |Use Type: Business|
