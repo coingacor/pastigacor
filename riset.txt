@@ -40,4 +40,4 @@ socks://212.83.143.147:65047#🎌 Tokyo|Tokyo|151-0071|softbank060147230004.bbte
 socks://212.83.143.60:57893#🎌 Aomori|Hirosaki|036-8121|p1646239-ipngn7001akatuka.ibaraki.ocn.ne.jp| 61.207.122.239 |Time View 10/06/2024 09:27:19 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://134.195.91.76:22659#🇭🇰 Unknown|Unknown|Unknown|223-197-199-52.static.imsbiz.com| 223.197.199.52 |Time View 10/06/2024 09:27:05 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://176.126.84.126:35860#🇭🇰 Unknown|Unknown|Unknown|42-200-75-233.static.imsbiz.com| 42.200.75.233 |Time View 10/06/2024 09:26:49 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.142.131:58698|Ireland|Leinster|Dublin|D12|Virgin Media Ireland| 176.61.71.187 |Time View 10/06/2024 09:26:38 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.131:58698🇮🇪 Leinster|Dublin|D12|Virgin Media Ireland| 176.61.71.187 |Time View 10/06/2024 09:26:38 |Black List Yes |Use Type: Business|https://dichvusocks.net
