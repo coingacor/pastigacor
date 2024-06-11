@@ -18,3 +18,31 @@ socks://212.83.143.97:36874#🇨🇭 Zurich|Schlieren|8952|adsl-84-226-16-70.ads
 socks://138.201.21.227:61475#🇨🇭 Geneva|Geneva|1205|mob-194-230-146-96.cgn.sunrise.net| 194.230.146.96 |Time View 11/06/2024 01:34:44 |Black List Yes |Use Type: Cellular|
 socks://212.83.138.172:32189#🇨🇭 Zurich|Dübendorf|8600|136.73.107.92.dynamic.cust.swisscom.net| 92.107.73.136 |Time View 11/06/2024 01:34:36 |Black List Yes |Use Type: Business|
 socks://212.83.138.192:35344#🇨🇭 Bern|Liebefeld|3097|99.95.63.188.dynamic.cust.swisscom.net| 188.63.95.99 |Time View 11/06/2024 01:34:32 |Black List Yes |Use Type: Business|
+socks://138.201.21.232:22128#🇬🇧 England|Bradford|BD7|host-78-147-30-211.as13285.net| 78.147.30.211 |Time View 11/06/2024 23:22:10 |Black List Yes |Use Type: Residential|
+socks://138.201.21.232:49460#🇬🇧 England|Preston|PR1|host-92-16-26-226.as13285.net| 92.16.26.226 |Time View 11/06/2024 23:22:04 |Black List Yes |Use Type: Residential|
+socks://138.201.21.233:53124#🇬🇧 England|Bristol|BS15|host-92-17-142-123.as13285.net| 92.17.142.123 |Time View 11/06/2024 23:21:56 |Black List Yes |Use Type: Residential|
+socks://138.201.21.232:58837#🇬🇧 England|Hackney|E8|host-2-102-85-242.as13285.net| 2.102.85.242 |Time View 11/06/2024 23:21:49 |Black List Yes |Use Type: Residential|
+socks://67.213.210.62:23007#🇬🇧 England|Coventry|CV1|host-89-241-72-117.as13285.net| 89.241.72.117 |Time View 11/06/2024 23:21:17 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:39962#🇬🇧 England|Waltham Forest|E17|host-78-149-215-98.as13285.net| 78.149.215.98 |Time View 11/06/2024 23:21:13 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:63714#🇬🇧 England|Slough|SL1|host-92-15-89-239.as13285.net| 92.15.89.239 |Time View 11/06/2024 23:20:45 |Black List Yes |Use Type: Residential|
+socks://138.201.21.232:25188#🇬🇧 Northern Ireland|Belfast|BT6|host-80-44-12-116.as13285.net| 80.44.12.116 |Time View 11/06/2024 23:20:42 |Black List Yes |Use Type: Residential|
+socks://138.201.21.228:24681#🇬🇧 England|Greenwich|SE18|Energis UK| 81.79.6.87 |Time View 11/06/2024 23:20:19 |Black List Yes |Use Type: Residential|
+socks://51.83.116.7:49730#🇬🇧 England|Bristol|BS1|Cityfibre Limited| 185.220.12.28 |Time View 11/06/2024 23:20:16 |Black List No |Use Type: Residential|
+socks://138.201.21.218:56916#🇬🇧 England|Peterborough|PE1|host-92-24-177-104.as13285.net| 92.24.177.104 |Time View 11/06/2024 23:20:13 |Black List Yes |Use Type: Residential|
+socks://138.201.21.232:40767#🇬🇧 England|Northampton|NN2|host-92-13-8-219.as13285.net| 92.13.8.219 |Time View 11/06/2024 23:20:09 |Black List Yes |Use Type: Residential|
+socks://138.201.21.238:23288#🇬🇧 England|Manchester|M13|host-2-101-42-125.as13285.net| 2.101.42.125 |Time View 11/06/2024 23:20:00 |Black List Yes |Use Type: Residential|
+socks://138.201.21.227:51622#🇬🇧 Scotland|Edinburgh|EH8|host-2-99-192-77.as13285.net| 2.99.192.77 |Time View 11/06/2024 23:19:57 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:62685#🇬🇧 England|Islington|N1|host-78-145-31-79.as13285.net| 78.145.31.79 |Time View 11/06/2024 23:19:44 |Black List Yes |Use Type: Residential|
+socks://138.201.21.227:37389#🇬🇧 England|Margate|CT8|host-2-103-72-55.as13285.net| 2.103.72.55 |Time View 11/06/2024 23:19:29 |Black List Yes |Use Type: Residential|
+socks://162.19.7.46:49354#🇬🇧 England|Bristol|BS16|host-92-8-166-211.as13285.net| 92.8.166.211 |Time View 11/06/2024 23:19:26 |Black List Yes |Use Type: Residential|
+socks://138.201.21.233:23455#🇬🇧 England|Leicester|LE4|host-92-8-111-248.as13285.net| 92.8.111.248 |Time View 11/06/2024 23:19:22 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:15305#🇬🇧 England|Nottingham|NG8|host-80-44-247-65.as13285.net| 80.44.247.65 |Time View 11/06/2024 23:17:49 |Black List Yes |Use Type: Residential|
+socks://138.201.21.238:37296#🇬🇧 England|Brighton|BN3|host-80-44-114-76.as13285.net| 80.44.114.76 |Time View 11/06/2024 23:16:41 |Black List Yes |Use Type: Residential|
+socks://138.201.21.227:11602#🇬🇧 England|Cullompton|EX15|host86-168-224-101.range86-168.btcentralplus.com| 86.168.224.101 |Time View 11/06/2024 23:14:28 |Black List Yes |Use Type: Business|
+socks://212.83.143.97:65233#🇬🇧 England|Penistone|S36|host86-151-167-105.range86-151.btcentralplus.com| 86.151.167.105 |Time View 11/06/2024 23:14:25 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:21561#🇬🇧 England|Luton|LU2|host86-141-63-1.range86-141.btcentralplus.com| 86.141.63.1 |Time View 11/06/2024 23:14:22 |Black List Yes |Use Type: Business|
+socks://212.83.138.186:18989#🇬🇧 England|Loughborough|LE11|host109-146-44-59.range109-146.btcentralplus.com| 109.146.44.59 |Time View 11/06/2024 23:14:19 |Black List Yes |Use Type: Business|
+socks://138.201.21.233:12919#🇬🇧 England|Cannock|WS11|host81-159-120-61.range81-159.btcentralplus.com| 81.159.120.61 |Time View 11/06/2024 23:14:17 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:30738#🇬🇧 England|Tavistock|PL19|host86-138-62-180.range86-138.btcentralplus.com| 86.138.62.180 |Time View 11/06/2024 23:14:13 |Black List Yes |Use Type: Business|
+socks://212.83.142.158:41242#🇬🇧 England|Solihull|B93|host86-181-145-143.range86-181.btcentralplus.com| 86.181.145.143 |Time View 11/06/2024 23:14:10 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:30478#🇬🇧 England|Islington|N19|host109-155-78-232.range109-155.btcentralplus.com| 109.155.78.232 |Time View 11/06/2024 23:14:05 |Black List Yes |Use Type: Business|
