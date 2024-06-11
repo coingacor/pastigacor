@@ -46,3 +46,5 @@ socks://138.201.21.233:12919#🇬🇧 England|Cannock|WS11|host81-159-120-61.ran
 socks://212.83.143.147:30738#🇬🇧 England|Tavistock|PL19|host86-138-62-180.range86-138.btcentralplus.com| 86.138.62.180 |Time View 11/06/2024 23:14:13 |Black List Yes |Use Type: Business|
 socks://212.83.142.158:41242#🇬🇧 England|Solihull|B93|host86-181-145-143.range86-181.btcentralplus.com| 86.181.145.143 |Time View 11/06/2024 23:14:10 |Black List Yes |Use Type: Business|
 socks://138.201.21.218:30478#🇬🇧 England|Islington|N19|host109-155-78-232.range109-155.btcentralplus.com| 109.155.78.232 |Time View 11/06/2024 23:14:05 |Black List Yes |Use Type: Business|
+socks://51.83.116.3:60799#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 12/06/2024 02:22:36 |Black List Yes |Use Type: Business|
+socks://162.19.7.49:45998#🇨🇭 Zurich|Zurich|8048|208.46.76.83.dynamic.cust.swisscom.net| 83.76.46.208 |Time View 12/06/2024 02:22:32 |Black List Yes |Use Type: Business|
