@@ -7,5 +7,7 @@ socks://138.201.21.232:65130#🇬🇧 England|Gateshead|NE9|cpc153931-gate13-2-0
 socks://138.201.21.232:65167#🇬🇧 England|Birmingham|B42|cpc159517-perr18-2-0-cust329.19-1.cable.virginm.net| 82.6.37.74 |Time View 12/06/2024 13:05:04 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.138.172:30594#🇬🇧 England|Lancaster|LA1|host-80-194-87-82.static.cable.virginmedia.com| 80.194.87.82 |Time View 12/06/2024 13:05:00 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://138.201.21.238:15265#🇬🇧 England|Runcorn|WA7|runc-07-b2-v4wan-167039-cust775.vm21.cable.virginm.net| 82.20.155.8 |Time View 12/06/2024 13:04:57 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://51.83.116.3:60799|Switzerland|Geneva|Geneva|1203|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 12/06/2024 02:22:36 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://162.19.7.49:45998|Switzerland|Zurich|Zurich|8048|208.46.76.83.dynamic.cust.swisscom.net| 83.76.46.208 |Time View 12/06/2024 02:22:32 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.3:60799#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 12/06/2024 02:22:36 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://162.19.7.49:45998#🇨🇭 Zurich|Zurich|8048|208.46.76.83.dynamic.cust.swisscom.net| 83.76.46.208 |Time View 12/06/2024 02:22:32 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.147:57213#🇨🇭 Zurich|Zurich|8005|19.32.61.188.dynamic.cust.swisscom.net| 188.61.32.19 |Time View 12/06/2024 16:17:45 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.147:44147#🇨🇭 Bern|Biel/Bienne|2503|196.202.6.85.dynamic.cust.swisscom.net| 85.6.202.196 |Time View 12/06/2024 16:16:53 |Black List Yes |Use Type: Business|https://dichvusocks.net
