@@ -1,17 +1,14 @@
-socks://212.83.138.192:10661#🇨🇭 Bern|Liebefeld|3097|99.95.63.188.dynamic.cust.swisscom.net| 188.63.95.99 |Time View 13/06/2024 05:32:19 |Black List Yes |Use Type: Business|
-socks://138.201.21.227:45541#🇨🇭 Geneva|Geneva|1205|mob-194-230-146-96.cgn.sunrise.net| 194.230.146.96 |Time View 13/06/2024 05:32:16 |Black List Yes |Use Type: Cellular|
-socks://51.83.116.2:53875#🇨🇭 Ticino|Camorino|6528|103.17.3.213.static.wline.lns.sme.cust.swisscom.ch| 213.3.17.103 |Time View 13/06/2024 05:31:58 |Black List No |Use Type: Residential|
-socks://212.83.138.186:39542#🇬🇧 England|Bromley|BR2|cpc122092-bmly10-2-0-cust960.2-3.cable.virginm.net| 82.7.151.193 |Time View 13/06/2024 05:31:41 |Black List Yes |Use Type: Residential|
-socks://67.213.210.62:30816#🇬🇧 England|Mitcham|CR4|static-193-237-128-68.vodafonexdsl.co.uk| 193.237.128.68 |Time View 13/06/2024 05:31:38 |Black List No |Use Type: Residential|
-socks://212.83.142.149:62152#🇬🇧 England|Sheffield|S11|Energis UK| 90.246.48.9 |Time View 13/06/2024 05:31:31 |Black List Yes |Use Type: Residential|
-socks://51.83.116.7:24097#🇬🇧 England|Redhill|RH1|Vibus London| 80.94.201.120 |Time View 13/06/2024 05:31:22 |Black List No |Use Type: Business|
-socks://138.201.21.232:12522#🇬🇧 England|Greenwich|SE3|default-46-33-143-73.interdsl.co.uk| 46.33.143.73 |Time View 13/06/2024 05:31:10 |Black List Yes |Use Type: Residential|
-socks://138.201.21.218:57437#🇬🇧 England|Islington|EC1V|default-46-33-142-177.interdsl.co.uk| 46.33.142.177 |Time View 13/06/2024 05:31:06 |Black List Yes |Use Type: Residential|
-socks://138.201.21.228:56209#🇬🇧 England|Covent Garden|WC2H|default-80-209-138-191.interdsl.co.uk| 80.209.138.191 |Time View 13/06/2024 05:31:03 |Black List No |Use Type: Business|
-socks://138.201.21.227:37282#🇬🇧 England|Cullompton|EX15|host86-168-224-101.range86-168.btcentralplus.com| 86.168.224.101 |Time View 13/06/2024 05:30:49 |Black List Yes |Use Type: Business|
-socks://138.201.21.238:40989#🇬🇧 England|Liverpool|L9|host86-131-176-255.range86-131.btcentralplus.com| 86.131.176.255 |Time View 13/06/2024 05:30:44 |Black List Yes |Use Type: Business|
-socks://51.83.116.2:12217#🇬🇧 England|Crawley|RH11|host109-148-239-127.range109-148.btcentralplus.com| 109.148.239.127 |Time View 13/06/2024 05:30:42 |Black List Yes |Use Type: Business|
-socks://138.201.21.238:52627#🇬🇧 England|Maidstone|ME15|host86-182-22-119.range86-182.btcentralplus.com| 86.182.22.119 |Time View 13/06/2024 05:30:38 |Black List Yes |Use Type: Business|
-socks://51.83.116.5:19870#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 13/06/2024 05:30:36 |Black List Yes |Use Type: Business|
-socks://138.201.21.232:30317#🇬🇧 Wales|Cardiff|CF11|host86-173-43-114.range86-173.btcentralplus.com| 86.173.43.114 |Time View 13/06/2024 05:30:30 |Black List Yes |Use Type: Business|
-socks://138.201.21.233:31704#🇬🇧 England|Hook|RG27|host5-80-40-180.range5-80.btcentralplus.com| 5.80.40.180 |Time View 13/06/2024 05:30:23 |Black List Yes |Use Type: Business|
+socks://51.83.116.5:50342#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 14/06/2024 05:03:34 |Black List Yes |Use Type: Business|
+socks://212.83.138.192:47846#🇬🇧 England|Bolton|BL4|host109-157-66-35.range109-157.btcentralplus.com| 109.157.66.35 |Time View 14/06/2024 05:03:31 |Black List Yes |Use Type: Business|
+socks://138.201.21.233:11767#🇬🇧 England|Hook|RG27|host5-80-40-180.range5-80.btcentralplus.com| 5.80.40.180 |Time View 14/06/2024 05:03:25 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:19352#🇬🇧 Wales|Caernarfon|LL55|host31-49-82-187.range31-49.btcentralplus.com| 31.49.82.187 |Time View 14/06/2024 05:03:22 |Black List Yes |Use Type: Business|
+socks://138.201.21.238:48558#🇬🇧 England|Chester|CH2|host62-6-133-21.range62-6.btcentralplus.com| 62.6.133.21 |Time View 14/06/2024 05:03:20 |Black List Yes |Use Type: Business|
+socks://212.83.138.186:21511#🇬🇧 England|Skelmersdale|WN8|host109-157-27-24.range109-157.btcentralplus.com| 109.157.27.24 |Time View 14/06/2024 05:03:17 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:12429#🇬🇧 England|Redditch|B98|brom-11-b2-v4wan-165874-cust114.vm31.cable.virginm.net| 82.33.64.115 |Time View 14/06/2024 05:02:57 |Black List Yes |Use Type: Residential|
+socks://212.83.143.60:16346#🇬🇧 England|Gosport|PO13|cosh-19-b2-v4wan-161497-cust1302.vm10.cable.virginm.net| 86.23.205.23 |Time View 14/06/2024 05:02:42 |Black List No |Use Type: Residential|
+socks://51.83.116.3:18216#🇬🇧 England|Huddersfield|HD1|cpc105942-hudd12-2-0-cust249.4-1.cable.virginm.net| 82.11.182.250 |Time View 14/06/2024 05:02:39 |Black List Yes |Use Type: Residential|
+socks://212.83.142.145:26871#🇬🇧 England|Southport|PR9|cpc161187-sprt3-2-0-cust86.17-2.cable.virginm.net| 82.13.172.87 |Time View 14/06/2024 05:02:37 |Black List Yes |Use Type: Residential|
+socks://212.83.138.172:65096#🇬🇧 England|Leeds|LS6|seac-25-b2-v4wan-169926-cust596.vm25.cable.virginm.net| 81.103.146.85 |Time View 14/06/2024 05:02:35 |Black List Yes |Use Type: Residential|
+socks://51.83.116.5:12154#🇬🇧 England|Manchester|M28|ward-15-b2-v4wan-167229-cust180.vm18.cable.virginm.net| 86.8.8.181 |Time View 14/06/2024 05:02:33 |Black List Yes |Use Type: Residential|
+socks://212.83.142.145:31944#🇬🇧 England|Walton on Thames|KT12|cpc93358-hers8-2-0-cust155.6-3.cable.virginm.net| 82.18.58.156 |Time View 14/06/2024 05:02:30 |Black List Yes |Use Type: Residential|
+socks://138.201.21.228:28710#🇬🇧 England|Halifax|HX1|hali-08-b2-v4wan-165876-cust1326.vm3.cable.virginm.net| 82.33.21.47 |Time View 14/06/2024 05:02:21 |Black List Yes |Use Type: Residential|
