@@ -14,3 +14,7 @@ socks://51.83.116.3:18216#🇬🇧 England|Huddersfield|HD1|cpc105942-hudd12-2-0
 socks://51.83.116.5:12154#🇬🇧 England|Manchester|M28|ward-15-b2-v4wan-167229-cust180.vm18.cable.virginm.net| 86.8.8.181 |Time View 14/06/2024 05:02:33 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.142.145:31944#🇬🇧 England|Walton on Thames|KT12|cpc93358-hers8-2-0-cust155.6-3.cable.virginm.net| 82.18.58.156 |Time View 14/06/2024 05:02:30 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://138.201.21.228:28710#🇬🇧 England|Halifax|HX1|hali-08-b2-v4wan-165876-cust1326.vm3.cable.virginm.net| 82.33.21.47 |Time View 14/06/2024 05:02:21 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.3:30487#🇳🇱 Utrecht|Wijk bij Duurstede|3962|Solidfiber Networks| 185.210.129.21 |Time View 14/06/2024 19:03:28 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.131:39817#🇳🇱 Limburg|Echt|6101|84-105-215-45.cable.dynamic.v4.ziggo.nl| 84.105.215.45 |Time View 14/06/2024 19:03:24 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.138.192:29805#🇳🇱 North Brabant|Grave|5361|92-110-64-250.cable.dynamic.v4.ziggo.nl| 92.110.64.250 |Time View 14/06/2024 19:03:21 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.5:25349#🇳🇱 Gelderland|Harderwijk|3844|232-253-224-141.dynamic.caiway.nl| 141.224.253.232 |Time View 14/06/2024 19:03:16 |Black List No |Use Type: Residential|https://dichvusocks.net
