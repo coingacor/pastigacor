@@ -14,3 +14,9 @@ socks://51.83.116.5:56744#🇬🇧 England|Barnet|NW11|host109-152-73-205.range1
 socks://138.201.21.227:25873#🇬🇧 England|Barnet|NW11|host-89-241-167-48.as13285.net| 89.241.167.48 |Time View 16/06/2024 04:05:34 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://174.138.176.74:12208#🇬🇧 England|High Wycombe|HP11|static-84-9-133-147.vodafonexdsl.co.uk| 84.9.133.147 |Time View 16/06/2024 04:05:14 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://212.83.142.100:34544#🇬🇧 England|Liverpool|L36|bm0.mytht-dhcp.isp.sky.com| 90.220.141.126 |Time View 16/06/2024 04:05:12 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://162.0.220.217:47956#🇺🇸 New Jersey|Paterson|07503|static-100-35-213-203.nwrknj.fios.verizon.net| 100.35.213.203 |Time View 16/06/2024 04:23:11 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://209.159.153.19:53684#🇺🇸 New York|Malverne|11565|ool-ad03e6f9.dyn.optonline.net| 173.3.230.249 |Time View 16/06/2024 04:22:39 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.246:53184#🇺🇸 New York|New Hyde Park|11040|ool-457c3544.dyn.optonline.net| 69.124.53.68 |Time View 16/06/2024 04:22:15 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://66.23.233.210:21381#🇺🇸 New Jersey|Manalapan|07726|ool-18be4758.dyn.optonline.net| 24.190.71.88 |Time View 16/06/2024 04:22:12 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.47:55382#🇺🇸 Michigan|Rochester Hills|48307|d27-96-37-18.nap.wideopenwest.com| 96.27.18.37 |Time View 16/06/2024 04:21:32 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://66.29.128.245:61142#🇺🇸 Michigan|Macomb|48044|c-98-209-39-140.hsd1.mi.comcast.net| 98.209.39.140 |Time View 16/06/2024 04:21:26 |Black List Yes |Use Type: Residential|https://dichvusocks.net
