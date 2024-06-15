@@ -20,3 +20,7 @@ socks://51.68.244.19:49785#🇺🇸 New Jersey|Columbus|08022|c-69-141-38-25.hsd
 socks://67.213.212.47:62376#🇺🇸 New York|Brooklyn|11210|pool-71-190-244-182.nycmny.fios.verizon.net| 71.190.244.182 |Time View 15/06/2024 05:52:16 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://170.205.37.196:44490#🇺🇸 California|Santa Barbara|93120|wsip-174-78-247-221.sd.sd.cox.net| 174.78.247.221 |Time View 15/06/2024 05:52:01 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://67.213.212.55:31747#🇺🇸 Texas|Houston|77057|c-73-115-58-73.hsd1.tx.comcast.net| 73.115.58.73 |Time View 15/06/2024 05:51:47 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.51:10470#🇺🇸 Georgia|Jesup|31545|c-73-182-36-143.hsd1.ga.comcast.net| 73.182.36.143 |Time View 15/06/2024 14:35:13 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://162.19.7.58:26490#🇺🇸 Georgia|Covington|30016|c-73-237-135-43.hsd1.ga.comcast.net| 73.237.135.43 |Time View 15/06/2024 14:35:07 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://162.19.7.49:52338#🇺🇸 Georgia|Hephzibah|30815|c-73-108-143-172.hsd1.ga.comcast.net| 73.108.143.172 |Time View 15/06/2024 14:35:03 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.243:56468#🇺🇸 Georgia|Savannah|31406|c-69-136-39-7.hsd1.ga.comcast.net| 69.136.39.7 |Time View 15/06/2024 14:34:37 |Black List Yes |Use Type: Residential|https://dichvusocks.net
