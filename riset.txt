@@ -20,3 +20,5 @@ socks://66.29.128.246:53184#🇺🇸 New York|New Hyde Park|11040|ool-457c3544.d
 socks://66.23.233.210:21381#🇺🇸 New Jersey|Manalapan|07726|ool-18be4758.dyn.optonline.net| 24.190.71.88 |Time View 16/06/2024 04:22:12 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://67.213.212.47:55382#🇺🇸 Michigan|Rochester Hills|48307|d27-96-37-18.nap.wideopenwest.com| 96.27.18.37 |Time View 16/06/2024 04:21:32 |Black List No |Use Type: Business|https://dichvusocks.net
 socks://66.29.128.245:61142#🇺🇸 Michigan|Macomb|48044|c-98-209-39-140.hsd1.mi.comcast.net| 98.209.39.140 |Time View 16/06/2024 04:21:26 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.138.192:53787#🇨🇭 Bern|Bern|3006|99.95.63.188.dynamic.cust.swisscom.net| 188.63.95.99 |Time View 16/06/2024 14:13:54 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.60:33469#🇨🇭 Zurich|Zurich|8032|124.109.5.85.dynamic.cust.swisscom.net| 85.5.109.124 |Time View 16/06/2024 14:13:50 |Black List Yes |Use Type: Business|https://dichvusocks.net
