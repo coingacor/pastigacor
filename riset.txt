@@ -21,3 +21,8 @@ socks://212.83.142.149:32046#🇨🇭 Lucerne|Lucerne|6015|134.98.7.85.dynamic.c
 socks://212.83.143.147:49518#🇨🇭 Zurich|Zurich|8005|19.32.61.188.dynamic.cust.swisscom.net| 188.61.32.19 |Time View 18/06/2024 13:55:50 |Black List Yes |Use Type: Business|
 socks://212.83.143.60:25614#🇨🇭 Saint Gallen|Goldach|9403|6.194.1.85.dynamic.cust.swisscom.net| 85.1.194.6 |Time View 18/06/2024 13:55:37 |Black List Yes |Use Type: Business|
 socks://51.83.116.6:48619#🇨🇭 Saint Gallen|Gossau|9200|4.185.76.83.dynamic.cust.swisscom.net| 83.76.185.4 |Time View 18/06/2024 13:55:35 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:21361#🇬🇧 England|Wigan|WN1|host86-138-209-48.range86-138.btcentralplus.com| 86.138.209.48 |Time View 18/06/2024 15:55:43 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://138.201.21.238:27529#🇬🇧 England|Liverpool|L32|host86-131-176-255.range86-131.btcentralplus.com| 86.131.176.255 |Time View 18/06/2024 15:55:40 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.118:37743#🇬🇧 England|Cheltenham|GL50|host86-136-8-117.range86-136.btcentralplus.com| 86.136.8.117 |Time View 18/06/2024 15:55:35 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://51.83.116.5:12512#🇬🇧 England|Barnet|NW11|host109-152-73-205.range109-152.btcentralplus.com| 109.152.73.205 |Time View 18/06/2024 15:55:32 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://138.201.21.218:43271#🇬🇧 England|Bolton|BL1|host86-159-248-13.range86-159.btcentralplus.com| 86.159.248.13 |Time View 18/06/2024 15:55:29 |Black List Yes |Use Type: Business|https://dichvusocks.net
