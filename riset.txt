@@ -1,8 +1,8 @@
-socks://212.83.143.60:52714|Switzerland|Saint Gallen|Goldach|9403|6.194.1.85.dynamic.cust.swisscom.net| 85.1.194.6 |Time View 19/06/2024 05:55:11 |Black List Yes |Use Type: Business|
-socks://212.83.142.131:28836|Switzerland|Zurich|Rüti|8630|77-58-52-56.dclient.hispeed.ch| 77.58.52.56 |Time View 19/06/2024 05:55:06 |Black List Yes |Use Type: Residential|
-socks://212.83.138.192:43832|Switzerland|Thurgau|Egnach|9322|49.95.76.83.dynamic.cust.swisscom.net| 83.76.95.49 |Time View 19/06/2024 05:54:54 |Black List Yes |Use Type: Business|
-socks://138.201.21.227:26494|Switzerland|Geneva|Geneva|1206|mob-194-230-146-29.cgn.sunrise.net| 194.230.146.29 |Time View 19/06/2024 05:54:51 |Black List Yes |Use Type: Cellular|
-socks://195.154.43.86:48287|Switzerland|Aargau|Niederrohrdorf|5443|46-126-244-113.dynamic.hispeed.ch| 46.126.244.113 |Time View 19/06/2024 05:54:48 |Black List Yes |Use Type: Residential|
+socks://212.83.143.60:52714#🇨🇭 Saint Gallen|Goldach|9403|6.194.1.85.dynamic.cust.swisscom.net| 85.1.194.6 |Time View 19/06/2024 05:55:11 |Black List Yes |Use Type: Business|
+socks://212.83.142.131:28836#🇨🇭 Zurich|Rüti|8630|77-58-52-56.dclient.hispeed.ch| 77.58.52.56 |Time View 19/06/2024 05:55:06 |Black List Yes |Use Type: Residential|
+socks://212.83.138.192:43832#🇨🇭 Thurgau|Egnach|9322|49.95.76.83.dynamic.cust.swisscom.net| 83.76.95.49 |Time View 19/06/2024 05:54:54 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:26494#🇨🇭 Geneva|Geneva|1206|mob-194-230-146-29.cgn.sunrise.net| 194.230.146.29 |Time View 19/06/2024 05:54:51 |Black List Yes |Use Type: Cellular|
+socks://195.154.43.86:48287#🇨🇭 Aargau|Niederrohrdorf|5443|46-126-244-113.dynamic.hispeed.ch| 46.126.244.113 |Time View 19/06/2024 05:54:48 |Black List Yes |Use Type: Residential|
 socks://51.254.149.59:47802#🇬🇧 England|Eastleigh|SO50|97e39f6d.skybroadband.com| 151.227.159.109 |Time View 19/06/2024 05:54:33 |Black List Yes |Use Type: Residential|
 socks://195.154.43.86:36656#🇬🇧 England|Lewisham|SE23|bcde737d.skybroadband.com| 188.222.115.125 |Time View 19/06/2024 05:54:30 |Black List Yes |Use Type: Residential|
 socks://108.181.133.59:11142#🇬🇧 England|Victoria|SW1|host-92-27-169-90.static.as13285.net| 92.27.169.90 |Time View 19/06/2024 05:54:23 |Black List No |Use Type: Residential|
