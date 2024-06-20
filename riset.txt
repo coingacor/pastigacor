@@ -28,3 +28,7 @@ socks://212.83.143.118:50893#🇬🇧 England|Cheltenham|GL50|host86-136-8-117.r
 socks://212.83.142.149:49950#🇬🇧 England|Loughborough|LE11|host86-163-252-175.range86-163.btcentralplus.com| 86.163.252.175 |Time View 20/06/2024 20:14:31 |Black List Yes |Use Type: Business|
 socks://212.83.142.158:16213#🇬🇧 England|Tavistock|PL19|host86-188-27-60.range86-188.btcentralplus.com| 86.188.27.60 |Time View 20/06/2024 20:14:23 |Black List Yes |Use Type: Business|
 socks://51.83.116.7:46540#🇬🇧 England|Bradford|BD7|host-89-242-165-240.as13285.net| 89.242.165.240 |Time View 20/06/2024 05:44:13 |Black List Yes |Use Type: Residential|
+socks://212.83.142.100:29911#🇨🇭 Bern|Bern|3006|42.243.106.92.dynamic.cust.swisscom.net| 92.106.243.42 |Time View 21/06/2024 05:38:44 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.147:57870#🇨🇭 Zurich|Zurich|8005|19.32.61.188.dynamic.cust.swisscom.net| 188.61.32.19 |Time View 21/06/2024 05:38:42 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.118:59772#🇨🇭 Zurich|Männedorf|8708|105.55.174.178.static.wline.lns.sme.cust.swisscom.ch| 178.174.55.105 |Time View 21/06/2024 05:38:39 |Black List No |Use Type: Hosting|https://dichvusocks.net
+socks://212.83.142.131:34074#🇨🇭 Vaud|Lausanne|1007|182.147.198.178.dynamic.cust.swisscom.net| 178.198.147.182 |Time View 21/06/2024 05:38:37 |Black List Yes |Use Type: Business|https://dichvusocks.net
