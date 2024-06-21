@@ -32,3 +32,6 @@ socks://212.83.142.100:29911#🇨🇭 Bern|Bern|3006|42.243.106.92.dynamic.cust.
 socks://212.83.143.147:57870#🇨🇭 Zurich|Zurich|8005|19.32.61.188.dynamic.cust.swisscom.net| 188.61.32.19 |Time View 21/06/2024 05:38:42 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://212.83.143.118:59772#🇨🇭 Zurich|Männedorf|8708|105.55.174.178.static.wline.lns.sme.cust.swisscom.ch| 178.174.55.105 |Time View 21/06/2024 05:38:39 |Black List No |Use Type: Hosting|https://dichvusocks.net
 socks://212.83.142.131:34074#🇨🇭 Vaud|Lausanne|1007|182.147.198.178.dynamic.cust.swisscom.net| 178.198.147.182 |Time View 21/06/2024 05:38:37 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.49:62015#🇬🇧 Vodafone 
+socks://138.201.21.227:53188#🇬🇧 GTL
+socks://67.213.210.115:35608#🇬🇧 vodavonexdsl
