@@ -29,3 +29,8 @@ socks://138.201.21.218:48916#🇬🇧 England|Middlesbrough|TS4|host-78-150-176-
 socks://212.83.143.103:53281#🇬🇧 England|Hull|HU5|94-72-244-243.static.kc.net.uk| 94.72.244.243 |Time View 22/06/2024 22:18:59 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://138.201.21.238:17876#🇬🇧 England|Bradford|BD4|host-89-243-219-76.as13285.net| 89.243.219.76 |Time View 22/06/2024 22:18:49 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://138.201.21.218:43146#🇬🇧 England|Birmingham|B32|smal-20-b2-v4wan-169738-cust2317.vm20.cable.virginm.net| 92.238.137.14 |Time View 22/06/2024 22:18:45 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://37.221.193.221:35865#🇺🇸 Virginia|Berryville|22611|141-193-231-133.public.wave2net| 141.193.231.133 |Time View 23/06/2024 01:49:50 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://37.221.193.221:25199#🇺🇸 Alabama|Gulf Shores|36542|Uniti Fiber Holdings Inc.| 170.249.139.106 |Time View 23/06/2024 01:49:47 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://162.0.220.214:35609#🇺🇸 Michigan|Romeo|48065|c-73-144-43-184.hsd1.mi.comcast.net| 73.144.43.184 |Time View 23/06/2024 01:49:26 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.242:58885#🇺🇸 Maryland|Lexington Park|20653|d-24-245-96-61.md.cpe.atlanticbb.net| 24.245.96.61 |Time View 23/06/2024 01:49:10 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.246:36052#🇺🇸 Florida|Kissimmee|34743|c-76-134-134-85.hsd1.fl.comcast.net| 76.134.134.85 |Time View 23/06/2024 01:49:05 |Black List Yes |Use Type: Residential|https://dichvusocks.net
