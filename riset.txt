@@ -34,3 +34,6 @@ socks://37.221.193.221:25199#🇺🇸 Alabama|Gulf Shores|36542|Uniti Fiber Hold
 socks://162.0.220.214:35609#🇺🇸 Michigan|Romeo|48065|c-73-144-43-184.hsd1.mi.comcast.net| 73.144.43.184 |Time View 23/06/2024 01:49:26 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://66.29.128.242:58885#🇺🇸 Maryland|Lexington Park|20653|d-24-245-96-61.md.cpe.atlanticbb.net| 24.245.96.61 |Time View 23/06/2024 01:49:10 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://66.29.128.246:36052#🇺🇸 Florida|Kissimmee|34743|c-76-134-134-85.hsd1.fl.comcast.net| 76.134.134.85 |Time View 23/06/2024 01:49:05 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.3:15191#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 23/06/2024 13:28:15 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.210.168:62648#🇨🇭 Saint Gallen|Au|9434|80-219-136-203.dclient.hispeed.ch| 80.219.136.203 |Time View 23/06/2024 13:28:11 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.6:37543#🇨🇭 Saint Gallen|Gossau|9200|4.185.76.83.dynamic.cust.swisscom.net| 83.76.185.4 |Time View 23/06/2024 13:28:08 |Black List Yes |Use Type: Business|https://dichvusocks.net
