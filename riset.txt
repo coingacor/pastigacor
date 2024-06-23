@@ -10,6 +10,6 @@ socks://51.83.116.2:34398#🇬🇧 England|Otley|LS21|host86-166-143-86.range86-
 socks://138.201.21.232:38705#🇬🇧 England|Harrow|HA2|188.30.180.192.threembb.co.uk| 188.30.180.192 |Time View 23/06/2024 15:22:10 |Black List Yes |Use Type: Residential|
 socks://138.201.21.228:63030#🇬🇧 England|Blyth|NE24|188.31.145.156.threembb.co.uk| 188.31.145.156 |Time View 23/06/2024 15:22:04 |Black List Yes |Use Type: Residential|
 socks://138.201.21.218:43883#🇬🇧 England|Newcastle upon Tyne|NE98|188.31.159.167.threembb.co.uk| 188.31.159.167 |Time View 23/06/2024 15:21:42 |Black List Yes |Use Type: Residential|
-socks://51.83.116.3:15191|Switzerland|Geneva|Geneva|1203|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 23/06/2024 13:28:15 |Black List Yes |Use Type: Business|
-socks://67.213.210.168:62648|Switzerland|Saint Gallen|Au|9434|80-219-136-203.dclient.hispeed.ch| 80.219.136.203 |Time View 23/06/2024 13:28:11 |Black List Yes |Use Type: Residential|
-socks://51.83.116.6:37543|Switzerland|Saint Gallen|Gossau|9200|4.185.76.83.dynamic.cust.swisscom.net| 83.76.185.4 |Time View 23/06/2024 13:28:08 |Black List Yes |Use Type: Business|
+socks://51.83.116.3:15191#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 23/06/2024 13:28:15 |Black List Yes |Use Type: Business|
+socks://67.213.210.168:62648#🇨🇭 Saint Gallen|Au|9434|80-219-136-203.dclient.hispeed.ch| 80.219.136.203 |Time View 23/06/2024 13:28:11 |Black List Yes |Use Type: Residential|
+socks://51.83.116.6:37543#🇨🇭 Saint Gallen|Gossau|9200|4.185.76.83.dynamic.cust.swisscom.net| 83.76.185.4 |Time View 23/06/2024 13:28:08 |Black List Yes |Use Type: Business|
