@@ -13,3 +13,8 @@ socks://138.201.21.218:43883#🇬🇧 England|Newcastle upon Tyne|NE98|188.31.15
 socks://51.83.116.3:15191#🇨🇭 Geneva|Geneva|1203|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 23/06/2024 13:28:15 |Black List Yes |Use Type: Business|
 socks://67.213.210.168:62648#🇨🇭 Saint Gallen|Au|9434|80-219-136-203.dclient.hispeed.ch| 80.219.136.203 |Time View 23/06/2024 13:28:11 |Black List Yes |Use Type: Residential|
 socks://51.83.116.6:37543#🇨🇭 Saint Gallen|Gossau|9200|4.185.76.83.dynamic.cust.swisscom.net| 83.76.185.4 |Time View 23/06/2024 13:28:08 |Black List Yes |Use Type: Business|
+socks://212.83.137.150:62206#🇺🇸 Texas|Richardson|75081|li1151-113.members.linode.com| 45.79.52.113 |Time View 23/06/2024 15:50:53 |Black List No |Use Type: Hosting|
+socks://162.0.220.215:53934#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 64.179.193.11 |Time View 23/06/2024 15:50:43 |Black List No |Use Type: Business|
+socks://162.210.192.171:22406#🇺🇸 Unknown|Unknown|Unknown|box2176.bluehost.com| 50.87.253.95 |Time View 23/06/2024 15:50:36 |Black List No |Use Type: Hosting|
+socks://67.213.212.53:35427#🇺🇸 Florida|Ocala|34471|Ocala Fiber Network| 216.255.244.179 |Time View 23/06/2024 15:49:57 |Black List No |Use Type: Residential|
+socks://162.210.197.69:42790#🇺🇸 Unknown|Unknown|Unknown|sea-shared-17.hostwindsdns.com| 104.168.153.166 |Time View 23/06/2024 15:49:44 |Black List No |Use Type: Hosting|
