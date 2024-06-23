@@ -6,3 +6,4 @@ socks://138.201.21.218:14102#🇬🇧 England|Ashford|TW15|cust32-dsl47.idnet.ne
 socks://138.201.21.218:54955#🇬🇧 England|Newham|E13|TalkTalk| 79.79.138.180 |Time View 24/06/2024 01:19:38 |Black List Yes |Use Type: Residential|
 socks://138.201.21.218:42008#🇬🇧 England|Weybridge|KT13|default-46-33-142-177.interdsl.co.uk| 46.33.142.177 |Time View 24/06/2024 01:19:27 |Black List Yes |Use Type: Residential|
 socks://212.83.143.103:38587#🇬🇧 England|Warrington|WA3|Sky UK Limited| 90.212.92.6 |Time View 24/06/2024 01:19:21 |Black List Yes |Use Type: Residential|
+socks://212.83.143.147:33575#🇸🇪 Norrbotten County|Boden|961 50|c80-216-199-80.bredband.tele2.se| 80.216.199.80 |Time View 24/06/2024 01:28:51 |Black List No |Use Type: Residential|https://dichvusocks.net
