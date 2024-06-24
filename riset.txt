@@ -5,5 +5,5 @@ socks://51.83.116.5:15684#🇬🇧 England|Doncaster|DN9|Quickline Communication
 socks://195.154.43.86:50544#🇬🇧 England|Huddersfield|HD1|cpc106052-hudd13-2-0-cust341.4-1.cable.virginm.net| 86.20.241.86 |Time View 24/06/2024 17:31:37 |Black List Yes |Use Type: Residential|
 socks://212.83.142.131:48808#🇬🇧 England|Shoreham-by-Sea|BN43|23.103.7.51.dyn.plus.net| 51.7.103.23 |Time View 24/06/2024 17:31:30 |Black List Yes |Use Type: Business|
 socks://138.201.21.232:37542#🇬🇧 England|Southwark|SE1|host-92-27-111-17.static.as13285.net| 92.27.111.17 |Time View 24/06/2024 17:31:24 |Black List No |Use Type: Residential|
-socks://212.83.142.149:31940|Switzerland|Lucerne|Lucerne|6015|134.98.7.85.dynamic.cust.swisscom.net| 85.7.98.134 |Time View 24/06/2024 17:31:10 |Black List Yes |Use Type: Business|
-socks://212.83.142.149:60213|Switzerland|Vaud|Lausanne|1005|88.25.198.178.dynamic.cust.swisscom.net| 178.198.25.88 |Time View 24/06/2024 17:31:06 |Black List Yes |Use Type: Business|
+socks://212.83.142.149:31940#🇨🇭 Lucerne|Lucerne|6015|134.98.7.85.dynamic.cust.swisscom.net| 85.7.98.134 |Time View 24/06/2024 17:31:10 |Black List Yes |Use Type: Business|
+socks://212.83.142.149:60213#🇨🇭 Vaud|Lausanne|1005|88.25.198.178.dynamic.cust.swisscom.net| 178.198.25.88 |Time View 24/06/2024 17:31:06 |Black List Yes |Use Type: Business|
