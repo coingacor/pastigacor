@@ -6,3 +6,6 @@ socks://51.83.116.2:16448#🇬🇧 England|Leicester|LE3|cpc82040-leic19-2-0-cus
 socks://51.83.116.5:29322#🇬🇧 England|Wolverhampton|WV3|host86-150-201-21.range86-150.btcentralplus.com| 86.150.201.21 |Time View 24/06/2024 11:16:35 |Black List Yes |Use Type: Business|
 socks://51.83.116.6:25924#🇬🇧 England|Oswestry|SY11|host81-156-250-251.range81-156.btcentralplus.com| 81.156.250.251 |Time View 24/06/2024 11:16:23 |Black List Yes |Use Type: Business|
 socks://212.83.142.131:10397#🇬🇧 England|Doncaster|DN7|host86-135-249-74.range86-135.btcentralplus.com| 86.135.249.74 |Time View 24/06/2024 11:16:21 |Black List Yes |Use Type: Business|
+socks://212.83.143.97:24084#🇨🇭 Zurich|Schlieren|8952|adsl-84-226-16-70.adslplus.ch| 84.226.16.70 |Time View 24/06/2024 11:25:55 |Black List Yes |Use Type: Residential|
+socks://212.83.142.149:14320#🇨🇭 Lucerne|Lucerne|6015|134.98.7.85.dynamic.cust.swisscom.net| 85.7.98.134 |Time View 24/06/2024 11:25:51 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:11436#🇨🇭 Zurich|Zurich|8005|19.32.61.188.dynamic.cust.swisscom.net| 188.61.32.19 |Time View 24/06/2024 11:25:48 |Black List Yes |Use Type: Business|
