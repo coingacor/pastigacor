@@ -8,3 +8,4 @@ socks://138.201.21.228:10305#🇬🇧 England|Lambeth|SW16|static-84-9-212-222.v
 socks://138.201.21.233:19563#🇬🇧 England|Islington|N7|static-193-237-73-232.vodafonexdsl.co.uk| 193.237.73.232 |Time View 26/06/2024 00:23:38 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://138.201.21.233:24318#🇬🇧 England|Kensington|W8|static-193-237-84-213.vodafonexdsl.co.uk| 193.237.84.213 |Time View 26/06/2024 00:23:26 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://138.201.21.238:47868#🇬🇧 England|Derby|DE65|static-84-9-208-111.vodafonexdsl.co.uk| 84.9.208.111 |Time View 26/06/2024 00:23:14 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.131:37066#🇮🇪 Leinster|Dublin|D12|Virgin Media Ireland| 176.61.71.187 |Time View 26/06/2024 02:42:11 |Black List Yes |Use Type: Business|
