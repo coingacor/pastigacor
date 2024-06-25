@@ -1,20 +1,13 @@
-socks://212.83.138.172:21374#🇨🇭 Zurich|Dübendorf|8600|136.73.107.92.dynamic.cust.swisscom.net| 92.107.73.136 |Time View 25/06/2024 07:16:41 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.143.147:52969#🇨🇭 Zurich|Zurich|8005|19.32.61.188.dynamic.cust.swisscom.net| 188.61.32.19 |Time View 25/06/2024 07:16:24 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://138.201.21.232:10681#🇨🇭 Geneva|Geneva|1207|mob-194-230-146-91.cgn.sunrise.net| 194.230.146.91 |Time View 25/06/2024 07:16:18 |Black List Yes |Use Type: Cellular|https://dichvusocks.net
-socks://51.83.116.2:58019#🇨🇭 Saint Gallen|Gossau|9200|133.137.2.85.dynamic.cust.swisscom.net| 85.2.137.133 |Time View 25/06/2024 07:16:04 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://138.201.21.238:62031#🇬🇧 England|Bristol|BS6|94.196.104.14.threembb.co.uk| 94.196.104.14 |Time View 25/06/2024 07:15:45 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.233:53725#🇬🇧 England|Croydon|SE19|default-46-33-144-236.interdsl.co.uk| 46.33.144.236 |Time View 25/06/2024 07:15:40 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://51.83.116.2:65286#🇬🇧 England|Otley|LS21|host86-166-143-86.range86-166.btcentralplus.com| 86.166.143.86 |Time View 25/06/2024 07:15:34 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://108.181.133.58:57643#🇬🇧 England|Sittingbourne|ME10|static-84-9-216-219.vodafonexdsl.co.uk| 84.9.216.219 |Time View 25/06/2024 07:15:31 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.238:23958#🇬🇧 England|City of Westminster|SW1X|host-89-242-8-199.static.as13285.net| 89.242.8.199 |Time View 25/06/2024 07:15:29 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://51.83.116.5:44440#🇬🇧 England|Fulham|W12|brnt-02-b2-v4wan-169592-cust610.vm7.cable.virginm.net| 81.99.50.99 |Time View 25/06/2024 07:15:14 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.218:20976#🇬🇧 England|Bournemouth|BH6|cpc115034-bour7-2-0-cust13.15-1.cable.virginm.net| 82.11.192.14 |Time View 25/06/2024 07:15:11 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://212.83.142.149:10306#🇬🇧 England|Portsmouth|PO1|cpc157837-cosh19-2-0-cust721.6-1.cable.virginm.net| 86.26.142.210 |Time View 25/06/2024 07:15:08 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.227:27883#🇬🇧 England|High Wycombe|HP11|static-84-9-133-147.vodafonexdsl.co.uk| 84.9.133.147 |Time View 25/06/2024 07:15:05 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.232:26406#🇬🇧 England|Stockport|SK6|host-89-240-4-248.static.as13285.net| 89.240.4.248 |Time View 25/06/2024 07:15:01 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://212.83.142.145:37569#🇬🇧 England|Southport|PR9|cpc161187-sprt3-2-0-cust86.17-2.cable.virginm.net| 82.13.172.87 |Time View 25/06/2024 07:14:44 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.228:49268#🇬🇧 England|Wimblington|PE15|static-83-146-20-72.vodafonexdsl.co.uk| 83.146.20.72 |Time View 25/06/2024 07:14:42 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.232:49371#🇬🇧 England|Coventry|CV4|British Telecommunications PLC| 147.148.228.121 |Time View 25/06/2024 07:14:39 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://162.0.220.218:62512#🇬🇧 England|Chiswick|W4|host-89-242-5-162.static.as13285.net| 89.242.5.162 |Time View 25/06/2024 07:14:32 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.233:49147#🇬🇧 England|Chorley|PR7|host-92-18-110-114.as13285.net| 92.18.110.114 |Time View 25/06/2024 07:14:27 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.238:19925#🇬🇧 England|Brent|NW2|Energis UK| 81.78.135.196 |Time View 25/06/2024 07:14:19 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.149:64849#🇨🇭 Lucerne|Lucerne|6015|134.98.7.85.dynamic.cust.swisscom.net| 85.7.98.134 |Time View 26/06/2024 00:24:20 |Black List Yes |Use Type: Business|
+socks://212.83.143.118:47542#🇨🇭 Zurich|Männedorf|8708|105.55.174.178.static.wline.lns.sme.cust.swisscom.ch| 178.174.55.105 |Time View 26/06/2024 00:24:17 |Black List No |Use Type: Hosting|
+socks://51.83.116.2:56063#🇨🇭 Saint Gallen|Gossau|9200|133.137.2.85.dynamic.cust.swisscom.net| 85.2.137.133 |Time View 26/06/2024 00:24:11 |Black List Yes |Use Type: Business|
+socks://138.201.21.232:46593#🇬🇧 England|Enfield|EN2|static-193-237-86-90.vodafonexdsl.co.uk| 193.237.86.90 |Time View 26/06/2024 00:23:57 |Black List No |Use Type: Business|
+socks://138.201.21.228:15060#🇬🇧 England|Selby|YO8|static-87-74-40-130.vodafonexdsl.co.uk| 87.74.40.130 |Time View 26/06/2024 00:23:53 |Black List Yes |Use Type: Residential|
+socks://212.83.143.49:55130#🇬🇧 England|Derby|DE22|static-193-237-129-199.vodafonexdsl.co.uk| 193.237.129.199 |Time View 26/06/2024 00:23:44 |Black List No |Use Type: Residential|
+socks://138.201.21.228:10305#🇬🇧 England|Lambeth|SW16|static-84-9-212-222.vodafonexdsl.co.uk| 84.9.212.222 |Time View 26/06/2024 00:23:41 |Black List No |Use Type: Residential|
+socks://138.201.21.233:19563#🇬🇧 England|Islington|N7|static-193-237-73-232.vodafonexdsl.co.uk| 193.237.73.232 |Time View 26/06/2024 00:23:38 |Black List No |Use Type: Residential|
+socks://138.201.21.227:33838#🇬🇧 England|Ware|SG12|static-84-9-44-139.vodafonexdsl.co.uk| 84.9.44.139 |Time View 26/06/2024 00:23:36 |Black List No |Use Type: Residential|
+socks://138.201.21.232:63280#🇬🇧 England|London|EC1N|static-87-75-103-90.vodafonexdsl.co.uk| 87.75.103.90 |Time View 26/06/2024 00:23:33 |Black List No |Use Type: Residential|
+socks://138.201.21.238:43184#🇬🇧 England|Warwick|CV34|static-84-9-99-222.vodafonexdsl.co.uk| 84.9.99.222 |Time View 26/06/2024 00:23:29 |Black List No |Use Type: Residential|
+socks://138.201.21.233:24318#🇬🇧 England|Kensington|W8|static-193-237-84-213.vodafonexdsl.co.uk| 193.237.84.213 |Time View 26/06/2024 00:23:26 |Black List Yes |Use Type: Residential|
+socks://138.201.21.238:47868#🇬🇧 England|Derby|DE65|static-84-9-208-111.vodafonexdsl.co.uk| 84.9.208.111 |Time View 26/06/2024 00:23:14 |Black List No |Use Type: Residential|
