@@ -1,7 +1,7 @@
 socks://138.201.21.228:55500#🇬🇧 England|Kensington|SW3|static-193-237-88-93.vodafonexdsl.co.uk| 193.237.88.93 |Time View 26/06/2024 14:48:13 |Black List No |Use Type: Residential|
 socks://51.83.116.6:12391#🇬🇧 England|Bolton|BL3|bolt-19-b2-v4wan-169906-cust225.vm18.cable.virginm.net| 81.103.80.226 |Time View 26/06/2024 14:48:10 |Black List Yes |Use Type: Residential|
 socks://138.201.21.233:38302#🇬🇧 England|Barnet|N11|static-84-9-47-208.vodafonexdsl.co.uk| 84.9.47.208 |Time View 26/06/2024 14:48:06 |Black List No |Use Type: Residential|
-socks://212.83.142.149:49783|Switzerland|Lucerne|Lucerne|6015|134.98.7.85.dynamic.cust.swisscom.net| 85.7.98.134 |Time View 26/06/2024 09:00:22 |Black List Yes |Use Type: Business|
-socks://212.83.142.131:37066|Ireland|Leinster|Dublin|D12|Virgin Media Ireland| 176.61.71.187 |Time View 26/06/2024 02:42:11 |Black List Yes |Use Type: Business|
+socks://212.83.142.149:49783#🇨🇭 Lucerne|Lucerne|6015|134.98.7.85.dynamic.cust.swisscom.net| 85.7.98.134 |Time View 26/06/2024 09:00:22 |Black List Yes |Use Type: Business|
+socks://212.83.142.131:37066#🇮🇪 Leinster|Dublin|D12|Virgin Media Ireland| 176.61.71.187 |Time View 26/06/2024 02:42:11 |Black List Yes |Use Type: Business|
 socks://138.201.21.233:19563#🇬🇧 England|Islington|N7|static-193-237-73-232.vodafonexdsl.co.uk| 193.237.73.232 |Time View 26/06/2024 00:23:38 |Black List No |Use Type: Residential|
 socks://138.201.21.238:47868#🇬🇧 England|Derby|DE65|static-84-9-208-111.vodafonexdsl.co.uk| 84.9.208.111 |Time View 26/06/2024 00:23:14 |Black List No |Use Type: Residential|
