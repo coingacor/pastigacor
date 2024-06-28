@@ -32,3 +32,5 @@ socks://138.201.21.232:18467#🇬🇧 England|Wolverhampton|WV1|TalkTalk| 92.7.1
 socks://212.83.142.145:38681#🇬🇧 England|Derby|DE21|Sky UK Limited| 2.219.78.244 |Time View 27/06/2024 06:12:58 |Black List Yes |Use Type: Residential|
 socks://212.83.143.191:21340#🇮🇪 Leinster|Dublin|D02|ec2-34-245-146-153.eu-west-1.compute.amazonaws.com| 34.245.146.153 |Time View 27/06/2024 06:11:51 |Black List No |Use Type: Hosting|
 socks://174.138.176.77:40211#🇺🇸 Georgia|Rome|30161|c-73-122-168-35.hsd1.ga.comcast.net| 73.122.168.35 |Time View 27/06/2024 06:10:58 |Black List Yes |Use Type: Residential|
+socks://212.83.143.147:36445#🇨🇭 Zurich|Zurich|8005|19.32.61.188.dynamic.cust.swisscom.net| 188.61.32.19 |Time View 28/06/2024 10:32:24 |Black List Yes |Use Type: Business|
+socks://51.83.116.3:59165#🇨🇭 Geneva|Chene-Bougeries|1224|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 28/06/2024 10:32:22 |Black List Yes |Use Type: Business|
