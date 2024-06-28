@@ -1,36 +1,20 @@
-socks://67.213.212.51:51460#🇺🇸 Georgia|Winder|30680|c-98-251-57-157.hsd1.ga.comcast.net| 98.251.57.157 |Time View 27/06/2024 22:39:37 |Black List Yes |Use Type: Residential|
-socks://67.213.212.51:24950#🇺🇸 Georgia|Savannah|31410|c-73-182-43-3.hsd1.ga.comcast.net| 73.182.43.3 |Time View 27/06/2024 22:39:21 |Black List Yes |Use Type: Residential|
-socks://66.29.128.246:33182#🇺🇸 Georgia|Loganville|30052|c-67-191-165-156.hsd1.ga.comcast.net| 67.191.165.156 |Time View 27/06/2024 22:39:08 |Black List Yes |Use Type: Residential|
-socks://209.159.153.22:18298#🇺🇸 Georgia|Riverdale|30274|c-67-191-247-158.hsd1.ga.comcast.net| 67.191.247.158 |Time View 27/06/2024 22:39:07 |Black List Yes |Use Type: Residential|
-socks://66.29.128.243:48048#🇺🇸 Georgia|Savannah|31406|c-69-136-39-7.hsd1.ga.comcast.net| 69.136.39.7 |Time View 27/06/2024 22:38:58 |Black List Yes |Use Type: Residential|
-socks://67.213.212.48:48411#🇺🇸 Georgia|Buford|30519|c-73-137-122-242.hsd1.ga.comcast.net| 73.137.122.242 |Time View 27/06/2024 22:38:55 |Black List Yes |Use Type: Residential|
-socks://212.83.137.150:64416#🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133 |Time View 27/06/2024 22:38:21 |Black List No |Use Type: Business|
-socks://138.201.21.228:62596#🇬🇧 England|Langport|TA10|static-87-75-104-27.vodafonexdsl.co.uk| 87.75.104.27 |Time View 27/06/2024 22:37:58 |Black List No |Use Type: Residential|
-socks://138.201.21.218:38288#🇬🇧 England|Harrow|HA3|static-87-75-75-54.vodafonexdsl.co.uk| 87.75.75.54 |Time View 27/06/2024 22:37:51 |Black List No |Use Type: Residential|
-socks://51.83.116.2:38882#🇬🇧 England|Camden|NW3|217-155-60-142.dsl.in-addr.zen.co.uk| 217.155.60.142 |Time View 27/06/2024 22:37:46 |Black List No |Use Type: Residential|
-socks://138.201.21.238:58211#🇬🇧 England|Ealing|W3|static-87-75-105-64.vodafonexdsl.co.uk| 87.75.105.64 |Time View 27/06/2024 22:37:41 |Black List No |Use Type: Residential|
-socks://138.201.21.227:18085#🇬🇧 England|Islington|N19|static-87-75-117-229.vodafonexdsl.co.uk| 87.75.117.229 |Time View 27/06/2024 22:37:37 |Black List No |Use Type: Residential|
-socks://138.201.21.218:59143#🇬🇧 England|Iver|SL0|British Telecommunications PLC| 31.120.183.34 |Time View 27/06/2024 22:37:34 |Black List No |Use Type: Business|
-socks://212.83.138.172:42285#🇬🇧 England|Basildon|SS16|cpc113712-basl12-2-0-cust379.20-1.cable.virginm.net| 86.21.81.124 |Time View 27/06/2024 22:37:15 |Black List Yes |Use Type: Residential|
-socks://138.201.21.233:43890#🇬🇧 England|Stoke-on-Trent|ST3|static-193-237-128-127.vodafonexdsl.co.uk| 193.237.128.127 |Time View 27/06/2024 22:37:12 |Black List Yes |Use Type: Residential|
-socks://51.83.116.4:64973#🇬🇧 England|Wembley|HA0|Community Fibre Limited| 149.86.36.23 |Time View 27/06/2024 22:36:55 |Black List Yes |Use Type: Residential|
-socks://138.201.21.238:58033#🇬🇧 England|Milton Keynes|MK6|TalkTalk| 79.79.154.29 |Time View 27/06/2024 22:36:50 |Black List Yes |Use Type: Residential|
-socks://212.83.143.60:19211#🇬🇧 England|Church Stretton|SY6|talk-247-182.talkadsl.com| 80.74.247.182 |Time View 27/06/2024 22:36:41 |Black List Yes |Use Type: Residential|
-socks://212.83.138.172:64341#🇬🇧 England|Leeds|LS17|seac-25-b2-v4wan-169926-cust596.vm25.cable.virginm.net| 81.103.146.85 |Time View 27/06/2024 22:36:32 |Black List Yes |Use Type: Residential|
-socks://138.201.21.233:12968#🇬🇧 England|Lancaster|LA1|mcam-02-b2-v4wan-165838-cust2480.vm29.cable.virginm.net| 82.34.9.177 |Time View 27/06/2024 22:36:26 |Black List Yes |Use Type: Residential|
-socks://138.201.21.228:61117#🇬🇧 England|Manchester|M9|static-87-74-148-175.vodafonexdsl.co.uk| 87.74.148.175 |Time View 27/06/2024 22:36:24 |Black List Yes |Use Type: Residential|
-socks://138.201.21.228:17147#🇬🇧 England|Sunderland|SR4|cpc137818-sund14-2-0-cust35.11-1.cable.virginm.net| 82.11.148.36 |Time View 27/06/2024 22:36:20 |Black List Yes |Use Type: Residential|
-socks://138.201.21.233:14274#🇬🇧 England|Tonbridge|TN9|default-46-33-142-105.interdsl.co.uk| 46.33.142.105 |Time View 27/06/2024 22:36:12 |Black List Yes |Use Type: Residential|
-socks://138.201.21.227:61522#🇬🇧 England|Liverpool|L11|host81-147-89-34.range81-147.btcentralplus.com| 81.147.89.34 |Time View 27/06/2024 22:36:09 |Black List Yes |Use Type: Business|
-socks://212.83.138.186:23075#🇬🇧 England|Kidderminster|DY10|97e7c577.skybroadband.com| 151.231.197.119 |Time View 27/06/2024 22:36:05 |Black List Yes |Use Type: Residential|
-socks://138.201.21.232:44415#🇬🇧 England|Slough|SL3|static-83-146-8-203.vodafonexdsl.co.uk| 83.146.8.203 |Time View 27/06/2024 22:36:01 |Black List Yes |Use Type: Residential|
-socks://212.83.143.103:46426#🇬🇧 England|Warrington|WA3|Sky UK Limited| 90.212.92.6 |Time View 27/06/2024 22:35:54 |Black List Yes |Use Type: Residential|
-socks://51.254.149.59:13531#🇬🇧 England|Newcastle upon Tyne|NE6|92.40.47.88.threembb.co.uk| 92.40.47.88 |Time View 27/06/2024 22:35:46 |Black List Yes |Use Type: Cellular|
-socks://138.201.21.218:11965#🇬🇧 England|Southampton|SO31|static-87-75-193-141.vodafonexdsl.co.uk| 87.75.193.141 |Time View 27/06/2024 22:35:33 |Black List Yes |Use Type: Residential|
-socks://138.201.21.228:11913#🇬🇧 England|Ormskirk|L39|default-46-33-138-87.interdsl.co.uk| 46.33.138.87 |Time View 27/06/2024 22:35:30 |Black List Yes |Use Type: Residential|
-socks://138.201.21.232:18467#🇬🇧 England|Wolverhampton|WV1|TalkTalk| 92.7.133.0 |Time View 27/06/2024 22:35:27 |Black List Yes |Use Type: Business|
-socks://212.83.142.145:38681#🇬🇧 England|Derby|DE21|Sky UK Limited| 2.219.78.244 |Time View 27/06/2024 06:12:58 |Black List Yes |Use Type: Residential|
-socks://212.83.143.191:21340#🇮🇪 Leinster|Dublin|D02|ec2-34-245-146-153.eu-west-1.compute.amazonaws.com| 34.245.146.153 |Time View 27/06/2024 06:11:51 |Black List No |Use Type: Hosting|
-socks://174.138.176.77:40211#🇺🇸 Georgia|Rome|30161|c-73-122-168-35.hsd1.ga.comcast.net| 73.122.168.35 |Time View 27/06/2024 06:10:58 |Black List Yes |Use Type: Residential|
-socks://212.83.143.147:36445#🇨🇭 Zurich|Zurich|8005|19.32.61.188.dynamic.cust.swisscom.net| 188.61.32.19 |Time View 28/06/2024 10:32:24 |Black List Yes |Use Type: Business|
-socks://51.83.116.3:59165#🇨🇭 Geneva|Chene-Bougeries|1224|212.33.196.178.dynamic.cust.swisscom.net| 178.196.33.212 |Time View 28/06/2024 10:32:22 |Black List Yes |Use Type: Business|
+socks://212.83.143.97:57654#🇬🇧 England|Leeds|LS12|Sky UK Limited| 90.195.137.195 |Time View 28/06/2024 13:44:22 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://51.83.116.7:31936#🇬🇧 England|Leigh-on-Sea|SS9|Sky UK Limited| 94.12.234.252 |Time View 28/06/2024 13:44:19 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://138.201.21.232:31703#🇬🇧 England|Derby|DE1|static-84-9-36-107.vodafonexdsl.co.uk| 84.9.36.107 |Time View 28/06/2024 13:44:05 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://138.201.21.238:29354#🇬🇧 England|Barnet|NW9|static-84-9-30-229.vodafonexdsl.co.uk| 84.9.30.229 |Time View 28/06/2024 13:43:59 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://138.201.21.228:33025#🇬🇧 England|Langport|TA10|static-87-75-104-27.vodafonexdsl.co.uk| 87.75.104.27 |Time View 28/06/2024 13:43:56 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://138.201.21.233:57847#🇬🇧 England|London|EC1N|static-87-74-68-85.vodafonexdsl.co.uk| 87.74.68.85 |Time View 28/06/2024 13:43:51 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://138.201.21.233:62194#🇬🇧 England|Croydon|CR0|static-87-75-118-38.vodafonexdsl.co.uk| 87.75.118.38 |Time View 28/06/2024 13:43:40 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.36:14219|United States|Georgia|Decatur|30030|c-24-99-165-106.hsd1.ga.comcast.net| 24.99.165.106 |Time View 28/06/2024 13:42:56 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://23.105.170.35:15283|United States|Georgia|Cumming|30040|c-98-62-104-23.hsd1.ga.comcast.net| 98.62.104.23 |Time View 28/06/2024 13:42:32 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://23.105.170.35:14397|United States|Georgia|Atlanta|30341|c-71-56-26-8.hsd1.ga.comcast.net| 71.56.26.8 |Time View 28/06/2024 13:42:29 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.50:10687|United States|Georgia|Marietta|30066|c-24-30-56-240.hsd1.ga.comcast.net| 24.30.56.240 |Time View 28/06/2024 13:42:26 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks5://66.29.128.246:33182/#%F0%9F%87%BA%F0%9F%87%B8%20Georgia%7CLoganville%7C30052%7Cc-67-191-165-156.hsd1.ga.comcast.net%7C%2067.191.165.156%20%7CTime%20View%2027%2F06%2F2024%2022%3A39%3A08%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7C
+socks5://212.83.137.150:64416/#%F0%9F%87%AE%F0%9F%87%AA%20Leinster%7CDublin%7CD02%7Cweb12.webserver.ie%7C%20185.108.130.133%20%7CTime%20View%2027%2F06%2F2024%2022%3A38%3A21%20%7CBlack%20List%20No%20%7CUse%20Type%3A%20Business%7C
+socks5://138.201.21.238:58033/#%F0%9F%87%AC%F0%9F%87%A7%20England%7CMilton%20Keynes%7CMK6%7CTalkTalk%7C%2079.79.154.29%20%7CTime%20View%2027%2F06%2F2024%2022%3A36%3A50%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7C
+socks5://212.83.143.60:19211/#%F0%9F%87%AC%F0%9F%87%A7%20England%7CChurch%20Stretton%7CSY6%7Ctalk-247-182.talkadsl.com%7C%2080.74.247.182%20%7CTime%20View%2027%2F06%2F2024%2022%3A36%3A41%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7C
+socks5://138.201.21.233:12968/#%F0%9F%87%AC%F0%9F%87%A7%20England%7CLancaster%7CLA1%7Cmcam-02-b2-v4wan-165838-cust2480.vm29.cable.virginm.net%7C%2082.34.9.177%20%7CTime%20View%2027%2F06%2F2024%2022%3A36%3A26%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7C
+socks5://138.201.21.233:14274/#%F0%9F%87%AC%F0%9F%87%A7%20England%7CTonbridge%7CTN9%7Cdefault-46-33-142-105.interdsl.co.uk%7C%2046.33.142.105%20%7CTime%20View%2027%2F06%2F2024%2022%3A36%3A12%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7C
+socks5://212.83.138.186:23075/#%F0%9F%87%AC%F0%9F%87%A7%20England%7CKidderminster%7CDY10%7C97e7c577.skybroadband.com%7C%20151.231.197.119%20%7CTime%20View%2027%2F06%2F2024%2022%3A36%3A05%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7C
+socks5://212.83.143.103:46426/#%F0%9F%87%AC%F0%9F%87%A7%20England%7CWarrington%7CWA3%7CSky%20UK%20Limited%7C%2090.212.92.6%20%7CTime%20View%2027%2F06%2F2024%2022%3A35%3A54%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7C
+socks5://212.83.143.147:36445/#%F0%9F%87%A8%F0%9F%87%AD%20Zurich%7CZurich%7C8005%7C19.32.61.188.dynamic.cust.swisscom.net%7C%20188.61.32.19%20%7CTime%20View%2028%2F06%2F2024%2010%3A32%3A24%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Business%7C
