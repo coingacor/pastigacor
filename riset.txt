@@ -19,3 +19,8 @@ socks://138.201.21.228:52565#🇬🇧 England|Covent Garden|WC2H|default-80-209-
 socks://138.201.21.232:23968#🇬🇧 England|St James's|SW1Y|static-193-237-74-41.vodafonexdsl.co.uk| 193.237.74.41 |Time View 30/06/2024 21:10:02 |Black List No |Use Type: Residential|
 socks://67.213.212.55:27397#🇺🇸 Michigan|Mason|48854|d192-24-130-25.try.wideopenwest.com| 24.192.25.130 |Time View 30/06/2024 17:40:48 |Black List Yes |Use Type: Business|
 socks://138.201.21.218:32124#🇬🇧 England|Bolton|BL3|81-170-2-3.dynamic.dsl.as9105.com| 81.170.2.3 |Time View 30/06/2024 17:40:22 |Black List Yes |Use Type: Business|
+socks://209.159.153.21:50237#🇺🇸 New Jersey|Paterson|07513|pool-71-187-209-226.nwrknj.fios.verizon.net| 71.187.209.226 |Time View 01/07/2024 03:37:48 |Black List Yes |Use Type: Residential|
+socks://67.213.212.53:12191#🇺🇸 New Jersey|Mullica Hill|08062|c-69-141-16-159.hsd1.nj.comcast.net| 69.141.16.159 |Time View 01/07/2024 03:37:16 |Black List Yes |Use Type: Residential|
+socks://67.213.212.39:20747#🇺🇸 New Jersey|Elizabeth|07202|ool-435151f3.dyn.optonline.net| 67.81.81.243 |Time View 01/07/2024 03:36:48 |Black List Yes |Use Type: Residential|
+socks://23.105.170.35:29754#🇺🇸 Delaware|Wilmington|19808|static-96-227-229-226.phlapa.fios.verizon.net| 96.227.229.226 |Time View 01/07/2024 03:36:03 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:11458#🇨🇭 Zurich|Zurich|8002|207.203.193.178.dynamic.cust.swisscom.net| 178.193.203.207 |Time View 01/07/2024 03:32:10 |Black List Yes |Use Type: Business|
