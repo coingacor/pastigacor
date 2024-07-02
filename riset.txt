@@ -43,3 +43,7 @@ socks://138.201.21.238:42728#🇬🇧 England|Birmingham|B9|static-84-9-167-246.
 socks://212.83.142.158:63728#🇬🇧 England|Newark on Trent|NG24|host81-141-254-112.range81-141.btcentralplus.com| 81.141.254.112 |Time View 01/07/2024 21:44:40 |Black List Yes |Use Type: Business|
 socks5://212.83.143.103:25496/#%F0%9F%87%AC%F0%9F%87%A7%20England%7CManchester%7CM38%7CSky%20UK%20Limited%7C%2090.212.115.85%20%7CTime%20View%2030%2F06%2F2024%2021%3A10%3A45%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7C
 socks5://212.83.142.158:38332/#%F0%9F%87%AE%F0%9F%87%AA%20Leinster%7CKildare%7CR51%7C86-45-62-95-dynamic.agg2.kle.prp-wtd.eircom.net%7C%2086.45.62.95%20%7CTime%20View%2030%2F06%2F2024%2023%3A21%3A11%20%7CBlack%20List%20Yes%20%7CUse%20Type%3A%20Residential%7C
+socks://212.83.142.100:39790#🇨🇭 Basel-City|Basel|4052|96.217.3.85.dynamic.cust.swisscom.net| 85.3.217.96 |Time View 02/07/2024 16:32:17 |Black List Yes |Use Type: Business|
+socks://212.83.142.100:55835#🇨🇭 Bern|Bern|3006|42.243.106.92.dynamic.cust.swisscom.net| 92.106.243.42 |Time View 02/07/2024 16:32:08 |Black List Yes |Use Type: Business|
+socks://67.213.212.40:18252#🇺🇸 New York|Brooklyn|11226|ool-44c6f4b8.dyn.optonline.net| 68.198.244.184 |Time View 02/07/2024 16:31:18 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:46535#🇺🇸 New Jersey|Jersey City|07306|ool-4b63acb2.static.optonline.net| 75.99.172.178 |Time View 02/07/2024 16:31:10 |Black List Yes |Use Type: Residential|
