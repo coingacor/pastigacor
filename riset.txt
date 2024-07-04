@@ -30,3 +30,6 @@ socks://212.83.142.145:60742#🇬🇧 England|Brent|NW6|Vodafone Limited| 84.71.
 socks://51.83.116.4:41903#🇬🇧 England|Newcastle upon Tyne|NE4|cbs1-sund14-0-0-cust30.know.cable.virginm.net| 86.1.14.223 |Time View 03/07/2024 07:47:19 |Black List Yes |Use Type: Residential|
 socks://51.83.116.5:13953#🇬🇧 England|Birmingham|B26|Sky UK Limited| 90.198.100.13 |Time View 03/07/2024 07:46:47 |Black List Yes |Use Type: Residential|
 socks://212.83.142.158:13296#🇬🇧 England|Leeds|LS26|Sky UK Limited| 94.12.150.86 |Time View 03/07/2024 07:46:34 |Black List Yes |Use Type: Residential|
+socks://212.83.142.100:57567#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 04/07/2024 07:21:17 |Black List Yes |Use Type: Business|
+socks://212.83.142.158:39656#🇮🇪 Leinster|Kildare|R51|86-45-62-95-dynamic.agg2.kle.prp-wtd.eircom.net| 86.45.62.95 |Time View 04/07/2024 07:21:12 |Black List Yes |Use Type: Residential|
+socks://178.62.7.98:42817#🇮🇪 Leinster|Droichead Nua|W12|86-45-53-8-dynamic.agg2.dnu.prp-wtd.eircom.net| 86.45.53.8 |Time View 04/07/2024 07:21:09 |Black List Yes |Use Type: Residential|
