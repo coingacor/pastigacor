@@ -33,3 +33,8 @@ socks://212.83.142.158:13296#🇬🇧 England|Leeds|LS26|Sky UK Limited| 94.12.1
 socks://212.83.142.100:57567#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 04/07/2024 07:21:17 |Black List Yes |Use Type: Business|
 socks://212.83.142.158:39656#🇮🇪 Leinster|Kildare|R51|86-45-62-95-dynamic.agg2.kle.prp-wtd.eircom.net| 86.45.62.95 |Time View 04/07/2024 07:21:12 |Black List Yes |Use Type: Residential|
 socks://178.62.7.98:42817#🇮🇪 Leinster|Droichead Nua|W12|86-45-53-8-dynamic.agg2.dnu.prp-wtd.eircom.net| 86.45.53.8 |Time View 04/07/2024 07:21:09 |Black List Yes |Use Type: Residential|
+socks://212.83.143.60:63236#🇨🇭 Saint Gallen|St. Gallen|9000|6.194.1.85.dynamic.cust.swisscom.net| 85.1.194.6 |Time View 04/07/2024 08:05:30 |Black List Yes |Use Type: Business|
+socks://212.83.143.147:33253#🇨🇭 Zurich|Zurich|8005|19.32.61.188.dynamic.cust.swisscom.net| 188.61.32.19 |Time View 04/07/2024 08:05:05 |Black List Yes |Use Type: Business|
+socks://66.29.128.241:34601#🇺🇸 New Jersey|Elizabeth|07206|ool-18b875e3.dyn.optonline.net| 24.184.117.227 |Time View 04/07/2024 08:04:41 |Black List Yes |Use Type: Residential|
+socks://67.213.212.53:23868#🇺🇸 New Jersey|Paramus|07652|ool-18bdb59b.dyn.optonline.net| 24.189.181.155 |Time View 04/07/2024 08:04:39 |Black List Yes |Use Type: Residential|
+socks://67.213.212.55:48499#🇺🇸 New Jersey|Glassboro|08028|c-73-160-188-14.hsd1.nj.comcast.net| 73.160.188.14 |Time View 04/07/2024 08:04:26 |Black List Yes |Use Type: Residential|
