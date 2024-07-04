@@ -38,3 +38,4 @@ socks://212.83.143.147:33253#🇨🇭 Zurich|Zurich|8005|19.32.61.188.dynamic.cu
 socks://66.29.128.241:34601#🇺🇸 New Jersey|Elizabeth|07206|ool-18b875e3.dyn.optonline.net| 24.184.117.227 |Time View 04/07/2024 08:04:41 |Black List Yes |Use Type: Residential|
 socks://67.213.212.53:23868#🇺🇸 New Jersey|Paramus|07652|ool-18bdb59b.dyn.optonline.net| 24.189.181.155 |Time View 04/07/2024 08:04:39 |Black List Yes |Use Type: Residential|
 socks://67.213.212.55:48499#🇺🇸 New Jersey|Glassboro|08028|c-73-160-188-14.hsd1.nj.comcast.net| 73.160.188.14 |Time View 04/07/2024 08:04:26 |Black List Yes |Use Type: Residential|
+socks://212.83.142.100:37681#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 04/07/2024 18:28:52 |Black List Yes |Use Type: Business|
