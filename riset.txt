@@ -17,3 +17,4 @@ socks://212.83.143.103:49355#🇬🇧 England|Manchester|M38|Sky UK Limited| 90.
 socks://162.0.220.214:62472#🇺🇸 New Jersey|Paterson|07522|ool-ae2c95c4.dyn.optonline.net| 174.44.149.196 |Time View 06/07/2024 02:45:37 |Black List Yes |Use Type: Residential|
 socks://23.105.170.34:51934#🇺🇸 New York|Harrison|10528|ool-182ce862.dyn.optonline.net| 24.44.232.98 |Time View 06/07/2024 02:45:30 |Black List Yes |Use Type: Residential|
 socks://23.105.170.33:46233#🇺🇸 New York|Brooklyn|11207|ool-4355d48b.dyn.optonline.net| 67.85.212.139 |Time View 06/07/2024 02:45:24 |Black List Yes |Use Type: Residential|
+socks://212.83.142.149:11975#🇨🇭 Lucerne|Lucerne|6015|134.98.7.85.dynamic.cust.swisscom.net| 85.7.98.134 |Time View 06/07/2024 03:21:07 |Black List Yes |Use Type: Business|
