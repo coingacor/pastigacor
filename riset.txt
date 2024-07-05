@@ -14,3 +14,6 @@ socks://162.19.7.48:13151#🇮🇪 Leinster|Dublin|D16|O2 Ireland| 80.233.74.176
 socks://67.213.212.39:28272#🇺🇸 New Jersey|Lavallette|08735|ool-457d2139.dyn.optonline.net| 69.125.33.57 |Time View 05/07/2024 18:12:17 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.142.145:57798#🇬🇧 England|Derby|DE21|Sky UK Limited| 2.219.78.244 |Time View 05/07/2024 06:12:27 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.143.103:49355#🇬🇧 England|Manchester|M38|Sky UK Limited| 90.212.115.85 |Time View 05/07/2024 06:10:47 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://162.0.220.214:62472#🇺🇸 New Jersey|Paterson|07522|ool-ae2c95c4.dyn.optonline.net| 174.44.149.196 |Time View 06/07/2024 02:45:37 |Black List Yes |Use Type: Residential|
+socks://23.105.170.34:51934#🇺🇸 New York|Harrison|10528|ool-182ce862.dyn.optonline.net| 24.44.232.98 |Time View 06/07/2024 02:45:30 |Black List Yes |Use Type: Residential|
+socks://23.105.170.33:46233#🇺🇸 New York|Brooklyn|11207|ool-4355d48b.dyn.optonline.net| 67.85.212.139 |Time View 06/07/2024 02:45:24 |Black List Yes |Use Type: Residential|
