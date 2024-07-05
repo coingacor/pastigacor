@@ -19,3 +19,7 @@ socks://212.83.143.97:24826#🇬🇧 England|Leeds|LS12|Sky UK Limited| 90.195.1
 socks://212.83.142.158:19361#🇬🇧 England|Leeds|LS26|Sky UK Limited| 94.12.150.86 |Time View 05/07/2024 06:10:54 |Black List Yes |Use Type: Residential|
 socks://212.83.143.103:64591#🇬🇧 England|Warrington|WA3|Sky UK Limited| 90.212.92.6 |Time View 05/07/2024 06:10:50 |Black List Yes |Use Type: Residential|
 socks://212.83.143.103:49355#🇬🇧 England|Manchester|M38|Sky UK Limited| 90.212.115.85 |Time View 05/07/2024 06:10:47 |Black List Yes |Use Type: Residential|
+socks://212.83.142.158:60455#🇮🇪 Leinster|Kildare|R51|86-45-62-95-dynamic.agg2.kle.prp-wtd.eircom.net| 86.45.62.95 |Time View 05/07/2024 07:18:00 |Black List Yes |Use Type: Residential|
+socks://212.83.143.97:55618#🇮🇪 Leinster|Dunshaughlin|A85|sky-193-203-141-44.b2e.btireland.net| 193.203.141.44 |Time View 05/07/2024 07:17:57 |Black List Yes |Use Type: Residential|
+socks://51.68.244.19:65133#🇮🇪 Leinster|Dublin|D16|O2 Ireland| 80.233.73.116 |Time View 05/07/2024 07:17:49 |Black List Yes |Use Type: Cellular|
+socks://212.83.142.100:55224#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 05/07/2024 07:17:41 |Black List Yes |Use Type: Business|
