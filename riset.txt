@@ -11,3 +11,5 @@ socks://212.83.138.192:49070#🇬🇧 England|Southend-on-Sea|SS2|Sky UK Limited
 socks://212.83.143.97:24826#🇬🇧 England|Leeds|LS12|Sky UK Limited| 90.195.137.195 |Time View 05/07/2024 06:10:56 |Black List Yes |Use Type: Residential|
 socks://212.83.142.158:19361#🇬🇧 England|Leeds|LS26|Sky UK Limited| 94.12.150.86 |Time View 05/07/2024 06:10:54 |Black List Yes |Use Type: Residential|
 socks://212.83.143.103:49355#🇬🇧 England|Manchester|M38|Sky UK Limited| 90.212.115.85 |Time View 05/07/2024 06:10:47 |Black List Yes |Use Type: Residential|
+socks://51.83.116.6:62235#🇮🇪 Leinster|Dublin|D01|Datcom Connectivity Limited| 193.57.216.7 |Time View 05/07/2024 15:42:39 |Black List Yes |Use Type: Business|
+socks://162.19.7.50:34405#🇮🇪 Leinster|Dublin|D07|Three Ireland (Hutchison) - Mobile Subscriber CGNAT Pool 1| 80.233.37.94 |Time View 05/07/2024 15:42:36 |Black List Yes |Use Type: Cellular|
