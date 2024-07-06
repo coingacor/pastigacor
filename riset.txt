@@ -1,20 +1,7 @@
-socks://212.83.138.192:44920#🇬🇧 England|Bolton|BL2|bolt-17-b2-v4wan-169962-cust509.vm18.cable.virginm.net| 81.103.105.254 |Time View 05/07/2024 22:36:40 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.238:31599#🇬🇧 England|Kettering|NN14|static-84-9-21-193.vodafonexdsl.co.uk| 84.9.21.193 |Time View 05/07/2024 22:36:35 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.233:62586#🇬🇧 England|Romford|RM3|static-84-9-59-248.vodafonexdsl.co.uk| 84.9.59.248 |Time View 05/07/2024 22:36:09 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://212.83.142.158:60286#🇮🇪 Leinster|Kildare|R51|86-45-62-95-dynamic.agg2.kle.prp-wtd.eircom.net| 86.45.62.95 |Time View 05/07/2024 22:34:25 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://212.83.143.97:53761#🇮🇪 Leinster|Dunshaughlin|A85|sky-193-203-141-44.b2e.btireland.net| 193.203.141.44 |Time View 05/07/2024 22:34:22 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://51.83.116.3:40854#🇬🇧 England|Ashford|TN24|97e48c5c.skybroadband.com| 151.228.140.92 |Time View 05/07/2024 22:34:06 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://51.83.116.5:58590#🇬🇧 England|Manchester|M61|ward-15-b2-v4wan-167229-cust180.vm18.cable.virginm.net| 86.8.8.181 |Time View 05/07/2024 22:33:57 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.218:13702#🇬🇧 England|Birmingham|B12|static-193-237-68-230.vodafonexdsl.co.uk| 193.237.68.230 |Time View 05/07/2024 22:33:50 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://212.83.143.147:29519#🇬🇧 England|Waltham Forest|E17|host86-137-102-212.range86-137.btcentralplus.com| 86.137.102.212 |Time View 05/07/2024 22:33:36 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.143.49:25590#🇬🇧 England|Derby|DE22|static-193-237-129-199.vodafonexdsl.co.uk| 193.237.129.199 |Time View 05/07/2024 22:33:30 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.218:36551#🇬🇧 England|Ecclesfield|S95|static-84-9-46-243.vodafonexdsl.co.uk| 84.9.46.243 |Time View 05/07/2024 22:10:34 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://212.83.143.147:44005#🇬🇧 England|Wigan|WN1|host86-138-209-48.range86-138.btcentralplus.com| 86.138.209.48 |Time View 05/07/2024 22:10:22 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://162.19.7.48:13151#🇮🇪 Leinster|Dublin|D16|O2 Ireland| 80.233.74.176 |Time View 05/07/2024 20:35:23 |Black List Yes |Use Type: Cellular|https://dichvusocks.net
-socks://67.213.212.39:28272#🇺🇸 New Jersey|Lavallette|08735|ool-457d2139.dyn.optonline.net| 69.125.33.57 |Time View 05/07/2024 18:12:17 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://212.83.142.145:57798#🇬🇧 England|Derby|DE21|Sky UK Limited| 2.219.78.244 |Time View 05/07/2024 06:12:27 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://212.83.143.103:49355#🇬🇧 England|Manchester|M38|Sky UK Limited| 90.212.115.85 |Time View 05/07/2024 06:10:47 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://162.0.220.214:62472#🇺🇸 New Jersey|Paterson|07522|ool-ae2c95c4.dyn.optonline.net| 174.44.149.196 |Time View 06/07/2024 02:45:37 |Black List Yes |Use Type: Residential|
-socks://23.105.170.34:51934#🇺🇸 New York|Harrison|10528|ool-182ce862.dyn.optonline.net| 24.44.232.98 |Time View 06/07/2024 02:45:30 |Black List Yes |Use Type: Residential|
-socks://23.105.170.33:46233#🇺🇸 New York|Brooklyn|11207|ool-4355d48b.dyn.optonline.net| 67.85.212.139 |Time View 06/07/2024 02:45:24 |Black List Yes |Use Type: Residential|
+socks://212.83.143.97:34186#🇮🇪 Leinster|Dunshaughlin|A85|sky-193-203-141-44.b2e.btireland.net| 193.203.141.44 |Time View 06/07/2024 14:29:26 |Black List Yes |Use Type: Residential|
+socks://67.213.212.40:32025#🇺🇸 New York|Westhampton Beach|11978|ool-182ffbbb.dyn.optonline.net| 24.47.251.187 |Time View 06/07/2024 14:29:11 |Black List Yes |Use Type: Residential|
+socks://67.213.212.51:28470#🇺🇸 New Jersey|Lyndhurst|07071|ool-4b7fc135.static.optonline.net| 75.127.193.53 |Time View 06/07/2024 14:29:04 |Black List No |Use Type: Business|
+socks://174.138.176.75:49362#🇺🇸 New Jersey|Paterson|07503|ool-45786fa6.dyn.optonline.net| 69.120.111.166 |Time View 06/07/2024 14:29:01 |Black List Yes |Use Type: Residential|
 socks://212.83.142.149:11975#🇨🇭 Lucerne|Lucerne|6015|134.98.7.85.dynamic.cust.swisscom.net| 85.7.98.134 |Time View 06/07/2024 03:21:07 |Black List Yes |Use Type: Business|
+socks://212.83.142.114:20181#🇷🇺 Krasnodar Krai|Armavir|352900|ip106.130.city-telekom.ru| 176.32.130.106 |Time View 06/07/2024 01:54:00 |Black List Yes |Use Type: Residential|
+socks://212.83.143.60:58507#🇳🇱 South Holland|Voorburg|2274|84-105-120-223.cable.dynamic.v4.ziggo.nl| 84.105.120.223 |Time View 06/07/2024 00:17:32 |Black List Yes |Use Type: Residential|
