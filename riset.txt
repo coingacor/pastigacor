@@ -16,3 +16,7 @@ socks://67.213.212.36:23942#🇺🇸 New York|Lindenhurst|11757|ool-ae2cdaf8.dyn
 socks://67.213.212.57:10124#🇺🇸 New Jersey|Lakewood|08701|ool-18b89459.dyn.optonline.net| 24.184.148.89 |Time View 07/07/2024 08:22:48 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.138.245:18158#🇨🇭 Grisons|Chur|7000|iWay AG| 145.40.221.159 |Time View 07/07/2024 11:40:53 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.138.172:62234#🇨🇭 Zurich|Effretikon|8307|136.73.107.92.dynamic.cust.swisscom.net| 92.107.73.136 |Time View 07/07/2024 11:40:41 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.56:50099#🇺🇸 New York|Hicksville|11801|ool-4b6353a2.static.optonline.net| 75.99.83.162 |Time View 07/07/2024 13:42:42 |Black List No |Use Type: Business|
+socks://23.105.170.34:10609#🇺🇸 Virginia|Virginia Beach|23451|static-72-84-81-56.nrflva.fios.verizon.net| 72.84.81.56 |Time View 07/07/2024 13:41:48 |Black List Yes |Use Type: Residential|
+socks://108.181.132.118:16119#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 207.182.84.85 |Time View 07/07/2024 13:41:37 |Black List Yes |Use Type: Business|
+socks://209.159.153.20:36565#🇺🇸 New York|Yorktown Heights|10598|ool-60383df3.static.optonline.net| 96.56.61.243 |Time View 07/07/2024 13:41:23 |Black List No |Use Type: Business|
