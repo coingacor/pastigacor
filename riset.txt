@@ -14,3 +14,5 @@ socks://23.105.170.32:33079#🇺🇸 New Jersey|Maywood|07607|ool-44c45367.dyn.o
 socks://66.23.233.210:38669#🇺🇸 New Jersey|Passaic|07055|ool-18bdf3bd.dyn.optonline.net| 24.189.243.189 |Time View 07/07/2024 08:23:06 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://67.213.212.36:23942#🇺🇸 New York|Lindenhurst|11757|ool-ae2cdaf8.dyn.optonline.net| 174.44.218.248 |Time View 07/07/2024 08:22:50 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://67.213.212.57:10124#🇺🇸 New Jersey|Lakewood|08701|ool-18b89459.dyn.optonline.net| 24.184.148.89 |Time View 07/07/2024 08:22:48 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.138.245:18158#🇨🇭 Grisons|Chur|7000|iWay AG| 145.40.221.159 |Time View 07/07/2024 11:40:53 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.138.172:62234#🇨🇭 Zurich|Effretikon|8307|136.73.107.92.dynamic.cust.swisscom.net| 92.107.73.136 |Time View 07/07/2024 11:40:41 |Black List Yes |Use Type: Business|https://dichvusocks.net
