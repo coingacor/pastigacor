@@ -20,3 +20,8 @@ socks://67.213.212.56:50099#🇺🇸 New York|Hicksville|11801|ool-4b6353a2.stat
 socks://23.105.170.34:10609#🇺🇸 Virginia|Virginia Beach|23451|static-72-84-81-56.nrflva.fios.verizon.net| 72.84.81.56 |Time View 07/07/2024 13:41:48 |Black List Yes |Use Type: Residential|
 socks://108.181.132.118:16119#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 207.182.84.85 |Time View 07/07/2024 13:41:37 |Black List Yes |Use Type: Business|
 socks://209.159.153.20:36565#🇺🇸 New York|Yorktown Heights|10598|ool-60383df3.static.optonline.net| 96.56.61.243 |Time View 07/07/2024 13:41:23 |Black List No |Use Type: Business|
+socks://67.213.210.115:25377#🇺🇸 South Carolina|Hilton Head Island|29928|64.20.157.25.dyn-e-pool30.pool.hargray.net| 64.20.157.25 |Time View 07/07/2024 20:07:59 |Black List No |Use Type: Business|
+socks://162.0.220.218:54976#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.124.dyn-cm-pool-31.pool.hargray.net| 64.203.222.124 |Time View 07/07/2024 20:07:50 |Black List Yes |Use Type: Business|
+socks://67.213.210.167:52964#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.133.80.dyn-e120.pool.hargray.net| 67.20.133.80 |Time View 07/07/2024 20:07:39 |Black List Yes |Use Type: Business|
+socks://67.213.210.118:62327#🇺🇸 South Carolina|Bluffton|29909|94.150.49.24.dynamic-pool.hargray.net| 24.49.150.94 |Time View 07/07/2024 20:07:05 |Black List No |Use Type: Business|
+socks://108.181.132.118:16119#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 207.182.84.85 |Time View 07/07/2024 13:41:37 |Black List Yes |Use Type: Business|
