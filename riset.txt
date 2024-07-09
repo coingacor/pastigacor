@@ -7,3 +7,6 @@ socks://67.213.212.47:43153#🇺🇸 Arkansas|McGehee|71654|host225.shopnchek.co
 socks://66.29.128.241:15980#🇺🇸 Arkansas|Pine Bluff|71603|pine01cpe.195.143.255.206.ark.cablelynx.com| 206.255.143.195 |Time View 09/07/2024 14:09:14 |Black List Yes |Use Type: Residential|
 socks://66.29.128.245:36517#🇺🇸 Arkansas|Sherwood|72120|104-179-222-109.lightspeed.ltrkar.sbcglobal.net| 104.179.222.109 |Time View 09/07/2024 14:09:03 |Black List No |Use Type: Residential|
 socks://66.29.128.242:40421#🇺🇸 Arkansas|Russellville|72801|Suddenlink Communications| 66.76.94.4 |Time View 09/07/2024 14:08:58 |Black List Yes |Use Type: Business|
+socks://66.23.233.210:41127#🇺🇸 California|Los Angeles|90066|syn-072-134-241-232.res.spectrum.com| 72.134.241.232 |Time View 09/07/2024 14:52:52 |Black List Yes |Use Type: Residential|
+socks://162.210.192.171:31564#🇺🇸 California|Los Angeles|90278|77.244-124-194.rdns.scalabledns.com| 194.124.244.77 |Time View 09/07/2024 14:52:44 |Black List No |Use Type: Hosting|
+socks://174.138.176.74:34938#🇺🇸 California|Los Angeles|90013|Cybernet Communications, Inc.| 104.218.188.245 |Time View 09/07/2024 14:52:34 |Black List Yes |Use Type: Business|
