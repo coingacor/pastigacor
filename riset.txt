@@ -10,3 +10,5 @@ socks://66.29.128.242:40421#🇺🇸 Arkansas|Russellville|72801|Suddenlink Comm
 socks://66.23.233.210:41127#🇺🇸 California|Los Angeles|90066|syn-072-134-241-232.res.spectrum.com| 72.134.241.232 |Time View 09/07/2024 14:52:52 |Black List Yes |Use Type: Residential|
 socks://162.210.192.171:31564#🇺🇸 California|Los Angeles|90278|77.244-124-194.rdns.scalabledns.com| 194.124.244.77 |Time View 09/07/2024 14:52:44 |Black List No |Use Type: Hosting|
 socks://174.138.176.74:34938#🇺🇸 California|Los Angeles|90013|Cybernet Communications, Inc.| 104.218.188.245 |Time View 09/07/2024 14:52:34 |Black List Yes |Use Type: Business|
+socks://162.0.220.216:38615#🇺🇸 New Jersey|Lakewood|08701|ool-457e40a3.dyn.optonline.net| 69.126.64.163 |Time View 09/07/2024 15:31:32 |Black List Yes |Use Type: Residential|
+socks://66.29.128.243:59957#🇺🇸 New York|New York|10031|ool-2f16a1ce.static.optonline.net| 47.22.161.206 |Time View 09/07/2024 15:31:13 |Black List No |Use Type: Business|
