@@ -1,13 +1,9 @@
-socks://67.213.212.54:33589#🇺🇸 California|Burbank|91504|syn-076-083-041-153.biz.spectrum.com| 76.83.41.153 |Time View 07/07/2024 21:14:33 |Black List Yes |Use Type: Business|
-socks://174.138.176.74:56491#🇺🇸 Unknown|Unknown|Unknown|Honest Networks, LLC| 154.27.21.143 |Time View 07/07/2024 21:14:25 |Black List No |Use Type: Business|
-socks://209.159.153.22:55403#🇺🇸 Virginia|Centreville|20120|96-83-80-33-static.hfc.comcastbusiness.net| 96.83.80.33 |Time View 07/07/2024 21:14:21 |Black List Yes |Use Type: Residential|
-socks://66.29.128.241:15675#🇺🇸 New York|West Coxsackie|12192|cust-static-ip.ny.us.statetel.com| 72.10.207.110 |Time View 07/07/2024 21:14:18 |Black List Yes |Use Type: Business|
-socks://108.181.133.58:13201#🇺🇸 Maine|Augusta|04330|pool-70-16-202-46.man.east.myfairpoint.net| 70.16.202.46 |Time View 07/07/2024 21:14:10 |Black List Yes |Use Type: Business|
-socks://66.29.128.242:65372#🇺🇸 Arkansas|Hot Springs|71913|hsprings01cpe.13.53.255.206.ark.cablelynx.com| 206.255.53.13 |Time View 07/07/2024 21:14:07 |Black List Yes |Use Type: Residential|
-socks://162.0.220.218:54976#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.124.dyn-cm-pool-31.pool.hargray.net| 64.203.222.124 |Time View 07/07/2024 20:07:50 |Black List Yes |Use Type: Business|
-socks://67.213.210.167:52964#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.133.80.dyn-e120.pool.hargray.net| 67.20.133.80 |Time View 07/07/2024 20:07:39 |Black List Yes |Use Type: Business|
-socks://67.213.210.118:62327#🇺🇸 South Carolina|Bluffton|29909|94.150.49.24.dynamic-pool.hargray.net| 24.49.150.94 |Time View 07/07/2024 20:07:05 |Black List No |Use Type: Business|
-socks://108.181.132.118:16119#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 207.182.84.85 |Time View 07/07/2024 13:41:37 |Black List Yes |Use Type: Business|
-socks://212.83.142.158:19464#🇮🇪 Leinster|Kildare|R51|86-45-62-95-dynamic.agg2.kle.prp-wtd.eircom.net| 86.45.62.95 |Time View 07/07/2024 08:25:05 |Black List Yes |Use Type: Residential|
-socks://212.83.142.158:64039#🇵🇱 Mazovia|Warsaw|00-510|89-71-0-99.dynamic.chello.pl| 89.71.0.99 |Time View 07/07/2024 08:24:46 |Black List Yes |Use Type: Business|
-socks://51.83.116.5:37594#🇬🇧 England|Birmingham|B26|Sky UK Limited| 90.198.100.13 |Time View 07/07/2024 08:24:15 |Black List Yes |Use Type: Residential|
+socks://212.83.137.150:57311#🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133 |Time View 09/07/2024 14:07:01 |Black List No |Use Type: Business|
+socks://51.254.167.45:59755#🇮🇪 Leinster|Kilkenny|R95|86-42-116-8-dynamic.agg3.kny.prp-wtd.eircom.net| 86.42.116.8 |Time View 09/07/2024 14:06:55 |Black List Yes |Use Type: Residential|
+socks://51.83.116.6:27955#🇮🇪 Leinster|Dublin|D01|Datcom Connectivity Limited| 193.57.216.7 |Time View 09/07/2024 14:06:45 |Black List Yes |Use Type: Business|
+socks://162.19.7.53:19582#🇮🇪 Leinster|Dublin|D04|NTL Ireland| 37.228.213.189 |Time View 09/07/2024 14:06:43 |Black List Yes |Use Type: Cellular|
+socks://212.83.143.97:53130#🇮🇪 Leinster|Dunshaughlin|A85|sky-193-203-141-44.b2e.btireland.net| 193.203.141.44 |Time View 09/07/2024 14:06:38 |Black List Yes |Use Type: Residential|
+socks://67.213.212.47:43153#🇺🇸 Arkansas|McGehee|71654|host225.shopnchek.com| 38.178.180.225 |Time View 09/07/2024 14:09:29 |Black List No |Use Type: Residential|
+socks://66.29.128.241:15980#🇺🇸 Arkansas|Pine Bluff|71603|pine01cpe.195.143.255.206.ark.cablelynx.com| 206.255.143.195 |Time View 09/07/2024 14:09:14 |Black List Yes |Use Type: Residential|
+socks://66.29.128.245:36517#🇺🇸 Arkansas|Sherwood|72120|104-179-222-109.lightspeed.ltrkar.sbcglobal.net| 104.179.222.109 |Time View 09/07/2024 14:09:03 |Black List No |Use Type: Residential|
+socks://66.29.128.242:40421#🇺🇸 Arkansas|Russellville|72801|Suddenlink Communications| 66.76.94.4 |Time View 09/07/2024 14:08:58 |Black List Yes |Use Type: Business|
