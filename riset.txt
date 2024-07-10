@@ -10,3 +10,8 @@ socks://162.210.197.69:60971#🇺🇸 Oregon|Boardman|97818|ec2-54-149-2-227.us-
 socks://162.210.197.69:21858#🇺🇸 Virginia|Ashburn|20149|ec2-44-198-198-0.compute-1.amazonaws.com| 44.198.198.0 |Time View 10/07/2024 10:40:16 |Black List No |Use Type: Hosting|
 socks://37.221.193.221:30568#🇺🇸 Oregon|Boardman|97818|ec2-44-235-150-142.us-west-2.compute.amazonaws.com| 44.235.150.142 |Time View 10/07/2024 10:40:15 |Black List No |Use Type: Hosting|
 socks://162.210.192.171:16639#🇺🇸 Virginia|Ashburn|20149|ec2-35-175-88-130.compute-1.amazonaws.com| 35.175.88.130 |Time View 10/07/2024 10:40:11 |Black List Yes |Use Type: Hosting|
+socks://162.210.192.171:50649#🇺🇸 Georgia|Atlanta|30301|170-187-144-210.ip.linodeusercontent.com| 170.187.144.210 |Time View 10/07/2024 11:03:10 |Black List No |Use Type: Hosting|
+socks://162.210.197.69:17987#🇺🇸 Texas|Richardson|75081|li1062-210.members.linode.com| 45.33.125.210 |Time View 10/07/2024 11:03:07 |Black List No |Use Type: Hosting|
+socks://162.210.197.69:60819#🇺🇸 Georgia|Atlanta|30301|li170-49.members.linode.com| 173.230.130.49 |Time View 10/07/2024 11:03:05 |Black List No |Use Type: Hosting|
+socks://212.83.143.159:29864#🇺🇸 New Jersey|Cedar Knolls|07927|li458-92.members.linode.com| 50.116.58.92 |Time View 10/07/2024 11:03:04 |Black List No |Use Type: Hosting|
+socks://162.210.192.171:14919#🇺🇸 New Jersey|Cedar Knolls|07927|66-228-36-11.ip.linodeusercontent.com| 66.228.36.11 |Time View 10/07/2024 11:03:01 |Black List Yes |Use Type: Hosting|
