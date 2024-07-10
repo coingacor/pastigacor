@@ -6,3 +6,7 @@ socks://162.19.7.50:16323#🇺🇸 New Hampshire|Hudson|03051|c-76-118-249-75.hs
 socks://66.29.128.241:14871#🇺🇸 Virginia|Winchester|22602|c-73-147-238-218.hsd1.va.comcast.net| 73.147.238.218 |Time View 10/07/2024 05:46:55 |Black List Yes |Use Type: Residential|
 socks://67.213.212.57:17041#🇺🇸 Michigan|Detroit|48207|c-73-145-81-212.hsd1.mi.comcast.net| 73.145.81.212 |Time View 10/07/2024 05:46:45 |Black List Yes |Use Type: Residential|
 socks://67.213.212.58:53149#🇺🇸 Maryland|Windsor Mill|21244|c-73-191-33-219.hsd1.md.comcast.net| 73.191.33.219 |Time View 10/07/2024 05:46:35 |Black List Yes |Use Type: Residential|
+socks://162.210.197.69:60971#🇺🇸 Oregon|Boardman|97818|ec2-54-149-2-227.us-west-2.compute.amazonaws.com| 54.149.2.227 |Time View 10/07/2024 10:40:18 |Black List Yes |Use Type: Hosting|
+socks://162.210.197.69:21858#🇺🇸 Virginia|Ashburn|20149|ec2-44-198-198-0.compute-1.amazonaws.com| 44.198.198.0 |Time View 10/07/2024 10:40:16 |Black List No |Use Type: Hosting|
+socks://37.221.193.221:30568#🇺🇸 Oregon|Boardman|97818|ec2-44-235-150-142.us-west-2.compute.amazonaws.com| 44.235.150.142 |Time View 10/07/2024 10:40:15 |Black List No |Use Type: Hosting|
+socks://162.210.192.171:16639#🇺🇸 Virginia|Ashburn|20149|ec2-35-175-88-130.compute-1.amazonaws.com| 35.175.88.130 |Time View 10/07/2024 10:40:11 |Black List Yes |Use Type: Hosting|
