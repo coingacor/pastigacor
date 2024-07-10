@@ -5,3 +5,4 @@ socks://212.83.143.147:33512#🇯🇵 Hokkaido|Sapporo|065-0011|p124123.f.east.v
 socks://212.83.137.142:17222#🇯🇵 Tokyo|Unknown|Unknown|45.63.120.231.vultrusercontent.com| 45.63.120.231 |Time View 11/07/2024 03:53:02 |Black List No |Use Type: Hosting|
 socks://51.83.116.2:30193#🇯🇵 Tokyo|Kitami|157-0067|q038018.ppp.asahi-net.or.jp| 203.181.38.18 |Time View 11/07/2024 03:52:54 |Black List Yes |Use Type: Business|
 socks://51.83.116.5:56873#🇯🇵 Tokyo|Tokyo|151-0071|NTT PC Communications, Inc.| 161.34.48.202 |Time View 11/07/2024 03:52:27 |Black List No |Use Type: Business|
+socks://212.83.142.158:24844#🇮🇪 Leinster|Kildare|R51|86-45-62-95-dynamic.agg2.kle.prp-wtd.eircom.net| 86.45.62.95 |Time View 11/07/2024 05:17:10 |Black List Yes |Use Type: Residential|
