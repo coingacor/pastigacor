@@ -277,8 +277,6 @@ proxy-groups:
     type: select
     proxies:
       - GameAmong
-      - US-205.134.180.145-0883
-      - US-205.134.180.147-0884
       - US
       - DIRECT
   - name: US
