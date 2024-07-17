@@ -288,7 +288,7 @@ proxy-groups:
     proxies:
       - 🇺🇸 US
       - 🇯🇵 JAPAN
-  - name: US
+  - name: 🇺🇸 US
     type: url-test
     url: http://hi.bonds.id/ping
     interval: 300
@@ -436,7 +436,7 @@ proxy-groups:
       - US-38.114.114.69-7669
       - US-38.114.114.69-7675
       - US-38.114.114.69-7712
-  - name: JAPAN
+  - name: 🇯🇵 JAPAN
     type: url-test
     url: http://hi.bonds.id/ping
     interval: 300
