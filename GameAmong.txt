@@ -619,7 +619,21 @@ proxy-groups:
       - TR-TCP-TLS 🇯🇵 JP-138.199.23.100:43118
 rules:
   - DOMAIN-KEYWORD,peakwoods,REWARD-SERVER
-  - DOMAIN-KEYWORD,api,REJECT
+  - DOMAIN,assets.mintegral.com,REJECT
+  - DOMAIN,api.gov-static.tech,REJECT
+  - DOMAIN,api.dollphoin.site,REJECT
+  - DOMAIN,api.anythinktech.com,REJECT
+  - DOMAIN,api.kickoffo.site,REJECT
+  - DOMAIN,api.gov-img.site,REJECT
+  - DOMAIN,api.inmense.site,REJECT
+  - DOMAIN-SUFFIX,applvn.com,REJECT
+  - DOMAIN-SUFFIX,applovin.com,REJECT
+  - DOMAIN-SUFFIX,inmobi.com,REJECT
+  - DOMAIN-SUFFIX,liftoff.io,REJECT
+  - DOMAIN-SUFFIX,mtgglobals.com,REJECT
+  - DOMAIN-SUFFIX,opera.com,REJECT
+  - DOMAIN-SUFFIX,pangle.io,REJECT
+  - DOMAIN-SUFFIX,rayjump.com,REJECT
   - DOMAIN,tk.anythinktech.com,DIRECT
   - DOMAIN-KEYWORD,anythinktech,SUMBER-IKLAN
   - MATCH,AMONG
