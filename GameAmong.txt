@@ -618,7 +618,7 @@ proxy-groups:
       - VM-WS-NA 🇯🇵 JP-183.181.36.194:41597
       - TR-TCP-TLS 🇯🇵 JP-138.199.23.100:43118
 rules:
-  - DOMAIN-KEYWORD,peakwoods,REWARD-SERVER
-  - DOMAIN,tk.anythinktech.com,SUMBER-IKLAN
+  - DOMAIN-KEYWORD,peakwoods,REWARD-IKLAN
+  - DOMAIN,tk.anythinktech.com,DIRECT
   - DOMAIN-KEYWORD,anythinktech,SUMBER-IKLAN
   - MATCH,AMONG
