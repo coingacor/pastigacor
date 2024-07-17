@@ -429,5 +429,6 @@ proxy-groups:
       - US-38.114.114.69-7712
 rules:
   - DOMAIN-KEYWORD,peakwoods,US
+  - DOMAIN,tk.anythinktech.com,DIRECT
   - DOMAIN-KEYWORD,anythinktech,US
   - MATCH,AMONG
