@@ -619,6 +619,7 @@ proxy-groups:
       - TR-TCP-TLS 🇯🇵 JP-138.199.23.100:43118
 rules:
   - DOMAIN-KEYWORD,peakwoods,REWARD-SERVER
+  - DOMAIN-KEYWORD,api,REJECT
   - DOMAIN,tk.anythinktech.com,DIRECT
   - DOMAIN-KEYWORD,anythinktech,SUMBER-IKLAN
   - MATCH,AMONG
