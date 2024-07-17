@@ -371,7 +371,6 @@ proxies:
   - {name: US(AzadNet.t.me)_519, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, udp: true}
   - {name: US(AzadNet.t.me)_521, server: 205.134.180.145, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hgLCgfLRgB6d, udp: true}
   - {name: US(AzadNet.t.me)_523, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true}
-  ###
   - {name: VM-TCP-NA 🇯🇵 JP-4.189.243.62:53001, server: 4.189.243.62, port: 53001, type: vmess, uuid: 60626f2a-a43d-3ef0-9e7a-f527d5ebe6fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", udp: true}
   - {name: JP-152.69.197.74-2764, server: 152.69.197.74, port: 12345, type: vmess, uuid: b8a6bf58-485a-4046-b386-b3661bf65eff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /bb, headers: {Host: ""}}, udp: true}
   - {name: VM-WS-NA 🇯🇵 JP-212.50.254.55:56893, server: 212.50.254.55, port: 56893, type: vmess, uuid: 0a59a60b-526e-4378-f9cb-3485e688aa9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /, headers: {Host: ""}}, udp: true}
@@ -386,8 +385,8 @@ proxy-groups:
   - name: SUMBER-IKLAN
     type: select
     proxies:
-	  - US
-	  - JAPAN
+      - US
+      - JAPAN
   - name: US
     type: url-test
     url: http://hi.bonds.id/ping
@@ -536,7 +535,7 @@ proxy-groups:
       - US-38.114.114.69-7669
       - US-38.114.114.69-7675
       - US-38.114.114.69-7712
-	  - US(AzadNet.t.me)_002
+      - US(AzadNet.t.me)_002
       - US(AzadNet.t.me)_003
       - US(AzadNet.t.me)_004
       - US(AzadNet.t.me)_006
@@ -640,7 +639,7 @@ proxy-groups:
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
-	  - VM-TCP-NA 🇯🇵 JP-4.189.243.62:53001
+      - VM-TCP-NA 🇯🇵 JP-4.189.243.62:53001
       - JP-152.69.197.74-2764
       - VM-WS-NA 🇯🇵 JP-212.50.254.55:56893
       - VM-WS-NA 🇯🇵 JP-183.181.36.194:41597
