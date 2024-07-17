@@ -280,7 +280,7 @@ proxy-groups:
       - US
       - DIRECT
   - name: US
-    type: fallback
+    type: url-test
     url: http://hi.bonds.id/ping
     interval: 300
     proxies:
