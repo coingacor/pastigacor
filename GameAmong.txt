@@ -384,8 +384,8 @@ proxy-groups:
   - name: SUMBER-IKLAN
     type: select
     proxies:
-      - US
-      - JAPAN
+      - 🇺🇸 US
+      - 🇯🇵 JAPAN
   - name: US
     type: url-test
     url: http://hi.bonds.id/ping
