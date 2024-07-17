@@ -287,7 +287,6 @@ proxies:
   - {name: US(AzadNet.t.me)_034, server: 104.21.71.88, port: 80, type: vmess, uuid: 2a8a10fb-9ca3-367e-a234-cf09f841be4f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: us2e-20240116.v2freevpn.com, network: ws, ws-opts: {path: /us2ekjds3nay, headers: {Host: us2e-20240116.v2freevpn.com}}, udp: true}
   - {name: US(AzadNet.t.me)_036, server: 104.21.4.6, port: 443, type: vmess, uuid: 1052f24e-7b09-45eb-b0c5-d858eb124192, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: glweidf.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: glweidf.cfd}}, udp: true}
   - {name: US(AzadNet.t.me)_037, server: 104.21.15.36, port: 443, type: vmess, uuid: edbb1059-1633-4271-b66e-ed4fba47a1bf, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: linde06.indiavideo.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: linde06.indiavideo.sbs}}, udp: true}
-  - {name: US(AzadNet.t.me)_261, server: safe.footballlovernews.com, port: 443, type: vless, uuid: 19477f96-ea81-4f5b-93e7-119a171a7813, cipher: auto, tls: true, skip-cert-verify: true, servername: safe.footballlovernews.com, network: ws, ws-opts: {path: /safe, headers: {Host: safe.footballlovernews.com}}, udp: true}
   - {name: US(AzadNet.t.me)_286, server: aws-us-oregon-1.f1rocketnode.com, port: 443, type: trojan, password: your_password, skip-cert-verify: true, sni: aws-us-oregon-1.f1rocketnode.com, udp: true}
   - {name: US(AzadNet.t.me)_310, server: 34.222.204.128, port: 443, type: trojan, password: your_password, skip-cert-verify: true, sni: aws-us-oregon-1.f1rocketnode.com, udp: true}
   - {name: US(AzadNet.t.me)_323, server: aws-us-nyc-1.f1rocketnode.com, port: 443, type: trojan, password: pjdnqv, skip-cert-verify: true, sni: aws-us-nyc-1.f1rocketnode.com, udp: true}
@@ -550,7 +549,6 @@ proxy-groups:
       - US(AzadNet.t.me)_034
       - US(AzadNet.t.me)_036
       - US(AzadNet.t.me)_037
-      - US(AzadNet.t.me)_261
       - US(AzadNet.t.me)_286
       - US(AzadNet.t.me)_310
       - US(AzadNet.t.me)_323
