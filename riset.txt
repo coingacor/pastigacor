@@ -1,9 +1,5 @@
-socks://162.210.192.171:60902#🇺🇸 Texas|Dallas|75247|Nodisto IT, LLC| 63.142.251.233 |Time View 17/07/2024 18:45:57 |Black List No |Use Type: Hosting|https://dichvusocks.net
-socks://212.83.142.100:23171#🇯🇵 Aichi|Nagoya|462-0841|softbank060066103139.bbtec.net| 60.66.103.139 |Time View 17/07/2024 18:43:20 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://89.58.45.94:36524#🇯🇵 Tokyo|Nishisugamo|170-0001|183.180.105.139.ap.gmobb-fix.jp| 183.180.105.139 |Time View 17/07/2024 18:43:16 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://212.83.143.97:46872#🇯🇵 Miyagi|Chuo|985-0871|p10724247-ipngn25601marunouchi.tokyo.ocn.ne.jp| 153.214.164.247 |Time View 17/07/2024 18:43:08 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://162.210.192.171:19493#🇺🇸 Unknown|Unknown|Unknown|host2067.hostmonster.com| 67.20.113.11 |Time View 17/07/2024 18:42:47 |Black List Yes |Use Type: Hosting|https://dichvusocks.net
-socks://162.210.197.69:61810#🇺🇸 California|Los Angeles|90060|94-127-74-198-dedicated.multacom.com| 142.171.26.222 |Time View 17/07/2024 18:42:25 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://162.210.197.69:57825#🇺🇸 California|Los Angeles|90017|Multacom Corporation| 148.135.36.96 |Time View 17/07/2024 18:42:04 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://108.181.132.115:31938#🇺🇸 California|Auberry|93602|23-29-9-167.netptc.net| 23.29.9.167 |Time View 17/07/2024 18:41:57 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://67.213.210.167:28540#🇺🇸 California|Antelope|95843|013.69-4-149-nokia-dsl.dynamic.surewest.net| 69.4.149.13 |Time View 17/07/2024 18:41:43 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.137.142:21978#🇺🇸 New York|New York|10011|DigitalOcean, LLC| 162.243.6.177 |Time View 18/07/2024 07:30:30 |Black List No |Use Type: Hosting|
+socks://162.210.192.171:15110#🇺🇸 New York|New York|10011|javajakes.net| 192.241.175.106 |Time View 18/07/2024 07:30:24 |Black List No |Use Type: Hosting|
+socks://212.83.143.191:21474#🇺🇸 New York|Buffalo|14205|107-172-63-135-host.colocrossing.com| 107.172.63.135 |Time View 18/07/2024 07:30:02 |Black List No |Use Type: Hosting|
+socks://67.213.212.39:39247#🇺🇸 New York|Brooklyn|11209|static-68-129-207-26.nycmny.fios.verizon.net| 68.129.207.26 |Time View 18/07/2024 07:29:21 |Black List No |Use Type: Residential|
+socks://67.213.212.48:50021#🇺🇸 New York|Brooklyn|11234|pool-108-54-225-34.nycmny.fios.verizon.net| 108.54.225.34 |Time View 18/07/2024 07:29:16 |Black List Yes |Use Type: Business|
