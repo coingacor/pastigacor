@@ -1,3 +1,6 @@
+socks://37.221.193.221:18553#🇺🇸 Illinois|Chicago|60602|Microsoft Corporation| 23.96.237.52 |Time View 18/07/2024 07:35:47 |Black List Yes |Use Type: Hosting|
+socks://162.210.192.171:53335#🇺🇸 Illinois|Chicago|60623|server.420shoppers.com| 208.100.53.150 |Time View 18/07/2024 07:35:43 |Black List No |Use Type: Hosting|
+socks://162.19.7.53:14408#🇺🇸 Illinois|Lanark|61046|wireless-122-28.lanark.il.jcwifi.com| 199.38.122.28 |Time View 18/07/2024 07:35:28 |Black List No |Use Type: Hosting|
 socks://212.83.137.142:21978#🇺🇸 New York|New York|10011|DigitalOcean, LLC| 162.243.6.177 |Time View 18/07/2024 07:30:30 |Black List No |Use Type: Hosting|
 socks://162.210.192.171:15110#🇺🇸 New York|New York|10011|javajakes.net| 192.241.175.106 |Time View 18/07/2024 07:30:24 |Black List No |Use Type: Hosting|
 socks://212.83.143.191:21474#🇺🇸 New York|Buffalo|14205|107-172-63-135-host.colocrossing.com| 107.172.63.135 |Time View 18/07/2024 07:30:02 |Black List No |Use Type: Hosting|
