@@ -1,8 +1,4 @@
-socks://37.221.193.221:18553#🇺🇸 Illinois|Chicago|60602|Microsoft Corporation| 23.96.237.52 |Time View 18/07/2024 07:35:47 |Black List Yes |Use Type: Hosting|
-socks://162.210.192.171:53335#🇺🇸 Illinois|Chicago|60623|server.420shoppers.com| 208.100.53.150 |Time View 18/07/2024 07:35:43 |Black List No |Use Type: Hosting|
-socks://162.19.7.53:14408#🇺🇸 Illinois|Lanark|61046|wireless-122-28.lanark.il.jcwifi.com| 199.38.122.28 |Time View 18/07/2024 07:35:28 |Black List No |Use Type: Hosting|
-socks://212.83.137.142:21978#🇺🇸 New York|New York|10011|DigitalOcean, LLC| 162.243.6.177 |Time View 18/07/2024 07:30:30 |Black List No |Use Type: Hosting|
-socks://162.210.192.171:15110#🇺🇸 New York|New York|10011|javajakes.net| 192.241.175.106 |Time View 18/07/2024 07:30:24 |Black List No |Use Type: Hosting|
-socks://212.83.143.191:21474#🇺🇸 New York|Buffalo|14205|107-172-63-135-host.colocrossing.com| 107.172.63.135 |Time View 18/07/2024 07:30:02 |Black List No |Use Type: Hosting|
-socks://67.213.212.39:39247#🇺🇸 New York|Brooklyn|11209|static-68-129-207-26.nycmny.fios.verizon.net| 68.129.207.26 |Time View 18/07/2024 07:29:21 |Black List No |Use Type: Residential|
-socks://67.213.212.48:50021#🇺🇸 New York|Brooklyn|11234|pool-108-54-225-34.nycmny.fios.verizon.net| 108.54.225.34 |Time View 18/07/2024 07:29:16 |Black List Yes |Use Type: Business|
+socks://socks://67.213.212.50:25873#🇺🇸 New Jersey|Ocean City|08226|c-73-215-39-35.hsd1.nj.comcast.net| 73.215.39.35 |Time View 18/07/2024 21:55:33 |Black List Yes |Use Type: Residential|
+socks://socks://67.213.212.57:30664#🇺🇸 Michigan|Detroit|48207|c-73-145-81-212.hsd1.mi.comcast.net| 73.145.81.212 |Time View 18/07/2024 21:55:15 |Black List Yes |Use Type: Residential|
+socks://socks://67.213.212.48:53960#🇺🇸 New Jersey|Bellmawr|08031|c-73-178-143-238.hsd1.nj.comcast.net| 73.178.143.238 |Time View 18/07/2024 21:55:10 |Black List Yes |Use Type: Residential|
+socks://socks://67.213.212.40:63200#🇺🇸 Georgia|Atlanta|30339|c-174-163-77-19.hsd1.ga.comcast.net| 174.163.77.19 |Time View 18/07/2024 21:53:43 |Black List Yes |Use Type: Residential|
