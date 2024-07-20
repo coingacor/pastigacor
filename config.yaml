@@ -53,6 +53,7 @@ proxy-groups:
       - ðŸ‡¯ðŸ‡µ TR-TCP-TLS ðŸ‡¯ðŸ‡µ JP-138.199.23.100
 rules:
   - DOMAIN-KEYWORD,peakwoods,US
+  - DOMAIN,tk.anythinktech.com,DIRECT
   - DOMAIN-KEYWORD,anythinktech,JPN
   - MATCH,CUAN
 rule-providers:
