@@ -43,10 +43,10 @@ proxy-groups:
       - US-23.94.76.55-0904
       - US-184.170.241.194-0899
   - name: JPN
-    type: url-test
-    url: http://www.msftconnecttest.com/connecttest.txt
-    interval: 150
-    tolerance: 50
+    type: select
+    #url: http://www.msftconnecttest.com/connecttest.txt
+    #interval: 150
+    #tolerance: 50
     proxies:
       - ðŸ‡¯ðŸ‡µ JP-152.69.197.74-2764
       - ðŸ‡¯ðŸ‡µ VM-WS-NA ðŸ‡¯ðŸ‡µ JP-183.181.36.194
