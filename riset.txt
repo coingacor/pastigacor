@@ -23,3 +23,10 @@ socks://66.29.129.54:27975#🇺🇸 Georgia|Pooler|31322|Clearwave Communication
 socks://67.213.212.48:60697#🇺🇸 Michigan|Detroit|48209|c-73-190-23-45.hsd1.mi.comcast.net| 73.190.23.45 |Time View 19/07/2024 16:47:41 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://67.213.212.51:15139#🇺🇸 New Jersey|Ewing|08628|c-73-194-123-3.hsd1.nj.comcast.net| 73.194.123.3 |Time View 19/07/2024 16:47:34 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.142.100:19249#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 19/07/2024 16:46:41 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.114:33194#🇯🇵 Tochigi|Utsunomiya|320-0031|ae085229.dynamic.ppp.asahi-net.or.jp| 14.3.85.229 |Time View 20/07/2024 06:46:49 |Black List Yes |Use Type: Business|
+socks://51.83.116.3:37005#🇯🇵 Saitama|Takasago|330-9301|ag214020.dynamic.ppp.asahi-net.or.jp| 157.107.214.20 |Time View 20/07/2024 06:46:02 |Black List No |Use Type: Business|
+socks://212.83.143.147:54173#🇯🇵 Tokyo|Tokyo|151-0071|ag197185.dynamic.ppp.asahi-net.or.jp| 157.107.197.185 |Time View 20/07/2024 06:45:06 |Black List No |Use Type: Business|
+socks://212.83.138.192:62493#🇯🇵 Saitama|Takasago|330-9301|ag210081.dynamic.ppp.asahi-net.or.jp| 157.107.210.81 |Time View 20/07/2024 06:43:28 |Black List No |Use Type: Business|
+socks://195.154.43.86:23133#🇯🇵 Kanagawa|Minatomirai|220-0011|m017091.ppp.asahi-net.or.jp| 219.121.17.91 |Time View 20/07/2024 06:42:25 |Black List No |Use Type: Business|
+socks://51.83.116.5:16409#🇯🇵 Mie|Iga|518-0841|pc549199.ict.ne.jp| 202.180.207.199 |Time View 20/07/2024 05:19:46 |Black List Yes |Use Type: Residential|
+socks://51.83.116.7:24425#🇯🇵 Hiroshima|Hiroshima|730-0851|28.36.223.223.megaegg.ne.jp| 223.223.36.28 |Time View 20/07/2024 05:19:13 |Black List No |Use Type: Business|
