@@ -24,6 +24,19 @@ proxies:
   - {name: ðŸ‡¯ðŸ‡µ JP-152.69.197.74-2764, server: 152.69.197.74, port: 12345, type: vmess, uuid: b8a6bf58-485a-4046-b386-b3661bf65eff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /bb, headers: {Host: ""}}, udp: true}
   - {name: ðŸ‡¯ðŸ‡µ VM-WS-NA ðŸ‡¯ðŸ‡µ JP-183.181.36.194, server: 183.181.36.194, port: 41597, type: vmess, uuid: 4a6eaa2d-5603-4c05-d967-fb6f42250a5a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /, headers: {Host: ""}}, udp: true}
   - {name: ðŸ‡¯ðŸ‡µ TR-TCP-TLS ðŸ‡¯ðŸ‡µ JP-138.199.23.100, server: 138.199.23.100, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: radtz.phooeyunfold.com, udp: true}
+  - name: WG
+    type: wireguard
+    server: 89.187.161.34
+    port: 51820
+    ip: 10.5.0.2/16
+    # ipv6: your_ipv6
+    private-key: kgBqkuw6b+REpoU9mUc6U7zQrN42hFkq/pPVvEEvwPE=
+    public-key: SAio0Z0suFlRfmydzPdcn6MamqS7Mq4pSOm2YmJkLSs=
+    # preshared-key: base64
+    # remote-dns-resolve: true # remote resolve DNS with `dns` field, default is true
+    # dns: [1.1.1.1, 8.8.8.8]
+    mtu: 1420
+    udp: true
 
 proxy-groups:
   - name: CUAN
@@ -51,6 +64,7 @@ proxy-groups:
       - ðŸ‡¯ðŸ‡µ JP-152.69.197.74-2764
       - ðŸ‡¯ðŸ‡µ VM-WS-NA ðŸ‡¯ðŸ‡µ JP-183.181.36.194
       - ðŸ‡¯ðŸ‡µ TR-TCP-TLS ðŸ‡¯ðŸ‡µ JP-138.199.23.100
+      - WG
 rules:
   - DOMAIN-KEYWORD,peakwoods,US
   - DOMAIN-KEYWORD,mintegral,REJECT
