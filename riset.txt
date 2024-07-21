@@ -30,3 +30,5 @@ socks://212.83.138.192:62493#🇯🇵 Saitama|Takasago|330-9301|ag210081.dynamic
 socks://195.154.43.86:23133#🇯🇵 Kanagawa|Minatomirai|220-0011|m017091.ppp.asahi-net.or.jp| 219.121.17.91 |Time View 20/07/2024 06:42:25 |Black List No |Use Type: Business|
 socks://51.83.116.5:16409#🇯🇵 Mie|Iga|518-0841|pc549199.ict.ne.jp| 202.180.207.199 |Time View 20/07/2024 05:19:46 |Black List Yes |Use Type: Residential|
 socks://51.83.116.7:24425#🇯🇵 Hiroshima|Hiroshima|730-0851|28.36.223.223.megaegg.ne.jp| 223.223.36.28 |Time View 20/07/2024 05:19:13 |Black List No |Use Type: Business|
+sn://wg?eNpjYmBgsLDUM7Qw1zM0M9Qz3pJzioHB0EDPVM9Az0jfcNva7HSnwuzScrMk7SDXgvxQy9zQZLNQ86rAIj8Towy37EL9goCwMlfXsvIAV9u1wY6Z-QZRBsWlbjlBabmVKVUBKcl5Zr6JuYXB5r6FJgXB_rlGkble2T7BxbaNPawMDI2MQPv3vF2w5-329WByq4KChZmeiYWeobGeoYmBgq5CSH52ZT6Q9ssvSgkL8FNAYnolFiTmKSibWlgoNDYCADUKQZI
+sn://wg?eNpjYmBgMLQ00jM0M9MzMjHXMzTYkHMKKGSgZ6pnoGekb7htbXa6U2F2ablZknaQa0F-qGVuaLJZqHlVYJGfiVGGW3ahfkFAWJmra1l5gKvtWo_IAD-Pykw3v6DcQm3DMK_83MASH4MQd-PIjIJSt_yCXG-TQp-8ghyznGzbxh5WBoZGRqALdr5dsOft9vVgcquCiamepYmeEdANJocWKOgq-BcnZicC6YDE5OzUkozSJIVgPUcg3y-_KCUswE9B2czYqLERAPVRQgs
