@@ -32,10 +32,10 @@ proxy-groups:
       - DIRECT
       - GameAmong
   - name: US
-    type: url-test
-    url: http://www.msftconnecttest.com/connecttest.txt
-    interval: 150
-    tolerance: 50
+    type: select
+    #url: http://www.msftconnecttest.com/connecttest.txt
+    #interval: 150
+    #tolerance: 50
     proxies:
       - x ðŸ‡¯ðŸ‡µ - 5.253.41.160 - Los Angeles
       - US-205.134.180.151-1763
