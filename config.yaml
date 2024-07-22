@@ -32,7 +32,7 @@ proxy-groups:
       - DIRECT
       - GameAmong
   - name: US
-    type: select
+    type: url-test
     url: http://www.msftconnecttest.com/connecttest.txt
     interval: 150
     tolerance: 50
