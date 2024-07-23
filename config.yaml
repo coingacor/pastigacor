@@ -24,7 +24,7 @@ proxies:
   - {name: ðŸ‡¯ðŸ‡µ JP-152.69.197.74-2764, server: 152.69.197.74, port: 12345, type: vmess, uuid: b8a6bf58-485a-4046-b386-b3661bf65eff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /bb, headers: {Host: ""}}, udp: true}
   - {name: ðŸ‡¯ðŸ‡µ VM-WS-NA ðŸ‡¯ðŸ‡µ JP-183.181.36.194, server: 183.181.36.194, port: 41597, type: vmess, uuid: 4a6eaa2d-5603-4c05-d967-fb6f42250a5a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /, headers: {Host: ""}}, udp: true}
   - {name: ðŸ‡¯ðŸ‡µ TR-TCP-TLS ðŸ‡¯ðŸ‡µ JP-138.199.23.100, server: 138.199.23.100, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: radtz.phooeyunfold.com, udp: true}
-  - - {name: GameAmong-TR, server: vpn.ucuwardani.my.id, port: 52469, type: trojan, password: cOZ23gzV9k, skip-cert-verify: true, sni: "", udp: true}
+  - {name: GameAmong-TR, server: vpn.ucuwardani.my.id, port: 52469, type: trojan, password: cOZ23gzV9k, skip-cert-verify: true, sni: "", udp: true}
 
 proxy-groups:
   - name: CUAN
