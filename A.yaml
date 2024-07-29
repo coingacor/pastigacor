@@ -1,17 +1,2 @@
-proxies:
-  - name: "[🇺🇸]172.64.194.13:8880(56a2188b-2ab7-402c-b9b8-34847fdf0958)"
-    server: 172.64.194.13
-    port: 8880
-    type: vmess
-    uuid: 56a2188b-2ab7-402c-b9b8-34847fdf0958
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: true
-    servername: lg.trump2023.net
-    network: ws
-    ws-opts:
-      path: /
-      headers:
-        Host: lg.trump2023.net
-    udp: true
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZV1prWg==@id1.proxysocks.xyz:8388#sshOcean-id1
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXdjl1WDJYNERaUGxGaFNGRmgzL1pTV3p1dWxsNmo4RXBrOEw3dSsvWWFjPQ@iklan.ucuwardani.my.id:13800#shadowsocks-13800
