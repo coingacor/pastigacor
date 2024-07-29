@@ -1,2 +1,3 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZV1prWg==@id1.proxysocks.xyz:8388#sshOcean-id1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXdjl1WDJYNERaUGxGaFNGRmgzL1pTV3p1dWxsNmo4RXBrOEw3dSsvWWFjPQ@iklan.ucuwardani.my.id:13800#shadowsocks-13800
+ss://YWVzLTI1Ni1nY206NzAzMjhkZGEtNTkwOS00OGNjLTgwNzUtNWY0ZTA3NWFlMTUzQGlkLWZ1bGwucHJpdmF0ZWlwLm5ldDo4NDQz#ShadowSocks
