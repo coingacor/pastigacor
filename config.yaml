@@ -16,6 +16,7 @@ hosts:
 
 proxies:
   - {name: First, server: iklan.ucuwardani.my.id, port: 55050, type: ss, cipher: chacha20-ietf-poly1305, password: fvsy201Q9WRKkGIYL/e1UMdUxyf7PkIi6odJp4XeSFk=, udp: true}
+  - {name: First-TR-bb3v8kq7, server: iklan.ucuwardani.my.id, port: 14680, type: trojan, password: n16QHn457i, skip-cert-verify: true, sni: "", udp: true}
   - {name: x ðŸ‡¯ðŸ‡µ - 5.253.41.160 - Los Angeles, server: jp-full.privateip.net, port: 8443, type: ss, cipher: aes-256-gcm, password: 6435d4b7-8a23-46e6-af5f-36061e36c892, udp: true}
   - {name: US-205.134.180.151-1763, server: 205.134.180.151, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ2, udp: true}
   - {name: US-23.94.76.55-0904, server: 23.94.76.55, port: 51981, type: ss, cipher: aes-256-gcm, password: 06gZKkeC2J, udp: true}
@@ -30,6 +31,7 @@ proxy-groups:
     proxies:
       - DIRECT
       - First
+      - First-TR-bb3v8kq7
   - name: US
     type: select
     url: http://www.msftconnecttest.com/connecttest.txt
@@ -51,7 +53,6 @@ proxy-groups:
       - ðŸ‡¯ðŸ‡µ TR-TCP-TLS ðŸ‡¯ðŸ‡µ JP-138.199.23.100
 rules:
   - DOMAIN-KEYWORD,peakwoods,US
-  - DOMAIN-KEYWORD,mintegral,REJECT
   - DOMAIN,tk.anythinktech.com,DIRECT
   - DOMAIN-KEYWORD,anythinktech,JPN
   - MATCH,CUAN
