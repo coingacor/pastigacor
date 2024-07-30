@@ -413,7 +413,7 @@ proxies:
     type: socks5
     skip-cert-verify: true
 proxy-groups:
-  - name: FASTSSH-SSHKIT-HOWDY
+  - name: MTGGLOBALS
     type: select
     proxies:
       - 162.0.220.219:46865
@@ -577,4 +577,14 @@ proxy-groups:
       - 67.213.210.167:10413
       - 162.0.220.216:30531
 rules:
-  - MATCH,FASTSSH-SSHKIT-HOWDY
+  - RULE-SET,oisd_big,REJECT
+  - MATCH,MTGLOBALS 
+rule-providers:
+  oisd_big:
+    type: http
+    behavior: classical
+    path: "./rule_provider/oisd_big.yaml"
+    url: https://raw.githubusercontent.com/hillz2/openclash_adblock/main/oisd_big.yaml
+    interval: 28800 # Update rules every 8 hours
+
+  
