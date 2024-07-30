@@ -1,3 +1,580 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZV1prWg==@id1.proxysocks.xyz:8388#sshOcean-id1
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXdjl1WDJYNERaUGxGaFNGRmgzL1pTV3p1dWxsNmo4RXBrOEw3dSsvWWFjPQ@iklan.ucuwardani.my.id:13800#shadowsocks-13800
-ss://YWVzLTI1Ni1nY206NzAzMjhkZGEtNTkwOS00OGNjLTgwNzUtNWY0ZTA3NWFlMTUzQGlkLWZ1bGwucHJpdmF0ZWlwLm5ldDo4NDQz#ShadowSocks
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7895
+ipv6: false
+mode: rule
+log-level: silent
+allow-lan: true
+external-controller: 0.0.0.0:9090
+secret: ""
+bind-address: "*"
+unified-delay: true
+profile:
+  store-selected: true
+dns:
+  enable: true
+  ipv6: false
+  enhanced-mode: redir-host
+  listen: 0.0.0.0:7874
+  nameserver:
+    - 8.8.8.8
+    - 1.0.0.1
+    - https://dns.google/dns-query
+  fallback:
+    - 1.1.1.1
+    - 8.8.4.4
+    - https://cloudflare-dns.com/dns-query
+    - 112.215.203.254
+  default-nameserver:
+    - 8.8.8.8
+    - 1.1.1.1
+    - 112.215.203.254
+proxies:
+  - name: 162.0.220.219:46865
+    server: 162.0.220.219
+    port: 46865
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.217:23656
+    server: 162.0.220.217
+    port: 23656
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.217:20774
+    server: 162.0.220.217
+    port: 20774
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.133.58:24508
+    server: 108.181.133.58
+    port: 24508
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.132.116:15532
+    server: 108.181.132.116
+    port: 15532
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.132.116:64887
+    server: 108.181.132.116
+    port: 64887
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.77:16201
+    server: 174.138.176.77
+    port: 16201
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.19.7.47:29112
+    server: 162.19.7.47
+    port: 29112
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.74:46310
+    server: 174.138.176.74
+    port: 46310
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.210.167:22297
+    server: 67.213.210.167
+    port: 22297
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.219:25657
+    server: 162.0.220.219
+    port: 25657
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.219:16553
+    server: 162.0.220.219
+    port: 16553
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.219:53019
+    server: 162.0.220.219
+    port: 53019
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.78:33800
+    server: 174.138.176.78
+    port: 33800
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.76:30915
+    server: 174.138.176.76
+    port: 30915
+    type: socks5
+    skip-cert-verify: true
+  - name: 38.91.107.220:54082
+    server: 38.91.107.220
+    port: 54082
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.210.168:61267
+    server: 67.213.210.168
+    port: 61267
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.132.115:60087
+    server: 108.181.132.115
+    port: 60087
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.220:60231
+    server: 162.0.220.220
+    port: 60231
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.161:11209
+    server: 162.0.220.161
+    port: 11209
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.19.7.47:36009
+    server: 162.19.7.47
+    port: 36009
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.220:30833
+    server: 162.0.220.220
+    port: 30833
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.74:55113
+    server: 174.138.176.74
+    port: 55113
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.133.58:62217
+    server: 108.181.133.58
+    port: 62217
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.219:45624
+    server: 162.0.220.219
+    port: 45624
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.210.62:15163
+    server: 67.213.210.62
+    port: 15163
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.133.58:17870
+    server: 108.181.133.58
+    port: 17870
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.77:43991
+    server: 174.138.176.77
+    port: 43991
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.132.115:46143
+    server: 108.181.132.115
+    port: 46143
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.132.116:45532
+    server: 108.181.132.116
+    port: 45532
+    type: socks5
+    skip-cert-verify: true
+  - name: 38.91.106.214:10772
+    server: 38.91.106.214
+    port: 10772
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.219:47479
+    server: 162.0.220.219
+    port: 47479
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.215:39027
+    server: 162.0.220.215
+    port: 39027
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.74:59387
+    server: 174.138.176.74
+    port: 59387
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.76:17642
+    server: 174.138.176.76
+    port: 17642
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.133.59:10670
+    server: 108.181.133.59
+    port: 10670
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.132.116:20748
+    server: 108.181.132.116
+    port: 20748
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.132.116:31396
+    server: 108.181.132.116
+    port: 31396
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.210.167:10389
+    server: 67.213.210.167
+    port: 10389
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.74:50050
+    server: 174.138.176.74
+    port: 50050
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.23.233.210:15142
+    server: 66.23.233.210
+    port: 15142
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.29.128.244:10345
+    server: 66.29.128.244
+    port: 10345
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.23.233.210:62414
+    server: 66.23.233.210
+    port: 62414
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.29.128.241:40509
+    server: 66.29.128.241
+    port: 40509
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.29.128.242:30897
+    server: 66.29.128.242
+    port: 30897
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.29.128.241:50942
+    server: 66.29.128.241
+    port: 50942
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.212.57:16274
+    server: 67.213.212.57
+    port: 16274
+    type: socks5
+    skip-cert-verify: true
+  - name: 212.83.138.132:41407
+    server: 212.83.138.132
+    port: 41407
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.212.57:15819
+    server: 67.213.212.57
+    port: 15819
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.29.128.243:27065
+    server: 66.29.128.243
+    port: 27065
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.212.40:13401
+    server: 67.213.212.40
+    port: 13401
+    type: socks5
+    skip-cert-verify: true
+  - name: 23.105.170.33:48205
+    server: 23.105.170.33
+    port: 48205
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.212.50:23195
+    server: 67.213.212.50
+    port: 23195
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.29.128.245:41349
+    server: 66.29.128.245
+    port: 41349
+    type: socks5
+    skip-cert-verify: true
+  - name: 23.105.170.35:32322
+    server: 23.105.170.35
+    port: 32322
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.220:47645
+    server: 162.0.220.220
+    port: 47645
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.29.128.243:42873
+    server: 66.29.128.243
+    port: 42873
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.29.128.242:50863
+    server: 66.29.128.242
+    port: 50863
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.212.52:64853
+    server: 67.213.212.52
+    port: 64853
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.29.128.242:28462
+    server: 66.29.128.242
+    port: 28462
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.212.47:16291
+    server: 67.213.212.47
+    port: 16291
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.212.52:26571
+    server: 67.213.212.52
+    port: 26571
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.77:23729
+    server: 174.138.176.77
+    port: 23729
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.19.7.50:46171
+    server: 162.19.7.50
+    port: 46171
+    type: socks5
+    skip-cert-verify: true
+  - name: 38.91.107.2:47895
+    server: 38.91.107.2
+    port: 47895
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.77:35455
+    server: 174.138.176.77
+    port: 35455
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.216:48707
+    server: 162.0.220.216
+    port: 48707
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.77:23433
+    server: 174.138.176.77
+    port: 23433
+    type: socks5
+    skip-cert-verify: true
+  - name: 66.29.129.53:65149
+    server: 66.29.129.53
+    port: 65149
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.210.167:42372
+    server: 67.213.210.167
+    port: 42372
+    type: socks5
+    skip-cert-verify: true
+  - name: 174.138.176.74:17008
+    server: 174.138.176.74
+    port: 17008
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.210.115:51262
+    server: 67.213.210.115
+    port: 51262
+    type: socks5
+    skip-cert-verify: true
+  - name: 108.181.132.115:10661
+    server: 108.181.132.115
+    port: 10661
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.216:63330
+    server: 162.0.220.216
+    port: 63330
+    type: socks5
+    skip-cert-verify: true
+  - name: 67.213.210.167:10413
+    server: 67.213.210.167
+    port: 10413
+    type: socks5
+    skip-cert-verify: true
+  - name: 162.0.220.216:30531
+    server: 162.0.220.216
+    port: 30531
+    type: socks5
+    skip-cert-verify: true
+proxy-groups:
+  - name: FASTSSH-SSHKIT-HOWDY
+    type: select
+    proxies:
+      - 162.0.220.219:46865
+      - 162.0.220.217:23656
+      - 162.0.220.217:20774
+      - 108.181.133.58:24508
+      - 108.181.132.116:15532
+      - 108.181.132.116:64887
+      - 174.138.176.77:16201
+      - 162.19.7.47:29112
+      - 174.138.176.74:46310
+      - 67.213.210.167:22297
+      - 162.0.220.219:25657
+      - 162.0.220.219:16553
+      - 162.0.220.219:53019
+      - 174.138.176.78:33800
+      - 174.138.176.76:30915
+      - 38.91.107.220:54082
+      - 67.213.210.168:61267
+      - 108.181.132.115:60087
+      - 162.0.220.220:60231
+      - 162.0.220.161:11209
+      - 162.19.7.47:36009
+      - 162.0.220.220:30833
+      - 174.138.176.74:55113
+      - 108.181.133.58:62217
+      - 162.0.220.219:45624
+      - 67.213.210.62:15163
+      - 108.181.133.58:17870
+      - 174.138.176.77:43991
+      - 108.181.132.115:46143
+      - 108.181.132.116:45532
+      - 38.91.106.214:10772
+      - 162.0.220.219:47479
+      - 162.0.220.215:39027
+      - 174.138.176.74:59387
+      - 174.138.176.76:17642
+      - 108.181.133.59:10670
+      - 108.181.132.116:20748
+      - 108.181.132.116:31396
+      - 67.213.210.167:10389
+      - 174.138.176.74:50050
+      - 66.23.233.210:15142
+      - 66.29.128.244:10345
+      - 66.23.233.210:62414
+      - 66.29.128.241:40509
+      - 66.29.128.242:30897
+      - 66.29.128.241:50942
+      - 67.213.212.57:16274
+      - 212.83.138.132:41407
+      - 67.213.212.57:15819
+      - 66.29.128.243:27065
+      - 67.213.212.40:13401
+      - 23.105.170.33:48205
+      - 67.213.212.50:23195
+      - 66.29.128.245:41349
+      - 23.105.170.35:32322
+      - 162.0.220.220:47645
+      - 66.29.128.243:42873
+      - 66.29.128.242:50863
+      - 67.213.212.52:64853
+      - 66.29.128.242:28462
+      - 67.213.212.47:16291
+      - 67.213.212.52:26571
+      - 174.138.176.77:23729
+      - 162.19.7.50:46171
+      - 38.91.107.2:47895
+      - 174.138.176.77:35455
+      - 162.0.220.216:48707
+      - 174.138.176.77:23433
+      - 66.29.129.53:65149
+      - 67.213.210.167:42372
+      - 174.138.176.74:17008
+      - 67.213.210.115:51262
+      - 108.181.132.115:10661
+      - 162.0.220.216:63330
+      - 67.213.210.167:10413
+      - 162.0.220.216:30531
+      - BEST-PING
+      - DIRECT
+  - name: BEST-PING
+    type: url-test
+    url: http://hi.bonds.id/ping
+    interval: 300
+    tolerance: 50
+    proxies:
+      - 162.0.220.219:46865
+      - 162.0.220.217:23656
+      - 162.0.220.217:20774
+      - 108.181.133.58:24508
+      - 108.181.132.116:15532
+      - 108.181.132.116:64887
+      - 174.138.176.77:16201
+      - 162.19.7.47:29112
+      - 174.138.176.74:46310
+      - 67.213.210.167:22297
+      - 162.0.220.219:25657
+      - 162.0.220.219:16553
+      - 162.0.220.219:53019
+      - 174.138.176.78:33800
+      - 174.138.176.76:30915
+      - 38.91.107.220:54082
+      - 67.213.210.168:61267
+      - 108.181.132.115:60087
+      - 162.0.220.220:60231
+      - 162.0.220.161:11209
+      - 162.19.7.47:36009
+      - 162.0.220.220:30833
+      - 174.138.176.74:55113
+      - 108.181.133.58:62217
+      - 162.0.220.219:45624
+      - 67.213.210.62:15163
+      - 108.181.133.58:17870
+      - 174.138.176.77:43991
+      - 108.181.132.115:46143
+      - 108.181.132.116:45532
+      - 38.91.106.214:10772
+      - 162.0.220.219:47479
+      - 162.0.220.215:39027
+      - 174.138.176.74:59387
+      - 174.138.176.76:17642
+      - 108.181.133.59:10670
+      - 108.181.132.116:20748
+      - 108.181.132.116:31396
+      - 67.213.210.167:10389
+      - 174.138.176.74:50050
+      - 66.23.233.210:15142
+      - 66.29.128.244:10345
+      - 66.23.233.210:62414
+      - 66.29.128.241:40509
+      - 66.29.128.242:30897
+      - 66.29.128.241:50942
+      - 67.213.212.57:16274
+      - 212.83.138.132:41407
+      - 67.213.212.57:15819
+      - 66.29.128.243:27065
+      - 67.213.212.40:13401
+      - 23.105.170.33:48205
+      - 67.213.212.50:23195
+      - 66.29.128.245:41349
+      - 23.105.170.35:32322
+      - 162.0.220.220:47645
+      - 66.29.128.243:42873
+      - 66.29.128.242:50863
+      - 67.213.212.52:64853
+      - 66.29.128.242:28462
+      - 67.213.212.47:16291
+      - 67.213.212.52:26571
+      - 174.138.176.77:23729
+      - 162.19.7.50:46171
+      - 38.91.107.2:47895
+      - 174.138.176.77:35455
+      - 162.0.220.216:48707
+      - 174.138.176.77:23433
+      - 66.29.129.53:65149
+      - 67.213.210.167:42372
+      - 174.138.176.74:17008
+      - 67.213.210.115:51262
+      - 108.181.132.115:10661
+      - 162.0.220.216:63330
+      - 67.213.210.167:10413
+      - 162.0.220.216:30531
+rules:
+  - MATCH,FASTSSH-SSHKIT-HOWDY
