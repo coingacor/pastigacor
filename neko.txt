@@ -496,8 +496,8 @@ proxy-groups:
       - DIRECT
   - name: BEST-PING
     type: url-test
-    url: http://hi.bonds.id/ping
-    interval: 300
+    url: https://cp.cloudflare.com/generate_204
+    interval: 600
     tolerance: 50
     proxies:
       - 162.0.220.219:46865
