@@ -577,6 +577,7 @@ proxy-groups:
       - 67.213.210.167:10413
       - 162.0.220.216:30531
 rules:
+  - DOMAIN-KEYWORD,ferngrowth,REJECT
   - RULE-SET,oisd_big,REJECT
   - MATCH,MTGGLOBALS 
 rule-providers:
