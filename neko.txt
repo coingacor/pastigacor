@@ -578,7 +578,7 @@ proxy-groups:
       - 162.0.220.216:30531
 rules:
   - RULE-SET,oisd_big,REJECT
-  - MATCH,MTGLOBALS 
+  - MATCH,MTGGLOBALS 
 rule-providers:
   oisd_big:
     type: http
