@@ -12,3 +12,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsV2FHUFZGam1uYWc@205.134.180.139:443#%F0%9F%
 ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443#%F0%9F%87%BA%F0%9F%87%B8US-184.170.241.194-0670
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1Y3A5WjNpV25KWjI@205.134.180.151:443#%F0%9F%87%BA%F0%9F%87%B8US-205.134.180.151-0679
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvX0E3aW5OMXlxZVd0T1RM@104.207.155.64:1633#%F0%9F%87%BA%F0%9F%87%B8US-104.207.155.64-0666
+socks://209.159.153.19:32429# 0.228 | SOCKS5 | Georgia | 30519 | 71-146-182-35.lightspeed.tukrga.sbcglobal.net | United States | Checked at https://tisocks.net
+socks://108.181.132.115:14993# 0.301 | SOCKS5 | New Hampshire# 03449 | pool-70-109-164-194.cncdnh.east.myfairpoint.net | United States | Checked at https://tisocks.net
+socks://67.213.212.57:28735# 0.431 | SOCKS5 | Florida | 33125 | 66-73-160-151.lightspeed.miamfl.sbcglobal.net | United States | Checked at https://tisocks.net
+socks://67.213.212.57:37752# 0.432 | SOCKS5 | Florida | 33055 | 67-38-15-72.lightspeed.miamfl.sbcglobal.net | United States | Checked at https://tisocks.net
