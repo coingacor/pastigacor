@@ -1,37 +1,4 @@
-socks://67.213.212.54:18239#🇺🇸 California|San Diego|92101|64-109-66-209.ded.ameritech.net| 64.109.66.209 |Time View 23/07/2024 23:58:59 |Black List Yes |Use Type: Business|
-socks5://67.213.212.39:62141#🇺🇸 Florida|Wellington|33414|c-73-245-144-148.hsd1.fl.comcast.net| 73.245.144.148 |Time View 23/07/2024 23:58:56 |Black List Yes |Use Type: Residential|
-socks://67.213.212.49:10316#🇺🇸 Illinois|La Grange|60525|c-98-206-10-54.hsd1.il.comcast.net| 98.206.10.54 |Time View 23/07/2024 23:58:49 |Black List Yes |Use Type: Residential|
-socks://67.213.212.38:55758#🇺🇸 New York|Brooklyn|11214|ool-457335dc.dyn.optonline.net| 69.115.53.220 |Time View 23/07/2024 23:58:45 |Black List Yes |Use Type: Residential|
-socks://67.213.212.36:58433#🇺🇸 New Jersey|Camden|08105|c-174-166-177-116.hsd1.nj.comcast.net| 174.166.177.116 |Time View 23/07/2024 23:58:41 |Black List Yes |Use Type: Residential|
-socks://67.213.212.51:34528#🇺🇸 Indiana|Gary|46406|c-73-208-235-33.hsd1.in.comcast.net| 73.208.235.33 |Time View 23/07/2024 23:58:36 |Black List Yes |Use Type: Residential|
-socks://38.91.107.229:32001#🇺🇸 Pennsylvania|Wilkes-Barre|18701|Loop Internet| 23.174.1.11 |Time View 23/07/2024 23:58:30 |Black List Yes |Use Type: Business|
-socks://108.181.132.116:47300#🇺🇸 Georgia|Hawkinsville|31036|Hargray Communications Group, Inc.| 170.205.174.197 |Time View 23/07/2024 23:58:24 |Black List Yes |Use Type: Business|
-socks://108.181.133.59:30029#🇺🇸 Arizona|Florence|85132|ip68-99-255-120.ph.ph.cox.net| 68.99.255.120 |Time View 23/07/2024 23:58:19 |Black List Yes |Use Type: Business|
-socks://108.181.132.118:48718#🇺🇸 Georgia|Hawkinsville|31036|Hargray Communications Group, Inc.| 170.205.177.173 |Time View 23/07/2024 23:58:04 |Black List Yes |Use Type: Business|
-socks://23.105.170.32:47872#🇺🇸 Pennsylvania|Norristown|19401|Verizon Business| 209.118.76.70 |Time View 23/07/2024 23:58:02 |Black List Yes |Use Type: Business|
-socks://162.0.220.215:61763#🇺🇸 Michigan|Macomb|48044|c-107-5-68-16.hsd1.mi.comcast.net| 107.5.68.16 |Time View 23/07/2024 23:57:51 |Black List Yes |Use Type: Residential|
-socks://212.83.138.132:61615#🇺🇸 New York|Essex|12936|First Light Fiber| 67.217.121.16 |Time View 23/07/2024 23:57:47 |Black List Yes |Use Type: Residential|
-socks://67.213.212.36:52906#🇺🇸 New Jersey|Annandale|08801|c-73-33-244-45.hsd1.nj.comcast.net| 73.33.244.45 |Time View 23/07/2024 23:57:44 |Black List Yes |Use Type: Residential|
-socks://67.213.212.36:43573#🇺🇸 Ohio|Columbus|43215|97-65-68-131.brescobroadband.com| 97.65.68.131 |Time View 23/07/2024 23:57:41 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:24362#🇺🇸 North Carolina|Charlotte|28262|216-249-100-114.intouchit.com| 216.249.100.114 |Time View 23/07/2024 23:57:39 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:29417#🇺🇸 Montana|Big Sky|59716|65-19-226-33.3rivers.net| 65.19.226.33 |Time View 23/07/2024 23:57:35 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:10638#🇺🇸 Washington|Ellensburg|98926|static-66-243-251-87.ellensburg.fairpoint.net| 66.243.251.87 |Time View 23/07/2024 23:57:26 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:13347#🇺🇸 Illinois|Glenview|60025|99-18-13-33.lightspeed.wlfrct.sbcglobal.net| 99.18.13.33 |Time View 23/07/2024 23:57:19 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:13771#🇺🇸 North Carolina|Washington|27889|207-192-227-12.washnc.static.suddenlink.net| 207.192.227.12 |Time View 23/07/2024 23:57:06 |Black List Yes |Use Type: Residential|
-socks://67.213.212.55:45795#🇺🇸 Pennsylvania|Philadelphia|19118|50-251-52-226-static.hfc.comcastbusiness.net| 50.251.52.226 |Time View 23/07/2024 23:56:56 |Black List Yes |Use Type: Residential|
-socks://67.213.212.57:43183#🇺🇸 Michigan|Bath|48808|d149-67-169-85.clv.wideopenwest.com| 67.149.85.169 |Time View 23/07/2024 23:56:52 |Black List Yes |Use Type: Business|
-socks://174.138.176.78:29969#🇺🇸 Maine|Steuben|04680|pool-70-20-62-146.man.east.myfairpoint.net| 70.20.62.146 |Time View 23/07/2024 23:56:39 |Black List Yes |Use Type: Business|
-socks://108.181.133.59:24726#🇺🇸 Virginia|Charlottesville|22903|c-174-179-112-167.hsd1.va.comcast.net| 174.179.112.167 |Time View 23/07/2024 23:56:36 |Black List Yes |Use Type: Residential|
-socks://67.213.212.52:39534#🇺🇸 Michigan|Lincoln Park|48146|c-68-41-127-225.hsd1.mi.comcast.net| 68.41.127.225 |Time View 23/07/2024 23:56:34 |Black List Yes |Use Type: Residential|
-socks://67.213.212.40:10712#🇺🇸 North Carolina|Lexington|27292|syn-066-057-019-130.biz.spectrum.com| 66.57.19.130 |Time View 23/07/2024 23:56:22 |Black List Yes |Use Type: Business|
-socks://162.19.7.47:10796#🇺🇸 Florida|Miami|33162|c-73-49-187-222.hsd1.fl.comcast.net| 73.49.187.222 |Time View 23/07/2024 23:56:15 |Black List Yes |Use Type: Residential|
-socks://66.29.128.245:61651#🇺🇸 Alabama|Foley|36535|75-175-87-52.dthn.centurylink.net| 75.175.87.52 |Time View 23/07/2024 23:56:11 |Black List Yes |Use Type: Business|
-socks://67.213.212.47:54985#🇺🇸 Massachusetts|Melrose|02176|static-72-73-96-232.ptldme.east.myfairpoint.net| 72.73.96.232 |Time View 23/07/2024 23:56:02 |Black List Yes |Use Type: Business|
-socks://67.213.212.56:30714#🇺🇸 Washington|Seattle|98146|c-76-104-235-125.hsd1.wa.comcast.net| 76.104.235.125 |Time View 23/07/2024 23:56:00 |Black List Yes |Use Type: Residential|
-socks://67.213.212.51:10539#🇺🇸 Colorado|Englewood|80113|c-73-34-216-161.hsd1.co.comcast.net| 73.34.216.161 |Time View 23/07/2024 23:55:51 |Black List Yes |Use Type: Residential|
-socks://67.213.212.38:57597#🇺🇸 Washington|Puyallup|98371|50-248-213-190-static.hfc.comcastbusiness.net| 50.248.213.190 |Time View 23/07/2024 23:55:48 |Black List Yes |Use Type: Residential|
-socks://23.105.170.33:43112#🇺🇸 Texas|College Station|77840|Suddenlink Communications| 75.108.22.155 |Time View 23/07/2024 23:55:40 |Black List Yes |Use Type: Business|
-socks://162.19.7.59:46467#🇺🇸 New Jersey|Irvington|07111|pool-74-102-189-27.nwrknj.fios.verizon.net| 74.102.189.27 |Time View 23/07/2024 23:55:24 |Black List Yes |Use Type: Residential|
-socks://212.83.142.149:21953#🇮🇪 Leinster|Dublin|D22|213-202-158-243.bas503.dsl.esat.net| 213.202.158.243 |Time View 23/07/2024 23:23:17 |Black List Yes |Use Type: Residential|
-socks://212.83.142.100:15971#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 23/07/2024 23:23:03 |Black List Yes |Use Type: Business|
-socks://212.83.142.131:32951#🇮🇪 Leinster|Gorey|Y25|Js Whizzy Internet Limited| 79.143.201.176 |Time View 23/07/2024 05:25:55 |Black List No |Use Type: Business|
+socks://67.213.210.167:58655#🇺🇸 Georgia|Hawkinsville|31036|102.169.205.170.dynamic-pool.hargray.net| 170.205.169.102 |Time View 01/08/2024 16:11:54 |Black List Yes |Use Type: Business|
+socks://162.0.220.220:60579#🇺🇸 Georgia|Lincolnton|30817|static-65-182-136-137.nu-z.net| 65.182.136.137 |Time View 01/08/2024 16:11:04 |Black List Yes |Use Type: Business|
+socks://174.138.176.74:62592#🇺🇸 Georgia|Washington|30673|static-173-233-187-27.nu-z.net| 173.233.187.27 |Time View 01/08/2024 16:10:06 |Black List No |Use Type: Business|
+socks://67.213.210.115:11144#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 64.179.193.229 |Time View 01/08/2024 16:08:22 |Black List No |Use Type: Business|
