@@ -29,8 +29,7 @@ proxies:
   - {name: JP-185.172.113.182-0767, server: 185.172.113.182, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: JP-185.172.113.182-0765, server: 185.172.113.182, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: JP-185.172.113.182-0772, server: 185.172.113.182, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: JAMU, server: vpn.ucuwardani.my.id, port: 43229, type: trojan, password: rJ3r5w5845, skip-cert-verify: true, sni: "", udp: true}
-  - {name: JAMU2, server: vpn.ucuwardani.my.id, port: 22100, type: ss, cipher: chacha20-ietf-poly1305, password: XOTuGBecrloI5jPI4cHaxXg+IKlQYcbcj4HGHr+rQzA=, udp: true}
+  - {name: JAMU, server: vpn.ucuwardani.my.id, port: 22100, type: ss, cipher: chacha20-ietf-poly1305, password: XOTuGBecrloI5jPI4cHaxXg+IKlQYcbcj4HGHr+rQzA=, udp: true}
 
 proxy-groups:
   - name: CUAN
@@ -44,7 +43,7 @@ proxy-groups:
     #interval: 150
     #tolerance: 50
     proxies:
-      - ANYTHINK
+      - JAMU
       - US-BestPing
       - US-205.134.180.147-0678
       - US-205.134.180.145-0675
