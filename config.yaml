@@ -29,6 +29,7 @@ proxies:
   - {name: JP-185.172.113.182-0767, server: 185.172.113.182, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: JP-185.172.113.182-0765, server: 185.172.113.182, port: 812, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: JP-185.172.113.182-0772, server: 185.172.113.182, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: JAMU, server: vpn.ucuwardani.my.id, port: 43229, type: trojan, password: rJ3r5w5845, skip-cert-verify: true, sni: "", udp: true}
 
 proxy-groups:
   - name: CUAN
@@ -36,12 +37,13 @@ proxy-groups:
     proxies:
       - DIRECT
       - GameAmong
-  - name: US
+  - name: PEAKWD
     type: select
     #url: http://www.msftconnecttest.com/connecttest.txt
     #interval: 150
     #tolerance: 50
     proxies:
+      - JAMU
       - US-BestPing
       - US-205.134.180.147-0678
       - US-205.134.180.145-0675
@@ -76,7 +78,7 @@ proxy-groups:
       - US-205.134.180.151-0679
       - US-104.207.155.64-0666
 rules:
-  - DOMAIN-KEYWORD,peakwoods,US
+  - DOMAIN-KEYWORD,peakwoods,PEAKWD
   - DOMAIN-KEYWORD,mintegral,REJECT
   - DOMAIN,tk.anythinktech.com,DIRECT
   - DOMAIN-KEYWORD,anythinktech,ANYTHINK
