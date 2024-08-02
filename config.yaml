@@ -44,8 +44,7 @@ proxy-groups:
     #interval: 150
     #tolerance: 50
     proxies:
-      - JAMU
-      - JAMU2
+      - ANYTHINK
       - US-BestPing
       - US-205.134.180.147-0678
       - US-205.134.180.145-0675
