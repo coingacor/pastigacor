@@ -49,12 +49,13 @@ proxy-groups:
       - US-184.170.241.194-0670
       - US-205.134.180.151-0679
       - US-104.207.155.64-0666
-  - name: JPN
+  - name: ANYTHINK
     type: select
     #url: http://www.msftconnecttest.com/connecttest.txt
     #interval: 150
     #tolerance: 50
     proxies:
+      - US-BestPing
       - JP-185.172.113.182-0771
       - JP-185.172.113.182-0768
       - JP-185.172.113.182-0769
@@ -63,7 +64,7 @@ proxy-groups:
       - JP-185.172.113.182-0765
       - JP-185.172.113.182-0772
   - name: US-BestPing
-    type: select
+    type: url-test
     url: https://cp.cloudflare.com/generate_204
     interval: 300
     tolerance: 50
@@ -78,6 +79,6 @@ rules:
   - DOMAIN-KEYWORD,peakwoods,US
   - DOMAIN-KEYWORD,mintegral,REJECT
   - DOMAIN,tk.anythinktech.com,DIRECT
-  - DOMAIN-KEYWORD,anythinktech,JPN
+  - DOMAIN-KEYWORD,anythinktech,ANYTHINK
   - MATCH,CUAN
 rule-providers:
