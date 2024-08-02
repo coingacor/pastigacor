@@ -1,4 +1,0 @@
-socks://67.213.210.167:58655#🇺🇸 Georgia|Hawkinsville|31036|102.169.205.170.dynamic-pool.hargray.net| 170.205.169.102 |Time View 01/08/2024 16:11:54 |Black List Yes |Use Type: Business|
-socks://162.0.220.220:60579#🇺🇸 Georgia|Lincolnton|30817|static-65-182-136-137.nu-z.net| 65.182.136.137 |Time View 01/08/2024 16:11:04 |Black List Yes |Use Type: Business|
-socks://174.138.176.74:62592#🇺🇸 Georgia|Washington|30673|static-173-233-187-27.nu-z.net| 173.233.187.27 |Time View 01/08/2024 16:10:06 |Black List No |Use Type: Business|
-socks://67.213.210.115:11144#🇺🇸 Georgia|Hartwell|30643|HART COMMUNICATIONS, INC.| 64.179.193.229 |Time View 01/08/2024 16:08:22 |Black List No |Use Type: Business|
