@@ -35,7 +35,6 @@ proxy-groups:
   - name: CUAN
     type: select
     proxies:
-      - DIRECT
       - GameAmong
   - name: PEAKWD
     type: select
