@@ -15,3 +15,4 @@ socks://108.181.132.115:64702#🇺🇸 Georgia|Loganville|30052|c-73-43-177-50.h
 socks://38.91.106.214:23194#🇺🇸 Georgia|Washington|30673|static-173-233-191-86.nu-z.net| 173.233.191.86 |Time View 02/08/2024 14:38:39 |Black List No |Use Type: Business|
 socks://212.83.143.151:65131|Russia|Moscow|Moscow|117485|Cloud Hosting Solutions, Limited.| 217.114.43.56 |Time View 02/08/2024 00:34:16 |Black List Yes |Use Type: Hosting|
 socks://51.83.116.6:49840|Russia|Krasnoyarsk Krai|Zheleznogorsk|662970|Rostelecom networks| 95.188.92.251 |Time View 02/08/2024 00:32:35 |Black List No |Use Type: Business|
+socks://66.29.128.243:12134
