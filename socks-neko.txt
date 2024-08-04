@@ -1,76 +1,30 @@
-socks://162.0.220.219:46865
-socks://162.0.220.217:23656
-socks://162.0.220.217:20774
-socks://108.181.133.58:24508
-socks://108.181.132.116:15532
-socks://108.181.132.116:64887
-socks://174.138.176.77:16201
-socks://162.19.7.47:29112
-socks://174.138.176.74:46310
-socks://67.213.210.167:22297
-socks://162.0.220.219:25657
-socks://162.0.220.219:16553
-socks://162.0.220.219:53019
-socks://174.138.176.78:33800
-socks://174.138.176.76:30915
-socks://38.91.107.220:54082
-socks://67.213.210.168:61267
-socks://108.181.132.115:60087
-socks://162.0.220.220:60231
-socks://162.0.220.161:11209
-socks://162.19.7.47:36009
-socks://162.0.220.220:30833
-socks://174.138.176.74:55113
-socks://108.181.133.58:62217
-socks://162.0.220.219:45624
-socks://67.213.210.62:15163
-socks://108.181.133.58:17870
-socks://174.138.176.77:43991
-socks://108.181.132.115:46143
-socks://108.181.132.116:45532
-socks://38.91.106.214:10772
-socks://162.0.220.219:47479
-socks://162.0.220.215:39027
-socks://174.138.176.74:59387
-socks://174.138.176.76:17642
-socks://108.181.133.59:10670
-socks://108.181.132.116:20748
-socks://108.181.132.116:31396
-socks://67.213.210.167:10389
-socks://174.138.176.74:50050
-socks://66.23.233.210:15142
-socks://66.29.128.244:10345
-socks://66.23.233.210:62414
-socks://66.29.128.241:40509
-socks://66.29.128.242:30897
-socks://66.29.128.241:50942
-socks://67.213.212.57:16274
-socks://212.83.138.132:41407
-socks://67.213.212.57:15819
-socks://66.29.128.243:27065
-socks://67.213.212.40:13401
-socks://23.105.170.33:48205
-socks://67.213.212.50:23195
-socks://66.29.128.245:41349
-socks://23.105.170.35:32322
-socks://162.0.220.220:47645
-socks://66.29.128.243:42873
-socks://66.29.128.242:50863
-socks://67.213.212.52:64853
-socks://66.29.128.242:28462
-socks://67.213.212.47:16291
-socks://67.213.212.52:26571
-socks://174.138.176.77:23729
-socks://162.19.7.50:46171
-socks://38.91.107.2:47895
-socks://174.138.176.77:35455
-socks://162.0.220.216:48707
-socks://174.138.176.77:23433
-socks://66.29.129.53:65149
-socks://67.213.210.167:42372
-socks://174.138.176.74:17008
-socks://67.213.210.115:51262
-socks://108.181.132.115:10661
-socks://162.0.220.216:63330
-socks://67.213.210.167:10413
-socks://162.0.220.216:30531
+socks://138.201.21.228:23001#🇬🇧  England RM8 seve-26-b2-v4wan-168488-cust366.vm13.cable.virginm.net Blacklist: No 
+socks://138.201.21.228:46692#🇬🇧  England RM8 seve-26-b2-v4wan-168488-cust366.vm13.cable.virginm.net Blacklist: No 
+socks://138.201.21.228:46692#🇬🇧  England RM8 seve-26-b2-v4wan-168488-cust366.vm13.cable.virginm.net Blacklist: No 
+socks://138.201.21.228:46692#🇬🇧  England RM8 seve-26-b2-v4wan-168488-cust366.vm13.cable.virginm.net Blacklist: No 
+socks://198.54.113.32:64521#🇺🇸  England 30024 server1.usssa.us.com Blacklist: No 
+socks://162.214.162.156:37559#🇺🇸  Unknown Unknown vps-5467249.server.seline.com.br Blacklist: No 
+socks://166.62.35.102:62787#🇺🇸  Unknown Unknown 102.35.62.166.host.secureserver.net Blacklist: No 
+socks://162.144.33.230:29798#🇺🇸  Unknown Unknown server.digitalfarmuae.com Blacklist: No 
+socks://147.124.212.31:35970#🇺🇸  Texas 75270 Majestic Hosting Solutions LLC Blacklist: No 
+socks://209.159.153.22:26361#🇺🇸  New York 10466 ool-4a5a374e.dyn.optonline.net Blacklist: No 
+socks://108.181.132.118:62242#🇺🇸  South Carolina 29910 Hargray Communications Group Inc. Blacklist: No 
+socks://67.213.212.57:12860#🇺🇸  Pennsylvania 19342 pool-173-59-5-192.phlapa.fios.verizon.net Blacklist: No 
+socks://67.213.212.52:51038#🇺🇸  Ohio 44139 syn-173-088-162-165.res.spectrum.com Blacklist: No 
+socks://67.213.212.50:14919#🇺🇸  Texas 79902 syn-192-063-125-160.res.spectrum.com Blacklist: No 
+socks://67.213.212.49:61970#🇺🇸  Ohio 44104 syn-024-166-094-198.res.spectrum.com Blacklist: No 
+socks://209.159.153.22:26361#🇺🇸  New York 10466 ool-4a5a374e.dyn.optonline.net Blacklist: No 
+socks://206.189.184.213:51023#🇺🇸  New Jersey 7047 DigitalOcean LLC Blacklist: No 
+socks://67.213.212.49:24942#🇺🇸  Pennsylvania 19082 c-71-230-199-196.hsd1.pa.comcast.net Blacklist: No 
+socks://162.0.220.215:27696#🇺🇸  Florida 33619 Frontier Communications Solutions Blacklist: No 
+socks://66.23.233.210:46534#🇺🇸  Maryland 21061 Comcast Cable Communications Blacklist: No 
+socks://209.159.153.22:26361#🇺🇸  New York 10466 ool-4a5a374e.dyn.optonline.net Blacklist: No 
+socks://67.213.212.50:14919#🇺🇸  Texas 79902 syn-192-063-125-160.res.spectrum.com Blacklist: Yes 
+socks://23.105.170.33:39915#🇺🇸  Florida 33178 96-71-22-206-static.hfc.comcastbusiness.net Blacklist: No 
+socks://67.213.212.49:24942#🇺🇸  Pennsylvania 19082 c-71-230-199-196.hsd1.pa.comcast.net Blacklist: No 
+socks://66.23.233.210:49542#🇺🇸  Illinois 60540 74-94-110-129-illinois.hfc.comcastbusiness.net Blacklist: No 
+socks://209.159.153.20:42718#🇺🇸  Michigan 48239 dynamic-24-35-15-191.wideopenwest.com Blacklist: No 
+socks://66.23.233.210:46534#🇺🇸  Maryland 21061 Comcast Cable Communications Blacklist: No 
+socks://209.159.153.22:26361#🇺🇸  New York 10466 ool-4a5a374e.dyn.optonline.net Blacklist: No 
+socks://162.0.220.215:27696#🇺🇸  Florida 33619 Frontier Communications Solutions Blacklist: No 
+socks://23.105.170.33:39915#🇺🇸  Florida 33178 96-71-22-206-static.hfc.comcastbusiness.net Blacklist: No 
