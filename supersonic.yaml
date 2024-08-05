@@ -115,6 +115,10 @@ rules:
   - DOMAIN,gw.mediation.unity3d.com,SUPERSONIC
   - DOMAIN,o-sdk.mediation.unity3d.com,SUPERSONIC
   - DOMAIN,cdn.iads.unity3d.com,SUPERSONIC
+  - DOMAIN-KEYWORD,tpbid,REJECT
+  - DOMAIN-KEYWORD,liftoff,REJECT
+  - RULE-SET,rule_basicads,REJECT
+  - RULE-SET,rule_personalads,REJECT
   - RULE-SET,IKLANRUSAK,REJECT
   - RULE-SET,AddOn,REJECT
   - MATCH,IKLAN
@@ -130,4 +134,16 @@ rule-providers:
     type: http
     url: "https://raw.githubusercontent.com/coingacor/pastigacor/main/AddOn.yaml"
     path: ./AddOn.yaml
+    interval: 999999
+  rule_basicads:
+    behavior: "domain" 
+    type: http
+    url: "https://raw.githubusercontent.com/malikshi/open_clash/main/rule_provider/rule_basicads.yaml"
+    path: ./rule_basicads.yaml
+    interval: 999999
+  rule_personalads:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/malikshi/open_clash/main/rule_provider/rule_personalads.yaml"
+    path: "./rule_personalads.yaml"
     interval: 999999
