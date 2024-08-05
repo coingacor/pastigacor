@@ -65,6 +65,7 @@ proxy-groups:
     interval: 30
 
 rules:
+  - DOMAIN-KEYWORD,supersonicads,AD-SOURCE
   - DOMAIN,gw.mediation.unity3d.com,AD-SOURCE
   - DOMAIN,o-sdk.mediation.unity3d.com,AD-SOURCE
   - DOMAIN,cdn.iads.unity3d.com,AD-SOURCE
