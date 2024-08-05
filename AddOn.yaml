@@ -16,3 +16,6 @@ payload:
   - DOMAIN,config.uca.cloud.unity3d.com
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN,cdp.cloud.unity.cn
+  - DOMAIN,outcome-cdn.supersonicads.com
+  - DOMAIN,outcome6.supersonicads.com
+  - DOMAIN,pixel-tracking.sonic-us.supersonicads.com
