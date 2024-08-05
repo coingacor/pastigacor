@@ -60,6 +60,8 @@ proxy-groups:
     proxies:
       - SUPERSONIC
       - MTGGLOBALS
+      - IE-FALLBACK
+      - US-FALLBACK
   - name: SUPERSONIC
     type: select
     proxies:
