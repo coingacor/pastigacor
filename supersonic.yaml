@@ -1,0 +1,72 @@
+port: 7890
+socks-port: 7891
+redir-port: 7892
+allow-lan: false
+bind-address: "aaaa::a8aa:ff:fe09:57d8"
+mode: rule
+log-level: silent
+external-controller: 127.0.0.1:9090
+experimental:
+  ignore-resolve-fail: true 
+hosts:
+  'mtalk.google.com': 108.177.125.188
+#   '*.clash.dev': 127.0.0.1
+#   'alpha.clash.dev': '::1'
+
+
+proxies:
+  - {name: SuperSonic, server: vpn.ucuwardani.my.id, port: 37753, type: ss, cipher: chacha20-ietf-poly1305, password: P5/M4nM9WMeMC43KZ+7SanRTvaTvxxOJrrkaWza6AJg=, udp: true}
+  - name: 🇮🇪 Leinster-Athlone-sky-78-19-234-71.bas512.cwt.btireland.net
+    type: socks5
+    server: 212.83.143.103
+    port: 36886
+  - name: 🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139
+    server: 212.83.142.100
+    port: 48103
+    type: socks5    
+  - name: 🇮🇪 Leinster|Dublin|D01|Three (Hutchison) - Mobile Subscriber CGNAT Pool 2| 80.233.50.212
+    server: 162.19.7.46
+    port: 14636
+    type: socks5
+  - name: 🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133
+    server: 212.83.137.150
+    port: 49616
+    type: socks5
+  - name: 🇮🇪 Leinster|Kilkenny|R95|sky-78-19-216-25.bas512.cwt.btireland.net| 78.19.216.25
+    server: 162.19.7.59
+    port: 32395
+    type: socks5
+
+proxy-groups:
+  - name: AD-BLOCKER
+    type: select
+    proxies:
+      - GameAmong
+  - name: AD-SOURCE
+    type: select
+    proxies:
+      - IE-FALLBACK
+      - 🇮🇪 Leinster-Athlone-sky-78-19-234-71.bas512.cwt.btireland.net
+      - 🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139
+      - 🇮🇪 Leinster|Dublin|D01|Three (Hutchison) - Mobile Subscriber CGNAT Pool 2| 80.233.50.212
+      - 🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133
+      - 🇮🇪 Leinster|Kilkenny|R95|sky-78-19-216-25.bas512.cwt.btireland.net| 78.19.216.25
+  - name: IE-FALLBACK
+    type: fallback
+    lazy: true
+    disable-udp: false
+    proxies:
+      - 🇮🇪 Leinster-Athlone-sky-78-19-234-71.bas512.cwt.btireland.net
+      - 🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139
+      - 🇮🇪 Leinster|Dublin|D01|Three (Hutchison) - Mobile Subscriber CGNAT Pool 2| 80.233.50.212
+      - 🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133
+      - 🇮🇪 Leinster|Kilkenny|R95|sky-78-19-216-25.bas512.cwt.btireland.net| 78.19.216.25
+    url: http://www.gstatic.com/generate_204
+    interval: 30
+
+rules:
+  - DOMAIN,gw.mediation.unity3d.com,AD-SOURCE
+  - DOMAIN,o-sdk.mediation.unity3d.com,AD-SOURCE
+  - DOMAIN,cdn.iads.unity3d.com,AD-SOURCE
+  - MATCH,AD-BLOCKER
+rule-providers:
