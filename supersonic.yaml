@@ -15,7 +15,6 @@ hosts:
 
 
 proxies:
-  - {name: ID-CLOUD, server: vpn.ucuwardani.my.id, port: 37753, type: ss, cipher: chacha20-ietf-poly1305, password: P5/M4nM9WMeMC43KZ+7SanRTvaTvxxOJrrkaWza6AJg=, udp: true}
   - name: 🇮🇪 Leinster-Athlone-sky-78-19-234-71.bas512.cwt.btireland.net
     type: socks5
     server: 212.83.143.103
@@ -59,7 +58,6 @@ proxy-groups:
   - name: IKLAN
     type: select
     proxies:
-      - ID-CLOUD
       - SUPERSONIC
       - MTGGLOBALS
   - name: SUPERSONIC
@@ -67,6 +65,7 @@ proxy-groups:
     proxies:
       - REJECT
       - IE-FALLBACK
+      - US-FALLBACK
   - name: MTGGLOBALS
     type: select
     proxies:
@@ -116,5 +115,19 @@ rules:
   - DOMAIN,gw.mediation.unity3d.com,SUPERSONIC
   - DOMAIN,o-sdk.mediation.unity3d.com,SUPERSONIC
   - DOMAIN,cdn.iads.unity3d.com,SUPERSONIC
+  - RULE-SET,IKLANRUSAK,REJECT
+  - RULE-SET,AddOn,REJECT
   - MATCH,IKLAN
 rule-providers:
+  IKLANRUSAK:
+    behavior: "classical" 
+    type: http
+    url: "https://raw.githubusercontent.com/Arifinfarm/clashmy/main/rule_provider/娜诶弗伊 哦艾诶.yaml"
+    path: ./IKLANRUSAK.yaml
+    interval: 999999
+  AddOn:
+    behavior: "classical" 
+    type: http
+    url: "https://raw.githubusercontent.com/coingacor/pastigacor/main/AddOn.yaml"
+    path: ./AddOn.yaml
+    interval: 999999
