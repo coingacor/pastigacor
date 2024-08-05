@@ -28,3 +28,7 @@ socks://66.23.233.210:46534#🇺🇸  Maryland 21061 Comcast Cable Communication
 socks://209.159.153.22:26361#🇺🇸  New York 10466 ool-4a5a374e.dyn.optonline.net Blacklist: No 
 socks://162.0.220.215:27696#🇺🇸  Florida 33619 Frontier Communications Solutions Blacklist: No 
 socks://23.105.170.33:39915#🇺🇸  Florida 33178 96-71-22-206-static.hfc.comcastbusiness.net Blacklist: No 
+socks://212.83.142.100:48103#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 05/08/2024 10:38:39 |Black List Yes |Use Type: Business|
+socks://162.19.7.46:14636#🇮🇪 Leinster|Dublin|D01|Three Ireland (Hutchison) - Mobile Subscriber CGNAT Pool 2| 80.233.50.212 |Time View 05/08/2024 10:38:33 |Black List Yes |Use Type: Cellular|
+socks://212.83.137.150:49616#🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133 |Time View 05/08/2024 10:38:25 |Black List No |Use Type: Business|
+socks://162.19.7.59:32395#🇮🇪 Leinster|Kilkenny|R95|sky-78-19-216-25.bas512.cwt.btireland.net| 78.19.216.25 |Time View 05/08/2024 10:38:23 |Black List Yes |Use Type: Business|
