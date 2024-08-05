@@ -56,10 +56,11 @@ proxies:
   - {name: 67.213.212.52:32340, server: 67.213.212.52, port: 32340, type: socks5, skip-cert-verify: false}
 
 proxy-groups:
-  - name: AD-BLOCKER
+  - name: IKLAN
     type: select
     proxies:
-      - AD-SOURCE
+      - SUPERSONIC
+      - MTGGLOBALS
   - name: SUPERSONIC
     type: select
     proxies:
@@ -110,9 +111,9 @@ proxy-groups:
 
 rules:
   - DOMAIN-KEYWORD,mtgglobals,MTGGLOBALS
-  - DOMAIN-KEYWORD,supersonicads,AD-SOURCE
-  - DOMAIN,gw.mediation.unity3d.com,AD-SOURCE
-  - DOMAIN,o-sdk.mediation.unity3d.com,AD-SOURCE
-  - DOMAIN,cdn.iads.unity3d.com,AD-SOURCE
-  - MATCH,AD-BLOCKER
+  - DOMAIN-KEYWORD,supersonicads,SUPERSONIC
+  - DOMAIN,gw.mediation.unity3d.com,SUPERSONIC
+  - DOMAIN,o-sdk.mediation.unity3d.com,SUPERSONIC
+  - DOMAIN,cdn.iads.unity3d.com,SUPERSONIC
+  - MATCH,IKLAN
 rule-providers:
