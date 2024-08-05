@@ -32,3 +32,5 @@ socks://212.83.142.100:48103#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.
 socks://162.19.7.46:14636#🇮🇪 Leinster|Dublin|D01|Three Ireland (Hutchison) - Mobile Subscriber CGNAT Pool 2| 80.233.50.212 |Time View 05/08/2024 10:38:33 |Black List Yes |Use Type: Cellular|
 socks://212.83.137.150:49616#🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133 |Time View 05/08/2024 10:38:25 |Black List No |Use Type: Business|
 socks://162.19.7.59:32395#🇮🇪 Leinster|Kilkenny|R95|sky-78-19-216-25.bas512.cwt.btireland.net| 78.19.216.25 |Time View 05/08/2024 10:38:23 |Black List Yes |Use Type: Business|
+socks://212.83.143.118:45664#🇨🇭 Aargau|Brugg|5200|75-230-221-81.pool.dsl-net.ch| 81.221.230.75 |Time View 05/08/2024 17:15:47 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://212.83.142.114:46607#🇨🇭 Vaud|Lausanne|1007|182.147.198.178.dynamic.cust.swisscom.net| 178.198.147.182 |Time View 05/08/2024 17:15:39 |Black List Yes |Use Type: Business|https://dichvusocks.net
