@@ -78,23 +78,23 @@ proxy-groups:
       - INDONESIA
       - SUPERSONIC
       - MTGGLOBALS
-      - US-SELECTOR
-      - IE-FALLBACK
-      - UK-FALLBACK
-      - US-FALLBACK
+      - 🇺🇸 SELECTOR
+      - 🇮🇪 FALLBACK
+      - 🇬🇧 FALLBACK
+      - 🇺🇸 FALLBACK
   - name: SUPERSONIC
     type: select
     proxies:
       - REJECT
-      - IE-FALLBACK
-      - US-FALLBACK
-      - UK-FALLBACK
+      - 🇮🇪 FALLBACK
+      - 🇺🇸 FALLBACK
+      - 🇬🇧 FALLBACK
   - name: MTGGLOBALS
     type: select
     proxies:
       - REJECT
-      - US-FALLBACK
-  - name: US-SELECTOR
+      - 🇺🇸 FALLBACK
+  - name: 🇺🇸 SELECTOR
     type: select
     proxies:
       - 138.199.41.25 - 🇺🇸 New York - New York - Datacamp Limited
@@ -111,7 +111,7 @@ proxy-groups:
       - 38.46.4.182 - 🇺🇸 California - Los Angeles - Zhejiang Aiyun Network Technology Co Ltd
       - 205.134.180.139 - 🇺🇸 District of Columbia - Washington - AIN
       - 38.107.226.146 - 🇺🇸 Virginia - Ashburn - AS - GLOBALTELEHOST
-  - name: IE-FALLBACK
+  - name: 🇮🇪 FALLBACK
     type: fallback
     lazy: true
     disable-udp: false
@@ -123,7 +123,7 @@ proxy-groups:
       - 🇮🇪 Leinster|Kilkenny|R95|sky-78-19-216-25.bas512.cwt.btireland.net| 78.19.216.25
     url: http://www.gstatic.com/generate_204
     interval: 30
-  - name: UK-FALLBACK
+  - name: 🇬🇧 FALLBACK
     type: fallback
     lazy: true
     disable-udp: false
@@ -132,7 +132,7 @@ proxy-groups:
       - Manchester-host-92-18-225-138.as13285.net
     url: http://www.gstatic.com/generate_204
     interval: 30
-  - name: US-FALLBACK
+  - name: 🇺🇸 FALLBACK
     type: fallback
     lazy: true
     disable-udp: false
