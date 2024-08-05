@@ -15,7 +15,7 @@ hosts:
 
 
 proxies:
-  - {name: GameAmong, server: vpn.ucuwardani.my.id, port: 1232, type: ss, cipher: chacha20-ietf-poly1305, password: VCapVmY8gNb5QCa3A33uUHm2cXGyBSgrAltt4bOH6sw=, udp: true}
+  - {name: GameAmong, server: vpn.ucuwardani.my.id, port: 1232, type: ss, cipher: chacha20-ietf-poly1305, password: fhZ/0bLGI45ZDqrvznw5hQugfoBoWESHqPMrraDdnig=, udp: true}
   - {name: 138.199.41.25 - 🇺🇸 New York - New York - Datacamp Limited, server: 138.199.41.25, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: dngn.phooeyunfold.com, udp: true}
   - {name: 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN, server: 205.134.180.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9Bvkw5aupNy8, udp: true}
   - {name: 89.187.181.172 - 🇺🇸 Illinois - Chicago - Datacamp Limited, server: 89.187.181.172, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: egcmi.phooeyunfold.com, udp: true}
