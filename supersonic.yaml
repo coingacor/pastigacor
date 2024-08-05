@@ -41,7 +41,7 @@ proxy-groups:
   - name: AD-BLOCKER
     type: select
     proxies:
-      - GameAmong
+      - SuperSonic
   - name: AD-SOURCE
     type: select
     proxies:
