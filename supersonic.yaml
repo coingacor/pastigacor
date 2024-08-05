@@ -36,21 +36,40 @@ proxies:
     server: 162.19.7.59
     port: 32395
     type: socks5
+  - {name: 66.29.129.56:48355, server: 66.29.129.56, port: 48355, type: socks5, skip-cert-verify: false}
+  - {name: 108.181.132.115:11196, server: 108.181.132.115, port: 11196, type: socks5, skip-cert-verify: false}
+  - {name: 66.29.128.245:39559, server: 66.29.128.245, port: 39559, type: socks5, skip-cert-verify: false}
+  - {name: 67.213.210.118:56896, server: 67.213.210.118, port: 56896, type: socks5, skip-cert-verify: false}
+  - {name: 108.181.132.116:37258, server: 108.181.132.116, port: 37258, type: socks5, skip-cert-verify: false}
+  - {name: 67.213.210.168:27125, server: 67.213.210.168, port: 27125, type: socks5, skip-cert-verify: false}
+  - {name: 174.138.176.77:17731, server: 174.138.176.77, port: 17731, type: socks5, skip-cert-verify: false}
+  - {name: 67.213.210.118:12905, server: 67.213.210.118, port: 12905, type: socks5, skip-cert-verify: false}
+  - {name: 162.0.220.220:25890, server: 162.0.220.220, port: 25890, type: socks5, skip-cert-verify: false}
+  - {name: 66.29.128.245:45609, server: 66.29.128.245, port: 45609, type: socks5, skip-cert-verify: false}
+  - {name: 23.105.170.33:41078, server: 23.105.170.33, port: 41078, type: socks5, skip-cert-verify: false}
+  - {name: 67.213.212.48:46293, server: 67.213.212.48, port: 46293, type: socks5, skip-cert-verify: false}
+  - {name: 67.213.212.49:65456, server: 67.213.212.49, port: 65456, type: socks5, skip-cert-verify: false}
+  - {name: 67.213.212.50:39748, server: 67.213.212.50, port: 39748, type: socks5, skip-cert-verify: false}
+  - {name: 174.138.176.76:33810, server: 174.138.176.76, port: 33810, type: socks5, skip-cert-verify: false}
+  - {name: 66.23.233.210:63977, server: 66.23.233.210, port: 63977, type: socks5, skip-cert-verify: false}
+  - {name: 67.213.212.36:12128, server: 67.213.212.36, port: 12128, type: socks5, skip-cert-verify: false}
+  - {name: 67.213.212.52:32340, server: 67.213.212.52, port: 32340, type: socks5, skip-cert-verify: false}
 
 proxy-groups:
   - name: AD-BLOCKER
     type: select
     proxies:
       - AD-SOURCE
-  - name: AD-SOURCE
+  - name: SUPERSONIC
     type: select
     proxies:
+      - REJECT
       - IE-FALLBACK
-      - 🇮🇪 Leinster-Athlone-sky-78-19-234-71.bas512.cwt.btireland.net
-      - 🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139
-      - 🇮🇪 Leinster|Dublin|D01|Three (Hutchison) - Mobile Subscriber CGNAT Pool 2| 80.233.50.212
-      - 🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133
-      - 🇮🇪 Leinster|Kilkenny|R95|sky-78-19-216-25.bas512.cwt.btireland.net| 78.19.216.25
+  - name: MTGGLOBALS
+    type: select
+    proxies:
+      - REJECT
+      - US-FALLBACK
   - name: IE-FALLBACK
     type: fallback
     lazy: true
@@ -63,8 +82,34 @@ proxy-groups:
       - 🇮🇪 Leinster|Kilkenny|R95|sky-78-19-216-25.bas512.cwt.btireland.net| 78.19.216.25
     url: http://www.gstatic.com/generate_204
     interval: 30
+  - name: US-FALLBACK
+    type: fallback
+    lazy: true
+    disable-udp: false
+    proxies:
+      - 66.29.129.56:48355
+      - 108.181.132.115:11196
+      - 66.29.128.245:39559
+      - 67.213.210.118:56896
+      - 108.181.132.116:37258
+      - 67.213.210.168:27125
+      - 174.138.176.77:17731
+      - 67.213.210.118:12905
+      - 162.0.220.220:25890
+      - 66.29.128.245:45609
+      - 23.105.170.33:41078
+      - 67.213.212.48:46293
+      - 67.213.212.49:65456
+      - 67.213.212.50:39748
+      - 174.138.176.76:33810
+      - 66.23.233.210:63977
+      - 67.213.212.36:12128
+      - 67.213.212.52:32340
+    url: http://www.gstatic.com/generate_204
+    interval: 30
 
 rules:
+  - DOMAIN-KEYWORD,mtgglobals,MTGGLOBALS
   - DOMAIN-KEYWORD,supersonicads,AD-SOURCE
   - DOMAIN,gw.mediation.unity3d.com,AD-SOURCE
   - DOMAIN,o-sdk.mediation.unity3d.com,AD-SOURCE
