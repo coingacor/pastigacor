@@ -50,24 +50,26 @@ proxies:
     server: 162.19.7.59
     port: 32395
     type: socks5
-  - {name: 66.29.129.56:48355, server: 66.29.129.56, port: 48355, type: socks5, skip-cert-verify: false}
-  - {name: 108.181.132.115:11196, server: 108.181.132.115, port: 11196, type: socks5, skip-cert-verify: false}
-  - {name: 66.29.128.245:39559, server: 66.29.128.245, port: 39559, type: socks5, skip-cert-verify: false}
-  - {name: 67.213.210.118:56896, server: 67.213.210.118, port: 56896, type: socks5, skip-cert-verify: false}
-  - {name: 108.181.132.116:37258, server: 108.181.132.116, port: 37258, type: socks5, skip-cert-verify: false}
-  - {name: 67.213.210.168:27125, server: 67.213.210.168, port: 27125, type: socks5, skip-cert-verify: false}
-  - {name: 174.138.176.77:17731, server: 174.138.176.77, port: 17731, type: socks5, skip-cert-verify: false}
-  - {name: 67.213.210.118:12905, server: 67.213.210.118, port: 12905, type: socks5, skip-cert-verify: false}
-  - {name: 162.0.220.220:25890, server: 162.0.220.220, port: 25890, type: socks5, skip-cert-verify: false}
-  - {name: 66.29.128.245:45609, server: 66.29.128.245, port: 45609, type: socks5, skip-cert-verify: false}
-  - {name: 23.105.170.33:41078, server: 23.105.170.33, port: 41078, type: socks5, skip-cert-verify: false}
-  - {name: 67.213.212.48:46293, server: 67.213.212.48, port: 46293, type: socks5, skip-cert-verify: false}
-  - {name: 67.213.212.49:65456, server: 67.213.212.49, port: 65456, type: socks5, skip-cert-verify: false}
-  - {name: 67.213.212.50:39748, server: 67.213.212.50, port: 39748, type: socks5, skip-cert-verify: false}
-  - {name: 174.138.176.76:33810, server: 174.138.176.76, port: 33810, type: socks5, skip-cert-verify: false}
-  - {name: 66.23.233.210:63977, server: 66.23.233.210, port: 63977, type: socks5, skip-cert-verify: false}
-  - {name: 67.213.212.36:12128, server: 67.213.212.36, port: 12128, type: socks5, skip-cert-verify: false}
-  - {name: 67.213.212.52:32340, server: 67.213.212.52, port: 32340, type: socks5, skip-cert-verify: false}
+  - {name: Hornchurch-Virgin Media, server: 138.201.21.228, port: 23001, type: socks5}
+  - {name: Manchester-host-92-18-225-138.as13285.net, server: 138.201.21.233, port: 35348, type: socks5}
+  - {name: 66.29.129.56:48355, server: 66.29.129.56, port: 48355, type: socks5}
+  - {name: 108.181.132.115:11196, server: 108.181.132.115, port: 11196, type: socks5}
+  - {name: 66.29.128.245:39559, server: 66.29.128.245, port: 39559, type: socks5}
+  - {name: 67.213.210.118:56896, server: 67.213.210.118, port: 56896, type: socks5}
+  - {name: 108.181.132.116:37258, server: 108.181.132.116, port: 37258, type: socks5}
+  - {name: 67.213.210.168:27125, server: 67.213.210.168, port: 27125, type: socks5}
+  - {name: 174.138.176.77:17731, server: 174.138.176.77, port: 17731, type: socks5}
+  - {name: 67.213.210.118:12905, server: 67.213.210.118, port: 12905, type: socks5}
+  - {name: 162.0.220.220:25890, server: 162.0.220.220, port: 25890, type: socks5}
+  - {name: 66.29.128.245:45609, server: 66.29.128.245, port: 45609, type: socks5}
+  - {name: 23.105.170.33:41078, server: 23.105.170.33, port: 41078, type: socks5}
+  - {name: 67.213.212.48:46293, server: 67.213.212.48, port: 46293, type: socks5}
+  - {name: 67.213.212.49:65456, server: 67.213.212.49, port: 65456, type: socks5}
+  - {name: 67.213.212.50:39748, server: 67.213.212.50, port: 39748, type: socks5}
+  - {name: 174.138.176.76:33810, server: 174.138.176.76, port: 33810, type: socks5}
+  - {name: 66.23.233.210:63977, server: 66.23.233.210, port: 63977, type: socks5}
+  - {name: 67.213.212.36:12128, server: 67.213.212.36, port: 12128, type: socks5}
+  - {name: 67.213.212.52:32340, server: 67.213.212.52, port: 32340, type: socks5}
 
 proxy-groups:
   - name: IKLAN
@@ -117,6 +119,15 @@ proxy-groups:
       - 🇮🇪 Leinster|Dublin|D01|Three (Hutchison) - Mobile Subscriber CGNAT Pool 2| 80.233.50.212
       - 🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133
       - 🇮🇪 Leinster|Kilkenny|R95|sky-78-19-216-25.bas512.cwt.btireland.net| 78.19.216.25
+    url: http://www.gstatic.com/generate_204
+    interval: 30
+  - name: UK-FALLBACK
+    type: fallback
+    lazy: true
+    disable-udp: false
+    proxies:
+      - Hornchurch-Virgin Media
+      - Manchester-host-92-18-225-138.as13285.net
     url: http://www.gstatic.com/generate_204
     interval: 30
   - name: US-FALLBACK
