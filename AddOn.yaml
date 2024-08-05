@@ -1,0 +1,17 @@
+payload:
+  - DOMAIN,beacons.gvt2.com
+  - DOMAIN,beacons.grpc.gvt2.com
+  - DOMAIN,track.tenjin.com
+  - DOMAIN,track.tenjin.io
+  - DOMAIN,logs.ironsrc.mobi
+  - DOMAIN,ae.iads.unity3d.com
+  - DOMAIN,c.iads.unity3d.com
+  - DOMAIN,o.iads.unity3d.com
+  - DOMAIN,o-pxt.iads.unity3d.com
+  - DOMAIN,w.isx.unity3d.com
+  - DOMAIN,o.isx.unity3d.com
+  - DOMAIN,o-iab.mediation.unity3d.com
+  - DOMAIN,check.unity.cn
+  - DOMAIN,config.uca.cloud.unity3d.com
+  - DOMAIN,cdp.cloud.unity3d.com
+  - DOMAIN,cdp.cloud.unity.cn
