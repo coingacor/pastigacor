@@ -1,2 +1,4 @@
-testjjh
-hh
+gw.mediation.unity3d.com,o-sdk.mediation.unity3d.com,cdn.iads.unity3d.com
+domain:outcome-cdn.supersonicads.com
+domain:outcome6.supersonicads.com
+domain:pixel-tracking.sonic-us.supersonicads.com

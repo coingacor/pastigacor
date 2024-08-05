@@ -7,6 +7,7 @@ payload:
   - DOMAIN,ae.iads.unity3d.com
   - DOMAIN,c.iads.unity3d.com
   - DOMAIN,o.iads.unity3d.com
+  - DOMAIN,o6.iads.unity3d.com
   - DOMAIN,o-pxt.iads.unity3d.com
   - DOMAIN,w.isx.unity3d.com
   - DOMAIN,o.isx.unity3d.com
@@ -15,3 +16,6 @@ payload:
   - DOMAIN,config.uca.cloud.unity3d.com
   - DOMAIN,cdp.cloud.unity3d.com
   - DOMAIN,cdp.cloud.unity.cn
+  - DOMAIN,outcome-cdn.supersonicads.com
+  - DOMAIN,outcome6.supersonicads.com
+  - DOMAIN,pixel-tracking.sonic-us.supersonicads.com
