@@ -59,6 +59,7 @@ proxy-groups:
   - name: IKLAN
     type: select
     proxies:
+      - INDONESIA
       - SUPERSONIC
       - MTGGLOBALS
       - IE-FALLBACK
