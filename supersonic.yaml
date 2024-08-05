@@ -80,6 +80,7 @@ proxy-groups:
       - MTGGLOBALS
       - US-SELECTOR
       - IE-FALLBACK
+      - UK-FALLBACK
       - US-FALLBACK
   - name: SUPERSONIC
     type: select
