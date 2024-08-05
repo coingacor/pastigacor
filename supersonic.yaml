@@ -15,7 +15,7 @@ hosts:
 
 
 proxies:
-  - {name: SuperSonic, server: vpn.ucuwardani.my.id, port: 37753, type: ss, cipher: chacha20-ietf-poly1305, password: P5/M4nM9WMeMC43KZ+7SanRTvaTvxxOJrrkaWza6AJg=, udp: true}
+  - {name: ID-CLOUD, server: vpn.ucuwardani.my.id, port: 37753, type: ss, cipher: chacha20-ietf-poly1305, password: P5/M4nM9WMeMC43KZ+7SanRTvaTvxxOJrrkaWza6AJg=, udp: true}
   - name: 🇮🇪 Leinster-Athlone-sky-78-19-234-71.bas512.cwt.btireland.net
     type: socks5
     server: 212.83.143.103
@@ -59,6 +59,7 @@ proxy-groups:
   - name: IKLAN
     type: select
     proxies:
+      - ID-CLOUD
       - SUPERSONIC
       - MTGGLOBALS
   - name: SUPERSONIC
