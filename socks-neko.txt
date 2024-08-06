@@ -49,3 +49,4 @@ socks://174.138.176.74:63578#🇺🇸 Tennessee|Church Hill|37642|Holston Electr
 socks://162.0.220.216:11921#🇺🇸 Tennessee|Church Hill|37642|Holston Electric Cooperative| 65.17.181.206 |Time View 05/08/2024 11:29:51 |Black List Yes |Use Type: Business|
 socks://66.29.129.54:38667#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.197.255 |Time View 05/08/2024 11:23:56 |Black List No |Use Type: Business|
 socks://66.29.129.54:36397#🇺🇸 Tennessee|Bulls Gap|37711|Holston Electric Cooperative| 65.17.186.91 |Time View 05/08/2024 11:17:37 |Black List No |Use Type: Business|
+socks://67.213.212.51:43215
