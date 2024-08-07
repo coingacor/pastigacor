@@ -52,3 +52,8 @@ socks://66.29.129.54:36397#🇺🇸 Tennessee|Bulls Gap|37711|Holston Electric C
 socks://67.213.212.51:43215
 socks5://67.213.210.62:17328/#Tennessee%20
 socks5://212.83.137.239:13082/#Montana%09Willow%20Creek%09216-129-238-36.3rivers.net%09
+socks://67.213.210.168:16109#🇺🇸 Montana|Bozeman|59718|209-200-215-45.cutcom.net| 209.200.215.45 |Time View 07/08/2024 09:02:16 |Black List Yes |Use Type: Business|
+socks://67.213.212.48:28713#🇺🇸 Texas|Garland|75042|Frontier Communications Solutions| 47.188.104.162 |Time View 07/08/2024 09:01:11 |Black List Yes |Use Type: Residential|
+socks://212.83.137.165:49973#🇺🇸 Tennessee|Stantonville|38379|C Spire Fiber| 50.86.2.249 |Time View 07/08/2024 08:58:30 |Black List Yes |Use Type: Residential|
+socks://66.29.128.245:17631#🇺🇸 Tennessee|Harrogate|37752|Vyve Broadband| 38.178.110.212 |Time View 07/08/2024 08:57:33 |Black List No |Use Type: Residential|
+socks://37.221.193.221:37041#🇺🇸 Montana|Big Sky|59716|65-19-226-33.3rivers.net| 65.19.226.33 |Time View 07/08/2024 02:22:20 |Black List No |Use Type: Business|
