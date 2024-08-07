@@ -57,3 +57,14 @@ socks://67.213.212.48:28713#🇺🇸 Texas|Garland|75042|Frontier Communications
 socks://212.83.137.165:49973#🇺🇸 Tennessee|Stantonville|38379|C Spire Fiber| 50.86.2.249 |Time View 07/08/2024 08:58:30 |Black List Yes |Use Type: Residential|
 socks://66.29.128.245:17631#🇺🇸 Tennessee|Harrogate|37752|Vyve Broadband| 38.178.110.212 |Time View 07/08/2024 08:57:33 |Black List No |Use Type: Residential|
 socks://37.221.193.221:37041#🇺🇸 Montana|Big Sky|59716|65-19-226-33.3rivers.net| 65.19.226.33 |Time View 07/08/2024 02:22:20 |Black List No |Use Type: Business|
+socks:/)209.159.153.21:61388#🇺🇸 Minnesota|Battle Lake|56515|Arvig Enterprises Inc.| 38.159.6.230 |Time View 07/08/2024 14:02:39 |Black List No |Use Type: Business|
+socks:/)209.159.153.19:61594#🇺🇸 Michigan|Commerce|48382|c-68-48-151-182.hsd1.mi.comcast.net| 68.48.151.182 |Time View 07/08/2024 14:01:42 |Black List Yes |Use Type: Residential|
+socks:/)162.0.220.216:11238#🇺🇸 Montana|Ronan|59864|pub4206-183-123-28.ronan.net| 206.183.123.28 |Time View 07/08/2024 13:59:30 |Black List No |Use Type: Business|
+socks:/)195.154.43.86:32365#🇮🇪 Leinster|Kildare|R51|86-45-62-143-dynamic.agg2.kle.prp-wtd.eircom.net| 86.45.62.143 |Time View 07/08/2024 12:07:11 |Black List Yes |Use Type: Residential|
+socks:/)212.83.142.100:23514#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 07/08/2024 11:44:20 |Black List Yes |Use Type: Business|
+socks:/)108.181.132.117:33308#🇺🇸 Alabama|Scottsboro|35769|New Hope Telephone Cooperative| 107.190.204.104 |Time View 07/08/2024 09:39:47 |Black List Yes |Use Type: Business|
+socks:/)162.19.7.61:27106#🇺🇸 Missouri|Carthage|64836|173-216-110-1-cart.mid.dyn.suddenlink.net| 173.216.110.1 |Time View 07/08/2024 09:14:42 |Black List Yes |Use Type: Business|
+socks:/)66.29.129.54:42787#🇺🇸 Montana|Ronan|59864|pub4206-183-123-61.ronan.net| 206.183.123.61 |Time View 07/08/2024 09:12:04 |Black List No |Use Type: Business|
+socks:/)67.213.210.168:16109#🇺🇸 Montana|Bozeman|59718|209-200-215-45.cutcom.net| 209.200.215.45 |Time View 07/08/2024 09:02:16 |Black List Yes |Use Type: Business|
+socks:/)66.29.128.245:17631#🇺🇸 Tennessee|Harrogate|37752|Vyve Broadband| 38.178.110.212 |Time View 07/08/2024 08:57:33 |Black List No |Use Type: Residential|
+socks:/)37.221.193.221:37041#🇺🇸 Montana|Big Sky|59716|65-19-226-33.3rivers.net| 65.19.226.33 |Time View 07/08/2024 02:22:20 |Black List No |Use Type: Business|
