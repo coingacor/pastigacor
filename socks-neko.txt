@@ -68,3 +68,5 @@ socks://66.29.129.54:42787#🇺🇸 Montana|Ronan|59864|pub4206-183-123-61.ronan
 socks://67.213.210.168:16109#🇺🇸 Montana|Bozeman|59718|209-200-215-45.cutcom.net| 209.200.215.45 |Time View 07/08/2024 09:02:16 |Black List Yes |Use Type: Business|
 socks://66.29.128.245:17631#🇺🇸 Tennessee|Harrogate|37752|Vyve Broadband| 38.178.110.212 |Time View 07/08/2024 08:57:33 |Black List No |Use Type: Residential|
 socks://37.221.193.221:37041#🇺🇸 Montana|Big Sky|59716|65-19-226-33.3rivers.net| 65.19.226.33 |Time View 07/08/2024 02:22:20 |Black List No |Use Type: Business|
+socks://212.83.143.49:41020#🇬🇧 England|Oxford|OX4|cpc69387-oxfd28-2-0-cust977.4-3.cable.virginm.net| 82.16.135.210 |Time View 08/08/2024 11:41:41 |Black List No |Use Type: Residential|
+socks://138.201.21.228:30130#🇬🇧 England|Boston|PE21|host86-136-243-196.range86-136.btcentralplus.com| 86.136.243.196 |Time View 08/08/2024 11:40:30 |Black List Yes |Use Type: Business|
