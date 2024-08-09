@@ -1,4 +1,4 @@
-socks://162.0.220.214:12697# 0.67 | Tennessee | 37857 | Holston Electric Cooperative | United States | Blacklist: No | Checked at https://dichvusocks.us
-socks://174.138.176.77:39552# 0.77 | Tennessee | 37642 | Holston Electric Cooperative | United States | Blacklist: No | Checked at https://dichvusocks.us
-socks://38.91.106.214:42778# 0.75 | Tennessee | 37642 | Holston Electric Cooperative | United States | Blacklist: No | Checked at https://dichvusocks.us
-socks://67.213.210.168:35616# 0.76 | Tennessee | 37857 | Holston Electric Cooperative | United States | Blacklist: No | Checked at https://dichvusocks.us
+socks://162.0.220.214:12697#0.67 | Tennessee | 37857 | Holston Electric Cooperative | United States | Blacklist: No | 
+socks://174.138.176.77:39552#0.77 | Tennessee | 37642 | Holston Electric Cooperative | United States | Blacklist: No | 
+socks://38.91.106.214:42778#0.75 | Tennessee | 37642 | Holston Electric Cooperative | United States | Blacklist: No | 
+socks://67.213.210.168:35616#0.76 | Tennessee | 37857 | Holston Electric Cooperative | United States | Blacklist: No | 
