@@ -1,4 +1,9 @@
-socks://162.0.220.214:12697#0.67 | Tennessee | 37857 | Holston Electric Cooperative | United States | Blacklist: No | 
-socks://174.138.176.77:39552#0.77 | Tennessee | 37642 | Holston Electric Cooperative | United States | Blacklist: No | 
-socks://38.91.106.214:42778#0.75 | Tennessee | 37642 | Holston Electric Cooperative | United States | Blacklist: No | 
-socks://67.213.210.168:35616#0.76 | Tennessee | 37857 | Holston Electric Cooperative | United States | Blacklist: No | 
+socks://212.83.142.131:15078#🇮🇪 Leinster|Gorey|Y25|Js Whizzy Internet Limited| 79.143.201.176 |Time View 12/08/2024 08:05:58 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://162.19.7.61:61458#🇮🇪 Unknown|Unknown|Unknown|Imagine Communications Group Limited| 85.134.163.61 |Time View 12/08/2024 08:05:55 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://178.62.7.98:41355#🇮🇪 Leinster|Droichead Nua|W12|Virgin Media Ireland| 46.7.231.125 |Time View 12/08/2024 08:05:51 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://108.181.132.116:20760#🇺🇸 New York|Brooklyn|11234|ool-44c06f50.dyn.optonline.net| 68.192.111.80 |Time View 12/08/2024 01:47:27 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.246:37116#🇺🇸 New York|Brooklyn|11235|pool-173-68-196-33.nycmny.fios.verizon.net| 173.68.196.33 |Time View 12/08/2024 01:46:06 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.36:39908#🇺🇸 New York|Brooklyn|11234|ool-ae2c1437.dyn.optonline.net| 174.44.20.55 |Time View 12/08/2024 01:44:46 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.143.211:41016#🇬🇧 England|Manchester|M61|HOSTINGER GB| 153.92.208.207 |Time View 12/08/2024 01:21:58 |Black List No |Use Type: Hosting|https://dichvusocks.net
+socks://212.83.143.191:51027#🇸🇬 Unknown#🇸🇬 17|Hostinger International Limited| 194.59.165.88 |Time View 12/08/2024 01:20:08 |Black List Yes |Use Type: Hosting|https://dichvusocks.net
+socks://212.83.137.142:38454#🇸🇬 Unknown#🇸🇬 53|vmi693407.contaboserver.net| 194.233.77.104 |Time View 12/08/2024 01:19:18 |Black List No |Use Type: Hosting|https://dichvusocks.net
