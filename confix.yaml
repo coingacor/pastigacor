@@ -145,7 +145,7 @@ proxy-groups:
 rules:
   - DOMAIN-KEYWORD,peakwoods,AD-REWARD
   - DOMAIN-KEYWORD,mintegral,REJECT
-  - DOMAIN,tk.anythinktech.com,AD-BLOCKER
+  - DOMAIN,tk.anythinktech.com,DIRECT
   - DOMAIN-KEYWORD,anythinktech,AD-SOURCE
   - MATCH,AD-BLOCKER
 rule-providers:
