@@ -7,3 +7,13 @@ socks://67.213.212.36:39908#🇺🇸 New York|Brooklyn|11234|ool-ae2c1437.dyn.op
 socks://212.83.143.211:41016#🇬🇧 England|Manchester|M61|HOSTINGER GB| 153.92.208.207 |Time View 12/08/2024 01:21:58 |Black List No |Use Type: Hosting|https://dichvusocks.net
 socks://212.83.143.191:51027#🇸🇬 Unknown#🇸🇬 17|Hostinger International Limited| 194.59.165.88 |Time View 12/08/2024 01:20:08 |Black List Yes |Use Type: Hosting|https://dichvusocks.net
 socks://212.83.137.142:38454#🇸🇬 Unknown#🇸🇬 53|vmi693407.contaboserver.net| 194.233.77.104 |Time View 12/08/2024 01:19:18 |Black List No |Use Type: Hosting|https://dichvusocks.net
+socks://67.213.212.40:47234#🇺🇸 Virginia|Arlington|22202|c-73-39-177-96.hsd1.va.comcast.net| 73.39.177.96 |Time View 12/08/2024 20:56:15 |Black List Yes |Use Type: Residential|
+socks://162.19.7.48:57546#🇺🇸 Virginia|Midlothian|23112|c-69-243-212-173.hsd1.va.comcast.net| 69.243.212.173 |Time View 12/08/2024 20:56:06 |Black List Yes |Use Type: Residential|
+socks://67.213.212.50:18629#🇺🇸 Virginia|Winchester|22603|c-73-147-238-218.hsd1.va.comcast.net| 73.147.238.218 |Time View 12/08/2024 20:56:00 |Black List Yes |Use Type: Residential|
+socks://38.91.107.229:52991#🇺🇸 Virginia|Edinburg|22824|Shenandoah Cable Television LLC| 204.111.81.62 |Time View 12/08/2024 20:55:45 |Black List Yes |Use Type: Residential|
+socks://67.213.212.55:36992#🇺🇸 Virginia|Richmond|23224|c-24-131-13-178.hsd1.va.comcast.net| 24.131.13.178 |Time View 12/08/2024 20:55:41 |Black List Yes |Use Type: Residential|
+socks://67.213.212.50:46429#🇺🇸 New Hampshire|Freedom|03836|syn-074-075-167-035.res.spectrum.com| 74.75.167.35 |Time View 12/08/2024 20:55:24 |Black List Yes |Use Type: Business|
+socks://108.181.132.118:30690#🇺🇸 New Hampshire|Portsmouth|03801|Consolidated Communications| 64.223.239.235 |Time View 12/08/2024 20:55:20 |Black List Yes |Use Type: Residential|
+socks://162.0.220.220:36048#🇺🇸 New Hampshire|Grafton|03240|d-ptld-bng2-64-223-158-11.ngn.east.myfairpoint.net| 64.223.158.11 |Time View 12/08/2024 20:55:14 |Black List Yes |Use Type: Business|
+socks://66.29.129.56:13636#🇺🇸 New Hampshire|Portsmouth|03801|pool-64-223-236-108.port.east.myfairpoint.net| 64.223.236.108 |Time View 12/08/2024 20:55:07 |Black List Yes |Use Type: Residential|
+socks://174.138.176.74:57465#🇺🇸 Texas|Gladewater|75647|ETEX COMMUNICATIONS, LLC| 67.216.255.26 |Time View 12/08/2024 20:53:19 |Black List Yes |Use Type: Business|
