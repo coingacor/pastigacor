@@ -1,4 +1,3 @@
-
 port: 7890
 socks-port: 7891
 redir-port: 7892
@@ -39,6 +38,19 @@ proxies:
   - {name: 185.172.113.182-6131 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited, server: 185.172.113.182, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: 185.172.113.182-6130 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited, server: 185.172.113.182, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: 185.172.113.182-6129 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited, server: 185.172.113.182, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: AL-31.171.153.178-0769, server: 31.171.153.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: AL-31.171.153.181-0770, server: 31.171.153.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: BA-185.164.35.9-0785, server: 185.164.35.9, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: CA-134.195.196.178-0784, server: 134.195.196.178, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: CA-134.195.196.178-0792, server: 134.195.196.178, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: CA-134.195.196.178-0795, server: 134.195.196.178, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: CA-134.195.196.178-0802, server: 134.195.196.178, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: CA-138.199.57.185-0707, server: 138.199.57.185, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: eiety.phooeyunfold.com, udp: true}
+  - {name: CA-140.238.147.128-1160, server: 141.724064.xyz, port: 443, type: vmess, uuid: f3878e79-8166-4140-8dbe-e1f35b650e1c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 141.724064.xyz, network: ws, ws-opts: {path: /gmvfvws, headers: {Host: 141.724064.xyz}}, udp: true}
+  - {name: CA-158.51.121.36-3014, server: 158.51.121.36, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /linkvws, headers: {Host: ""}}, udp: true}
+  - {name: CA-168.138.70.157-1161, server: 145.724064.xyz, port: 443, type: vmess, uuid: 5de1ff44-aaf8-4790-b0fb-e55aab062622, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 145.724064.xyz, network: ws, ws-opts: {path: /zrqrvws, headers: {Host: 145.724064.xyz}}, udp: true}
+  - {name: CO-190.120.231.45-0895, server: 190.120.231.45, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: CZ-89.187.189.88-0786, server: 89.187.189.88, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: tpmrr.phooeyunfold.com, udp: true}
 
 proxy-groups:
   - name: AD-BLOCKER
@@ -51,6 +63,7 @@ proxy-groups:
     #interval: 150
     #tolerance: 50
     proxies:
+      - SERVER-WD
       - US-BestPing
       - JP-BestPing
       - 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN
@@ -119,7 +132,7 @@ proxy-groups:
       - 38.46.4.182 - 🇺🇸 California - Los Angeles - Zhejiang Aiyun Network Technology Co Ltd
       - 205.134.180.139 - 🇺🇸 District of Columbia - Washington - AIN
       - 38.107.226.146 - 🇺🇸 Virginia - Ashburn - AS - GLOBALTELEHOST
-    url: http://www.gstatic.com/generate_204
+    url: http://cp.cloudflare.com/generate_204
     interval: 30
   - name: JP-BestPing
     type: url-test
@@ -134,7 +147,26 @@ proxy-groups:
       - 185.172.113.182-6131 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
       - 185.172.113.182-6130 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
       - 185.172.113.182-6129 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
-    url: http://www.gstatic.com/generate_204
+    url: http://cp.cloudflare.com/generate_204
+    interval: 30
+  - name: SERVER-WD
+    type: url-test
+    disable-udp: false
+    proxies:
+      - AL-31.171.153.178-0769
+      - AL-31.171.153.181-0770
+      - BA-185.164.35.9-0785
+      - CA-134.195.196.178-0784
+      - CA-134.195.196.178-0792
+      - CA-134.195.196.178-0795
+      - CA-134.195.196.178-0802
+      - CA-138.199.57.185-0707
+      - CA-140.238.147.128-1160
+      - CA-158.51.121.36-3014
+      - CA-168.138.70.157-1161
+      - CO-190.120.231.45-0895
+      - CZ-89.187.189.88-0786
+    url: http://cp.cloudflare.com/generate_204
     interval: 30
 rules:
   - DOMAIN-KEYWORD,peakwoods,AD-REWARD
