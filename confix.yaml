@@ -78,8 +78,8 @@ proxy-groups:
   - name: AD-SOURCE
     type: select
     proxies:
-      - JP-FALLBACK
-      - US-FALLBACK
+      - JP-BestPing
+      - US-BestPing
       - 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN
       - 89.187.181.172 - 🇺🇸 Illinois - Chicago - Datacamp Limited
       - 107.173.114.6-0625 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING
