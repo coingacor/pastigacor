@@ -17,7 +17,6 @@ hosts:
 
 proxies:
   - {name: GameAmong, server: vpn.ucuwardani.my.id, port: 11111, type: ss, cipher: chacha20-ietf-poly1305, password: iM0kxhhSkS45s3gtEAQ+82gt+l9fYaF/Jv5jwetHM/k=, udp: true}
-  - {name: 138.199.41.25 - 🇺🇸 New York - New York - Datacamp Limited, server: 138.199.41.25, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: dngn.phooeyunfold.com, udp: true}
   - {name: 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN, server: 205.134.180.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9Bvkw5aupNy8, udp: true}
   - {name: 89.187.181.172 - 🇺🇸 Illinois - Chicago - Datacamp Limited, server: 89.187.181.172, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: egcmi.phooeyunfold.com, udp: true}
   - {name: 107.173.114.6-0625 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING, server: 107.173.114.6, port: 30128, type: ss, cipher: aes-128-gcm, password: Yc2CtrIz8L, udp: true}
@@ -52,9 +51,8 @@ proxy-groups:
     #interval: 150
     #tolerance: 50
     proxies:
-      - US-FALLBACK
-      - JP-FALLBACK
-      - 138.199.41.25 - 🇺🇸 New York - New York - Datacamp Limited
+      - US-BestPing
+      - JP-BestPing
       - 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN
       - 89.187.181.172 - 🇺🇸 Illinois - Chicago - Datacamp Limited
       - 107.173.114.6-0625 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING
@@ -82,7 +80,6 @@ proxy-groups:
     proxies:
       - JP-FALLBACK
       - US-FALLBACK
-      - 138.199.41.25 - 🇺🇸 New York - New York - Datacamp Limited
       - 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN
       - 89.187.181.172 - 🇺🇸 Illinois - Chicago - Datacamp Limited
       - 107.173.114.6-0625 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING
@@ -105,12 +102,10 @@ proxy-groups:
       - 185.172.113.182-6131 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
       - 185.172.113.182-6130 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
       - 185.172.113.182-6129 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
-  - name: US-FALLBACK
-    type: fallback
-    lazy: true
+  - name: US-BestPing
+    type: url-test
     disable-udp: false
     proxies:
-      - 138.199.41.25 - 🇺🇸 New York - New York - Datacamp Limited
       - 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN
       - 89.187.181.172 - 🇺🇸 Illinois - Chicago - Datacamp Limited
       - 107.173.114.6-0625 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING
@@ -126,9 +121,8 @@ proxy-groups:
       - 38.107.226.146 - 🇺🇸 Virginia - Ashburn - AS - GLOBALTELEHOST
     url: http://www.gstatic.com/generate_204
     interval: 30
-  - name: JP-FALLBACK
-    type: fallback
-    lazy: true
+  - name: JP-BestPing
+    type: url-test
     disable-udp: false
     proxies:
       - 54.95.170.220 - 🇯🇵 Tokyo - Tokyo - AMAZON - 02
@@ -145,7 +139,7 @@ proxy-groups:
 rules:
   - DOMAIN-KEYWORD,peakwoods,AD-REWARD
   - DOMAIN-KEYWORD,mintegral,REJECT
-  - DOMAIN,tk.anythinktech.com,DIRECT
+  - DOMAIN,tk.anythinktech.com,AD-BLOCKER
   - DOMAIN-KEYWORD,anythinktech,AD-SOURCE
   - MATCH,AD-BLOCKER
 rule-providers:
