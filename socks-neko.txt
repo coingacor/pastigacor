@@ -21,3 +21,33 @@ socks://138.201.21.238:48750#🇬🇧 England|Kensington|W8|host86-132-13-77.ran
 socks://212.83.142.149:39469#🇬🇧 England|Wakefield|WF1|wake-11-b2-v4wan-169746-cust3504.vm3.cable.virginm.net| 92.238.205.177 |Time View 13/08/2024 17:40:30 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.143.103:41929#🇮🇪 Leinster|Athlone|N37|sky-78-19-234-71.bas512.cwt.btireland.net| 78.19.234.71 |Time View 13/08/2024 17:40:17 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://212.83.142.100:58931#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 13/08/2024 17:40:11 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://66.29.128.242:20802#0.73|Michigan|49512|c-68-56-46-90.hsd1.mi.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.55:60168#0.75|Pennsylvania|18073|c-73-188-35-145.hsd1.pa.comcast.net|UnitedStates|Blacklist:No|
+socks://138.201.21.233:37159#0.98|Saskatchewan|S4S|64-201-202-196.regn.hsdb.sasknet.sk.ca|Canada|Blacklist:No|
+socks://67.213.212.40:63526#0.38|Indiana|46250|c-76-139-109-101.hsd1.in.comcast.net|UnitedStates|Blacklist:Yes|
+socks://23.105.170.34:42975#0.36|Indiana|46224|c-68-39-113-158.hsd1.in.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.47:28437#0.09|Massachusetts|02186|c-24-147-143-190.hsd1.ma.comcast.net|UnitedStates|Blacklist:No|
+socks://209.159.153.20:17731#0.97|Tennessee|37214|c-68-53-123-156.hsd1.tn.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.50:53787#0.38|Michigan|48126|c-68-49-183-56.hsd1.mi.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.53:41949#0.74|NewJersey|08028|c-68-83-34-66.hsd1.nj.comcast.net|UnitedStates|Blacklist:Yes|
+socks://209.159.153.21:11655#0.86|California|94513|c-67-169-29-248.hsd1.ca.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.39:64318#0.38|DistrictofColumbia|20020|c-73-201-246-59.hsd1.md.comcast.net|UnitedStates|Blacklist:No|
+socks://209.159.153.21:16586#0.8|Colorado|80239|c-73-153-55-146.hsd1.co.comcast.net|UnitedStates|Blacklist:No|
+socks://162.19.7.53:10335#0.31|Michigan|48843|c-68-40-215-219.hsd1.mi.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.36:36540#0.42|Illinois|60625|c-73-75-140-201.hsd1.il.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.40:58683#0.13|Michigan|48124|c-73-145-193-71.hsd1.mi.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.48:11800#0.27|Michigan|48209|c-73-190-23-144.hsd1.mi.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.36:26461#0.37|Pennsylvania|19118|c-76-116-122-55.hsd1.nj.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.39:37194#0.98|Illinois|60062|c-67-175-141-203.hsd1.il.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.56:44406#0.77|Michigan|48209|c-73-190-23-129.hsd1.mi.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.51:31511#0.27|Alabama|35802|c-98-54-85-32.hsd1.al.comcast.net|UnitedStates|Blacklist:No|
+socks://66.29.129.54:52200#0.31|Illinois|60639|c-69-245-177-229.hsd1.il.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.40:51631#0.21|Massachusetts|02721|c-174-169-80-180.hsd1.ma.comcast.net|UnitedStates|Blacklist:No|
+socks://51.254.167.45:62439#0.23|Washington|98004|c-73-83-200-228.hsd1.wa.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.56:50035#0.98|Georgia|30088|c-24-30-126-169.hsd1.ga.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.40:25722#0.15|Florida|33441|c-73-0-115-40.hsd1.fl.comcast.net|UnitedStates|Blacklist:No|
+socks://23.105.170.35:65110#0.04|Florida|33161|c-73-57-134-37.hsd1.fl.comcast.net|UnitedStates|Blacklist:No|
+socks://67.213.212.47:51558#0.02|NewJersey|07740|c-98-221-28-105.hsd1.nj.comcast.net|UnitedStates|Blacklist:No|
+socks://162.19.7.46:28378#0.03|Pennsylvania|19121|T-MobileUSA,Inc.|UnitedStates|Blacklist:No|
+socks://51.254.149.59:61817#0.01|NewMexico|87401|c-174-56-35-22.hsd1.nm.comcast.net|UnitedStates|Blacklist:No|
+socks://162.19.7.58:37218#0.21|Washington|98498|c-73-140-203-49.hsd1.wa.comcast.net|UnitedStates|Blacklist:No|
