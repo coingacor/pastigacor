@@ -17,3 +17,7 @@ socks://108.181.132.118:30690#🇺🇸 New Hampshire|Portsmouth|03801|Consolidat
 socks://162.0.220.220:36048#🇺🇸 New Hampshire|Grafton|03240|d-ptld-bng2-64-223-158-11.ngn.east.myfairpoint.net| 64.223.158.11 |Time View 12/08/2024 20:55:14 |Black List Yes |Use Type: Business|
 socks://66.29.129.56:13636#🇺🇸 New Hampshire|Portsmouth|03801|pool-64-223-236-108.port.east.myfairpoint.net| 64.223.236.108 |Time View 12/08/2024 20:55:07 |Black List Yes |Use Type: Residential|
 socks://174.138.176.74:57465#🇺🇸 Texas|Gladewater|75647|ETEX COMMUNICATIONS, LLC| 67.216.255.26 |Time View 12/08/2024 20:53:19 |Black List Yes |Use Type: Business|
+socks://138.201.21.238:48750#🇬🇧 England|Kensington|W8|host86-132-13-77.range86-132.btcentralplus.com| 86.132.13.77 |Time View 13/08/2024 17:40:45 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.149:39469#🇬🇧 England|Wakefield|WF1|wake-11-b2-v4wan-169746-cust3504.vm3.cable.virginm.net| 92.238.205.177 |Time View 13/08/2024 17:40:30 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.143.103:41929#🇮🇪 Leinster|Athlone|N37|sky-78-19-234-71.bas512.cwt.btireland.net| 78.19.234.71 |Time View 13/08/2024 17:40:17 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.142.100:58931#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 13/08/2024 17:40:11 |Black List Yes |Use Type: Business|https://dichvusocks.net
