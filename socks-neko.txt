@@ -3,3 +3,5 @@ socks://67.213.210.115:17625#🇬🇧 England|Covent Garden|WC2H|default-46-102-
 socks://212.83.142.149:49050#🇬🇧 England|Wakefield|WF1|wake-11-b2-v4wan-169746-cust3504.vm3.cable.virginm.net| 92.238.205.177 |Time View 13/08/2024 23:46:13 |Black List Yes |Use Type: Residential|
 socks://162.19.7.46:10359#🇮🇪 Leinster|Dublin|D07|Eircom Limited| 83.71.222.225 |Time View 13/08/2024 23:45:58 |Black List No |Use Type: Business|
 socks://212.83.142.131:48333#🇮🇪 Leinster|Gorey|Y25|Js Whizzy Internet Limited| 79.143.201.176 |Time View 13/08/2024 23:45:51 |Black List No |Use Type: Business|
+socks://212.83.143.103:14594#🇨🇭 Aargau|Baden|5401|46-140-57-254.static.cablecom.ch| 46.140.57.254 |Time View 14/08/2024 10:03:10 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://67.213.210.175:45746#🇨🇭 Saint Gallen|Sankt Margrethen|9430|80-219-136-203.dclient.hispeed.ch| 80.219.136.203 |Time View 14/08/2024 10:02:56 |Black List Yes |Use Type: Residential|https://dichvusocks.net
