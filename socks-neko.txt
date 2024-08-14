@@ -5,3 +5,6 @@ socks://162.19.7.46:10359#🇮🇪 Leinster|Dublin|D07|Eircom Limited| 83.71.222
 socks://212.83.142.131:48333#🇮🇪 Leinster|Gorey|Y25|Js Whizzy Internet Limited| 79.143.201.176 |Time View 13/08/2024 23:45:51 |Black List No |Use Type: Business|
 socks://212.83.143.103:14594#🇨🇭 Aargau|Baden|5401|46-140-57-254.static.cablecom.ch| 46.140.57.254 |Time View 14/08/2024 10:03:10 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://67.213.210.175:45746#🇨🇭 Saint Gallen|Sankt Margrethen|9430|80-219-136-203.dclient.hispeed.ch| 80.219.136.203 |Time View 14/08/2024 10:02:56 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://195.154.43.86:23601#🇮🇪 Leinster|Kildare|R51|86-45-62-143-dynamic.agg2.kle.prp-wtd.eircom.net| 86.45.62.143 |Time View 14/08/2024 10:11:12 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.143.103:21850#🇮🇪 Leinster|Athlone|N37|sky-78-19-234-71.bas512.cwt.btireland.net| 78.19.234.71 |Time View 14/08/2024 10:11:09 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://162.19.7.61:23745#🇮🇪 Leinster|Dublin|D04|NTL Ireland| 37.228.214.24 |Time View 14/08/2024 10:11:05 |Black List Yes |Use Type: Business|https://dichvusocks.net
