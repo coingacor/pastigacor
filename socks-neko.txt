@@ -8,3 +8,6 @@ socks://67.213.210.175:45746#🇨🇭 Saint Gallen|Sankt Margrethen|9430|80-219-
 socks://195.154.43.86:23601#🇮🇪 Leinster|Kildare|R51|86-45-62-143-dynamic.agg2.kle.prp-wtd.eircom.net| 86.45.62.143 |Time View 14/08/2024 10:11:12 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://212.83.143.103:21850#🇮🇪 Leinster|Athlone|N37|sky-78-19-234-71.bas512.cwt.btireland.net| 78.19.234.71 |Time View 14/08/2024 10:11:09 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://162.19.7.61:23745#🇮🇪 Leinster|Dublin|D04|NTL Ireland| 37.228.214.24 |Time View 14/08/2024 10:11:05 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://162.0.220.161:26370#🇺🇸 New Jersey|Paterson|07501|pool-96-242-145-46.nwrknj.fios.verizon.net| 96.242.145.46 |Time View 14/08/2024 10:15:55 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.241:49535#🇺🇸 New Jersey|Long Branch|07740|c-73-248-213-237.hsd1.nj.comcast.net| 73.248.213.237 |Time View 14/08/2024 10:15:51 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.143.60:63109#🇧🇪 Flanders|Ghent|9000|133.149-65-87.adsl-dyn.isp.belgacom.be| 87.65.149.133 |Time View 14/08/2024 10:17:08 |Black List Yes |Use Type: Residential|https://dichvusocks.net
