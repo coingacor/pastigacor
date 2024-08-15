@@ -63,7 +63,7 @@ proxy-groups:
     #interval: 150
     #tolerance: 50
     proxies:
-      - SERVER-WD
+      - EXTRA
       - US-BestPing
       - JP-BestPing
       - 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN
@@ -149,8 +149,8 @@ proxy-groups:
       - 185.172.113.182-6129 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
     url: http://cp.cloudflare.com/generate_204
     interval: 30
-  - name: SERVER-WD
-    type: url-test
+  - name: EXTRA
+    type: select
     disable-udp: false
     proxies:
       - AL-31.171.153.178-0769
@@ -166,8 +166,6 @@ proxy-groups:
       - CA-168.138.70.157-1161
       - CO-190.120.231.45-0895
       - CZ-89.187.189.88-0786
-    url: http://cp.cloudflare.com/generate_204
-    interval: 30
 rules:
   - DOMAIN-KEYWORD,peakwoods,AD-REWARD
   - DOMAIN-KEYWORD,mintegral,REJECT
