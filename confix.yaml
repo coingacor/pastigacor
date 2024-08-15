@@ -16,19 +16,206 @@ hosts:
 
 proxies:
   - {name: GameAmong, server: vpn.ucuwardani.my.id, port: 11111, type: ss, cipher: chacha20-ietf-poly1305, password: iM0kxhhSkS45s3gtEAQ+82gt+l9fYaF/Jv5jwetHM/k=, udp: true}
-  - {name: 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN, server: 205.134.180.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9Bvkw5aupNy8, udp: true}
-  - {name: 89.187.181.172 - 🇺🇸 Illinois - Chicago - Datacamp Limited, server: 89.187.181.172, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: egcmi.phooeyunfold.com, udp: true}
-  - {name: 107.173.114.6-0625 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING, server: 107.173.114.6, port: 30128, type: ss, cipher: aes-128-gcm, password: Yc2CtrIz8L, udp: true}
-  - {name: 107.173.114.6-0630 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING, server: 107.173.114.6, port: 30129, type: ss, cipher: aes-128-gcm, password: Yc2CtrIz8L, udp: true}
-  - {name: 192.227.206.115 - 🇺🇸 Texas - Dallas - AS - COLOCROSSING, server: 192.227.206.115, port: 30129, type: ss, cipher: aes-128-gcm, password: Yc2CtrIz8L, udp: true}
-  - {name: 184.170.241.194 - 🇺🇸 Arizona - Phoenix - PERFORMIVE, server: 184.170.241.194, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
-  - {name: 192.3.150.233 - 🇺🇸 Washington - Seattle - AS - COLOCROSSING, server: 192.3.150.233, port: 8443, type: vmess, uuid: a6a37e04-5e81-44c9-be53-baa3ff46eb8b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /8cda48b3, headers: {Host: ""}}, udp: true}
-  - {name: 104.207.155.64 - 🇺🇸 California - Los Angeles - AS - CHOOPA, server: 104.207.155.64, port: 1633, type: ss, cipher: chacha20-ietf-poly1305, password: o_A7inN1yqeWtOTL, udp: true}
-  - {name: 185.180.13.70 - 🇺🇸 California - Los Angeles - Datacamp Limited, server: 185.180.13.70, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: earya.phooeyunfold.com, udp: true}
-  - {name: 38.95.115.176 - 🇺🇸 California - Los Angeles - Zhejiang Aiyun Network Technology Co Ltd, server: 38.95.115.176, port: 16424, type: vmess, uuid: 9eedb0d4-27fb-47e6-b3b5-301712337ecf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /, headers: {Host: ""}}, udp: true}
-  - {name: 38.46.4.182 - 🇺🇸 California - Los Angeles - Zhejiang Aiyun Network Technology Co Ltd, server: 38.46.4.182, port: 57776, type: vmess, uuid: 52900720-0479-48cc-b2d8-9e8adbf5ab47, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: 38.46.4.182, network: ws, ws-opts: {path: /52900720, headers: {Host: 38.46.4.182}}, udp: true}
-  - {name: 205.134.180.139 - 🇺🇸 District of Columbia - Washington - AIN, server: 205.134.180.139, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lWaGPVFjmnag, udp: true}
-  - {name: 38.107.226.146 - 🇺🇸 Virginia - Ashburn - AS - GLOBALTELEHOST, server: 38.107.226.146, port: 1230, type: ss, cipher: chacha20-ietf-poly1305, password: H5S0hvcxRi#YLmgU, udp: true}
+  - {name: US-69.50.95.39-1276, server: 69.50.95.39, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-69.50.93.86-0866, server: 69.50.93.86, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-69.50.93.47-1883, server: 69.50.93.47, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-69.50.93.47-1874, server: 69.50.93.47, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-69.162.95.3-5726, server: trus.moonfree.top, port: 443, type: trojan, password: 4863e1b2-ec2f-4c71-b862-ce533028e57e, skip-cert-verify: true, sni: "", udp: true}
+  - {name: US-43.153.80.208-1266, server: 43.153.80.208, port: 443, type: trojan, password: CMLiu, skip-cert-verify: true, sni: aliorg.filegear-sg.me, udp: true}
+  - {name: US-38.86.135.31-0623, server: 38.86.135.31, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US-38.86.135.31-0620, server: 38.86.135.31, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.86.135.31-0600, server: 38.86.135.31, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true}
+  - {name: US-38.75.136.21-7674, server: 38.75.136.21, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.75.136.21-7516, server: 38.75.136.21, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.75.136.21-7279, server: 38.75.136.21, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US-38.75.136.21-7177, server: 38.75.136.21, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.75.136.21-7142, server: 38.75.136.21, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.75.136.21-7141, server: 38.75.136.21, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.75.136.21-7045, server: 38.75.136.21, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-38.75.136.21-7043, server: 38.75.136.21, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US-38.75.136.21-7036, server: 38.75.136.21, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US-38.75.136.21-0912, server: 38.75.136.21, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-38.75.136.21-0903, server: 38.75.136.21, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-38.75.136.21-0901, server: 38.75.136.21, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.75.136.21-0884, server: 38.75.136.21, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-38.75.136.21-0877, server: 38.75.136.21, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.75.136.21-0861, server: 38.75.136.21, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-38.75.136.21-0860, server: 38.75.136.21, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-38.75.136.21-0846, server: 38.75.136.21, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US-38.75.136.21-0838, server: 38.75.136.21, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.75.136.21-0833, server: 38.75.136.21, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.75.136.21-0830, server: 38.75.136.21, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US-38.75.136.21-0827, server: 38.75.136.21, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-38.75.136.21-0825, server: 38.75.136.21, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.75.136.21-0822, server: 38.75.136.21, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US-38.75.136.21-0821, server: 38.75.136.21, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US-38.75.136.21-0815, server: 38.75.136.21, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.75.136.21-0814, server: 38.75.136.21, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.75.136.21-0655, server: 38.75.136.21, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US-38.75.136.21-0052, server: 38.75.136.21, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.68.135.19-7512, server: 38.68.135.19, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-38.68.135.19-7474, server: 38.68.135.19, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.68.135.19-6871, server: 38.68.135.19, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-38.68.135.19-6862, server: 38.68.135.19, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.68.135.19-6845, server: 38.68.135.19, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.68.135.19-6841, server: 38.68.135.19, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-38.68.135.19-6831, server: 38.68.135.19, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.68.135.19-6808, server: 38.68.135.19, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-38.68.135.19-6394, server: 38.68.135.19, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-38.68.135.19-6389, server: 38.68.135.19, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US-38.68.135.19-6386, server: 38.68.135.19, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.68.135.19-6382, server: 38.68.135.19, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US-38.68.135.19-0900, server: 38.68.135.19, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.68.135.19-0899, server: 38.68.135.19, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-38.68.135.19-0892, server: 38.68.135.19, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.68.135.19-0891, server: 38.68.135.19, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US-38.68.135.19-0874, server: 38.68.135.19, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-38.68.135.19-0873, server: 38.68.135.19, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US-38.68.135.19-0869, server: 38.68.135.19, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US-38.68.135.19-0858, server: 38.68.135.19, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.68.135.19-0856, server: 38.68.135.19, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.68.135.19-0077, server: 38.68.135.19, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.68.134.9-6208, server: 38.68.134.9, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-38.68.134.9-6206, server: 38.68.134.9, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-38.68.134.9-6202, server: 38.68.134.9, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.68.134.9-6200, server: 38.68.134.9, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US-38.68.134.9-6194, server: 38.68.134.9, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.68.134.9-6192, server: 38.68.134.9, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.68.134.9-6178, server: 38.68.134.9, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US-38.68.134.9-6172, server: 38.68.134.9, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-38.68.134.9-0904, server: 38.68.134.9, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.68.134.9-0890, server: 38.68.134.9, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.68.134.9-0889, server: 38.68.134.9, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-38.68.134.9-0886, server: 38.68.134.9, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.68.134.9-0883, server: 38.68.134.9, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.68.134.9-0882, server: 38.68.134.9, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.68.134.9-0865, server: 38.68.134.9, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-38.68.134.9-0864, server: 38.68.134.9, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US-38.68.134.9-0852, server: 38.68.134.9, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-38.68.134.9-0850, server: 38.68.134.9, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.68.134.9-0849, server: 38.68.134.9, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US-38.68.134.9-0848, server: 38.68.134.9, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.68.134.9-0845, server: 38.68.134.9, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US-38.68.134.9-0844, server: 38.68.134.9, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-38.68.134.202-1290, server: 38.68.134.202, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.68.134.202-0878, server: 38.68.134.202, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-38.143.66.87-7071, server: 38.143.66.87, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US-38.143.66.87-0897, server: 38.143.66.87, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-38.143.66.87-0888, server: 38.143.66.87, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.143.66.87-0879, server: 38.143.66.87, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.143.66.87-0823, server: 38.143.66.87, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.143.66.87-0819, server: 38.143.66.87, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US-38.121.43.97-0854, server: 38.121.43.97, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US-38.121.43.97-0842, server: 38.121.43.97, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.121.43.97-0839, server: 38.121.43.97, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US-38.121.43.97-0837, server: 38.121.43.97, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.121.43.97-0592, server: 38.121.43.97, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-38.121.43.71-7632, server: 38.121.43.71, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.121.43.71-7232, server: 38.121.43.71, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US-38.121.43.71-6836, server: 38.121.43.71, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US-38.121.43.71-5362, server: 38.121.43.71, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-38.121.43.71-5357, server: 38.121.43.71, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US-38.121.43.71-5354, server: 38.121.43.71, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US-38.121.43.71-5342, server: 38.121.43.71, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.121.43.71-1660, server: 38.121.43.71, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.121.43.71-0935, server: 38.121.43.71, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.121.43.71-0885, server: 38.121.43.71, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.121.43.71-0880, server: 38.121.43.71, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.121.43.71-0875, server: 38.121.43.71, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.121.43.71-0871, server: 38.121.43.71, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US-38.121.43.71-0870, server: 38.121.43.71, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.121.43.71-0868, server: 38.121.43.71, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.121.43.71-0862, server: 38.121.43.71, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-38.121.43.71-0859, server: 38.121.43.71, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-38.121.43.71-0851, server: 38.121.43.71, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US-38.121.43.71-0840, server: 38.121.43.71, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.121.43.71-0832, server: 38.121.43.71, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-38.121.43.71-0829, server: 38.121.43.71, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.121.43.71-0826, server: 38.121.43.71, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US-38.121.43.71-0820, server: 38.121.43.71, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-38.121.43.71-0064, server: 38.121.43.71, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-38.121.43.65-6815, server: 38.121.43.65, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.121.43.51-0876, server: 38.121.43.51, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.121.43.248-1880, server: 38.121.43.248, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.121.43.142-7589, server: 38.121.43.142, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-38.121.43.142-7163, server: 38.121.43.142, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US-38.121.43.142-0894, server: 38.121.43.142, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US-38.114.114.69-7804, server: 38.114.114.69, port: 7002, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-38.114.114.69-7784, server: 38.114.114.69, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.114.114.69-7763, server: 38.114.114.69, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true}
+  - {name: US-38.114.114.69-7761, server: 38.114.114.69, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-38.114.114.69-7735, server: 38.114.114.69, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-38.114.114.69-7699, server: 38.114.114.69, port: 8091, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US-38.114.114.69-7595, server: 38.114.114.69, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US-38.114.114.69-7297, server: 38.114.114.69, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.114.114.69-7280, server: 38.114.114.69, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.114.114.69-7148, server: 38.114.114.69, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US-38.114.114.69-7111, server: 38.114.114.69, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-38.114.114.69-7105, server: 38.114.114.69, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.114.114.69-7031, server: 38.114.114.69, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-38.114.114.69-6863, server: 38.114.114.69, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.114.114.69-6664, server: 38.114.114.69, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-38.114.114.69-1649, server: 38.114.114.69, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US-38.114.114.69-0902, server: 38.114.114.69, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US-38.114.114.69-0896, server: 38.114.114.69, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-38.114.114.69-0887, server: 38.114.114.69, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.114.114.69-0867, server: 38.114.114.69, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.114.114.69-0841, server: 38.114.114.69, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US-38.114.114.69-0836, server: 38.114.114.69, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: US-38.114.114.69-0834, server: 38.114.114.69, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-38.114.114.69-0831, server: 38.114.114.69, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US-38.114.114.69-0818, server: 38.114.114.69, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-38.114.114.69-0817, server: 38.114.114.69, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-38.114.114.69-0816, server: 38.114.114.69, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.114.114.69-0072, server: 38.114.114.69, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US-38.114.114.69-0059, server: 38.114.114.69, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US-38.114.114.143-7504, server: 38.114.114.143, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-38.114.114.143-6186, server: 38.114.114.143, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US-38.110.1.51-0872, server: 38.110.1.51, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27, udp: true}
+  - {name: US-38.110.1.105-0643, server: 38.110.1.105, port: 5601, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-38.107.226.146-0737, server: 38.107.226.146, port: 1230, type: ss, cipher: chacha20-ietf-poly1305, password: H5S0hvcxRi#YLmgU, udp: true}
+  - {name: US-23.157.40.89-0612, server: 23.157.40.89, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-23.157.40.113-0650, server: 23.157.40.113, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-23.157.40.113-0649, server: 23.157.40.113, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-23.157.40.113-0648, server: 23.157.40.113, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-23.157.40.113-0646, server: 23.157.40.113, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: US-23.157.40.113-0645, server: 23.157.40.113, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-23.157.40.113-0644, server: 23.157.40.113, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: US-23.157.40.113-0642, server: 23.157.40.113, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US-23.157.40.113-0580, server: 23.157.40.113, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: US-23.157.40.102-0590, server: 23.157.40.102, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: US-23.157.40.102-0583, server: 23.157.40.102, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-23.157.40.102-0582, server: 23.157.40.102, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-23.157.40.10-0653, server: 23.157.40.10, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-23.157.40.10-0634, server: 23.157.40.10, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-23.157.40.10-0632, server: 23.157.40.10, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-23.157.40.10-0618, server: 23.157.40.10, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-23.157.40.10-0615, server: 23.157.40.10, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-23.157.40.10-0607, server: 23.157.40.10, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true}
+  - {name: US-23.157.40.10-0603, server: 23.157.40.10, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: US-23.157.40.10-0597, server: 23.157.40.10, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-23.157.40.10-0595, server: 23.157.40.10, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-23.154.136.176-0895, server: 23.154.136.176, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-205.134.180.151-0711, server: 205.134.180.151, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 5cp9Z3iWnJZ2, udp: true}
+  - {name: US-205.134.180.147-0707, server: 205.134.180.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 9Bvkw5aupNy8, udp: true}
+  - {name: US-205.134.180.145-0708, server: 205.134.180.145, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hgLCgfLRgB6d, udp: true}
+  - {name: US-205.134.180.139-0717, server: 205.134.180.139, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: lWaGPVFjmnag, udp: true}
+  - {name: US-184.170.241.194-0713, server: 184.170.241.194, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true}
+  - {name: US-172.232.4.213-3722, server: ukt-2.opensvr.net, port: 443, type: trojan, password: opentunnel.net-trhrst5ju45s, skip-cert-verify: true, sni: "", udp: true}
+  - {name: US-166.0.145.209-1264, server: 166.0.145.209, port: 30553, type: trojan, password: CMLiu, skip-cert-verify: true, sni: aliorg.filegear-sg.me, udp: true}
+  - {name: US-154.7.179.27-1259, server: 154.7.179.27, port: 32958, type: trojan, password: CMLiu, skip-cert-verify: true, sni: aliorg.filegear-sg.me, udp: true}
+  - {name: US-154.17.9.71-1263, server: 154.17.9.71, port: 882, type: trojan, password: CMLiu, skip-cert-verify: true, sni: aliorg.filegear-sg.me, udp: true}
+  - {name: US-154.17.21.13-1262, server: 154.17.21.13, port: 36166, type: trojan, password: CMLiu, skip-cert-verify: true, sni: aliorg.filegear-sg.me, udp: true}
+  - {name: US-15.204.87.225-0660, server: 15.204.87.225, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US-15.204.87.225-0657, server: 15.204.87.225, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true}
+  - {name: US-15.204.87.225-0628, server: 15.204.87.225, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-15.204.87.225-0611, server: 15.204.87.225, port: 7306, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true}
+  - {name: US-15.204.87.225-0610, server: 15.204.87.225, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-15.204.87.222-1299, server: 15.204.87.222, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: US-142.202.49.79-0843, server: 142.202.49.79, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: US-142.202.49.122-0857, server: 142.202.49.122, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY, udp: true}
+  - {name: US-103.224.182.249-5225, server: z9.gozargah.one, port: 443, type: trojan, password: bcf96c9b-30bf-4ab0-bc28-6076218f2a14, skip-cert-verify: true, sni: z9.gozargah.one, udp: true}
+  - {name: US-103.224.182.249-5224, server: z6.gozargah.one, port: 443, type: trojan, password: fc417d14-f39a-47b7-9e91-ed79825315b3, skip-cert-verify: true, sni: z6.gozargah.one, udp: true}
   - {name: 54.95.170.220 - 🇯🇵 Tokyo - Tokyo - AMAZON - 02, server: 54.95.170.220, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true}
   - {name: 138.199.23.100 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited, server: 138.199.23.100, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: radtz.phooeyunfold.com, udp: true}
   - {name: 152.69.197.74 - 🇯🇵 Osaka - Osaka - ORACLE - BMC - 31898, server: 152.69.197.74, port: 12345, type: vmess, uuid: b8a6bf58-485a-4046-b386-b3661bf65eff, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /bb, headers: {Host: ""}}, udp: true}
@@ -38,19 +225,6 @@ proxies:
   - {name: 185.172.113.182-6131 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited, server: 185.172.113.182, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: 185.172.113.182-6130 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited, server: 185.172.113.182, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: 185.172.113.182-6129 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited, server: 185.172.113.182, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: AL-31.171.153.178-0769, server: 31.171.153.178, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: AL-31.171.153.181-0770, server: 31.171.153.181, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: BA-185.164.35.9-0785, server: 185.164.35.9, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: CA-134.195.196.178-0784, server: 134.195.196.178, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: CA-134.195.196.178-0792, server: 134.195.196.178, port: 807, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: CA-134.195.196.178-0795, server: 134.195.196.178, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: CA-134.195.196.178-0802, server: 134.195.196.178, port: 808, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
-  - {name: CA-138.199.57.185-0707, server: 138.199.57.185, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: eiety.phooeyunfold.com, udp: true}
-  - {name: CA-140.238.147.128-1160, server: 141.724064.xyz, port: 443, type: vmess, uuid: f3878e79-8166-4140-8dbe-e1f35b650e1c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 141.724064.xyz, network: ws, ws-opts: {path: /gmvfvws, headers: {Host: 141.724064.xyz}}, udp: true}
-  - {name: CA-158.51.121.36-3014, server: 158.51.121.36, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: "", network: ws, ws-opts: {path: /linkvws, headers: {Host: ""}}, udp: true}
-  - {name: CA-168.138.70.157-1161, server: 145.724064.xyz, port: 443, type: vmess, uuid: 5de1ff44-aaf8-4790-b0fb-e55aab062622, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: 145.724064.xyz, network: ws, ws-opts: {path: /zrqrvws, headers: {Host: 145.724064.xyz}}, udp: true}
-  - {name: CO-190.120.231.45-0895, server: 190.120.231.45, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
-  - {name: CZ-89.187.189.88-0786, server: 89.187.189.88, port: 43118, type: trojan, password: ypDt8RkT7J, skip-cert-verify: true, sni: tpmrr.phooeyunfold.com, udp: true}
 
 proxy-groups:
   - name: AD-BLOCKER
@@ -63,49 +237,13 @@ proxy-groups:
     #interval: 150
     #tolerance: 50
     proxies:
-      - EXTRA
       - US-BestPing
-      - JP-BestPing
-      - 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN
-      - 89.187.181.172 - 🇺🇸 Illinois - Chicago - Datacamp Limited
-      - 107.173.114.6-0625 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING
-      - 107.173.114.6-0630 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING
-      - 192.227.206.115 - 🇺🇸 Texas - Dallas - AS - COLOCROSSING
-      - 184.170.241.194 - 🇺🇸 Arizona - Phoenix - PERFORMIVE
-      - 192.3.150.233 - 🇺🇸 Washington - Seattle - AS - COLOCROSSING
-      - 104.207.155.64 - 🇺🇸 California - Los Angeles - AS - CHOOPA
-      - 185.180.13.70 - 🇺🇸 California - Los Angeles - Datacamp Limited
-      - 38.95.115.176 - 🇺🇸 California - Los Angeles - Zhejiang Aiyun Network Technology Co Ltd
-      - 38.46.4.182 - 🇺🇸 California - Los Angeles - Zhejiang Aiyun Network Technology Co Ltd
-      - 205.134.180.139 - 🇺🇸 District of Columbia - Washington - AIN
-      - 38.107.226.146 - 🇺🇸 Virginia - Ashburn - AS - GLOBALTELEHOST
-      - 54.95.170.220 - 🇯🇵 Tokyo - Tokyo - AMAZON - 02
-      - 138.199.23.100 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
-      - 152.69.197.74 - 🇯🇵 Osaka - Osaka - ORACLE - BMC - 31898
-      - 185.172.113.182-6135 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
-      - 185.172.113.182-6134 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
-      - 185.172.113.182-6133 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
-      - 185.172.113.182-6131 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
-      - 185.172.113.182-6130 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
-      - 185.172.113.182-6129 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
+      - US-PilihServer
   - name: AD-SOURCE
     type: select
     proxies:
       - JP-BestPing
       - US-BestPing
-      - 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN
-      - 89.187.181.172 - 🇺🇸 Illinois - Chicago - Datacamp Limited
-      - 107.173.114.6-0625 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING
-      - 107.173.114.6-0630 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING
-      - 192.227.206.115 - 🇺🇸 Texas - Dallas - AS - COLOCROSSING
-      - 184.170.241.194 - 🇺🇸 Arizona - Phoenix - PERFORMIVE
-      - 192.3.150.233 - 🇺🇸 Washington - Seattle - AS - COLOCROSSING
-      - 104.207.155.64 - 🇺🇸 California - Los Angeles - AS - CHOOPA
-      - 185.180.13.70 - 🇺🇸 California - Los Angeles - Datacamp Limited
-      - 38.95.115.176 - 🇺🇸 California - Los Angeles - Zhejiang Aiyun Network Technology Co Ltd
-      - 38.46.4.182 - 🇺🇸 California - Los Angeles - Zhejiang Aiyun Network Technology Co Ltd
-      - 205.134.180.139 - 🇺🇸 District of Columbia - Washington - AIN
-      - 38.107.226.146 - 🇺🇸 Virginia - Ashburn - AS - GLOBALTELEHOST
       - 54.95.170.220 - 🇯🇵 Tokyo - Tokyo - AMAZON - 02
       - 138.199.23.100 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
       - 152.69.197.74 - 🇯🇵 Osaka - Osaka - ORACLE - BMC - 31898
@@ -115,23 +253,413 @@ proxy-groups:
       - 185.172.113.182-6131 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
       - 185.172.113.182-6130 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
       - 185.172.113.182-6129 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
+  - name: US-PilihServer
+    type: select
+    proxies:
+      - US-69.50.95.39-1276
+      - US-69.50.93.86-0866
+      - US-69.50.93.47-1883
+      - US-69.50.93.47-1874
+      - US-69.162.95.3-5726
+      - US-43.153.80.208-1266
+      - US-38.86.135.31-0623
+      - US-38.86.135.31-0620
+      - US-38.86.135.31-0600
+      - US-38.75.136.21-7674
+      - US-38.75.136.21-7516
+      - US-38.75.136.21-7279
+      - US-38.75.136.21-7177
+      - US-38.75.136.21-7142
+      - US-38.75.136.21-7141
+      - US-38.75.136.21-7045
+      - US-38.75.136.21-7043
+      - US-38.75.136.21-7036
+      - US-38.75.136.21-0912
+      - US-38.75.136.21-0903
+      - US-38.75.136.21-0901
+      - US-38.75.136.21-0884
+      - US-38.75.136.21-0877
+      - US-38.75.136.21-0861
+      - US-38.75.136.21-0860
+      - US-38.75.136.21-0846
+      - US-38.75.136.21-0838
+      - US-38.75.136.21-0833
+      - US-38.75.136.21-0830
+      - US-38.75.136.21-0827
+      - US-38.75.136.21-0825
+      - US-38.75.136.21-0822
+      - US-38.75.136.21-0821
+      - US-38.75.136.21-0815
+      - US-38.75.136.21-0814
+      - US-38.75.136.21-0655
+      - US-38.75.136.21-0052
+      - US-38.68.135.19-7512
+      - US-38.68.135.19-7474
+      - US-38.68.135.19-6871
+      - US-38.68.135.19-6862
+      - US-38.68.135.19-6845
+      - US-38.68.135.19-6841
+      - US-38.68.135.19-6831
+      - US-38.68.135.19-6808
+      - US-38.68.135.19-6394
+      - US-38.68.135.19-6389
+      - US-38.68.135.19-6386
+      - US-38.68.135.19-6382
+      - US-38.68.135.19-0900
+      - US-38.68.135.19-0899
+      - US-38.68.135.19-0892
+      - US-38.68.135.19-0891
+      - US-38.68.135.19-0874
+      - US-38.68.135.19-0873
+      - US-38.68.135.19-0869
+      - US-38.68.135.19-0858
+      - US-38.68.135.19-0856
+      - US-38.68.135.19-0077
+      - US-38.68.134.9-6208
+      - US-38.68.134.9-6206
+      - US-38.68.134.9-6202
+      - US-38.68.134.9-6200
+      - US-38.68.134.9-6194
+      - US-38.68.134.9-6192
+      - US-38.68.134.9-6178
+      - US-38.68.134.9-6172
+      - US-38.68.134.9-0904
+      - US-38.68.134.9-0890
+      - US-38.68.134.9-0889
+      - US-38.68.134.9-0886
+      - US-38.68.134.9-0883
+      - US-38.68.134.9-0882
+      - US-38.68.134.9-0865
+      - US-38.68.134.9-0864
+      - US-38.68.134.9-0852
+      - US-38.68.134.9-0850
+      - US-38.68.134.9-0849
+      - US-38.68.134.9-0848
+      - US-38.68.134.9-0845
+      - US-38.68.134.9-0844
+      - US-38.68.134.202-1290
+      - US-38.68.134.202-0878
+      - US-38.143.66.87-7071
+      - US-38.143.66.87-0897
+      - US-38.143.66.87-0888
+      - US-38.143.66.87-0879
+      - US-38.143.66.87-0823
+      - US-38.143.66.87-0819
+      - US-38.121.43.97-0854
+      - US-38.121.43.97-0842
+      - US-38.121.43.97-0839
+      - US-38.121.43.97-0837
+      - US-38.121.43.97-0592
+      - US-38.121.43.71-7632
+      - US-38.121.43.71-7232
+      - US-38.121.43.71-6836
+      - US-38.121.43.71-5362
+      - US-38.121.43.71-5357
+      - US-38.121.43.71-5354
+      - US-38.121.43.71-5342
+      - US-38.121.43.71-1660
+      - US-38.121.43.71-0935
+      - US-38.121.43.71-0885
+      - US-38.121.43.71-0880
+      - US-38.121.43.71-0875
+      - US-38.121.43.71-0871
+      - US-38.121.43.71-0870
+      - US-38.121.43.71-0868
+      - US-38.121.43.71-0862
+      - US-38.121.43.71-0859
+      - US-38.121.43.71-0851
+      - US-38.121.43.71-0840
+      - US-38.121.43.71-0832
+      - US-38.121.43.71-0829
+      - US-38.121.43.71-0826
+      - US-38.121.43.71-0820
+      - US-38.121.43.71-0064
+      - US-38.121.43.65-6815
+      - US-38.121.43.51-0876
+      - US-38.121.43.248-1880
+      - US-38.121.43.142-7589
+      - US-38.121.43.142-7163
+      - US-38.121.43.142-0894
+      - US-38.114.114.69-7804
+      - US-38.114.114.69-7784
+      - US-38.114.114.69-7763
+      - US-38.114.114.69-7761
+      - US-38.114.114.69-7735
+      - US-38.114.114.69-7699
+      - US-38.114.114.69-7595
+      - US-38.114.114.69-7297
+      - US-38.114.114.69-7280
+      - US-38.114.114.69-7148
+      - US-38.114.114.69-7111
+      - US-38.114.114.69-7105
+      - US-38.114.114.69-7031
+      - US-38.114.114.69-6863
+      - US-38.114.114.69-6664
+      - US-38.114.114.69-1649
+      - US-38.114.114.69-0902
+      - US-38.114.114.69-0896
+      - US-38.114.114.69-0887
+      - US-38.114.114.69-0867
+      - US-38.114.114.69-0841
+      - US-38.114.114.69-0836
+      - US-38.114.114.69-0834
+      - US-38.114.114.69-0831
+      - US-38.114.114.69-0818
+      - US-38.114.114.69-0817
+      - US-38.114.114.69-0816
+      - US-38.114.114.69-0072
+      - US-38.114.114.69-0059
+      - US-38.114.114.143-7504
+      - US-38.114.114.143-6186
+      - US-38.110.1.51-0872
+      - US-38.110.1.105-0643
+      - US-38.107.226.146-0737
+      - US-23.157.40.89-0612
+      - US-23.157.40.113-0650
+      - US-23.157.40.113-0649
+      - US-23.157.40.113-0648
+      - US-23.157.40.113-0646
+      - US-23.157.40.113-0645
+      - US-23.157.40.113-0644
+      - US-23.157.40.113-0642
+      - US-23.157.40.113-0580
+      - US-23.157.40.102-0590
+      - US-23.157.40.102-0583
+      - US-23.157.40.102-0582
+      - US-23.157.40.10-0653
+      - US-23.157.40.10-0634
+      - US-23.157.40.10-0632
+      - US-23.157.40.10-0618
+      - US-23.157.40.10-0615
+      - US-23.157.40.10-0607
+      - US-23.157.40.10-0603
+      - US-23.157.40.10-0597
+      - US-23.157.40.10-0595
+      - US-23.154.136.176-0895
+      - US-205.134.180.151-0711
+      - US-205.134.180.147-0707
+      - US-205.134.180.145-0708
+      - US-205.134.180.139-0717
+      - US-184.170.241.194-0713
+      - US-172.232.4.213-3722
+      - US-166.0.145.209-1264
+      - US-154.7.179.27-1259
+      - US-154.17.9.71-1263
+      - US-154.17.21.13-1262
+      - US-15.204.87.225-0660
+      - US-15.204.87.225-0657
+      - US-15.204.87.225-0628
+      - US-15.204.87.225-0611
+      - US-15.204.87.225-0610
+      - US-15.204.87.222-1299
+      - US-142.202.49.79-0843
+      - US-142.202.49.122-0857
+      - US-103.224.182.249-5225
+      - US-103.224.182.249-5224
   - name: US-BestPing
     type: url-test
     disable-udp: false
     proxies:
-      - 205.134.180.147 - 🇺🇸 District of Columbia - Washington - AIN
-      - 89.187.181.172 - 🇺🇸 Illinois - Chicago - Datacamp Limited
-      - 107.173.114.6-0625 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING
-      - 107.173.114.6-0630 - 🇺🇸 New York - Buffalo - AS - COLOCROSSING
-      - 192.227.206.115 - 🇺🇸 Texas - Dallas - AS - COLOCROSSING
-      - 184.170.241.194 - 🇺🇸 Arizona - Phoenix - PERFORMIVE
-      - 192.3.150.233 - 🇺🇸 Washington - Seattle - AS - COLOCROSSING
-      - 104.207.155.64 - 🇺🇸 California - Los Angeles - AS - CHOOPA
-      - 185.180.13.70 - 🇺🇸 California - Los Angeles - Datacamp Limited
-      - 38.95.115.176 - 🇺🇸 California - Los Angeles - Zhejiang Aiyun Network Technology Co Ltd
-      - 38.46.4.182 - 🇺🇸 California - Los Angeles - Zhejiang Aiyun Network Technology Co Ltd
-      - 205.134.180.139 - 🇺🇸 District of Columbia - Washington - AIN
-      - 38.107.226.146 - 🇺🇸 Virginia - Ashburn - AS - GLOBALTELEHOST
+      - US-69.50.95.39-1276
+      - US-69.50.93.86-0866
+      - US-69.50.93.47-1883
+      - US-69.50.93.47-1874
+      - US-69.162.95.3-5726
+      - US-43.153.80.208-1266
+      - US-38.86.135.31-0623
+      - US-38.86.135.31-0620
+      - US-38.86.135.31-0600
+      - US-38.75.136.21-7674
+      - US-38.75.136.21-7516
+      - US-38.75.136.21-7279
+      - US-38.75.136.21-7177
+      - US-38.75.136.21-7142
+      - US-38.75.136.21-7141
+      - US-38.75.136.21-7045
+      - US-38.75.136.21-7043
+      - US-38.75.136.21-7036
+      - US-38.75.136.21-0912
+      - US-38.75.136.21-0903
+      - US-38.75.136.21-0901
+      - US-38.75.136.21-0884
+      - US-38.75.136.21-0877
+      - US-38.75.136.21-0861
+      - US-38.75.136.21-0860
+      - US-38.75.136.21-0846
+      - US-38.75.136.21-0838
+      - US-38.75.136.21-0833
+      - US-38.75.136.21-0830
+      - US-38.75.136.21-0827
+      - US-38.75.136.21-0825
+      - US-38.75.136.21-0822
+      - US-38.75.136.21-0821
+      - US-38.75.136.21-0815
+      - US-38.75.136.21-0814
+      - US-38.75.136.21-0655
+      - US-38.75.136.21-0052
+      - US-38.68.135.19-7512
+      - US-38.68.135.19-7474
+      - US-38.68.135.19-6871
+      - US-38.68.135.19-6862
+      - US-38.68.135.19-6845
+      - US-38.68.135.19-6841
+      - US-38.68.135.19-6831
+      - US-38.68.135.19-6808
+      - US-38.68.135.19-6394
+      - US-38.68.135.19-6389
+      - US-38.68.135.19-6386
+      - US-38.68.135.19-6382
+      - US-38.68.135.19-0900
+      - US-38.68.135.19-0899
+      - US-38.68.135.19-0892
+      - US-38.68.135.19-0891
+      - US-38.68.135.19-0874
+      - US-38.68.135.19-0873
+      - US-38.68.135.19-0869
+      - US-38.68.135.19-0858
+      - US-38.68.135.19-0856
+      - US-38.68.135.19-0077
+      - US-38.68.134.9-6208
+      - US-38.68.134.9-6206
+      - US-38.68.134.9-6202
+      - US-38.68.134.9-6200
+      - US-38.68.134.9-6194
+      - US-38.68.134.9-6192
+      - US-38.68.134.9-6178
+      - US-38.68.134.9-6172
+      - US-38.68.134.9-0904
+      - US-38.68.134.9-0890
+      - US-38.68.134.9-0889
+      - US-38.68.134.9-0886
+      - US-38.68.134.9-0883
+      - US-38.68.134.9-0882
+      - US-38.68.134.9-0865
+      - US-38.68.134.9-0864
+      - US-38.68.134.9-0852
+      - US-38.68.134.9-0850
+      - US-38.68.134.9-0849
+      - US-38.68.134.9-0848
+      - US-38.68.134.9-0845
+      - US-38.68.134.9-0844
+      - US-38.68.134.202-1290
+      - US-38.68.134.202-0878
+      - US-38.143.66.87-7071
+      - US-38.143.66.87-0897
+      - US-38.143.66.87-0888
+      - US-38.143.66.87-0879
+      - US-38.143.66.87-0823
+      - US-38.143.66.87-0819
+      - US-38.121.43.97-0854
+      - US-38.121.43.97-0842
+      - US-38.121.43.97-0839
+      - US-38.121.43.97-0837
+      - US-38.121.43.97-0592
+      - US-38.121.43.71-7632
+      - US-38.121.43.71-7232
+      - US-38.121.43.71-6836
+      - US-38.121.43.71-5362
+      - US-38.121.43.71-5357
+      - US-38.121.43.71-5354
+      - US-38.121.43.71-5342
+      - US-38.121.43.71-1660
+      - US-38.121.43.71-0935
+      - US-38.121.43.71-0885
+      - US-38.121.43.71-0880
+      - US-38.121.43.71-0875
+      - US-38.121.43.71-0871
+      - US-38.121.43.71-0870
+      - US-38.121.43.71-0868
+      - US-38.121.43.71-0862
+      - US-38.121.43.71-0859
+      - US-38.121.43.71-0851
+      - US-38.121.43.71-0840
+      - US-38.121.43.71-0832
+      - US-38.121.43.71-0829
+      - US-38.121.43.71-0826
+      - US-38.121.43.71-0820
+      - US-38.121.43.71-0064
+      - US-38.121.43.65-6815
+      - US-38.121.43.51-0876
+      - US-38.121.43.248-1880
+      - US-38.121.43.142-7589
+      - US-38.121.43.142-7163
+      - US-38.121.43.142-0894
+      - US-38.114.114.69-7804
+      - US-38.114.114.69-7784
+      - US-38.114.114.69-7763
+      - US-38.114.114.69-7761
+      - US-38.114.114.69-7735
+      - US-38.114.114.69-7699
+      - US-38.114.114.69-7595
+      - US-38.114.114.69-7297
+      - US-38.114.114.69-7280
+      - US-38.114.114.69-7148
+      - US-38.114.114.69-7111
+      - US-38.114.114.69-7105
+      - US-38.114.114.69-7031
+      - US-38.114.114.69-6863
+      - US-38.114.114.69-6664
+      - US-38.114.114.69-1649
+      - US-38.114.114.69-0902
+      - US-38.114.114.69-0896
+      - US-38.114.114.69-0887
+      - US-38.114.114.69-0867
+      - US-38.114.114.69-0841
+      - US-38.114.114.69-0836
+      - US-38.114.114.69-0834
+      - US-38.114.114.69-0831
+      - US-38.114.114.69-0818
+      - US-38.114.114.69-0817
+      - US-38.114.114.69-0816
+      - US-38.114.114.69-0072
+      - US-38.114.114.69-0059
+      - US-38.114.114.143-7504
+      - US-38.114.114.143-6186
+      - US-38.110.1.51-0872
+      - US-38.110.1.105-0643
+      - US-38.107.226.146-0737
+      - US-23.157.40.89-0612
+      - US-23.157.40.113-0650
+      - US-23.157.40.113-0649
+      - US-23.157.40.113-0648
+      - US-23.157.40.113-0646
+      - US-23.157.40.113-0645
+      - US-23.157.40.113-0644
+      - US-23.157.40.113-0642
+      - US-23.157.40.113-0580
+      - US-23.157.40.102-0590
+      - US-23.157.40.102-0583
+      - US-23.157.40.102-0582
+      - US-23.157.40.10-0653
+      - US-23.157.40.10-0634
+      - US-23.157.40.10-0632
+      - US-23.157.40.10-0618
+      - US-23.157.40.10-0615
+      - US-23.157.40.10-0607
+      - US-23.157.40.10-0603
+      - US-23.157.40.10-0597
+      - US-23.157.40.10-0595
+      - US-23.154.136.176-0895
+      - US-205.134.180.151-0711
+      - US-205.134.180.147-0707
+      - US-205.134.180.145-0708
+      - US-205.134.180.139-0717
+      - US-184.170.241.194-0713
+      - US-172.232.4.213-3722
+      - US-166.0.145.209-1264
+      - US-154.7.179.27-1259
+      - US-154.17.9.71-1263
+      - US-154.17.21.13-1262
+      - US-15.204.87.225-0660
+      - US-15.204.87.225-0657
+      - US-15.204.87.225-0628
+      - US-15.204.87.225-0611
+      - US-15.204.87.225-0610
+      - US-15.204.87.222-1299
+      - US-142.202.49.79-0843
+      - US-142.202.49.122-0857
+      - US-103.224.182.249-5225
+      - US-103.224.182.249-5224
     url: http://cp.cloudflare.com/generate_204
     interval: 30
   - name: JP-BestPing
@@ -149,23 +677,6 @@ proxy-groups:
       - 185.172.113.182-6129 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited
     url: http://cp.cloudflare.com/generate_204
     interval: 30
-  - name: EXTRA
-    type: select
-    disable-udp: false
-    proxies:
-      - AL-31.171.153.178-0769
-      - AL-31.171.153.181-0770
-      - BA-185.164.35.9-0785
-      - CA-134.195.196.178-0784
-      - CA-134.195.196.178-0792
-      - CA-134.195.196.178-0795
-      - CA-134.195.196.178-0802
-      - CA-138.199.57.185-0707
-      - CA-140.238.147.128-1160
-      - CA-158.51.121.36-3014
-      - CA-168.138.70.157-1161
-      - CO-190.120.231.45-0895
-      - CZ-89.187.189.88-0786
 rules:
   - DOMAIN-KEYWORD,peakwoods,AD-REWARD
   - DOMAIN-KEYWORD,mintegral,REJECT
