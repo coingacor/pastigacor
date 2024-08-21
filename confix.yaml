@@ -733,6 +733,7 @@ proxy-groups:
     interval: 30
 rules:
   - DOMAIN-KEYWORD,peakwoods,AD-REWARD
+  - DOMAIN-KEYWORD,assets.mintegral.com,AD-SOURCE
   - DOMAIN-KEYWORD,mintegral,REJECT
   - DOMAIN,tk.anythinktech.com,AD-SOURCE
   - DOMAIN-KEYWORD,anythinktech,AD-SOURCE
