@@ -225,6 +225,31 @@ proxies:
   - {name: 185.172.113.182-6131 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited, server: 185.172.113.182, port: 809, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: 185.172.113.182-6130 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited, server: 185.172.113.182, port: 804, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
   - {name: 185.172.113.182-6129 - 🇯🇵 Tokyo - Tokyo - Datacamp Limited, server: 185.172.113.182, port: 810, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true}
+  - {name: FR-54.36.174.181-6140, server: 54.36.174.181, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: FR-54.36.174.181-6136, server: 54.36.174.181, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: FR-54.36.174.181-6129, server: 54.36.174.181, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: FR-54.36.174.181-0088, server: 54.36.174.181, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: FR-51.159.111.208-0740, server: 51.159.111.208, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: FR-45.145.167.103-1878, server: indiavideo.sbs, port: 443, type: vmess, uuid: 425c5e6e-30a0-4984-8a13-ee6f72053162, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: indiavideo.sbs, network: ws, ws-opts: {path: /linkws, headers: {Host: indiavideo.sbs}}, udp: true}
+  - {name: FR-195.154.185.174-0738, server: 195.154.185.174, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: FR-195.154.169.198-0733, server: 195.154.169.198, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true}
+  - {name: FR-193.160.130.245-0329, server: beyonddsz.cfd, port: 443, type: vmess, uuid: 9b456c2a-f2c1-45e1-87a9-b7628b04bb24, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: beyonddsz.cfd, network: ws, ws-opts: {path: /linkws, headers: {Host: beyonddsz.cfd}}, udp: true}
+  - {name: FR-149.202.82.172-6570, server: 149.202.82.172, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: FR-149.202.82.172-6563, server: 149.202.82.172, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true}
+  - {name: FR-149.202.82.172-6556, server: 149.202.82.172, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: FR-149.202.82.172-6555, server: 149.202.82.172, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: FR-149.202.82.172-6554, server: 149.202.82.172, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: FR-149.202.82.172-6552, server: 149.202.82.172, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true}
+  - {name: FR-149.202.82.172-6551, server: 149.202.82.172, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: FR-149.202.82.172-6549, server: 149.202.82.172, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: FR-149.202.82.172-6547, server: 149.202.82.172, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: FR-149.202.82.172-6546, server: 149.202.82.172, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true}
+  - {name: FR-149.202.82.172-6540, server: 149.202.82.172, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true}
+  - {name: FR-149.202.82.172-6134, server: 149.202.82.172, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true}
+  - {name: FR-149.202.82.172-2664, server: 149.202.82.172, port: 5600, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true}
+  - {name: FR-149.202.82.172-0932, server: 149.202.82.172, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true}
+  - {name: FR-149.202.82.172-0927, server: 149.202.82.172, port: 6697, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS, udp: true}
+  - {name: FR-146.19.168.161-0527, server: az05.beyondy.cfd, port: 443, type: vmess, uuid: 3f638f34-8dba-4186-bc43-2716a7ddd4be, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, servername: az05.beyondy.cfd, network: ws, ws-opts: {path: /link, headers: {Host: az05.beyondy.cfd}}, udp: true}
 
 proxy-groups:
   - name: AD-BLOCKER
@@ -239,6 +264,7 @@ proxy-groups:
     proxies:
       - US-BestPing
       - US-PilihServer
+      - EU-PilihServer
   - name: AD-SOURCE
     type: select
     proxies:
@@ -456,6 +482,34 @@ proxy-groups:
       - US-142.202.49.122-0857
       - US-103.224.182.249-5225
       - US-103.224.182.249-5224
+  - name: EU-PilihServer
+    type: select
+    proxies:
+      - FR-54.36.174.181-6140
+      - FR-54.36.174.181-6136
+      - FR-54.36.174.181-6129
+      - FR-54.36.174.181-0088
+      - FR-51.159.111.208-0740
+      - FR-45.145.167.103-1878
+      - FR-195.154.185.174-0738
+      - FR-195.154.169.198-0733
+      - FR-193.160.130.245-0329
+      - FR-149.202.82.172-6570
+      - FR-149.202.82.172-6563
+      - FR-149.202.82.172-6556
+      - FR-149.202.82.172-6555
+      - FR-149.202.82.172-6554
+      - FR-149.202.82.172-6552
+      - FR-149.202.82.172-6551
+      - FR-149.202.82.172-6549
+      - FR-149.202.82.172-6547
+      - FR-149.202.82.172-6546
+      - FR-149.202.82.172-6540
+      - FR-149.202.82.172-6134
+      - FR-149.202.82.172-2664
+      - FR-149.202.82.172-0932
+      - FR-149.202.82.172-0927
+      - FR-146.19.168.161-0527
   - name: US-BestPing
     type: url-test
     disable-udp: false
