@@ -1,10 +1,13 @@
-socks://67.213.212.53:27046#🇺🇸 Maryland|Westminster|21157|c-73-86-5-187.hsd1.md.comcast.net| 73.86.5.187 |Time View 04/08/2024 00:38:29 |Black List Yes |Use Type: Residential|
-socks://212.83.143.159:48904#🇺🇸 California|Los Angeles|90017|Multacom Corporation| 148.135.36.96 |Time View 04/08/2024 00:37:30 |Black List No |Use Type: Business|
-socks://162.0.220.219:50444#🇺🇸 California|Los Angeles|90010|206-72-69-248.dsl.dock.net| 206.72.69.248 |Time View 04/08/2024 00:37:02 |Black List Yes |Use Type: Business|
-socks://162.0.220.220:62532#🇺🇸 California|Los Angeles|90012|099.192-93-216-nokia-dsl.dynamic.surewest.net| 216.93.192.99 |Time View 04/08/2024 00:36:34 |Black List Yes |Use Type: Residential|
-socks://38.91.106.214:62350#🇺🇸 Georgia|Washington|30673|static-173-233-191-86.nu-z.net| 173.233.191.86 |Time View 04/08/2024 00:34:58 |Black List Yes |Use Type: Business|
-socks://162.0.220.215:18181#🇺🇸 Georgia|Warner Robins|31088|65.21.5.207.dynamic-pool.hargray.net| 207.5.21.65 |Time View 04/08/2024 00:34:23 |Black List No |Use Type: Business|
-socks://66.29.128.242:12118#🇺🇸 Georgia|Loganville|30052|c-67-191-165-156.hsd1.ga.comcast.net| 67.191.165.156 |Time View 04/08/2024 00:33:31 |Black List Yes |Use Type: Residential|
-socks://67.213.210.168:24837#🇺🇸 Georgia|Hartwell|30643|64-179-197-131.hartcom.net| 64.179.197.131 |Time View 04/08/2024 00:32:49 |Black List No |Use Type: Business|
-socks://67.213.210.62:40109#🇺🇸 Georgia|Glenwood|30428|137-118-89-84.neonova.net| 137.118.89.84 |Time View 04/08/2024 00:32:12 |Black List No |Use Type: Business|
-socks://67.213.212.50:17442#🇺🇸 Georgia|Dallas|30132|50-246-28-213-static.hfc.comcastbusiness.net| 50.246.28.213 |Time View 04/08/2024 00:29:51 |Black List Yes |Use Type: Residential|
+127.0.0.1  localhost
+::1  localhost
+
+# API
+127.0.0.1 api.antibanads.com
+127.0.0.1 api.gov-img.site
+127.0.0.1 api.gov-static.tech
+127.0.0.1 api.inmense.site
+127.0.0.1 api.kickoffo.site
+127.0.0.1 api.revenuads.com
+127.0.0.1 api.toponadss.com
+127.0.0.1 api.youngle.site
+127.0.0.1 assets.mintegral.com
