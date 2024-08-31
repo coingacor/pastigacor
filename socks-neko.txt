@@ -1,4 +1,2 @@
-socks://162.0.220.161:52474#74|SouthCarolina|29909|67.20.158.235.pool.hargray.net|UnitedStates|Blacklist:No|Checkedathttps://dichvusocks.us
-socks://174.138.176.76:15037#95|SouthCarolina|29909|160.150.49.24.dynamic-pool.hargray.net|UnitedStates|Blacklist:No|Checkedathttps://dichvusocks.us
-socks://38.91.106.214:15524#97|SouthCarolina|29926|67.20.146.19.pool.hargray.net|UnitedStates|Blacklist:No|Checkedathttps://dichvusocks.us
-socks://23.105.170.33:22775#31|Florida|33322|96-87-164-85-static.hfc.comcastbusiness.net|UnitedStates|Blacklist:No|Checkedathttps://dichvusocks.us
+socks://212.83.142.131:50317#🇯🇵 Osaka|Osaka|550-0001|i121-112-70-189.s41.a027.ap.plala.or.jp| 121.112.70.189 |Time View 31/08/2024 23:12:22 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.97:24299#🇯🇵 Kyoto|Kyoto|602-8051|s221099.ppp.asahi-net.or.jp| 220.157.221.99 |Time View 31/08/2024 23:12:12 |Black List Yes |Use Type: Business|https://dichvusocks.net
