@@ -9,3 +9,5 @@ socks://66.29.129.53:58298#🇺🇸 South Carolina|Hilton Head Island|29928|64.2
 socks://66.29.129.52:60289#🇺🇸 South Carolina|Bluffton|29910|64.20.152.57.dyn-e-pool25.pool.hargray.net| 64.20.152.57 |Time View 13/09/2024 18:58:30 |Black List No |Use Type: Business|
 socks://162.0.220.215:63692#🇺🇸 South Carolina|Bluffton|29909|64.20.138.242.dyn-e-pool11.pool.hargray.net| 64.20.138.242 |Time View 13/09/2024 18:58:25 |Black List No |Use Type: Business|
 socks://209.159.153.22:53385#🇺🇸 Missouri|Lee's Summit|64064|syn-067-052-254-187.biz.spectrum.com| 67.52.254.187 |Time View 13/09/2024 14:15:58 |Black List No |Use Type: Business|
+socks://212.83.143.191:64416#🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133 |Time View 14/09/2024 02:06:38 |Black List No |Use Type: Business|
+socks://212.83.142.131:34404#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 14/09/2024 02:06:33 |Black List Yes |Use Type: Business|
