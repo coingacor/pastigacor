@@ -1,13 +1,5 @@
-socks://38.91.107.229:40225#🇺🇸 South Carolina|Bluffton|29910|64.20.146.120.dyn-e-pool19.pool.hargray.net| 64.20.146.120 |Time View 13/09/2024 18:58:59 |Black List No |Use Type: Business|
-socks://174.138.176.76:54244#🇺🇸 South Carolina|Hilton Head Island|29928|64.20.157.10.dyn-e-pool30.pool.hargray.net| 64.20.157.10 |Time View 13/09/2024 18:58:56 |Black List No |Use Type: Business|
-socks://174.138.176.78:65272#🇺🇸 South Carolina|Hilton Head Island|29928|170.158.205.170.dynamic-pool.hargray.net| 170.205.158.170 |Time View 13/09/2024 18:58:51 |Black List Yes |Use Type: Business|
-socks://38.91.107.229:24656#🇺🇸 South Carolina|Beaufort|29907|200.156.119.199.dynamic-pool.hargray.net| 199.119.156.200 |Time View 13/09/2024 18:58:45 |Black List No |Use Type: Business|
-socks://38.91.107.2:60032#🇺🇸 South Carolina|Bluffton|29910|161.29.5.207.dynamic-pool.hargray.net| 207.5.29.161 |Time View 13/09/2024 18:58:40 |Black List No |Use Type: Business|
-socks://66.29.129.56:35929#🇺🇸 South Carolina|Beaufort|29907|77.100.116.199.static-pool.hargray.net| 199.116.100.77 |Time View 13/09/2024 18:58:38 |Black List No |Use Type: Business|
-socks://38.91.107.220:42262#🇺🇸 Georgia|Hawkinsville|31036|157.176.205.170.static-pool.hargray.net| 170.205.176.157 |Time View 13/09/2024 18:58:35 |Black List No |Use Type: Business|
-socks://66.29.129.53:58298#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.252.dyn-cm-pool-31.pool.hargray.net| 64.203.222.252 |Time View 13/09/2024 18:58:32 |Black List Yes |Use Type: Business|
-socks://66.29.129.52:60289#🇺🇸 South Carolina|Bluffton|29910|64.20.152.57.dyn-e-pool25.pool.hargray.net| 64.20.152.57 |Time View 13/09/2024 18:58:30 |Black List No |Use Type: Business|
-socks://162.0.220.215:63692#🇺🇸 South Carolina|Bluffton|29909|64.20.138.242.dyn-e-pool11.pool.hargray.net| 64.20.138.242 |Time View 13/09/2024 18:58:25 |Black List No |Use Type: Business|
-socks://209.159.153.22:53385#🇺🇸 Missouri|Lee's Summit|64064|syn-067-052-254-187.biz.spectrum.com| 67.52.254.187 |Time View 13/09/2024 14:15:58 |Black List No |Use Type: Business|
-socks://212.83.143.191:64416#🇮🇪 Leinster|Dublin|D02|web12.webserver.ie| 185.108.130.133 |Time View 14/09/2024 02:06:38 |Black List No |Use Type: Business|
-socks://212.83.142.131:34404#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 14/09/2024 02:06:33 |Black List Yes |Use Type: Business|
+socks://67.213.210.118:19706#🇺🇸 New Jersey|Freehold|07728|ool-45758a49.dyn.optonline.net| 69.117.138.73 |Time View 15/09/2024 12:18:17 |Black List Yes |Use Type: Residential|
+socks://162.19.7.58:11453#🇺🇸 New Jersey|Howell Township|07731|ool-44c6b7ae.dyn.optonline.net| 68.198.183.174 |Time View 15/09/2024 12:18:15 |Black List Yes |Use Type: Residential|
+socks://162.210.192.135:18640#🇺🇸 New York|Amityville|11701|ool-2f17008a.static.optonline.net| 47.23.0.138 |Time View 15/09/2024 12:18:03 |Black List No |Use Type: Business|
+socks://66.29.128.246:17980#🇺🇸 New Jersey|Morganville|07751|ool-43521f25.dyn.optonline.net| 67.82.31.37 |Time View 15/09/2024 12:18:00 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:47921#🇺🇸 New York|The Bronx|10466|ool-457d3c47.dyn.optonline.net| 69.125.60.71 |Time View 15/09/2024 12:17:57 |Black List Yes |Use Type: Residential|
