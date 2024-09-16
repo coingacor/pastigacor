@@ -11,3 +11,15 @@ socks://192.111.137.35:4145#🇺🇸 Unknown|Unknown|Unknown|Total Server Soluti
 socks://66.23.233.210:40300#🇺🇸 New York|Staten Island|10306|static-108-29-165-119.nycmny.fios.verizon.net| 108.29.165.119 |Time View 16/09/2024 11:17:23 |Black List No |Use Type: Residential|
 socks://66.29.128.246:57577#🇺🇸 New York|The Bronx|10474|pool-70-23-203-119.ny325.east.verizon.net| 70.23.203.119 |Time View 16/09/2024 11:17:21 |Black List No |Use Type: Business|
 socks://67.213.212.47:25687#🇺🇸 New York|New York|10001|pool-173-56-35-91.nycmny.fios.verizon.net| 173.56.35.91 |Time View 16/09/2024 11:17:19 |Black List Yes |Use Type: Business|
+socks://67.213.210.115:25141#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.252.203 |Time View 16/09/2024 19:10:48 |Black List No |Use Type: Business|
+socks://38.91.107.229:39176#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.253.37 |Time View 16/09/2024 19:10:47 |Black List No |Use Type: Business|
+socks://38.91.107.2:36785#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.131.224 |Time View 16/09/2024 19:10:24 |Black List Yes |Use Type: Business|
+socks://38.91.107.220:26287#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.128.74 |Time View 16/09/2024 19:10:21 |Black List Yes |Use Type: Business|
+socks://66.29.129.53:32525#🇺🇸 South Carolina|Bluffton|29909|64.20.133.63.dyn-e-pool6.pool.hargray.net| 64.20.133.63 |Time View 16/09/2024 19:09:53 |Black List No |Use Type: Business|
+socks://162.0.220.219:60561#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 207.182.81.126 |Time View 16/09/2024 19:09:52 |Black List No |Use Type: Business|
+socks://212.83.143.204:63544|Singapore|Unknown|Singapore|17|ec2-18-143-7-66.ap-southeast-1.compute.amazonaws.com| 18.143.7.66 |Time View 16/09/2024 15:16:53 |Black List No |Use Type: Hosting|
+socks://174.138.176.76:53940#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 192.81.112.141 |Time View 16/09/2024 15:14:07 |Black List No |Use Type: Business|
+socks://38.91.107.220:10246#🇺🇸 South Carolina|Bluffton|29910|64.20.129.44.dyn-e-pool2.pool.hargray.net| 64.20.129.44 |Time View 16/09/2024 12:54:21 |Black List No |Use Type: Business|
+socks://67.213.210.175:37639#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.198.162 |Time View 16/09/2024 11:41:37 |Black List No |Use Type: Business|
+socks://38.91.107.2:14240#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.179.95 |Time View 16/09/2024 11:41:35 |Black List Yes |Use Type: Business|
+socks://67.213.210.167:10793#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.192.224 |Time View 16/09/2024 07:02:01 |Black List No |Use Type: Business|
