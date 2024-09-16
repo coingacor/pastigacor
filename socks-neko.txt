@@ -1,5 +1,10 @@
-socks://67.213.210.118:19706#🇺🇸 New Jersey|Freehold|07728|ool-45758a49.dyn.optonline.net| 69.117.138.73 |Time View 15/09/2024 12:18:17 |Black List Yes |Use Type: Residential|
-socks://162.19.7.58:11453#🇺🇸 New Jersey|Howell Township|07731|ool-44c6b7ae.dyn.optonline.net| 68.198.183.174 |Time View 15/09/2024 12:18:15 |Black List Yes |Use Type: Residential|
-socks://162.210.192.135:18640#🇺🇸 New York|Amityville|11701|ool-2f17008a.static.optonline.net| 47.23.0.138 |Time View 15/09/2024 12:18:03 |Black List No |Use Type: Business|
-socks://66.29.128.246:17980#🇺🇸 New Jersey|Morganville|07751|ool-43521f25.dyn.optonline.net| 67.82.31.37 |Time View 15/09/2024 12:18:00 |Black List Yes |Use Type: Residential|
-socks://67.213.212.49:47921#🇺🇸 New York|The Bronx|10466|ool-457d3c47.dyn.optonline.net| 69.125.60.71 |Time View 15/09/2024 12:17:57 |Black List Yes |Use Type: Residential|
+socks://38.91.107.224:17937#🇺🇸 New Jersey|Parsippany|07054|ool-4a59592d.dyn.optonline.net| 74.89.89.45 |Time View 16/09/2024 09:45:01 |Black List Yes |Use Type: Residential
+socks://174.138.176.77:47633#🇺🇸 South Carolina|Bluffton|29909|64.20.138.158.dyn-e-pool11.pool.hargray.net| 64.20.138.158 |Time View 16/09/2024 09:44:37 |Black List No |Use Type: Business
+socks://67.213.212.49:49022#🇺🇸 Maryland|Cambridge|21613|c-71-200-152-26.hsd1.md.comcast.net| 71.200.152.26 |Time View 16/09/2024 09:44:35 |Black List Yes |Use Type: Residential
+socks://198.7.56.73:11122#🇺🇸 Georgia|Cumming|30041|c-98-62-104-23.hsd1.ga.comcast.net| 98.62.104.23 |Time View 16/09/2024 09:44:29 |Black List Yes |Use Type: Residential
+socks://192.111.138.29:4145#🇺🇸 Unknown|Unknown|Unknown|Total Server Solutions L.L.C.| 192.111.138.29 |Time View 16/09/2024 09:44:18 |Black List No |Use Type: Hosting
+socks://198.8.84.3:4145#🇺🇸 Unknown|Unknown|Unknown|ATL.DediDirect.com| 198.8.84.3 |Time View 16/09/2024 09:44:12 |Black List No |Use Type: Hosting
+socks://142.54.229.249:4145#🇺🇸 Unknown|Unknown|Unknown|Performive LLC| 142.54.229.249 |Time View 16/09/2024 09:44:07 |Black List No |Use Type: Hosting
+socks://167.172.159.43:42929#🇺🇸 New Jersey|North Bergen|07047|ac19207.spoc-2021| 167.172.159.43 |Time View 16/09/2024 09:43:56 |Black List Yes |Use Type: Hosting
+socks://192.252.215.5:16137#🇺🇸 Unknown|Unknown|Unknown|atlanta-1.cdn77.com| 192.252.215.5 |Time View 16/09/2024 09:43:43 |Black List No |Use Type: Hosting
+socks://192.111.137.35:4145#🇺🇸 Unknown|Unknown|Unknown|Total Server Solutions L.L.C.| 192.111.137.35 |Time View 16/09/2024 09:43:38 |Black List No |Use Type: Hosting
