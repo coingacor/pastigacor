@@ -8,3 +8,6 @@ socks://142.54.229.249:4145#🇺🇸 Unknown|Unknown|Unknown|Performive LLC| 142
 socks://167.172.159.43:42929#🇺🇸 New Jersey|North Bergen|07047|ac19207.spoc-2021| 167.172.159.43 |Time View 16/09/2024 09:43:56 |Black List Yes |Use Type: Hosting
 socks://192.252.215.5:16137#🇺🇸 Unknown|Unknown|Unknown|atlanta-1.cdn77.com| 192.252.215.5 |Time View 16/09/2024 09:43:43 |Black List No |Use Type: Hosting
 socks://192.111.137.35:4145#🇺🇸 Unknown|Unknown|Unknown|Total Server Solutions L.L.C.| 192.111.137.35 |Time View 16/09/2024 09:43:38 |Black List No |Use Type: Hosting
+socks://66.23.233.210:40300#🇺🇸 New York|Staten Island|10306|static-108-29-165-119.nycmny.fios.verizon.net| 108.29.165.119 |Time View 16/09/2024 11:17:23 |Black List No |Use Type: Residential|
+socks://66.29.128.246:57577#🇺🇸 New York|The Bronx|10474|pool-70-23-203-119.ny325.east.verizon.net| 70.23.203.119 |Time View 16/09/2024 11:17:21 |Black List No |Use Type: Business|
+socks://67.213.212.47:25687#🇺🇸 New York|New York|10001|pool-173-56-35-91.nycmny.fios.verizon.net| 173.56.35.91 |Time View 16/09/2024 11:17:19 |Black List Yes |Use Type: Business|
