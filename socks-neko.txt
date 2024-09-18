@@ -1,16 +1,13 @@
-socks://209.159.153.22:20695#🇺🇸 Connecticut|Stamford|06902|ool-43542a10.dyn.optonline.net| 67.84.42.16 |Time View 17/09/2024 09:04:28 |Black List Yes |Use Type: Residential|
-socks://67.213.212.49:48753#🇺🇸 New Jersey|Bridgewater|08807|ool-43523594.dyn.optonline.net| 67.82.53.148 |Time View 17/09/2024 09:04:09 |Black List Yes |Use Type: Residential|
-socks://23.105.170.30:33275#🇺🇸 New York|Huntington Station|11746|ool-60389a72.static.optonline.net| 96.56.154.114 |Time View 17/09/2024 09:04:05 |Black List No |Use Type: Business|
-socks://23.88.121.205:34697#🇺🇸 New York|Glen Cove|11542|ool-4b7fcd5b.static.optonline.net| 75.127.205.91 |Time View 17/09/2024 09:04:02 |Black List Yes |Use Type: Business|
-socks://66.29.128.241:22415#🇺🇸 New York|Hempstead|11550|ool-182c1028.dyn.optonline.net| 24.44.16.40 |Time View 17/09/2024 09:03:38 |Black List Yes |Use Type: Business|
-socks://67.213.212.36:22571#🇺🇸 New York|Sag Harbor|11963|ool-457e05a7.dyn.optonline.net| 69.126.5.167 |Time View 17/09/2024 09:03:36 |Black List Yes |Use Type: Residential|
-socks://174.138.176.75:62173#🇺🇸 New Jersey|Bergenfield|07621|ool-43507f7f.dyn.optonline.net| 67.80.127.127 |Time View 17/09/2024 09:03:32 |Black List Yes |Use Type: Residential|
-socks://23.105.170.33:33615#🇺🇸 New York|Island Park|11558|ool-18bad8e3.dyn.optonline.net| 24.186.216.227 |Time View 17/09/2024 09:03:30 |Black List Yes |Use Type: Business|
-socks://209.159.153.19:41646#🇺🇸 New York|North Babylon|11703|ool-44c64a75.dyn.optonline.net| 68.198.74.117 |Time View 17/09/2024 09:03:27 |Black List Yes |Use Type: Residential|
-socks://162.19.7.61:46501#🇺🇸 New Jersey|Newark|07104|ool-68f65aa5.dyn.optonline.net| 104.246.90.165 |Time View 17/09/2024 09:03:24 |Black List Yes |Use Type: Residential|
-socks://209.159.153.19:39023#🇺🇸 New York|Garden City|11530|ool-44c60809.dyn.optonline.net| 68.198.8.9 |Time View 17/09/2024 09:03:21 |Black List Yes |Use Type: Residential|
-socks://51.254.167.45:20898#🇺🇸 California|Hesperia|92345|Frontier Communications Solutions| 47.146.152.6 |Time View 17/09/2024 13:27:27 |Black List Yes |Use Type: Residential|
-socks://209.159.153.21:50858#🇺🇸 California|Cupertino|95014|c-76-132-14-222.hsd1.ca.comcast.net| 76.132.14.222 |Time View 17/09/2024 13:27:21 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:61677#🇺🇸 California|Canoga Park|91304|syn-076-089-151-067.res.spectrum.com| 76.89.151.67 |Time View 17/09/2024 13:27:18 |Black List Yes |Use Type: Business|
-socks://66.29.128.242:12090#🇺🇸 California|Los Angeles|90066|syn-072-134-246-041.res.spectrum.com| 72.134.246.41 |Time View 17/09/2024 13:27:14 |Black List Yes |Use Type: Residential|
-socks://67.213.212.49:61905#🇺🇸 California|Concord|94520|c-73-231-125-143.hsd1.ca.comcast.net| 73.231.125.143 |Time View 17/09/2024 13:27:09 |Black List Yes |Use Type: Business|
+socks://108.181.132.118:46267#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.128.169 |Time View 18/09/2024 11:15:29 |Black List Yes |Use Type: Business|
+socks://67.213.210.61:63700#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.179.89 |Time View 18/09/2024 11:15:24 |Black List Yes |Use Type: Business|
+socks://67.213.210.167:36596#🇺🇸 New Jersey|Paterson|07501|ool-189292ba.dyn.optonline.net| 24.146.146.186 |Time View 18/09/2024 11:15:05 |Black List Yes |Use Type: Business|
+socks://38.91.106.252:56045#🇺🇸 New York|Farmingdale|11735|ool-45780e8f.dyn.optonline.net| 69.120.14.143 |Time View 18/09/2024 11:14:35 |Black List Yes |Use Type: Residential|
+socks://66.29.128.243:14178#🇺🇸 New Jersey|Plainfield|07060|ool-addca12a.static.optonline.net| 173.220.161.42 |Time View 18/09/2024 11:14:33 |Black List No |Use Type: Business|
+socks://66.29.128.246:21395#🇺🇸 New York|Valley Stream|11580|ool-182ff465.dyn.optonline.net| 24.47.244.101 |Time View 18/09/2024 11:14:28 |Black List Yes |Use Type: Residential|
+socks://162.0.220.219:25895#🇺🇸 New York|Wappingers Falls|12590|ool-2f17f21a.static.optonline.net| 47.23.242.26 |Time View 18/09/2024 11:14:24 |Black List No |Use Type: Business|
+socks://67.213.212.40:19775#🇺🇸 New York|Larchmont|10538|ool-addcca23.static.optonline.net| 173.220.202.35 |Time View 18/09/2024 11:14:21 |Black List Yes |Use Type: Business|
+socks://38.91.106.252:29901#🇺🇸 New Jersey|Blairstown|07825|ool-ae2ced3f.dyn.optonline.net| 174.44.237.63 |Time View 18/09/2024 11:14:00 |Black List Yes |Use Type: Residential|
+socks://162.0.220.215:36933#🇺🇸 New York|Lindenhurst|11757|ool-18bd2a1e.dyn.optonline.net| 24.189.42.30 |Time View 18/09/2024 11:13:55 |Black List Yes |Use Type: Residential|
+socks://67.213.212.36:22455#🇺🇸 New York|Brooklyn|11230|ool-43556935.dyn.optonline.net| 67.85.105.53 |Time View 18/09/2024 11:13:53 |Black List Yes |Use Type: Residential|
+socks://66.29.128.243:44173#🇺🇸 New Jersey|Secaucus|07094|ool-6c3a9302.static.optonline.net| 108.58.147.2 |Time View 18/09/2024 11:13:51 |Black List No |Use Type: Business|
+socks://209.159.153.21:62595#🇺🇸 New York|Brooklyn|11223|ool-44c5a717.dyn.optonline.net| 68.197.167.23 |Time View 18/09/2024 11:13:47 |Black List Yes |Use Type: Residential|
