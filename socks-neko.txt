@@ -1,13 +1,16 @@
+socks://66.29.128.245:22541#🇺🇸 New Jersey|Woodbridge|07095|c-174-57-166-178.hsd1.nj.comcast.net| 174.57.166.178 |Time View 18/09/2024 17:24:26 |Black List Yes |Use Type: Residential|
+socks://66.29.128.243:55108#🇺🇸 California|Stockton|95207|c-73-90-100-115.hsd1.ca.comcast.net| 73.90.100.115 |Time View 18/09/2024 17:24:18 |Black List Yes |Use Type: Residential|
+socks://162.19.7.61:47761#🇺🇸 Maryland|Capitol Heights|20743|c-98-233-54-9.hsd1.md.comcast.net| 98.233.54.9 |Time View 18/09/2024 17:24:17 |Black List Yes |Use Type: Residential|
+socks://37.59.213.49:33893#🇺🇸 Maryland|Sykesville|21784|c-73-163-63-149.hsd1.md.comcast.net| 73.163.63.149 |Time View 18/09/2024 17:23:58 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:26435#🇺🇸 California|San Mateo|94404|c-24-5-164-125.hsd1.ca.comcast.net| 24.5.164.125 |Time View 18/09/2024 17:23:41 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:41913#🇺🇸 New Jersey|Cherry Hill|08003|c-73-150-49-92.hsd1.nj.comcast.net| 73.150.49.92 |Time View 18/09/2024 17:23:36 |Black List Yes |Use Type: Residential|
+socks://67.213.212.47:46510#🇺🇸 Maryland|Gaithersburg|20878|c-73-163-144-105.hsd1.md.comcast.net| 73.163.144.105 |Time View 18/09/2024 17:23:31 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:27265#🇺🇸 Georgia|Marietta|30008|c-174-163-19-84.hsd1.ga.comcast.net| 174.163.19.84 |Time View 18/09/2024 17:23:28 |Black List Yes |Use Type: Residential|
+socks://174.138.176.76:35837#🇺🇸 California|Merced|95340|c-73-2-29-39.hsd1.ca.comcast.net| 73.2.29.39 |Time View 18/09/2024 17:23:24 |Black List Yes |Use Type: Residential|
+socks://162.19.7.47:57301#🇺🇸 California|Santa Clara|95054|c-67-164-2-156.hsd1.ca.comcast.net| 67.164.2.156 |Time View 18/09/2024 17:23:20 |Black List Yes |Use Type: Residential|
 socks://108.181.132.118:46267#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.128.169 |Time View 18/09/2024 11:15:29 |Black List Yes |Use Type: Business|
 socks://67.213.210.61:63700#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.179.89 |Time View 18/09/2024 11:15:24 |Black List Yes |Use Type: Business|
 socks://67.213.210.167:36596#🇺🇸 New Jersey|Paterson|07501|ool-189292ba.dyn.optonline.net| 24.146.146.186 |Time View 18/09/2024 11:15:05 |Black List Yes |Use Type: Business|
-socks://38.91.106.252:56045#🇺🇸 New York|Farmingdale|11735|ool-45780e8f.dyn.optonline.net| 69.120.14.143 |Time View 18/09/2024 11:14:35 |Black List Yes |Use Type: Residential|
 socks://66.29.128.243:14178#🇺🇸 New Jersey|Plainfield|07060|ool-addca12a.static.optonline.net| 173.220.161.42 |Time View 18/09/2024 11:14:33 |Black List No |Use Type: Business|
-socks://66.29.128.246:21395#🇺🇸 New York|Valley Stream|11580|ool-182ff465.dyn.optonline.net| 24.47.244.101 |Time View 18/09/2024 11:14:28 |Black List Yes |Use Type: Residential|
 socks://162.0.220.219:25895#🇺🇸 New York|Wappingers Falls|12590|ool-2f17f21a.static.optonline.net| 47.23.242.26 |Time View 18/09/2024 11:14:24 |Black List No |Use Type: Business|
-socks://67.213.212.40:19775#🇺🇸 New York|Larchmont|10538|ool-addcca23.static.optonline.net| 173.220.202.35 |Time View 18/09/2024 11:14:21 |Black List Yes |Use Type: Business|
 socks://38.91.106.252:29901#🇺🇸 New Jersey|Blairstown|07825|ool-ae2ced3f.dyn.optonline.net| 174.44.237.63 |Time View 18/09/2024 11:14:00 |Black List Yes |Use Type: Residential|
-socks://162.0.220.215:36933#🇺🇸 New York|Lindenhurst|11757|ool-18bd2a1e.dyn.optonline.net| 24.189.42.30 |Time View 18/09/2024 11:13:55 |Black List Yes |Use Type: Residential|
-socks://67.213.212.36:22455#🇺🇸 New York|Brooklyn|11230|ool-43556935.dyn.optonline.net| 67.85.105.53 |Time View 18/09/2024 11:13:53 |Black List Yes |Use Type: Residential|
-socks://66.29.128.243:44173#🇺🇸 New Jersey|Secaucus|07094|ool-6c3a9302.static.optonline.net| 108.58.147.2 |Time View 18/09/2024 11:13:51 |Black List No |Use Type: Business|
-socks://209.159.153.21:62595#🇺🇸 New York|Brooklyn|11223|ool-44c5a717.dyn.optonline.net| 68.197.167.23 |Time View 18/09/2024 11:13:47 |Black List Yes |Use Type: Residential|
