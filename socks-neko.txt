@@ -25,3 +25,11 @@ socks://67.213.210.167:13321#🇺🇸 New Jersey|Paterson|07501|ool-189292ba.dyn
 socks://23.105.170.30:51835#🇺🇸 New York|Amityville|11701|ool-ae2c1437.dyn.optonline.net| 174.44.20.55 |Time View 19/09/2024 11:24:49 |Black List Yes |Use Type: Residential|
 socks://67.213.212.40:31900#🇺🇸 New York|Port Washington|11050|ool-944c2651.dyn.optonline.net| 148.76.38.81 |Time View 19/09/2024 11:24:43 |Black List Yes |Use Type: Residential|
 socks://209.159.153.20:43662#🇺🇸 New Jersey|Cassville|08527|ool-4351a3b7.dyn.optonline.net| 67.81.163.183 |Time View 19/09/2024 11:24:35 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:16469#🇺🇸 New Jersey|Ridgefield|07657|static-98-109-39-48.nwrknj.fios.verizon.net| 98.109.39.48 |Time View 20/09/2024 06:24:13 |Black List No |Use Type: Residential|
+socks://162.19.7.61:28640#🇺🇸 New Jersey|Plainfield|07060|pool-98-109-57-33.nwrknj.fios.verizon.net| 98.109.57.33 |Time View 20/09/2024 06:24:08 |Black List Yes |Use Type: Residential|
+socks://66.29.128.246:49580#🇺🇸 New Jersey|Trenton|08618|c-174-167-22-25.hsd1.nj.comcast.net| 174.167.22.25 |Time View 20/09/2024 06:23:16 |Black List Yes |Use Type: Residential|
+socks://67.213.212.51:49449#🇺🇸 New Jersey|Sicklerville|08081|c-73-160-158-182.hsd1.nj.comcast.net| 73.160.158.182 |Time View 20/09/2024 06:23:14 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:37771#🇬🇧 England|Gillingham|ME8|host86-184-161-218.range86-184.btcentralplus.com| 86.184.161.218 |Time View 20/09/2024 06:22:52 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:26294#🇬🇧 England|Nottingham|NG5|cpc126390-mapp13-2-0-cust250.12-4.cable.virginm.net| 86.20.63.251 |Time View 20/09/2024 06:22:48 |Black List Yes |Use Type: Residential|
+socks://95.168.166.109:14432#🇮🇪 Leinster|Dublin|D24|NTL Ireland| 37.228.203.182 |Time View 20/09/2024 06:22:36 |Black List Yes |Use Type: Business|
+socks://212.83.142.131:18306#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 20/09/2024 06:22:32 |Black List Yes |Use Type: Business|
