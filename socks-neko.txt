@@ -1,35 +1,15 @@
-socks://23.88.121.205:36193#🇺🇸 California|Ontario|91761|One Internet America, LLC| 172.83.138.113 |Time View 19/09/2024 23:13:01 |Black List Yes |Use Type: Business|
-socks://67.213.210.115:11953#🇺🇸 New Hampshire|Hill|03243|pool-71-168-118-128.cncdnh.fast06.myfairpoint.net| 71.168.118.128 |Time View 19/09/2024 23:12:52 |Black List Yes |Use Type: Business|
-socks://67.213.210.62:60976#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.133.108.dyn-e120.pool.hargray.net| 67.20.133.108 |Time View 19/09/2024 23:12:46 |Black List Yes |Use Type: Business|
-socks://174.138.176.74:19334#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.136.dyn-cm-pool-31.pool.hargray.net| 64.203.222.136 |Time View 19/09/2024 23:12:41 |Black List Yes |Use Type: Business|
-socks://162.0.220.214:45617#🇺🇸 Oklahoma|Woodward|73801|68-235-158-23.dynsouth.hsi.pldi.net| 68.235.158.23 |Time View 19/09/2024 23:12:36 |Black List Yes |Use Type: Business|
-socks://162.0.220.215:15188#🇺🇸 Oklahoma|Comanche|73529|159-242-208-252.dynsouth.hsi.pldi.net| 159.242.208.252 |Time View 19/09/2024 23:12:29 |Black List Yes |Use Type: Business|
-socks://66.29.129.54:40934#🇺🇸 California|Auberry|93602|23-29-11-59.netptc.net| 23.29.11.59 |Time View 19/09/2024 23:12:09 |Black List Yes |Use Type: Residential|
-socks://152.53.36.109:35455#🇺🇸 Nevada|Pahrump|89048|Valley Electric Association| 158.140.35.41 |Time View 19/09/2024 23:11:56 |Black List Yes |Use Type: Business|
-socks://162.19.7.50:29467#🇺🇸 Maryland|Columbia|21045|c-69-138-30-107.hsd1.md.comcast.net| 69.138.30.107 |Time View 19/09/2024 23:11:29 |Black List Yes |Use Type: Residential|
-socks://67.213.212.48:20083#🇺🇸 Ohio|Columbus|43229|d-75-118-12-164.oh.cpe.breezeline.net| 75.118.12.164 |Time View 19/09/2024 23:11:27 |Black List Yes |Use Type: Business|
-socks://141.94.238.246:11392#🇺🇸 Tennessee|La Vergne|37086|c-71-228-170-19.hsd1.tn.comcast.net| 71.228.170.19 |Time View 19/09/2024 23:11:08 |Black List Yes |Use Type: Residential|
-socks://67.213.212.49:27265#🇺🇸 Georgia|Marietta|30008|c-174-163-19-84.hsd1.ga.comcast.net| 174.163.19.84 |Time View 19/09/2024 23:10:45 |Black List Yes |Use Type: Residential|
-socks://38.91.107.224:48296#🇺🇸 Vermont|Stowe|05672|d-burl-bng2-64-223-93-192.ngn.east.myfairpoint.net| 64.223.93.192 |Time View 19/09/2024 23:10:41 |Black List Yes |Use Type: Business|
-socks://66.29.128.244:34826#🇺🇸 New York|Staten Island|10312|pool-108-6-117-113.nycmny.fios.verizon.net| 108.6.117.113 |Time View 19/09/2024 23:10:39 |Black List Yes |Use Type: Residential|
-socks://38.91.106.214:15296#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.15.dyn-cm-pool-31.pool.hargray.net| 64.203.222.15 |Time View 19/09/2024 23:10:37 |Black List Yes |Use Type: Business|
-socks://67.213.210.62:34828#🇺🇸 New York|Schuylerville|12871|syn-066-067-101-024.res.spectrum.com| 66.67.101.24 |Time View 19/09/2024 23:10:33 |Black List Yes |Use Type: Business|
-socks://66.29.128.244:28588#🇺🇸 Michigan|Detroit|48221|c-76-122-161-90.hsd1.mi.comcast.net| 76.122.161.90 |Time View 19/09/2024 23:10:24 |Black List Yes |Use Type: Residential|
-socks://66.29.128.246:14610#🇺🇸 Maryland|Gwynn Oak|21207|c-73-180-191-189.hsd1.md.comcast.net| 73.180.191.189 |Time View 19/09/2024 23:10:19 |Black List Yes |Use Type: Residential|
-socks://162.19.7.48:45713#🇺🇸 Virginia|Virginia Beach|23464|T-Mobile USA, Inc.| 172.59.112.168 |Time View 19/09/2024 23:10:18 |Black List Yes |Use Type: Cellular|
-socks://38.91.107.229:36103#🇺🇸 New Jersey|Beach Haven|08008|c-69-141-212-96.hsd1.nj.comcast.net| 69.141.212.96 |Time View 19/09/2024 23:09:58 |Black List Yes |Use Type: Residential|
-socks://66.29.128.246:47672#🇺🇸 West Virginia|Clarksburg|26301|syn-098-157-043-047.res.spectrum.com| 98.157.43.47 |Time View 19/09/2024 11:28:50 |Black List Yes |Use Type: Business|
-socks://209.159.153.20:13063#🇺🇸 Michigan|Adrian|49221|68-25-143-63.dynamic.ftth-pool.d-pcomm.com| 63.143.25.68 |Time View 19/09/2024 11:27:52 |Black List Yes |Use Type: Residential|
-socks://66.29.128.241:27375#🇺🇸 New York|Brooklyn|11220|syn-074-071-206-202.res.spectrum.com| 74.71.206.202 |Time View 19/09/2024 11:27:28 |Black List Yes |Use Type: Business|
-socks://67.213.210.167:13321#🇺🇸 New Jersey|Paterson|07501|ool-189292ba.dyn.optonline.net| 24.146.146.186 |Time View 19/09/2024 11:24:57 |Black List Yes |Use Type: Business|
-socks://23.105.170.30:51835#🇺🇸 New York|Amityville|11701|ool-ae2c1437.dyn.optonline.net| 174.44.20.55 |Time View 19/09/2024 11:24:49 |Black List Yes |Use Type: Residential|
-socks://67.213.212.40:31900#🇺🇸 New York|Port Washington|11050|ool-944c2651.dyn.optonline.net| 148.76.38.81 |Time View 19/09/2024 11:24:43 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:43662#🇺🇸 New Jersey|Cassville|08527|ool-4351a3b7.dyn.optonline.net| 67.81.163.183 |Time View 19/09/2024 11:24:35 |Black List Yes |Use Type: Residential|
+socks://67.213.210.118:42281#🇺🇸 New Jersey|Freehold|07728|ool-45758a49.dyn.optonline.net| 69.117.138.73 |Time View 20/09/2024 08:59:41 |Black List Yes |Use Type: Residential|
+socks://198.7.56.71:39555#🇺🇸 New Jersey|Piscataway|08854|ool-4b63acb2.static.optonline.net| 75.99.172.178 |Time View 20/09/2024 08:59:33 |Black List No |Use Type: Residential|
+socks://162.19.7.49:50338#🇺🇸 New Jersey|Hackensack|07601|ool-4578739d.dyn.optonline.net| 69.120.115.157 |Time View 20/09/2024 08:59:31 |Black List Yes |Use Type: Residential|
+socks://67.213.210.175:60800#🇺🇸 New Jersey|Edison|08817|ool-44c275f3.dyn.optonline.net| 68.194.117.243 |Time View 20/09/2024 08:59:26 |Black List Yes |Use Type: Residential|
+socks://198.7.56.73:34754#🇺🇸 New York|Lindenhurst|11757|ool-903eebbb.dyn.optonline.net| 144.62.235.187 |Time View 20/09/2024 08:59:22 |Black List Yes |Use Type: Business|
+socks://66.29.129.52:48599#🇺🇸 New York|Elmont|11003|ool-43502b74.dyn.optonline.net| 67.80.43.116 |Time View 20/09/2024 08:59:20 |Black List Yes |Use Type: Residential|
+socks://66.29.128.243:60121#🇺🇸 New Jersey|Secaucus|07094|ool-6c3a9302.static.optonline.net| 108.58.147.2 |Time View 20/09/2024 08:59:15 |Black List No |Use Type: Business|
+socks://67.213.212.40:44207#🇺🇸 New York|Brooklyn|11225|ool-944bd421.dyn.optonline.net| 148.75.212.33 |Time View 20/09/2024 08:59:13 |Black List Yes |Use Type: Residential|
 socks://67.213.212.48:16469#🇺🇸 New Jersey|Ridgefield|07657|static-98-109-39-48.nwrknj.fios.verizon.net| 98.109.39.48 |Time View 20/09/2024 06:24:13 |Black List No |Use Type: Residential|
 socks://162.19.7.61:28640#🇺🇸 New Jersey|Plainfield|07060|pool-98-109-57-33.nwrknj.fios.verizon.net| 98.109.57.33 |Time View 20/09/2024 06:24:08 |Black List Yes |Use Type: Residential|
 socks://66.29.128.246:49580#🇺🇸 New Jersey|Trenton|08618|c-174-167-22-25.hsd1.nj.comcast.net| 174.167.22.25 |Time View 20/09/2024 06:23:16 |Black List Yes |Use Type: Residential|
-socks://67.213.212.51:49449#🇺🇸 New Jersey|Sicklerville|08081|c-73-160-158-182.hsd1.nj.comcast.net| 73.160.158.182 |Time View 20/09/2024 06:23:14 |Black List Yes |Use Type: Residential|
-socks://138.201.21.218:37771#🇬🇧 England|Gillingham|ME8|host86-184-161-218.range86-184.btcentralplus.com| 86.184.161.218 |Time View 20/09/2024 06:22:52 |Black List Yes |Use Type: Business|
-socks://138.201.21.218:26294#🇬🇧 England|Nottingham|NG5|cpc126390-mapp13-2-0-cust250.12-4.cable.virginm.net| 86.20.63.251 |Time View 20/09/2024 06:22:48 |Black List Yes |Use Type: Residential|
-socks://95.168.166.109:14432#🇮🇪 Leinster|Dublin|D24|NTL Ireland| 37.228.203.182 |Time View 20/09/2024 06:22:36 |Black List Yes |Use Type: Business|
-socks://212.83.142.131:18306#🇮🇪 Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 20/09/2024 06:22:32 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:37771|United Kingdom|England|Gillingham|ME8|host86-184-161-218.range86-184.btcentralplus.com| 86.184.161.218 |Time View 20/09/2024 06:22:52 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:26294|United Kingdom|England|Nottingham|NG5|cpc126390-mapp13-2-0-cust250.12-4.cable.virginm.net| 86.20.63.251 |Time View 20/09/2024 06:22:48 |Black List Yes |Use Type: Residential|
+socks://95.168.166.109:14432|Ireland|Leinster|Dublin|D24|NTL Ireland| 37.228.203.182 |Time View 20/09/2024 06:22:36 |Black List Yes |Use Type: Business|
+socks://212.83.142.131:18306|Ireland|Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 20/09/2024 06:22:32 |Black List Yes |Use Type: Business|
