@@ -16,3 +16,11 @@ socks://138.201.21.218:37771|United Kingdom|England|Gillingham|ME8|host86-184-16
 socks://138.201.21.218:26294|United Kingdom|England|Nottingham|NG5|cpc126390-mapp13-2-0-cust250.12-4.cable.virginm.net| 86.20.63.251 |Time View 20/09/2024 06:22:48 |Black List Yes |Use Type: Residential|
 socks://95.168.166.109:14432|Ireland|Leinster|Dublin|D24|NTL Ireland| 37.228.203.182 |Time View 20/09/2024 06:22:36 |Black List Yes |Use Type: Business|
 socks://212.83.142.131:18306|Ireland|Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 20/09/2024 06:22:32 |Black List Yes |Use Type: Business|
+socks://152.53.36.109:35313#🇺🇸 Texas|Odessa|79765|72-24-228-154.cpe.sparklight.net| 72.24.228.154 |Time View 20/09/2024 12:40:10 |Black List Yes |Use Type: Residential|
+socks://66.29.129.54:63424#🇺🇸 Texas|Scroggins|75480|Peoples Communications Inc.| 69.46.62.29 |Time View 20/09/2024 12:40:06 |Black List Yes |Use Type: Business|
+socks://46.105.44.29:35268#🇺🇸 Texas|Austin|78754|syn-070-121-123-006.res.spectrum.com| 70.121.123.6 |Time View 20/09/2024 12:40:03 |Black List Yes |Use Type: Business|
+socks://66.29.128.243:36020#🇺🇸 Texas|Round Rock|78665|syn-070-122-023-199.res.spectrum.com| 70.122.23.199 |Time View 20/09/2024 12:39:58 |Black List Yes |Use Type: Business|
+socks://162.19.7.58:17015#🇺🇸 Texas|Whitney|76692|h113.2.19.98.static.ip.windstream.net| 98.19.2.113 |Time View 20/09/2024 12:39:56 |Black List Yes |Use Type: Business|
+socks://66.29.128.244:55668#🇺🇸 Texas|Spring|77380|Comcast Cable Communications| 73.232.131.194 |Time View 20/09/2024 12:39:49 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:19542#🇺🇸 Texas|Arlington|76016|syn-066-025-247-107.res.spectrum.com| 66.25.247.107 |Time View 20/09/2024 12:39:47 |Black List Yes |Use Type: Business|
+socks://37.221.193.221:10561#🇺🇸 Texas|Arlington|76006|syn-076-184-014-152.res.spectrum.com| 76.184.14.152 |Time View 20/09/2024 12:39:43 |Black List Yes |Use Type: Business|
