@@ -18,3 +18,5 @@ socks://67.213.210.62:23222#🇺🇸 South Carolina|Chester|29706|207-144-85-131
 socks://67.213.210.167:44919#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.178.49 |Time View 21/09/2024 07:56:14 |Black List Yes |Use Type: Business|
 socks://162.0.220.218:41887#🇺🇸 Arizona|Shungopavi|86043|dynamic-162-219-131-72.hopitelecom.net| 162.219.131.72 |Time View 21/09/2024 07:56:07 |Black List Yes |Use Type: Business|
 socks://67.213.210.167:19083#🇺🇸 South Carolina|Hilton Head Island|29926|173-207-193-13.cpe.cableone.net| 173.207.193.13 |Time View 21/09/2024 07:55:57 |Black List Yes |Use Type: Residential|
+socks://212.83.143.147:21405#🇧🇪 Flanders|Ghent|9000|133.149-65-87.adsl-dyn.isp.belgacom.be| 87.65.149.133 |Time View 21/09/2024 16:10:46 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:25146#🇧🇪 Flanders|Hasselt|3500|d54C038A8.access.telenet.be| 84.192.56.168 |Time View 21/09/2024 16:10:43 |Black List Yes |Use Type: Business|
