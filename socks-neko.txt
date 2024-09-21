@@ -1,22 +1,35 @@
-socks://162.19.7.59:60113#🇺🇸 New Jersey|Williamstown|08094|c-73-194-164-101.hsd1.nj.comcast.net| 73.194.164.101 |Time View 21/09/2024 07:57:59 |Black List Yes |Use Type: Residential|
+socks://67.213.212.40:23077#🇺🇸 California|National City|91950|wsip-68-1-223-195.sd.sd.cox.net| 68.1.223.195 |Time View 21/09/2024 22:27:57 |Black List Yes |Use Type: Business|
+socks://67.213.212.51:49125#🇺🇸 Virginia|Virginia Beach|23462|wsip-70-168-213-114.hr.hr.cox.net| 70.168.213.114 |Time View 21/09/2024 22:27:54 |Black List No |Use Type: Business|
+socks://67.213.212.51:53895#🇺🇸 Nevada|Las Vegas|89118|wsip-70-187-124-95.lv.lv.cox.net| 70.187.124.95 |Time View 21/09/2024 22:27:51 |Black List No |Use Type: Business|
+socks://66.23.233.210:65187#🇺🇸 Louisiana|Baton Rouge|70801|wsip-70-169-69-6.br.br.cox.net| 70.169.69.6 |Time View 21/09/2024 22:27:47 |Black List No |Use Type: Residential|
+socks://66.29.128.245:26574#🇺🇸 Arizona|San Tan Valley|85140|wsip-24-250-126-2.ph.ph.cox.net| 24.250.126.2 |Time View 21/09/2024 22:27:45 |Black List No |Use Type: Business|
+socks://209.159.153.19:45463#🇺🇸 Virginia|Fairfax|22038|wsip-174-64-53-166.dc.dc.cox.net| 174.64.53.166 |Time View 21/09/2024 22:27:41 |Black List No |Use Type: Business|
+socks://67.213.212.47:14517#🇺🇸 Virginia|Virginia Beach|23451|wsip-72-214-71-109.hr.hr.cox.net| 72.214.71.109 |Time View 21/09/2024 22:27:39 |Black List No |Use Type: Business|
+socks://198.7.56.73:25523#🇺🇸 Texas|Del Valle|78617|syn-192-063-144-142.res.spectrum.com| 192.63.144.142 |Time View 21/09/2024 22:27:09 |Black List Yes |Use Type: Business|
+socks://67.213.212.39:19645#🇺🇸 Virginia|Virginia Beach|23464|static-96-225-173-21.nrflva.fios.verizon.net| 96.225.173.21 |Time View 21/09/2024 22:26:20 |Black List Yes |Use Type: Residential|
+socks://162.19.7.53:15960#🇺🇸 Illinois|Chicago|60602|customer.chcoilx1.pop.starlinkisp.net| 98.97.2.144 |Time View 21/09/2024 22:25:56 |Black List Yes |Use Type: Cellular|
+socks://51.68.244.19:52682#🇺🇸 Illinois|Chicago|60602|customer.chcoilx1.pop.starlinkisp.net| 98.97.5.32 |Time View 21/09/2024 22:25:40 |Black List Yes |Use Type: Cellular|
+socks://66.29.128.242:30452#🇺🇸 Texas|Pearland|77581|c-76-30-245-198.hsd1.tx.comcast.net| 76.30.245.198 |Time View 21/09/2024 21:41:50 |Black List Yes |Use Type: Residential|
+socks://23.105.170.35:44365#🇺🇸 Virginia|Norfolk|23518|wsip-70-188-79-82.hr.hr.cox.net| 70.188.79.82 |Time View 21/09/2024 21:38:22 |Black List No |Use Type: Business|
+socks://67.213.212.50:47833#🇺🇸 Virginia|Lynchburg|24504|66-207-71-247.fsvl.fttp.ntelos.net| 66.207.71.247 |Time View 21/09/2024 21:38:14 |Black List No |Use Type: Residential|
+socks://67.213.212.40:33689#🇺🇸 Virginia|Virginia Beach|23451|wsip-70-184-170-208.hr.hr.cox.net| 70.184.170.208 |Time View 21/09/2024 21:38:10 |Black List No |Use Type: Business|
+socks://67.213.212.40:44115#🇺🇸 Virginia|Virginia Beach|23462|wsip-72-214-74-41.hr.hr.cox.net| 72.214.74.41 |Time View 21/09/2024 21:37:59 |Black List No |Use Type: Business|
+socks://66.29.128.241:31341#🇺🇸 Virginia|Chesapeake|23323|209.202.230.251.bigleaf.net| 209.202.230.251 |Time View 21/09/2024 21:37:54 |Black List No |Use Type: Business|
+socks://66.29.128.244:33888#🇺🇸 Virginia|Arlington|22204|c-73-132-159-197.hsd1.va.comcast.net| 73.132.159.197 |Time View 21/09/2024 21:37:34 |Black List Yes |Use Type: Residential|
+socks://51.254.149.59:63350#🇺🇸 Virginia|Onancock|23417|syn-047-132-053-192.res.spectrum.com| 47.132.53.192 |Time View 21/09/2024 21:37:31 |Black List Yes |Use Type: Business|
+socks://67.213.210.118:16508#🇺🇸 Virginia|Arlington|22205|pool-108-18-106-158.washdc.fios.verizon.net| 108.18.106.158 |Time View 21/09/2024 21:37:26 |Black List Yes |Use Type: Residential|
+socks://66.23.233.210:41532#🇺🇸 Virginia|Springfield|22153|pool-173-73-59-186.washdc.fios.verizon.net| 173.73.59.186 |Time View 21/09/2024 21:37:24 |Black List Yes |Use Type: Residential|
+socks://23.105.170.32:23994#🇺🇸 Virginia|Richmond|23224|c-24-131-13-178.hsd1.va.comcast.net| 24.131.13.178 |Time View 21/09/2024 21:37:17 |Black List Yes |Use Type: Residential|
+socks://23.105.170.30:38574#🇺🇸 Virginia|Woodbridge|22191|c-73-180-174-206.hsd1.va.comcast.net| 73.180.174.206 |Time View 21/09/2024 21:37:15 |Black List Yes |Use Type: Residential|
+socks://162.210.192.136:17487#🇺🇸 Virginia|Woodbridge|22191|c-69-138-24-110.hsd1.va.comcast.net| 69.138.24.110 |Time View 21/09/2024 21:37:13 |Black List Yes |Use Type: Residential|
+socks://162.210.197.91:31326#🇺🇸 Virginia|Boydton|23917|Microsoft Corporation| 74.249.50.248 |Time View 21/09/2024 21:37:10 |Black List Yes |Use Type: Hosting|
+socks://162.19.7.61:29382#🇺🇸 Virginia|Alexandria|22310|ip68-100-34-34.dc.dc.cox.net| 68.100.34.34 |Time View 21/09/2024 21:37:07 |Black List Yes |Use Type: Business|
+socks://162.210.192.136:41475#🇺🇸 California|Rancho Santa Margarita|92688|wsip-68-106-74-30.oc.oc.cox.net| 68.106.74.30 |Time View 21/09/2024 21:36:34 |Black List No |Use Type: Business|
+socks://138.201.21.218:25146|Belgium|Flanders|Hasselt|3500|d54C038A8.access.telenet.be| 84.192.56.168 |Time View 21/09/2024 16:10:43 |Black List Yes |Use Type: Business|
 socks://67.213.212.50:33126#🇺🇸 Michigan|Roseville|48066|d192-24-137-170.try.wideopenwest.com| 24.192.170.137 |Time View 21/09/2024 07:57:53 |Black List Yes |Use Type: Business|
-socks://162.0.220.216:14167#🇺🇸 South Carolina|Hilton Head Island|29928|212.158.205.170.dynamic-pool.hargray.net| 170.205.158.212 |Time View 21/09/2024 07:57:42 |Black List Yes |Use Type: Business|
 socks://66.29.128.245:44428#🇺🇸 Virginia|Centreville|20121|wsip-72-203-209-82.dc.dc.cox.net| 72.203.209.82 |Time View 21/09/2024 07:57:37 |Black List Yes |Use Type: Business|
-socks://162.0.220.217:11677#🇺🇸 South Carolina|Bluffton|29909|190.160.205.170.dynamic-pool.hargray.net| 170.205.160.190 |Time View 21/09/2024 07:57:33 |Black List Yes |Use Type: Business|
 socks://38.91.107.229:64747#🇺🇸 South Carolina|Winnsboro|29180|97-107-106-235.truvista.net| 97.107.106.235 |Time View 21/09/2024 07:57:31 |Black List Yes |Use Type: Business|
 socks://198.7.56.73:45454#🇺🇸 Georgia|Cumming|30041|c-98-62-104-23.hsd1.ga.comcast.net| 98.62.104.23 |Time View 21/09/2024 07:57:25 |Black List Yes |Use Type: Residential|
-socks://209.159.153.21:31435#🇺🇸 New York|Queens|11102|pool-100-37-141-19.nycmny.fios.verizon.net| 100.37.141.19 |Time View 21/09/2024 07:57:21 |Black List Yes |Use Type: Residential|
-socks://67.213.212.39:57852#🇺🇸 California|Irvine|92620|wsip-72-203-216-170.oc.oc.cox.net| 72.203.216.170 |Time View 21/09/2024 07:57:19 |Black List Yes |Use Type: Business|
-socks://67.213.212.51:42132#🇺🇸 New York|Queens|11361|pool-100-12-108-192.nycmny.fios.verizon.net| 100.12.108.192 |Time View 21/09/2024 07:57:07 |Black List Yes |Use Type: Residential|
-socks://162.19.7.46:23190#🇺🇸 New York|Queens|11694|pool-74-108-95-60.nycmny.fios.verizon.net| 74.108.95.60 |Time View 21/09/2024 07:56:56 |Black List Yes |Use Type: Residential|
 socks://66.29.129.54:59792#🇺🇸 South Carolina|Chester|29706|TruVista Communications| 152.44.48.160 |Time View 21/09/2024 07:56:36 |Black List Yes |Use Type: Business|
 socks://67.213.212.39:47318#🇺🇸 Washington|Seattle|98103|c-73-11-215-89.hsd1.wa.comcast.net| 73.11.215.89 |Time View 21/09/2024 07:56:32 |Black List Yes |Use Type: Residential|
-socks://66.29.128.244:63360#🇺🇸 Florida|Naples|34120|c-73-23-17-95.hsd1.fl.comcast.net| 73.23.17.95 |Time View 21/09/2024 07:56:27 |Black List Yes |Use Type: Residential|
-socks://38.91.107.220:62282#🇺🇸 South Carolina|Beaufort|29907|173-207-227-67.cpe.cableone.net| 173.207.227.67 |Time View 21/09/2024 07:56:24 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:10134#🇺🇸 New Jersey|Cassville|08527|ool-4351a3b7.dyn.optonline.net| 67.81.163.183 |Time View 21/09/2024 07:56:19 |Black List Yes |Use Type: Residential|
-socks://67.213.210.62:23222#🇺🇸 South Carolina|Chester|29706|207-144-85-131.dsl.g01.scches.spirittelecom.com| 207.144.85.131 |Time View 21/09/2024 07:56:16 |Black List Yes |Use Type: Residential|
 socks://67.213.210.167:44919#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.178.49 |Time View 21/09/2024 07:56:14 |Black List Yes |Use Type: Business|
-socks://162.0.220.218:41887#🇺🇸 Arizona|Shungopavi|86043|dynamic-162-219-131-72.hopitelecom.net| 162.219.131.72 |Time View 21/09/2024 07:56:07 |Black List Yes |Use Type: Business|
-socks://67.213.210.167:19083#🇺🇸 South Carolina|Hilton Head Island|29926|173-207-193-13.cpe.cableone.net| 173.207.193.13 |Time View 21/09/2024 07:55:57 |Black List Yes |Use Type: Residential|
-socks://212.83.143.147:21405#🇧🇪 Flanders|Ghent|9000|133.149-65-87.adsl-dyn.isp.belgacom.be| 87.65.149.133 |Time View 21/09/2024 16:10:46 |Black List Yes |Use Type: Residential|
-socks://138.201.21.218:25146#🇧🇪 Flanders|Hasselt|3500|d54C038A8.access.telenet.be| 84.192.56.168 |Time View 21/09/2024 16:10:43 |Black List Yes |Use Type: Business|
