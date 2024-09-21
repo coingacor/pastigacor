@@ -1,26 +1,20 @@
-socks://67.213.210.115:64022#🇺🇸 South Carolina|Beaufort|29907|160.147.205.170.dynamic-pool.hargray.net| 170.205.147.160 |Time View 20/09/2024 10:23:30 |Black List Yes |Use Type: Business|
-socks://67.213.210.62:23679#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.133.18.dyn-e120.pool.hargray.net| 67.20.133.18 |Time View 20/09/2024 10:23:27 |Black List Yes |Use Type: Business|
-socks://67.213.210.60:27767#🇺🇸 South Carolina|Bluffton|29910|41.150.205.170.dynamic-pool.hargray.net| 170.205.150.41 |Time View 20/09/2024 10:23:25 |Black List Yes |Use Type: Business|
-socks://38.91.106.214:47282#🇺🇸 South Carolina|Hilton Head Island|29928|80.23.5.207.dynamic-pool.hargray.net| 207.5.23.80 |Time View 20/09/2024 10:23:23 |Black List No |Use Type: Business|
-socks://38.91.107.220:32484#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.177.dyn-cm-pool-31.pool.hargray.net| 64.203.222.177 |Time View 20/09/2024 10:23:21 |Black List Yes |Use Type: Business|
-socks://162.0.220.219:10183#🇺🇸 South Carolina|Hilton Head Island|29926|52.67.182.207.dynamic-pool.hargray.net| 207.182.67.52 |Time View 20/09/2024 10:23:18 |Black List No |Use Type: Business|
-socks://67.213.210.168:27683#🇺🇸 South Carolina|Beaufort|29907|104.147.205.170.dynamic-pool.hargray.net| 170.205.147.104 |Time View 20/09/2024 10:23:16 |Black List Yes |Use Type: Business|
-socks://67.213.210.118:42281#🇺🇸 New Jersey|Freehold|07728|ool-45758a49.dyn.optonline.net| 69.117.138.73 |Time View 20/09/2024 08:59:41 |Black List Yes |Use Type: Residential|
-socks://198.7.56.71:39555#🇺🇸 New Jersey|Piscataway|08854|ool-4b63acb2.static.optonline.net| 75.99.172.178 |Time View 20/09/2024 08:59:33 |Black List No |Use Type: Residential|
-socks://162.19.7.49:50338#🇺🇸 New Jersey|Hackensack|07601|ool-4578739d.dyn.optonline.net| 69.120.115.157 |Time View 20/09/2024 08:59:31 |Black List Yes |Use Type: Residential|
-socks://198.7.56.73:34754#🇺🇸 New York|Lindenhurst|11757|ool-903eebbb.dyn.optonline.net| 144.62.235.187 |Time View 20/09/2024 08:59:22 |Black List Yes |Use Type: Business|
-socks://66.29.129.52:48599#🇺🇸 New York|Elmont|11003|ool-43502b74.dyn.optonline.net| 67.80.43.116 |Time View 20/09/2024 08:59:20 |Black List Yes |Use Type: Residential|
-socks://67.213.212.40:44207#🇺🇸 New York|Brooklyn|11225|ool-944bd421.dyn.optonline.net| 148.75.212.33 |Time View 20/09/2024 08:59:13 |Black List Yes |Use Type: Residential|
-socks://162.19.7.61:28640#🇺🇸 New Jersey|Plainfield|07060|pool-98-109-57-33.nwrknj.fios.verizon.net| 98.109.57.33 |Time View 20/09/2024 06:24:08 |Black List Yes |Use Type: Residential|
-socks://138.201.21.218:37771|United Kingdom|England|Gillingham|ME8|host86-184-161-218.range86-184.btcentralplus.com| 86.184.161.218 |Time View 20/09/2024 06:22:52 |Black List Yes |Use Type: Business|
-socks://138.201.21.218:26294|United Kingdom|England|Nottingham|NG5|cpc126390-mapp13-2-0-cust250.12-4.cable.virginm.net| 86.20.63.251 |Time View 20/09/2024 06:22:48 |Black List Yes |Use Type: Residential|
-socks://95.168.166.109:14432|Ireland|Leinster|Dublin|D24|NTL Ireland| 37.228.203.182 |Time View 20/09/2024 06:22:36 |Black List Yes |Use Type: Business|
-socks://212.83.142.131:18306|Ireland|Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 20/09/2024 06:22:32 |Black List Yes |Use Type: Business|
-socks://152.53.36.109:35313#🇺🇸 Texas|Odessa|79765|72-24-228-154.cpe.sparklight.net| 72.24.228.154 |Time View 20/09/2024 12:40:10 |Black List Yes |Use Type: Residential|
-socks://66.29.129.54:63424#🇺🇸 Texas|Scroggins|75480|Peoples Communications Inc.| 69.46.62.29 |Time View 20/09/2024 12:40:06 |Black List Yes |Use Type: Business|
-socks://46.105.44.29:35268#🇺🇸 Texas|Austin|78754|syn-070-121-123-006.res.spectrum.com| 70.121.123.6 |Time View 20/09/2024 12:40:03 |Black List Yes |Use Type: Business|
-socks://66.29.128.243:36020#🇺🇸 Texas|Round Rock|78665|syn-070-122-023-199.res.spectrum.com| 70.122.23.199 |Time View 20/09/2024 12:39:58 |Black List Yes |Use Type: Business|
-socks://162.19.7.58:17015#🇺🇸 Texas|Whitney|76692|h113.2.19.98.static.ip.windstream.net| 98.19.2.113 |Time View 20/09/2024 12:39:56 |Black List Yes |Use Type: Business|
-socks://66.29.128.244:55668#🇺🇸 Texas|Spring|77380|Comcast Cable Communications| 73.232.131.194 |Time View 20/09/2024 12:39:49 |Black List Yes |Use Type: Residential|
-socks://67.213.212.48:19542#🇺🇸 Texas|Arlington|76016|syn-066-025-247-107.res.spectrum.com| 66.25.247.107 |Time View 20/09/2024 12:39:47 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:10561#🇺🇸 Texas|Arlington|76006|syn-076-184-014-152.res.spectrum.com| 76.184.14.152 |Time View 20/09/2024 12:39:43 |Black List Yes |Use Type: Business|
+socks://162.19.7.59:60113#🇺🇸 New Jersey|Williamstown|08094|c-73-194-164-101.hsd1.nj.comcast.net| 73.194.164.101 |Time View 21/09/2024 07:57:59 |Black List Yes |Use Type: Residential|
+socks://67.213.212.50:33126#🇺🇸 Michigan|Roseville|48066|d192-24-137-170.try.wideopenwest.com| 24.192.170.137 |Time View 21/09/2024 07:57:53 |Black List Yes |Use Type: Business|
+socks://162.0.220.216:14167#🇺🇸 South Carolina|Hilton Head Island|29928|212.158.205.170.dynamic-pool.hargray.net| 170.205.158.212 |Time View 21/09/2024 07:57:42 |Black List Yes |Use Type: Business|
+socks://66.29.128.245:44428#🇺🇸 Virginia|Centreville|20121|wsip-72-203-209-82.dc.dc.cox.net| 72.203.209.82 |Time View 21/09/2024 07:57:37 |Black List Yes |Use Type: Business|
+socks://162.0.220.217:11677#🇺🇸 South Carolina|Bluffton|29909|190.160.205.170.dynamic-pool.hargray.net| 170.205.160.190 |Time View 21/09/2024 07:57:33 |Black List Yes |Use Type: Business|
+socks://38.91.107.229:64747#🇺🇸 South Carolina|Winnsboro|29180|97-107-106-235.truvista.net| 97.107.106.235 |Time View 21/09/2024 07:57:31 |Black List Yes |Use Type: Business|
+socks://198.7.56.73:45454#🇺🇸 Georgia|Cumming|30041|c-98-62-104-23.hsd1.ga.comcast.net| 98.62.104.23 |Time View 21/09/2024 07:57:25 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:31435#🇺🇸 New York|Queens|11102|pool-100-37-141-19.nycmny.fios.verizon.net| 100.37.141.19 |Time View 21/09/2024 07:57:21 |Black List Yes |Use Type: Residential|
+socks://67.213.212.39:57852#🇺🇸 California|Irvine|92620|wsip-72-203-216-170.oc.oc.cox.net| 72.203.216.170 |Time View 21/09/2024 07:57:19 |Black List Yes |Use Type: Business|
+socks://67.213.212.51:42132#🇺🇸 New York|Queens|11361|pool-100-12-108-192.nycmny.fios.verizon.net| 100.12.108.192 |Time View 21/09/2024 07:57:07 |Black List Yes |Use Type: Residential|
+socks://162.19.7.46:23190#🇺🇸 New York|Queens|11694|pool-74-108-95-60.nycmny.fios.verizon.net| 74.108.95.60 |Time View 21/09/2024 07:56:56 |Black List Yes |Use Type: Residential|
+socks://66.29.129.54:59792#🇺🇸 South Carolina|Chester|29706|TruVista Communications| 152.44.48.160 |Time View 21/09/2024 07:56:36 |Black List Yes |Use Type: Business|
+socks://67.213.212.39:47318#🇺🇸 Washington|Seattle|98103|c-73-11-215-89.hsd1.wa.comcast.net| 73.11.215.89 |Time View 21/09/2024 07:56:32 |Black List Yes |Use Type: Residential|
+socks://66.29.128.244:63360#🇺🇸 Florida|Naples|34120|c-73-23-17-95.hsd1.fl.comcast.net| 73.23.17.95 |Time View 21/09/2024 07:56:27 |Black List Yes |Use Type: Residential|
+socks://38.91.107.220:62282#🇺🇸 South Carolina|Beaufort|29907|173-207-227-67.cpe.cableone.net| 173.207.227.67 |Time View 21/09/2024 07:56:24 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:10134#🇺🇸 New Jersey|Cassville|08527|ool-4351a3b7.dyn.optonline.net| 67.81.163.183 |Time View 21/09/2024 07:56:19 |Black List Yes |Use Type: Residential|
+socks://67.213.210.62:23222#🇺🇸 South Carolina|Chester|29706|207-144-85-131.dsl.g01.scches.spirittelecom.com| 207.144.85.131 |Time View 21/09/2024 07:56:16 |Black List Yes |Use Type: Residential|
+socks://67.213.210.167:44919#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.178.49 |Time View 21/09/2024 07:56:14 |Black List Yes |Use Type: Business|
+socks://162.0.220.218:41887#🇺🇸 Arizona|Shungopavi|86043|dynamic-162-219-131-72.hopitelecom.net| 162.219.131.72 |Time View 21/09/2024 07:56:07 |Black List Yes |Use Type: Business|
+socks://67.213.210.167:19083#🇺🇸 South Carolina|Hilton Head Island|29926|173-207-193-13.cpe.cableone.net| 173.207.193.13 |Time View 21/09/2024 07:55:57 |Black List Yes |Use Type: Residential|
