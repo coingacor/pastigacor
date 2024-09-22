@@ -40,3 +40,5 @@ socks://38.91.106.252:62315#🇺🇸 South Carolina|Hilton Head Island|29928|64.
 socks://162.0.220.216:11199#🇺🇸 South Carolina|Bluffton|29909|67.20.136.121.dyn-e120.pool.hargray.net| 67.20.136.121 |Time View 22/09/2024 06:02:41 |Black List Yes |Use Type: Business|
 socks://67.213.210.60:27019#🇺🇸 South Carolina|Bluffton|29910|64.20.153.228.dyn-e-pool26.pool.hargray.net| 64.20.153.228 |Time View 22/09/2024 06:02:38 |Black List No |Use Type: Business|
 socks://66.29.129.53:60155#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.252.dyn-cm-pool-31.pool.hargray.net| 64.203.222.252 |Time View 22/09/2024 06:02:35 |Black List Yes |Use Type: Business|
+socks://198.7.56.73:10261#🇺🇸 California|Irvine|92618|wsip-98-168-108-158.oc.oc.cox.net| 98.168.108.158 |Time View 22/09/2024 08:54:39 |Black List No |Use Type: Business|
+socks://209.159.153.21:15384#🇺🇸 California|Irvine|92602|wsip-98-189-128-245.oc.oc.cox.net| 98.189.128.245 |Time View 22/09/2024 08:54:36 |Black List No |Use Type: Business|
