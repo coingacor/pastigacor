@@ -1,14 +1,15 @@
-socks://46.105.44.29:26794#🇺🇸 New York|Monroe|10950|ool-4350bbfe.dyn.optonline.net| 67.80.187.254 |Time View 22/09/2024 11:08:22 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:36870#🇺🇸 New York|Glen Cove|11542|ool-4b7fcd5b.static.optonline.net| 75.127.205.91 |Time View 22/09/2024 11:08:15 |Black List Yes |Use Type: Business|
-socks://66.23.233.210:53373#🇺🇸 New York|Brooklyn|11226|ool-4578efd8.dyn.optonline.net| 69.120.239.216 |Time View 22/09/2024 11:08:10 |Black List Yes |Use Type: Residential|
-socks://66.23.233.210:23041#🇺🇸 New York|Brooklyn|11226|ool-44c6f4b8.dyn.optonline.net| 68.198.244.184 |Time View 22/09/2024 11:08:08 |Black List Yes |Use Type: Residential|
-socks://66.23.233.210:13986#🇺🇸 New York|The Bronx|10475|ool-4a5a374e.dyn.optonline.net| 74.90.55.78 |Time View 22/09/2024 11:08:05 |Black List Yes |Use Type: Residential|
-socks://67.213.212.48:25337#🇺🇸 New Jersey|Sayreville|08872|ool-182fd901.dyn.optonline.net| 24.47.217.1 |Time View 22/09/2024 11:08:03 |Black List Yes |Use Type: Residential|
-socks://67.213.212.49:48174#🇺🇸 New Jersey|Parsippany|07054|ool-18b9551b.dyn.optonline.net| 24.185.85.27 |Time View 22/09/2024 11:07:59 |Black List Yes |Use Type: Business|
-socks://23.105.170.33:39490#🇺🇸 New Jersey|Hewitt|07421|ool-2f10e8bc.dyn.optonline.net| 47.16.232.188 |Time View 22/09/2024 11:07:56 |Black List Yes |Use Type: Cellular|
-socks://198.7.56.73:10261#🇺🇸 California|Irvine|92618|wsip-98-168-108-158.oc.oc.cox.net| 98.168.108.158 |Time View 22/09/2024 08:54:39 |Black List No |Use Type: Business|
-socks://209.159.153.21:15384#🇺🇸 California|Irvine|92602|wsip-98-189-128-245.oc.oc.cox.net| 98.189.128.245 |Time View 22/09/2024 08:54:36 |Black List No |Use Type: Business|
-socks://38.91.107.220:25052#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.177.dyn-cm-pool-31.pool.hargray.net| 64.203.222.177 |Time View 22/09/2024 06:02:57 |Black List Yes |Use Type: Business|
-socks://162.0.220.216:11199#🇺🇸 South Carolina|Bluffton|29909|67.20.136.121.dyn-e120.pool.hargray.net| 67.20.136.121 |Time View 22/09/2024 06:02:41 |Black List Yes |Use Type: Business|
-socks://67.213.210.60:27019#🇺🇸 South Carolina|Bluffton|29910|64.20.153.228.dyn-e-pool26.pool.hargray.net| 64.20.153.228 |Time View 22/09/2024 06:02:38 |Black List No |Use Type: Business|
-socks://66.29.129.53:60155#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.252.dyn-cm-pool-31.pool.hargray.net| 64.203.222.252 |Time View 22/09/2024 06:02:35 |Black List Yes |Use Type: Business|
+socks://198.7.56.73:19515#🇺🇸 New York|Lindenhurst|11757|ool-903eebbb.dyn.optonline.net| 144.62.235.187 |Time View 23/09/2024 13:26:10 |Black List Yes |Use Type: Business|
+socks://152.53.36.109:35779#🇺🇸 New York|Brooklyn|11236|ool-18bbfd43.static.optonline.net| 24.187.253.67 |Time View 23/09/2024 13:26:02 |Black List Yes |Use Type: Business|
+socks://209.159.153.19:54379#🇺🇸 New York|Huntington Station|11746|ool-43556323.dyn.optonline.net| 67.85.99.35 |Time View 23/09/2024 13:25:49 |Black List Yes |Use Type: Residential|
+socks://209.159.153.20:47241#🇺🇸 New Jersey|Cassville|08527|ool-4351a3b7.dyn.optonline.net| 67.81.163.183 |Time View 23/09/2024 13:25:46 |Black List Yes |Use Type: Residential|
+socks://67.213.212.51:53093#🇺🇸 New York|Brooklyn|11238|ool-ae2cb092.dyn.optonline.net| 174.44.176.146 |Time View 23/09/2024 13:25:44 |Black List Yes |Use Type: Residential|
+socks://67.213.212.50:37773#🇺🇸 New York|The Bronx|10467|ool-45734cb7.dyn.optonline.net| 69.115.76.183 |Time View 23/09/2024 13:25:41 |Black List Yes |Use Type: Residential|
+socks://23.88.121.205:36601#🇺🇸 New York|Saint James|11780|ool-4b7fcd5b.static.optonline.net| 75.127.205.91 |Time View 23/09/2024 13:25:37 |Black List Yes |Use Type: Business|
+socks://209.159.153.19:43003#🇺🇸 New York|Brooklyn|11225|ool-4357a0c0.dyn.optonline.net| 67.87.160.192 |Time View 23/09/2024 13:25:34 |Black List Yes |Use Type: Residential|
+socks://66.29.129.52:41416#🇺🇸 South Carolina|Hilton Head Island|29928|97.158.205.170.dynamic-pool.hargray.net| 170.205.158.97 |Time View 23/09/2024 13:25:18 |Black List Yes |Use Type: Business|
+socks://162.0.220.216:47763#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.15.dyn-cm-pool-31.pool.hargray.net| 64.203.222.15 |Time View 23/09/2024 13:25:16 |Black List Yes |Use Type: Business|
+socks://38.91.107.224:36640#🇺🇸 South Carolina|Ridgeland|29936|64.203.216.43.dyn-cm-pool-25.pool.hargray.net| 64.203.216.43 |Time View 23/09/2024 13:25:13 |Black List Yes |Use Type: Business|
+socks://67.213.210.168:41903#🇺🇸 South Carolina|Beaufort|29907|63.161.205.170.dynamic-pool.hargray.net| 170.205.161.63 |Time View 23/09/2024 13:25:10 |Black List Yes |Use Type: Business|
+socks://162.0.220.216:43044#🇺🇸 Georgia|Hawkinsville|31036|144.163.205.170.dynamic-pool.hargray.net| 170.205.163.144 |Time View 23/09/2024 13:25:06 |Black List Yes |Use Type: Business|
+socks://67.213.210.175:64149#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.133.139.dyn-e120.pool.hargray.net| 67.20.133.139 |Time View 23/09/2024 13:25:02 |Black List Yes |Use Type: Business|
+socks://162.0.220.214:49207#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.128.184.dyn-e120.pool.hargray.net| 67.20.128.184 |Time View 23/09/2024 13:24:58 |Black List Yes |Use Type: Business|
