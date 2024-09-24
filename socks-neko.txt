@@ -1,38 +1,7 @@
-socks://209.159.153.19:43341#🇺🇸 Illinois|Roselle|60172|c-67-167-114-207.hsd1.il.comcast.net| 67.167.114.207 |Time View 23/09/2024 23:38:26 |Black List Yes |Use Type: Residential|
-socks://67.213.210.175:49140#🇺🇸 Florida|Spring Hill|34606|syn-108-191-103-064.biz.spectrum.com| 108.191.103.64 |Time View 23/09/2024 23:38:08 |Black List Yes |Use Type: Business|
-socks://209.159.153.20:19528#🇺🇸 Florida|Pompano Beach|33066|c-76-128-13-31.hsd1.fl.comcast.net| 76.128.13.31 |Time View 23/09/2024 23:38:03 |Black List Yes |Use Type: Residential|
-socks://67.213.212.49:14330#🇺🇸 Florida|Miami|33176|c-73-245-36-153.hsd1.fl.comcast.net| 73.245.36.153 |Time View 23/09/2024 23:37:59 |Black List Yes |Use Type: Residential|
-socks://66.29.128.246:58434#🇺🇸 Florida|Tallahassee|32311|c-68-63-42-28.hsd1.fl.comcast.net| 68.63.42.28 |Time View 23/09/2024 23:37:55 |Black List Yes |Use Type: Residential|
-socks://209.159.153.19:56659#🇺🇸 Florida|Boca Raton|33433|c-73-179-153-89.hsd1.fl.comcast.net| 73.179.153.89 |Time View 23/09/2024 23:37:52 |Black List Yes |Use Type: Residential|
-socks://38.91.107.224:23433#🇺🇸 Florida|Altha|32421|dblt-74-209-36-52.gtcom.net| 74.209.36.52 |Time View 23/09/2024 23:37:47 |Black List Yes |Use Type: Business|
-socks://66.29.128.241:49392#🇺🇸 Florida|Marco Island|34145|c-73-54-17-14.hsd1.fl.comcast.net| 73.54.17.14 |Time View 23/09/2024 23:37:43 |Black List Yes |Use Type: Residential|
-socks://209.159.153.20:58579#🇺🇸 Florida|Ponte Vedra Beach|32082|c-69-180-72-206.hsd1.fl.comcast.net| 69.180.72.206 |Time View 23/09/2024 23:37:39 |Black List Yes |Use Type: Residential|
-socks://67.213.212.51:28753#🇺🇸 Florida|Leesburg|34748|c-69-137-253-155.hsd1.fl.comcast.net| 69.137.253.155 |Time View 23/09/2024 23:37:36 |Black List Yes |Use Type: Residential|
-socks://23.105.170.34:58767#🇺🇸 Florida|Ocala|34472|c-174-63-160-62.hsd1.fl.comcast.net| 174.63.160.62 |Time View 23/09/2024 23:37:30 |Black List Yes |Use Type: Residential|
-socks://67.213.212.48:49736#🇺🇸 Florida|Vero Beach|32966|c-67-191-10-224.hsd1.fl.comcast.net| 67.191.10.224 |Time View 23/09/2024 23:37:24 |Black List Yes |Use Type: Residential|
-socks://198.7.56.71:45020#🇺🇸 Florida|West Palm Beach|33404|c-73-84-203-11.hsd1.fl.comcast.net| 73.84.203.11 |Time View 23/09/2024 23:37:20 |Black List Yes |Use Type: Residential|
-socks://67.213.212.47:38249#🇺🇸 Virginia|Virginia Beach|23451|wsip-72-214-71-109.hr.hr.cox.net| 72.214.71.109 |Time View 23/09/2024 23:37:06 |Black List No |Use Type: Business|
-socks://209.159.153.21:42227#🇺🇸 California|Irvine|92602|wsip-98-189-128-245.oc.oc.cox.net| 98.189.128.245 |Time View 23/09/2024 23:36:58 |Black List No |Use Type: Business|
-socks://66.29.129.53:47816#🇺🇸 Virginia|Roanoke|24017|ip24-254-24-196.rn.hr.cox.net| 24.254.24.196 |Time View 23/09/2024 23:36:25 |Black List No |Use Type: Business|
-socks://66.29.128.242:18988#🇺🇸 Louisiana|New Orleans|70152|wsip-72-215-132-19.no.no.cox.net| 72.215.132.19 |Time View 23/09/2024 23:36:03 |Black List No |Use Type: Business|
-socks://66.29.129.52:34800#🇺🇸 California|San Jose|95134|c-73-252-135-71.hsd1.ca.comcast.net| 73.252.135.71 |Time View 23/09/2024 23:35:45 |Black List Yes |Use Type: Residential|
-socks://66.29.128.243:60608#🇺🇸 California|Sacramento|95864|077.137-159-67.res.dyn.surewest.net| 67.159.137.77 |Time View 23/09/2024 23:35:39 |Black List Yes |Use Type: Business|
-socks://67.213.212.40:48867#🇺🇸 California|North Hollywood|91601|syn-104-174-011-050.res.spectrum.com| 104.174.11.50 |Time View 23/09/2024 23:35:37 |Black List Yes |Use Type: Business|
-socks://67.213.212.39:54376#🇺🇸 California|Chula Vista|91913|71-150-84-106.lightspeed.sndgca.sbcglobal.net| 71.150.84.106 |Time View 23/09/2024 23:35:32 |Black List Yes |Use Type: Residential|
-socks://66.29.128.241:42193#🇺🇸 California|Salinas|93906|c-71-198-182-159.hsd1.ca.comcast.net| 71.198.182.159 |Time View 23/09/2024 23:35:28 |Black List Yes |Use Type: Residential|
-socks://23.105.170.30:16589#🇺🇸 New Jersey|Voorhees Township|08043|c-174-166-177-116.hsd1.nj.comcast.net| 174.166.177.116 |Time View 23/09/2024 23:34:43 |Black List Yes |Use Type: Residential|
-socks://67.213.212.50:22952#🇺🇸 New Jersey|Millville|08332|c-69-141-238-40.hsd1.nj.comcast.net| 69.141.238.40 |Time View 23/09/2024 23:34:41 |Black List Yes |Use Type: Residential|
-socks://38.91.107.229:24728#🇺🇸 New Jersey|Marmora|08223|c-68-83-48-39.hsd1.nj.comcast.net| 68.83.48.39 |Time View 23/09/2024 23:34:36 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:21944#🇺🇸 New Jersey|Hackensack|07601|static-72-76-250-128.nwrknj.fios.verizon.net| 72.76.250.128 |Time View 23/09/2024 23:34:35 |Black List Yes |Use Type: Business|
-socks://162.19.7.50:38573#🇺🇸 New Jersey|Hawthorne|07506|pool-108-53-16-88.nwrknj.fios.verizon.net| 108.53.16.88 |Time View 23/09/2024 23:34:13 |Black List Yes |Use Type: Residential|
-socks://66.29.128.242:11853#🇺🇸 New Jersey|Freehold|07728|pool-72-68-77-156.nwrknj.fios.verizon.net| 72.68.77.156 |Time View 23/09/2024 23:34:09 |Black List Yes |Use Type: Business|
-socks://67.213.212.50:55483#🇺🇸 New Jersey|Long Branch|07740|c-69-248-106-235.hsd1.nj.comcast.net| 69.248.106.235 |Time View 23/09/2024 23:34:05 |Black List Yes |Use Type: Residential|
-socks://162.210.192.135:49660#🇺🇸 New Jersey|Lakewood|08701|ool-45738b5a.dyn.optonline.net| 69.115.139.90 |Time View 23/09/2024 23:34:01 |Black List Yes |Use Type: Residential|
-socks://66.29.129.54:23379#🇺🇸 New Jersey|Bayonne|07002|pool-71-187-110-150.nwrknj.fios.verizon.net| 71.187.110.150 |Time View 23/09/2024 23:33:58 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:23842#🇺🇸 New Jersey|Woodbridge|07095|dimartinoinc-gw.customer.alter.net| 152.179.173.218 |Time View 23/09/2024 23:33:44 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:22835#🇺🇸 New Jersey|Woodbridge|07095|dimartinoinc-gw.customer.alter.net| 152.179.173.218 |Time View 23/09/2024 23:33:41 |Black List Yes |Use Type: Business|
-socks://66.23.233.210:23408#🇺🇸 New Jersey|Jersey City|07305|c-73-160-215-107.hsd1.nj.comcast.net| 73.160.215.107 |Time View 23/09/2024 23:33:37 |Black List Yes |Use Type: Residential|
-socks://162.19.7.60:21373#🇺🇸 New Jersey|Edison|08817|ool-44c27402.dyn.optonline.net| 68.194.116.2 |Time View 23/09/2024 23:33:34 |Black List Yes |Use Type: Residential|
-socks://198.7.56.73:19515#🇺🇸 New York|Lindenhurst|11757|ool-903eebbb.dyn.optonline.net| 144.62.235.187 |Time View 23/09/2024 13:26:10 |Black List Yes |Use Type: Business|
-socks://67.213.212.51:53093#🇺🇸 New York|Brooklyn|11238|ool-ae2cb092.dyn.optonline.net| 174.44.176.146 |Time View 23/09/2024 13:25:44 |Black List Yes |Use Type: Residential|
+socks://162.19.7.60:21373#🇺🇸 New Jersey|Edison|08817|ool-44c27402.dyn.optonline.net| 68.194.116.2 |Time View 24/09/2024 16:35:36 |Black List Yes |Use Type: Residential|
+socks://67.213.212.48:33681#🇺🇸 New Jersey|Sayreville|08872|ool-182fd901.dyn.optonline.net| 24.47.217.1 |Time View 24/09/2024 16:35:33 |Black List Yes |Use Type: Residential|
+socks://162.0.220.215:36358#🇺🇸 New Jersey|Edison|08820|ool-457a1653.dyn.optonline.net| 69.122.22.83 |Time View 24/09/2024 16:35:27 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:42512#🇺🇸 New Jersey|Fair Lawn|07410|ool-18bfdbd7.dyn.optonline.net| 24.191.219.215 |Time View 24/09/2024 16:35:25 |Black List Yes |Use Type: Business|
+socks://23.88.121.205:28998#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 168.62.48.145 |Time View 24/09/2024 16:34:59 |Black List Yes |Use Type: Hosting|
+socks://212.83.143.60:49288#😂 Nouvelle-Aquitaine|Rochefort|17300|lfbn-poi-1-1464-97.w109-220.abo.wanadoo.fr| 109.220.33.97 |Time View 24/09/2024 16:34:10 |Black List Yes |Use Type: Residential|
 socks://67.213.210.61:48084#🇺🇸 Georgia|Centerville|31028|64.203.202.150.dyn-cm-pool-63.hargray.net| 64.203.202.150 |Time View 24/09/2024 16:05:13 |Black List Yes |Use Type: Business|
