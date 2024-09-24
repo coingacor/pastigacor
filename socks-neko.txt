@@ -33,3 +33,13 @@ socks://209.159.153.19:23488#🇺🇸 California|Modesto|95355|104-11-40-130.lig
 socks://67.213.212.48:33681#🇺🇸 New Jersey|Sayreville|08872|ool-182fd901.dyn.optonline.net| 24.47.217.1 |Time View 24/09/2024 16:35:33 |Black List Yes |Use Type: Residential|
 socks://209.159.153.21:42512#🇺🇸 New Jersey|Fair Lawn|07410|ool-18bfdbd7.dyn.optonline.net| 24.191.219.215 |Time View 24/09/2024 16:35:25 |Black List Yes |Use Type: Business|
 socks://23.88.121.205:28998#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 168.62.48.145 |Time View 24/09/2024 16:34:59 |Black List Yes |Use Type: Hosting|
+socks://108.181.132.115:54963#🇺🇸 Tennessee|South Pittsburg|37380|149.20.171.141.svecfiber.com| 149.20.171.141 |Time View 24/09/2024 23:54:17 |Black List No |Use Type: Residential|
+socks://67.213.210.167:27680#🇺🇸 Tennessee|South Pittsburg|37380|149.20.168.174.svecfiber.com| 149.20.168.174 |Time View 24/09/2024 23:54:15 |Black List No |Use Type: Residential|
+socks://67.213.210.115:19889#🇺🇸 Tennessee|South Pittsburg|37380|149.20.170.151.svecfiber.com| 149.20.170.151 |Time View 24/09/2024 23:54:11 |Black List No |Use Type: Residential|
+socks://38.91.107.220:50594#🇺🇸 Tennessee|South Pittsburg|37380|149.20.172.226.svecfiber.com| 149.20.172.226 |Time View 24/09/2024 23:53:53 |Black List No |Use Type: Residential|
+socks://108.181.132.117:55304#🇺🇸 Tennessee|South Pittsburg|37380|149.19.190.104.svecfiber.com| 149.19.190.104 |Time View 24/09/2024 23:53:50 |Black List No |Use Type: Residential|
+socks://67.213.212.51:13709#🇺🇸 Washington|Burlington|98233|static-50-46-8-93.evrt.wa.ptr.ziplyfiber.com| 50.46.8.93 |Time View 24/09/2024 23:53:43 |Black List No |Use Type: Residential|
+socks://37.221.193.221:14478#🇺🇸 Oregon|Beaverton|97006|static-50-39-73-186.bvtn.or.ptr.ziplyfiber.com| 50.39.73.186 |Time View 24/09/2024 23:53:36 |Black List Yes |Use Type: Residential|
+socks://67.213.210.61:15491#🇺🇸 Tennessee|South Pittsburg|37380|149.19.190.148.svecfiber.com| 149.19.190.148 |Time View 24/09/2024 23:53:31 |Black List No |Use Type: Residential|
+socks://162.0.220.219:36302#🇺🇸 Tennessee|South Pittsburg|37380|149.19.190.66.svecfiber.com| 149.19.190.66 |Time View 24/09/2024 23:53:29 |Black List No |Use Type: Residential|
+socks://67.213.210.168:31523#🇺🇸 Tennessee|South Pittsburg|37380|149.20.171.104.svecfiber.com| 149.20.171.104 |Time View 24/09/2024 23:53:27 |Black List No |Use Type: Residential|
