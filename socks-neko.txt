@@ -35,3 +35,4 @@ socks://66.23.233.210:23408#🇺🇸 New Jersey|Jersey City|07305|c-73-160-215-1
 socks://162.19.7.60:21373#🇺🇸 New Jersey|Edison|08817|ool-44c27402.dyn.optonline.net| 68.194.116.2 |Time View 23/09/2024 23:33:34 |Black List Yes |Use Type: Residential|
 socks://198.7.56.73:19515#🇺🇸 New York|Lindenhurst|11757|ool-903eebbb.dyn.optonline.net| 144.62.235.187 |Time View 23/09/2024 13:26:10 |Black List Yes |Use Type: Business|
 socks://67.213.212.51:53093#🇺🇸 New York|Brooklyn|11238|ool-ae2cb092.dyn.optonline.net| 174.44.176.146 |Time View 23/09/2024 13:25:44 |Black List Yes |Use Type: Residential|
+socks://67.213.210.61:48084#🇺🇸 Georgia|Centerville|31028|64.203.202.150.dyn-cm-pool-63.hargray.net| 64.203.202.150 |Time View 24/09/2024 16:05:13 |Black List Yes |Use Type: Business|
