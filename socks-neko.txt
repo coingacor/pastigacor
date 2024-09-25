@@ -1,22 +1,12 @@
-socks://67.213.212.36:52173#🇺🇸 Arkansas|Pine Bluff|71603|pine01cpe.195.143.255.206.ark.cablelynx.com| 206.255.143.195 |Time View 25/09/2024 15:27:23 |Black List Yes |Use Type: Residential|
-socks://162.19.7.46:20682#🇺🇸 California|Sacramento|95838|Comcast Cable Communications, LLC| 174.160.189.204 |Time View 25/09/2024 15:27:20 |Black List Yes |Use Type: Residential|
-socks://162.19.7.53:25939#🇺🇸 Washington|Everett|98208|50-54-135-48.evrt.wa.ptr.ziplyfiber.com| 50.54.135.48 |Time View 25/09/2024 15:27:01 |Black List No |Use Type: Residential|
-socks://67.213.212.51:13709#🇺🇸 Washington|Burlington|98233|static-50-46-8-93.evrt.wa.ptr.ziplyfiber.com| 50.46.8.93 |Time View 25/09/2024 15:26:54 |Black List No |Use Type: Residential|
-socks://67.213.210.60:31025#🇺🇸 Alaska|Anchorage|99517|63-140-74-174-radius.dynamic.acsalaska.net| 63.140.74.174 |Time View 25/09/2024 15:26:39 |Black List Yes |Use Type: Residential|
-socks://162.19.7.50:37640#🇺🇸 North Carolina|Lexington|27295|h242.181.55.139.dynamic.ip.windstream.net| 139.55.181.242 |Time View 25/09/2024 15:26:34 |Black List Yes |Use Type: Business|
-socks://108.181.132.117:40291#🇺🇸 Nevada|Logandale|89021|ip-208-76-95-147.dynamic.mvdsl.com| 208.76.95.147 |Time View 25/09/2024 15:26:12 |Black List No |Use Type: Residential|
-socks://162.0.220.218:52601#🇺🇸 Virginia|Deerfield|24432|153-78-123-74.dynamic.augusta.mgwnet.us| 74.123.78.153 |Time View 25/09/2024 15:26:08 |Black List No |Use Type: Business|
-socks://174.138.176.76:38190#🇺🇸 Arizona|Polacca|86042|dynamic-162-219-133-116.hopitelecom.net| 162.219.133.116 |Time View 25/09/2024 15:25:57 |Black List Yes |Use Type: Business|
-socks://162.19.7.48:39227#🇺🇸 New Mexico|Alamogordo|88310|h134-215-233-79.almgnm.broadband.dynamic.tds.net| 134.215.233.79 |Time View 25/09/2024 15:25:54 |Black List Yes |Use Type: Residential|
-socks://162.210.192.135:17652#🇺🇸 Ohio|Cincinnati|45246|ip-208-102-44-108.dynamic.fuse.net| 208.102.44.108 |Time View 25/09/2024 15:25:44 |Black List Yes |Use Type: Residential|
-socks://162.19.7.61:23190#🇺🇸 Ohio|Cincinnati|45247|ip-50-5-104-38.dynamic.fuse.net| 50.5.104.38 |Time View 25/09/2024 15:25:37 |Black List No |Use Type: Residential|
-socks://67.213.210.167:35651#🇺🇸 Maine|Norridgewock|04957|h184-61-208-121.nansme.broadband.dynamic.tds.net| 184.61.208.121 |Time View 25/09/2024 15:25:30 |Black List Yes |Use Type: Residential|
-socks://67.213.210.167:64449#🇺🇸 Maine|Norridgewock|04957|h184-61-208-121.nansme.broadband.dynamic.tds.net| 184.61.208.121 |Time View 25/09/2024 15:25:28 |Black List Yes |Use Type: Residential|
-socks://67.213.212.49:13704#🇺🇸 Pennsylvania|Ellwood City|16117|dynamic-acs-24-112-237-189.zoominternet.net| 24.112.237.189 |Time View 25/09/2024 15:25:19 |Black List Yes |Use Type: Business|
-socks://66.29.128.242:39365#🇺🇸 California|Oakland|94610|135-180-210-89.dsl.dynamic.sonic.net| 135.180.210.89 |Time View 25/09/2024 15:24:35 |Black List No |Use Type: Residential|
-socks://67.213.210.115:50535#🇺🇸 California|San Carlos|94070|157-131-215-159.fiber.dynamic.sonic.net| 157.131.215.159 |Time View 25/09/2024 15:24:32 |Black List No |Use Type: Residential|
-socks://67.213.212.40:47711#🇺🇸 California|Oakland|94610|135-180-211-37.dsl.dynamic.sonic.net| 135.180.211.37 |Time View 25/09/2024 15:24:30 |Black List No |Use Type: Residential|
-socks://37.221.193.221:25055#🇺🇸 California|Truckee|96161|216-171-195-111.dpe.net| 216.171.195.111 |Time View 25/09/2024 15:24:24 |Black List Yes |Use Type: Business|
-socks://66.29.128.242:23070#🇺🇸 California|Los Angeles|90066|syn-072-134-246-041.res.spectrum.com| 72.134.246.41 |Time View 25/09/2024 15:24:10 |Black List Yes |Use Type: Residential|
+socks://162.210.192.171:33007#🇺🇸 Virginia|Ashburn|20149|ec2-54-226-63-85.compute-1.amazonaws.com| 54.226.63.85 |Time View 26/09/2024 05:35:38 |Black List No |Use Type: Hosting|
+socks://37.221.193.221:26957#🇺🇸 Oregon|Boardman|97818|ec2-35-166-181-47.us-west-2.compute.amazonaws.com| 35.166.181.47 |Time View 26/09/2024 05:35:36 |Black List No |Use Type: Hosting|
+socks://162.210.192.171:49552#🇺🇸 Virginia|Ashburn|20149|ec2-18-235-105-134.compute-1.amazonaws.com| 18.235.105.134 |Time View 26/09/2024 05:35:32 |Black List No |Use Type: Hosting|
+socks://162.210.197.69:26832#🇺🇸 Virginia|Ashburn|20149|ec2-18-214-218-48.compute-1.amazonaws.com| 18.214.218.48 |Time View 26/09/2024 05:35:30 |Black List No |Use Type: Hosting|
+socks://162.210.192.171:47079#🇺🇸 Virginia|Ashburn|20149|ec2-54-163-107-14.compute-1.amazonaws.com| 54.163.107.14 |Time View 26/09/2024 05:35:28 |Black List No |Use Type: Hosting|
+socks://162.210.192.171:36826#🇺🇸 Ohio|Columbus|43215|ec2-13-59-9-134.us-east-2.compute.amazonaws.com| 13.59.9.134 |Time View 26/09/2024 05:35:26 |Black List No |Use Type: Hosting|
+socks://162.210.192.171:34590#🇺🇸 Oregon|Boardman|97818|ec2-52-33-162-48.us-west-2.compute.amazonaws.com| 52.33.162.48 |Time View 26/09/2024 05:35:24 |Black List No |Use Type: Hosting|
+socks://212.83.143.223:58389#🇺🇸 Oregon|Boardman|97818|ec2-52-43-237-142.us-west-2.compute.amazonaws.com| 52.43.237.142 |Time View 26/09/2024 05:35:21 |Black List No |Use Type: Hosting|
+socks://212.83.143.191:17103#🇺🇸 Virginia|Ashburn|20149|ec2-54-235-108-204.compute-1.amazonaws.com| 54.235.108.204 |Time View 26/09/2024 05:35:18 |Black List No |Use Type: Hosting|
+socks://162.210.197.69:55709#🇺🇸 Oregon|Boardman|97818|ec2-52-43-241-46.us-west-2.compute.amazonaws.com| 52.43.241.46 |Time View 26/09/2024 05:35:07 |Black List No |Use Type: Hosting|
 socks://138.201.21.233:35501#🇬🇧 England|Waltham Forest|E17|cpc97864-walt21-2-0-cust247.13-2.cable.virginm.net| 82.12.63.248 |Time View 26/09/2024 01:32:01 |Black List Yes |Use Type: Residential|
 socks://138.201.21.218:18191#🇬🇧 England|Sheffield|S12|Sky UK Limited| 90.216.102.27 |Time View 26/09/2024 01:31:57 |Black List Yes |Use Type: Residential|
