@@ -1,45 +1,20 @@
-socks://108.181.133.59:38415#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.105.dyn-cm-pool-31.pool.hargray.net| 64.203.222.105 |Time View 24/09/2024 22:43:12 |Black List Yes |Use Type: Business|
-socks://38.91.107.220:41477#🇺🇸 South Carolina|Hilton Head Island|29928|173-207-196-183.cpe.cableone.net| 173.207.196.183 |Time View 24/09/2024 22:43:08 |Black List Yes |Use Type: Residential|
-socks://67.213.210.167:23193#🇺🇸 South Carolina|Hilton Head Island|29928|173-207-229-7.cpe.cableone.net| 173.207.229.7 |Time View 24/09/2024 22:42:14 |Black List Yes |Use Type: Residential|
-socks://67.213.210.115:23143#🇺🇸 South Carolina|Bluffton|29910|173-207-208-79.cpe.cableone.net| 173.207.208.79 |Time View 24/09/2024 22:42:09 |Black List Yes |Use Type: Residential|
-socks://67.213.210.60:17118#🇺🇸 South Carolina|Bluffton|29910|173-207-208-96.cpe.cableone.net| 173.207.208.96 |Time View 24/09/2024 22:42:06 |Black List Yes |Use Type: Residential|
-socks://38.91.107.220:62691#🇺🇸 South Carolina|Hilton Head Island|29926|173-207-193-20.cpe.cableone.net| 173.207.193.20 |Time View 24/09/2024 22:42:01 |Black List Yes |Use Type: Residential|
-socks://38.91.107.229:60463#🇺🇸 South Carolina|Chester|29706|204-116-40-210.dsl.g01.scches.spirittelecom.com| 204.116.40.210 |Time View 24/09/2024 22:41:41 |Black List Yes |Use Type: Residential|
-socks://66.29.129.52:10310#🇺🇸 South Carolina|Hilton Head Island|29928|173-207-196-234.cpe.cableone.net| 173.207.196.234 |Time View 24/09/2024 22:41:21 |Black List Yes |Use Type: Residential|
-socks://66.29.128.246:23347#🇺🇸 South Carolina|Mt. Pleasant|29464|c-73-131-172-42.hsd1.sc.comcast.net| 73.131.172.42 |Time View 24/09/2024 22:41:17 |Black List Yes |Use Type: Residential|
-socks://162.0.220.217:61203#🇺🇸 South Carolina|Hilton Head Island|29928|173-207-196-185.cpe.cableone.net| 173.207.196.185 |Time View 24/09/2024 22:41:13 |Black List Yes |Use Type: Residential|
-socks://108.181.132.118:23883#🇺🇸 South Carolina|Chester|29706|173-248-210-32.truvista.net| 173.248.210.32 |Time View 24/09/2024 22:41:00 |Black List Yes |Use Type: Hosting|
-socks://67.213.210.62:17178#🇺🇸 South Carolina|Chester|29706|173-248-211-157.truvista.net| 173.248.211.157 |Time View 24/09/2024 22:40:56 |Black List Yes |Use Type: Hosting|
-socks://66.29.128.245:43555#🇺🇸 Georgia|Stone Mountain|30088|c-76-145-163-166.hsd1.ga.comcast.net| 76.145.163.166 |Time View 24/09/2024 22:40:10 |Black List Yes |Use Type: Residential|
-socks://51.254.149.59:47317#🇺🇸 Georgia|Conyers|30094|c-73-237-135-43.hsd1.ga.comcast.net| 73.237.135.43 |Time View 24/09/2024 22:40:07 |Black List Yes |Use Type: Residential|
-socks://198.7.56.72:54947#🇺🇸 Georgia|Norcross|30093|c-76-122-91-192.hsd1.ga.comcast.net| 76.122.91.192 |Time View 24/09/2024 22:40:02 |Black List Yes |Use Type: Residential|
-socks://51.254.167.45:28043#🇺🇸 California|Brentwood|94513|c-76-102-65-79.hsd1.ca.comcast.net| 76.102.65.79 |Time View 24/09/2024 22:39:42 |Black List Yes |Use Type: Residential|
-socks://67.213.212.40:23166#🇺🇸 California|Oakland|94610|135-180-211-37.dsl.dynamic.sonic.net| 135.180.211.37 |Time View 24/09/2024 22:39:29 |Black List No |Use Type: Residential|
-socks://67.213.212.36:10785#🇺🇸 California|San Francisco|94122|157-131-163-208.fiber.dynamic.sonic.net| 157.131.163.208 |Time View 24/09/2024 22:39:24 |Black List No |Use Type: Residential|
-socks://66.29.128.242:23536#🇺🇸 California|Oakland|94610|135-180-210-89.dsl.dynamic.sonic.net| 135.180.210.89 |Time View 24/09/2024 22:39:20 |Black List No |Use Type: Residential|
-socks://162.0.220.218:65444#🇺🇸 California|Concord|94520|c-67-180-61-178.hsd1.ca.comcast.net| 67.180.61.178 |Time View 24/09/2024 22:39:00 |Black List Yes |Use Type: Residential|
-socks://66.29.128.242:19331#🇺🇸 California|Los Angeles|90066|syn-072-134-246-041.res.spectrum.com| 72.134.246.41 |Time View 24/09/2024 22:38:41 |Black List Yes |Use Type: Residential|
-socks://66.29.128.244:40555#🇺🇸 California|Berkeley|94703|135-180-144-255.fiber.dynamic.sonic.net| 135.180.144.255 |Time View 24/09/2024 22:38:31 |Black List No |Use Type: Residential|
-socks://38.91.107.2:62267#🇺🇸 California|Prather|93651|209-234-217-129.netptc.net| 209.234.217.129 |Time View 24/09/2024 22:38:25 |Black List No |Use Type: Residential|
-socks://162.19.7.58:12199#🇺🇸 California|Burlingame|94010|c-67-169-11-238.hsd1.ca.comcast.net| 67.169.11.238 |Time View 24/09/2024 22:38:16 |Black List Yes |Use Type: Residential|
-socks://209.159.153.22:34963#🇺🇸 California|Sacramento|95825|c-73-41-90-188.hsd1.ca.comcast.net| 73.41.90.188 |Time View 24/09/2024 22:38:04 |Black List Yes |Use Type: Residential|
-socks://66.29.129.52:47625#🇺🇸 California|Los Angeles|90065|syn-072-134-203-092.res.spectrum.com| 72.134.203.92 |Time View 24/09/2024 22:37:46 |Black List Yes |Use Type: Residential|
-socks://67.213.212.47:47904#🇺🇸 California|Stockton|95206|162-198-79-228.lightspeed.sntcca.sbcglobal.net| 162.198.79.228 |Time View 24/09/2024 22:37:41 |Black List No |Use Type: Residential|
-socks://67.213.212.40:31282#🇺🇸 California|San Diego|92128|108-221-223-116.lightspeed.sndgca.sbcglobal.net| 108.221.223.116 |Time View 24/09/2024 22:37:36 |Black List No |Use Type: Residential|
-socks://174.138.176.75:23512#🇺🇸 California|Martinez|94553|c-73-92-30-31.hsd1.ca.comcast.net| 73.92.30.31 |Time View 24/09/2024 22:37:23 |Black List Yes |Use Type: Residential|
-socks://162.19.7.59:47426#🇺🇸 California|Concord|94521|c-73-222-166-154.hsd1.ca.comcast.net| 73.222.166.154 |Time View 24/09/2024 22:37:11 |Black List Yes |Use Type: Residential|
-socks://162.19.7.46:34513#🇺🇸 California|Chula Vista|91911|162-198-64-83.lightspeed.sndgca.sbcglobal.net| 162.198.64.83 |Time View 24/09/2024 22:37:03 |Black List No |Use Type: Residential|
-socks://209.159.153.19:23488#🇺🇸 California|Modesto|95355|104-11-40-130.lightspeed.frokca.sbcglobal.net| 104.11.40.130 |Time View 24/09/2024 22:36:51 |Black List No |Use Type: Residential|
-socks://67.213.212.48:33681#🇺🇸 New Jersey|Sayreville|08872|ool-182fd901.dyn.optonline.net| 24.47.217.1 |Time View 24/09/2024 16:35:33 |Black List Yes |Use Type: Residential|
-socks://209.159.153.21:42512#🇺🇸 New Jersey|Fair Lawn|07410|ool-18bfdbd7.dyn.optonline.net| 24.191.219.215 |Time View 24/09/2024 16:35:25 |Black List Yes |Use Type: Business|
-socks://23.88.121.205:28998#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 168.62.48.145 |Time View 24/09/2024 16:34:59 |Black List Yes |Use Type: Hosting|
-socks://108.181.132.115:54963#🇺🇸 Tennessee|South Pittsburg|37380|149.20.171.141.svecfiber.com| 149.20.171.141 |Time View 24/09/2024 23:54:17 |Black List No |Use Type: Residential|
-socks://67.213.210.167:27680#🇺🇸 Tennessee|South Pittsburg|37380|149.20.168.174.svecfiber.com| 149.20.168.174 |Time View 24/09/2024 23:54:15 |Black List No |Use Type: Residential|
-socks://67.213.210.115:19889#🇺🇸 Tennessee|South Pittsburg|37380|149.20.170.151.svecfiber.com| 149.20.170.151 |Time View 24/09/2024 23:54:11 |Black List No |Use Type: Residential|
-socks://38.91.107.220:50594#🇺🇸 Tennessee|South Pittsburg|37380|149.20.172.226.svecfiber.com| 149.20.172.226 |Time View 24/09/2024 23:53:53 |Black List No |Use Type: Residential|
-socks://108.181.132.117:55304#🇺🇸 Tennessee|South Pittsburg|37380|149.19.190.104.svecfiber.com| 149.19.190.104 |Time View 24/09/2024 23:53:50 |Black List No |Use Type: Residential|
-socks://67.213.212.51:13709#🇺🇸 Washington|Burlington|98233|static-50-46-8-93.evrt.wa.ptr.ziplyfiber.com| 50.46.8.93 |Time View 24/09/2024 23:53:43 |Black List No |Use Type: Residential|
-socks://37.221.193.221:14478#🇺🇸 Oregon|Beaverton|97006|static-50-39-73-186.bvtn.or.ptr.ziplyfiber.com| 50.39.73.186 |Time View 24/09/2024 23:53:36 |Black List Yes |Use Type: Residential|
-socks://67.213.210.61:15491#🇺🇸 Tennessee|South Pittsburg|37380|149.19.190.148.svecfiber.com| 149.19.190.148 |Time View 24/09/2024 23:53:31 |Black List No |Use Type: Residential|
-socks://162.0.220.219:36302#🇺🇸 Tennessee|South Pittsburg|37380|149.19.190.66.svecfiber.com| 149.19.190.66 |Time View 24/09/2024 23:53:29 |Black List No |Use Type: Residential|
-socks://67.213.210.168:31523#🇺🇸 Tennessee|South Pittsburg|37380|149.20.171.104.svecfiber.com| 149.20.171.104 |Time View 24/09/2024 23:53:27 |Black List No |Use Type: Residential|
+socks://67.213.212.36:52173#🇺🇸 Arkansas|Pine Bluff|71603|pine01cpe.195.143.255.206.ark.cablelynx.com| 206.255.143.195 |Time View 25/09/2024 15:27:23 |Black List Yes |Use Type: Residential|
+socks://162.19.7.46:20682#🇺🇸 California|Sacramento|95838|Comcast Cable Communications, LLC| 174.160.189.204 |Time View 25/09/2024 15:27:20 |Black List Yes |Use Type: Residential|
+socks://162.19.7.53:25939#🇺🇸 Washington|Everett|98208|50-54-135-48.evrt.wa.ptr.ziplyfiber.com| 50.54.135.48 |Time View 25/09/2024 15:27:01 |Black List No |Use Type: Residential|
+socks://67.213.212.51:13709#🇺🇸 Washington|Burlington|98233|static-50-46-8-93.evrt.wa.ptr.ziplyfiber.com| 50.46.8.93 |Time View 25/09/2024 15:26:54 |Black List No |Use Type: Residential|
+socks://67.213.210.60:31025#🇺🇸 Alaska|Anchorage|99517|63-140-74-174-radius.dynamic.acsalaska.net| 63.140.74.174 |Time View 25/09/2024 15:26:39 |Black List Yes |Use Type: Residential|
+socks://162.19.7.50:37640#🇺🇸 North Carolina|Lexington|27295|h242.181.55.139.dynamic.ip.windstream.net| 139.55.181.242 |Time View 25/09/2024 15:26:34 |Black List Yes |Use Type: Business|
+socks://108.181.132.117:40291#🇺🇸 Nevada|Logandale|89021|ip-208-76-95-147.dynamic.mvdsl.com| 208.76.95.147 |Time View 25/09/2024 15:26:12 |Black List No |Use Type: Residential|
+socks://162.0.220.218:52601#🇺🇸 Virginia|Deerfield|24432|153-78-123-74.dynamic.augusta.mgwnet.us| 74.123.78.153 |Time View 25/09/2024 15:26:08 |Black List No |Use Type: Business|
+socks://174.138.176.76:38190#🇺🇸 Arizona|Polacca|86042|dynamic-162-219-133-116.hopitelecom.net| 162.219.133.116 |Time View 25/09/2024 15:25:57 |Black List Yes |Use Type: Business|
+socks://162.19.7.48:39227#🇺🇸 New Mexico|Alamogordo|88310|h134-215-233-79.almgnm.broadband.dynamic.tds.net| 134.215.233.79 |Time View 25/09/2024 15:25:54 |Black List Yes |Use Type: Residential|
+socks://162.210.192.135:17652#🇺🇸 Ohio|Cincinnati|45246|ip-208-102-44-108.dynamic.fuse.net| 208.102.44.108 |Time View 25/09/2024 15:25:44 |Black List Yes |Use Type: Residential|
+socks://162.19.7.61:23190#🇺🇸 Ohio|Cincinnati|45247|ip-50-5-104-38.dynamic.fuse.net| 50.5.104.38 |Time View 25/09/2024 15:25:37 |Black List No |Use Type: Residential|
+socks://67.213.210.167:35651#🇺🇸 Maine|Norridgewock|04957|h184-61-208-121.nansme.broadband.dynamic.tds.net| 184.61.208.121 |Time View 25/09/2024 15:25:30 |Black List Yes |Use Type: Residential|
+socks://67.213.210.167:64449#🇺🇸 Maine|Norridgewock|04957|h184-61-208-121.nansme.broadband.dynamic.tds.net| 184.61.208.121 |Time View 25/09/2024 15:25:28 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:13704#🇺🇸 Pennsylvania|Ellwood City|16117|dynamic-acs-24-112-237-189.zoominternet.net| 24.112.237.189 |Time View 25/09/2024 15:25:19 |Black List Yes |Use Type: Business|
+socks://66.29.128.242:39365#🇺🇸 California|Oakland|94610|135-180-210-89.dsl.dynamic.sonic.net| 135.180.210.89 |Time View 25/09/2024 15:24:35 |Black List No |Use Type: Residential|
+socks://67.213.210.115:50535#🇺🇸 California|San Carlos|94070|157-131-215-159.fiber.dynamic.sonic.net| 157.131.215.159 |Time View 25/09/2024 15:24:32 |Black List No |Use Type: Residential|
+socks://67.213.212.40:47711#🇺🇸 California|Oakland|94610|135-180-211-37.dsl.dynamic.sonic.net| 135.180.211.37 |Time View 25/09/2024 15:24:30 |Black List No |Use Type: Residential|
+socks://37.221.193.221:25055#🇺🇸 California|Truckee|96161|216-171-195-111.dpe.net| 216.171.195.111 |Time View 25/09/2024 15:24:24 |Black List Yes |Use Type: Business|
+socks://66.29.128.242:23070#🇺🇸 California|Los Angeles|90066|syn-072-134-246-041.res.spectrum.com| 72.134.246.41 |Time View 25/09/2024 15:24:10 |Black List Yes |Use Type: Residential|
