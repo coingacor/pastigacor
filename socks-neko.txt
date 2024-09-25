@@ -18,3 +18,5 @@ socks://67.213.210.115:50535#🇺🇸 California|San Carlos|94070|157-131-215-15
 socks://67.213.212.40:47711#🇺🇸 California|Oakland|94610|135-180-211-37.dsl.dynamic.sonic.net| 135.180.211.37 |Time View 25/09/2024 15:24:30 |Black List No |Use Type: Residential|
 socks://37.221.193.221:25055#🇺🇸 California|Truckee|96161|216-171-195-111.dpe.net| 216.171.195.111 |Time View 25/09/2024 15:24:24 |Black List Yes |Use Type: Business|
 socks://66.29.128.242:23070#🇺🇸 California|Los Angeles|90066|syn-072-134-246-041.res.spectrum.com| 72.134.246.41 |Time View 25/09/2024 15:24:10 |Black List Yes |Use Type: Residential|
+socks://138.201.21.233:35501#🇬🇧 England|Waltham Forest|E17|cpc97864-walt21-2-0-cust247.13-2.cable.virginm.net| 82.12.63.248 |Time View 26/09/2024 01:32:01 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:18191#🇬🇧 England|Sheffield|S12|Sky UK Limited| 90.216.102.27 |Time View 26/09/2024 01:31:57 |Black List Yes |Use Type: Residential|
