@@ -1,12 +1,15 @@
+socks://108.181.132.116:58081#🇺🇸 Oregon|Estacada|97023|pppoe-38-126-64-081.cascadeaccess.com| 38.126.64.81 |Time View 26/09/2024 09:11:14 |Black List No |Use Type: Residential|
+socks://66.29.129.56:39250#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 108.175.194.2 |Time View 26/09/2024 09:10:56 |Black List No |Use Type: Business|
+socks://162.0.220.161:28924#🇺🇸 South Carolina|Beaufort|29907|Hargray Communications Group, Inc.| 192.152.152.129 |Time View 26/09/2024 09:10:53 |Black List No |Use Type: Business|
+socks://67.213.210.62:62260#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 207.182.81.181 |Time View 26/09/2024 09:10:50 |Black List No |Use Type: Business|
+socks://66.29.129.52:63424#🇺🇸 South Carolina|St. Helena|29920|Hargray Communications Group, Inc.| 170.205.191.125 |Time View 26/09/2024 09:10:47 |Black List No |Use Type: Business|
+socks://174.138.176.74:19478#🇺🇸 Georgia|Hawkinsville|31036|Hargray Communications Group, Inc.| 170.205.174.244 |Time View 26/09/2024 09:10:44 |Black List Yes |Use Type: Business|
+socks://67.213.210.118:56983#🇺🇸 Georgia|Hawkinsville|31036|Hargray Communications Group, Inc.| 170.205.174.50 |Time View 26/09/2024 09:10:41 |Black List Yes |Use Type: Business|
+socks://162.0.220.220:62436#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 108.175.198.120 |Time View 26/09/2024 09:10:38 |Black List No |Use Type: Business|
 socks://162.210.192.171:33007#🇺🇸 Virginia|Ashburn|20149|ec2-54-226-63-85.compute-1.amazonaws.com| 54.226.63.85 |Time View 26/09/2024 05:35:38 |Black List No |Use Type: Hosting|
 socks://37.221.193.221:26957#🇺🇸 Oregon|Boardman|97818|ec2-35-166-181-47.us-west-2.compute.amazonaws.com| 35.166.181.47 |Time View 26/09/2024 05:35:36 |Black List No |Use Type: Hosting|
 socks://162.210.192.171:49552#🇺🇸 Virginia|Ashburn|20149|ec2-18-235-105-134.compute-1.amazonaws.com| 18.235.105.134 |Time View 26/09/2024 05:35:32 |Black List No |Use Type: Hosting|
 socks://162.210.197.69:26832#🇺🇸 Virginia|Ashburn|20149|ec2-18-214-218-48.compute-1.amazonaws.com| 18.214.218.48 |Time View 26/09/2024 05:35:30 |Black List No |Use Type: Hosting|
 socks://162.210.192.171:47079#🇺🇸 Virginia|Ashburn|20149|ec2-54-163-107-14.compute-1.amazonaws.com| 54.163.107.14 |Time View 26/09/2024 05:35:28 |Black List No |Use Type: Hosting|
-socks://162.210.192.171:36826#🇺🇸 Ohio|Columbus|43215|ec2-13-59-9-134.us-east-2.compute.amazonaws.com| 13.59.9.134 |Time View 26/09/2024 05:35:26 |Black List No |Use Type: Hosting|
-socks://162.210.192.171:34590#🇺🇸 Oregon|Boardman|97818|ec2-52-33-162-48.us-west-2.compute.amazonaws.com| 52.33.162.48 |Time View 26/09/2024 05:35:24 |Black List No |Use Type: Hosting|
-socks://212.83.143.223:58389#🇺🇸 Oregon|Boardman|97818|ec2-52-43-237-142.us-west-2.compute.amazonaws.com| 52.43.237.142 |Time View 26/09/2024 05:35:21 |Black List No |Use Type: Hosting|
 socks://212.83.143.191:17103#🇺🇸 Virginia|Ashburn|20149|ec2-54-235-108-204.compute-1.amazonaws.com| 54.235.108.204 |Time View 26/09/2024 05:35:18 |Black List No |Use Type: Hosting|
-socks://162.210.197.69:55709#🇺🇸 Oregon|Boardman|97818|ec2-52-43-241-46.us-west-2.compute.amazonaws.com| 52.43.241.46 |Time View 26/09/2024 05:35:07 |Black List No |Use Type: Hosting|
-socks://138.201.21.233:35501#🇬🇧 England|Waltham Forest|E17|cpc97864-walt21-2-0-cust247.13-2.cable.virginm.net| 82.12.63.248 |Time View 26/09/2024 01:32:01 |Black List Yes |Use Type: Residential|
-socks://138.201.21.218:18191#🇬🇧 England|Sheffield|S12|Sky UK Limited| 90.216.102.27 |Time View 26/09/2024 01:31:57 |Black List Yes |Use Type: Residential|
+socks://138.201.21.218:18191|United Kingdom|England|Sheffield|S12|Sky UK Limited| 90.216.102.27 |Time View 26/09/2024 01:31:57 |Black List Yes |Use Type: Residential|
