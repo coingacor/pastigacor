@@ -1,15 +1,10 @@
-socks://108.181.132.116:58081#🇺🇸 Oregon|Estacada|97023|pppoe-38-126-64-081.cascadeaccess.com| 38.126.64.81 |Time View 26/09/2024 09:11:14 |Black List No |Use Type: Residential|
-socks://66.29.129.56:39250#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 108.175.194.2 |Time View 26/09/2024 09:10:56 |Black List No |Use Type: Business|
-socks://162.0.220.161:28924#🇺🇸 South Carolina|Beaufort|29907|Hargray Communications Group, Inc.| 192.152.152.129 |Time View 26/09/2024 09:10:53 |Black List No |Use Type: Business|
-socks://67.213.210.62:62260#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 207.182.81.181 |Time View 26/09/2024 09:10:50 |Black List No |Use Type: Business|
-socks://66.29.129.52:63424#🇺🇸 South Carolina|St. Helena|29920|Hargray Communications Group, Inc.| 170.205.191.125 |Time View 26/09/2024 09:10:47 |Black List No |Use Type: Business|
-socks://174.138.176.74:19478#🇺🇸 Georgia|Hawkinsville|31036|Hargray Communications Group, Inc.| 170.205.174.244 |Time View 26/09/2024 09:10:44 |Black List Yes |Use Type: Business|
-socks://67.213.210.118:56983#🇺🇸 Georgia|Hawkinsville|31036|Hargray Communications Group, Inc.| 170.205.174.50 |Time View 26/09/2024 09:10:41 |Black List Yes |Use Type: Business|
-socks://162.0.220.220:62436#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 108.175.198.120 |Time View 26/09/2024 09:10:38 |Black List No |Use Type: Business|
-socks://162.210.192.171:33007#🇺🇸 Virginia|Ashburn|20149|ec2-54-226-63-85.compute-1.amazonaws.com| 54.226.63.85 |Time View 26/09/2024 05:35:38 |Black List No |Use Type: Hosting|
-socks://37.221.193.221:26957#🇺🇸 Oregon|Boardman|97818|ec2-35-166-181-47.us-west-2.compute.amazonaws.com| 35.166.181.47 |Time View 26/09/2024 05:35:36 |Black List No |Use Type: Hosting|
-socks://162.210.192.171:49552#🇺🇸 Virginia|Ashburn|20149|ec2-18-235-105-134.compute-1.amazonaws.com| 18.235.105.134 |Time View 26/09/2024 05:35:32 |Black List No |Use Type: Hosting|
-socks://162.210.197.69:26832#🇺🇸 Virginia|Ashburn|20149|ec2-18-214-218-48.compute-1.amazonaws.com| 18.214.218.48 |Time View 26/09/2024 05:35:30 |Black List No |Use Type: Hosting|
-socks://162.210.192.171:47079#🇺🇸 Virginia|Ashburn|20149|ec2-54-163-107-14.compute-1.amazonaws.com| 54.163.107.14 |Time View 26/09/2024 05:35:28 |Black List No |Use Type: Hosting|
-socks://212.83.143.191:17103#🇺🇸 Virginia|Ashburn|20149|ec2-54-235-108-204.compute-1.amazonaws.com| 54.235.108.204 |Time View 26/09/2024 05:35:18 |Black List No |Use Type: Hosting|
-socks://138.201.21.218:18191|United Kingdom|England|Sheffield|S12|Sky UK Limited| 90.216.102.27 |Time View 26/09/2024 01:31:57 |Black List Yes |Use Type: Residential|
+socks://66.29.129.54:11372#🇺🇸 Georgia|Cochran|31014|Hargray Communications Group, Inc.| 170.205.173.69 |Time View 27/09/2024 12:50:57 |Black List Yes |Use Type: Business|
+socks://66.29.129.56:34798#🇺🇸 South Carolina|Hilton Head Island|29926|Hargray Communications Group, Inc.| 207.5.39.173 |Time View 27/09/2024 12:50:52 |Black List No |Use Type: Business|
+socks://162.0.220.161:27850#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 207.182.81.101 |Time View 27/09/2024 12:50:41 |Black List No |Use Type: Business|
+socks://108.181.132.117:62418#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 207.5.63.239 |Time View 27/09/2024 12:50:39 |Black List No |Use Type: Business|
+socks://174.138.176.74:42093#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 170.205.184.200 |Time View 27/09/2024 12:50:36 |Black List No |Use Type: Business|
+socks://66.29.129.56:57788#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 108.175.194.2 |Time View 27/09/2024 12:50:33 |Black List No |Use Type: Business|
+socks://108.181.133.59:27122#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 207.182.94.183 |Time View 27/09/2024 12:50:31 |Black List No |Use Type: Business|
+socks://162.0.220.216:55142#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.15.dyn-cm-pool-31.pool.hargray.net| 64.203.222.15 |Time View 27/09/2024 12:50:28 |Black List Yes |Use Type: Business|
+socks://66.29.129.53:39578#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.133.81.dyn-e120.pool.hargray.net| 67.20.133.81 |Time View 27/09/2024 12:50:26 |Black List Yes |Use Type: Business|
+socks://174.138.176.76:22952#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 66.111.88.78 |Time View 27/09/2024 12:50:21 |Black List No |Use Type: Hosting|
