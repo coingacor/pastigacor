@@ -27,3 +27,5 @@ socks://209.159.153.22:36961#🇺🇸 South Carolina|Hilton Head Island|29926|sy
 socks://162.0.220.219:32728#🇺🇸 Virginia|Norfolk|23504|wsip-70-184-181-233.hr.hr.cox.net| 70.184.181.233 |Time View 27/09/2024 17:37:01 |Black List Yes |Use Type: Business|
 socks://66.29.129.54:11372#🇺🇸 Georgia|Cochran|31014|Hargray Communications Group, Inc.| 170.205.173.69 |Time View 27/09/2024 12:50:57 |Black List Yes |Use Type: Business|
 socks://108.181.133.59:27122#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 207.182.94.183 |Time View 27/09/2024 12:50:31 |Black List No |Use Type: Business|
+socks://162.0.220.217:40506
+socks://174.138.176.77:50240
