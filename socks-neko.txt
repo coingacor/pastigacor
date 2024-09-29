@@ -25,3 +25,4 @@ socks://67.213.210.168:54188#🇺🇸 Tennessee|Rogersville|37857|Holston Electr
 socks://198.7.56.71:64645#🇺🇸 New Jersey|Lavallette|08735|ool-457d2139.dyn.optonline.net| 69.125.33.57 |Time View 29/09/2024 15:28:10 |Black List Yes |Use Type: Residential|
 socks://67.213.212.49:57555#🇺🇸 New Jersey|Teaneck|07666|ool-182d6666.dyn.optonline.net| 24.45.102.102 |Time View 29/09/2024 15:27:59 |Black List Yes |Use Type: Business|
 socks://209.159.153.22:42264#🇺🇸 New York|Brooklyn|11216|ool-18bc697f.dyn.optonline.net| 24.188.105.127 |Time View 29/09/2024 15:22:20 |Black List Yes |Use Type: Residential|
+socks://198.7.56.71:56107#SG
