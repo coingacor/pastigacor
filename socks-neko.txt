@@ -1,3 +1,5 @@
+socks://198.7.56.71:64645#🇺🇸 New Jersey|Lavallette|08735|ool-457d2139.dyn.optonline.net| 69.125.33.57 |Time View 29/09/2024 15:28:10 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:57555#🇺🇸 New Jersey|Teaneck|07666|ool-182d6666.dyn.optonline.net| 24.45.102.102 |Time View 29/09/2024 15:27:59 |Black List Yes |Use Type: Business|
 socks://198.7.56.71:17371#🇺🇸 New Jersey|Jersey City|07306|ool-4b63acb2.static.optonline.net| 75.99.172.178 |Time View 29/09/2024 15:22:25 |Black List No |Use Type: Residential|
 socks://209.159.153.21:29384#🇺🇸 New York|Medford|11763|ool-6c3a5274.static.optonline.net| 108.58.82.116 |Time View 29/09/2024 15:22:24 |Black List No |Use Type: Business|
 socks://67.213.212.47:64911#🇺🇸 New York|Brooklyn|11236|ool-44c0634a.dyn.optonline.net| 68.192.99.74 |Time View 29/09/2024 15:22:22 |Black List Yes |Use Type: Residential|
