@@ -26,3 +26,7 @@ socks://198.7.56.71:64645#🇺🇸 New Jersey|Lavallette|08735|ool-457d2139.dyn.
 socks://67.213.212.49:57555#🇺🇸 New Jersey|Teaneck|07666|ool-182d6666.dyn.optonline.net| 24.45.102.102 |Time View 29/09/2024 15:27:59 |Black List Yes |Use Type: Business|
 socks://209.159.153.22:42264#🇺🇸 New York|Brooklyn|11216|ool-18bc697f.dyn.optonline.net| 24.188.105.127 |Time View 29/09/2024 15:22:20 |Black List Yes |Use Type: Residential|
 socks://198.7.56.71:56107#SG
+socks://89.58.45.94:43681#🇯🇵 Okinawa|Naha|900-0021|p14019-ipngnfx01otsu.shiga.ocn.ne.jp| 180.43.80.19 |Time View 29/09/2024 22:28:18 |Black List Yes |Use Type: Business|
+socks://51.83.116.2:46884#🇯🇵 Kochi|Kochi|780-8011|p754187-ipxg00b01otsu.shiga.ocn.ne.jp| 153.194.212.187 |Time View 29/09/2024 22:28:11 |Black List Yes |Use Type: Business|
+socks://212.83.143.97:15934#🇯🇵 Ibaraki|Mito|310-0851|q038018.ppp.asahi-net.or.jp| 203.181.38.18 |Time View 29/09/2024 22:28:06 |Black List Yes |Use Type: Business|
+socks://212.83.138.245:27536#🇯🇵 Unknown|Unknown|Unknown|p626027-ipxg00c01miyazakihigasi.miyazaki.ocn.ne.jp| 180.14.159.27 |Time View 29/09/2024 22:28:02 |Black List Yes |Use Type: Business|
