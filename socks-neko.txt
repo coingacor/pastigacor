@@ -1,9 +1,19 @@
-socks://67.213.210.168:54188#😂 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.141.68 |Time View 29/09/2024 16:09:20 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://66.29.128.244:24265#😂 Tennessee|Murfreesboro|37129|c-107-3-226-218.hsd1.tn.comcast.net| 107.3.226.218 |Time View 29/09/2024 16:09:03 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://67.213.210.167:23067#😂 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.94 |Time View 29/09/2024 16:09:01 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://198.7.56.71:64645#😂 New Jersey|Lavallette|08735|ool-457d2139.dyn.optonline.net| 69.125.33.57 |Time View 29/09/2024 15:28:10 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://67.213.212.49:57555#😂 New Jersey|Teaneck|07666|ool-182d6666.dyn.optonline.net| 24.45.102.102 |Time View 29/09/2024 15:27:59 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://198.7.56.71:17371#😂 New Jersey|Jersey City|07306|ool-4b63acb2.static.optonline.net| 75.99.172.178 |Time View 29/09/2024 15:22:25 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://209.159.153.21:29384#😂 New York|Medford|11763|ool-6c3a5274.static.optonline.net| 108.58.82.116 |Time View 29/09/2024 15:22:24 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://67.213.212.47:64911#😂 New York|Brooklyn|11236|ool-44c0634a.dyn.optonline.net| 68.192.99.74 |Time View 29/09/2024 15:22:22 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://209.159.153.22:42264#😂 New York|Brooklyn|11216|ool-18bc697f.dyn.optonline.net| 24.188.105.127 |Time View 29/09/2024 15:22:20 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.138.245:42609#🇨🇭 Zurich|Zumikon|8126|19.32.61.188.dynamic.cust.swisscom.net| 188.61.32.19 |Time View 29/09/2024 21:05:06 |Black List Yes |Use Type: Business|
+socks://212.83.142.114:61119#🇬🇧 England|Leeds|LS26|Sky UK Limited| 94.12.150.86 |Time View 29/09/2024 21:04:32 |Black List Yes |Use Type: Business|
+socks://138.201.21.218:64703#🇬🇧 England|Dunstable|LU6|duns-09-b2-v4wan-168346-cust266.vm32.cable.virginm.net| 80.5.27.11 |Time View 29/09/2024 21:04:28 |Black List Yes |Use Type: Residential|
+socks://138.201.21.228:17472#🇬🇧 England|Ross on Wye|HR9|host109-147-11-165.range109-147.btcentralplus.com| 109.147.11.165 |Time View 29/09/2024 21:04:25 |Black List Yes |Use Type: Business|
+socks://138.201.21.227:23166#🇬🇧 England|Greenwich|SE2|host86-136-163-49.range86-136.btcentralplus.com| 86.136.163.49 |Time View 29/09/2024 21:04:22 |Black List Yes |Use Type: Business|
+socks://66.29.128.243:62999#🇺🇸 Texas|Plano|75074|47-185-240-20.dlls.tx.frontiernet.net| 47.185.240.20 |Time View 29/09/2024 21:03:54 |Black List Yes |Use Type: Residential|
+socks://209.159.153.19:18665#🇺🇸 Texas|Crosby|77532|c-73-206-77-78.hsd1.tx.comcast.net| 73.206.77.78 |Time View 29/09/2024 21:03:40 |Black List Yes |Use Type: Residential|
+socks://162.19.7.56:63236#🇺🇸 Texas|Katy|77494|Comcast Cable Communications| 73.6.25.126 |Time View 29/09/2024 21:03:33 |Black List Yes |Use Type: Residential|
+socks://162.0.220.216:55621#🇺🇸 Texas|Houston|77077|c-174-170-68-20.hsd1.tx.comcast.net| 174.170.68.20 |Time View 29/09/2024 21:03:24 |Black List Yes |Use Type: Residential|
+socks://66.29.129.56:22107#🇺🇸 Texas|Houston|77083|c-174-170-134-86.hsd1.tx.comcast.net| 174.170.134.86 |Time View 29/09/2024 21:03:21 |Black List Yes |Use Type: Residential|
+socks://23.105.170.34:54447#🇺🇸 Texas|Katy|77494|c-174-170-248-10.hsd1.tx.comcast.net| 174.170.248.10 |Time View 29/09/2024 21:03:16 |Black List Yes |Use Type: Residential|
+socks://66.29.128.242:65094#🇺🇸 Texas|Mineola|75773|137-119-84-154.peoplescom.net| 137.119.84.154 |Time View 29/09/2024 21:03:12 |Black List No |Use Type: Business|
+socks://152.53.36.109:36344#🇺🇸 Missouri|Kansas City|64114|136-34-203-130.googlefiber.net| 136.34.203.130 |Time View 29/09/2024 21:02:55 |Black List Yes |Use Type: Residential|
+socks://152.53.36.109:33448#🇺🇸 Texas|Austin|78751|136-62-43-42.googlefiber.net| 136.62.43.42 |Time View 29/09/2024 21:02:53 |Black List Yes |Use Type: Residential|
+socks://51.68.244.19:59073#🇺🇸 California|Irvine|92620|136-52-22-38.googlefiber.net| 136.52.22.38 |Time View 29/09/2024 21:02:51 |Black List Yes |Use Type: Residential|
+socks://67.213.210.168:54188#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.141.68 |Time View 29/09/2024 16:09:20 |Black List Yes |Use Type: Business|
+socks://198.7.56.71:64645#🇺🇸 New Jersey|Lavallette|08735|ool-457d2139.dyn.optonline.net| 69.125.33.57 |Time View 29/09/2024 15:28:10 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:57555#🇺🇸 New Jersey|Teaneck|07666|ool-182d6666.dyn.optonline.net| 24.45.102.102 |Time View 29/09/2024 15:27:59 |Black List Yes |Use Type: Business|
+socks://209.159.153.22:42264#🇺🇸 New York|Brooklyn|11216|ool-18bc697f.dyn.optonline.net| 24.188.105.127 |Time View 29/09/2024 15:22:20 |Black List Yes |Use Type: Residential|
