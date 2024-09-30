@@ -10,3 +10,13 @@ socks://198.7.56.71:35722#🇺🇸 New Jersey|East Orange|07018|c-73-160-32-91.h
 socks://66.29.128.245:19824#🇺🇸 New Jersey|Woodbridge|07095|c-174-57-166-178.hsd1.nj.comcast.net| 174.57.166.178 |Time View 30/09/2024 09:34:53 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://162.19.7.59:20087#🇺🇸 New Jersey|Hamburg|07419|ool-43522314.dyn.optonline.net| 67.82.35.20 |Time View 30/09/2024 09:34:35 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://67.213.212.36:65490#🇺🇸 New Jersey|Jersey City|07302|static-108-5-138-12.nwrknj.fios.verizon.net| 108.5.138.12 |Time View 30/09/2024 09:34:31 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://108.181.133.58:54199#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.194.251 |Time View 30/09/2024 11:33:40 |Black List No |Use Type: Business|
+socks://174.138.176.78:61405#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.193.33 |Time View 30/09/2024 11:33:38 |Black List No |Use Type: Business|
+socks://108.181.132.118:11380#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.192.227 |Time View 30/09/2024 11:33:37 |Black List No |Use Type: Business|
+socks://162.0.220.215:65453#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.193.82 |Time View 30/09/2024 11:33:34 |Black List No |Use Type: Business|
+socks://66.29.129.54:53039#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.192.78 |Time View 30/09/2024 11:33:33 |Black List No |Use Type: Business|
+socks://67.213.210.168:61165#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.192.247 |Time View 30/09/2024 11:33:31 |Black List No |Use Type: Business|
+socks://67.213.210.175:35718#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.194.159 |Time View 30/09/2024 11:33:30 |Black List No |Use Type: Business|
+socks://23.105.170.33:45698#🇺🇸 Michigan|Troy|48085|WideOpenWest Finance LLC| 24.192.255.193 |Time View 30/09/2024 11:32:06 |Black List Yes |Use Type: Business|
+socks://198.7.56.71:12935#🇺🇸 Florida|Palm Harbor|34683|WideOpenWest Finance LLC| 67.149.211.167 |Time View 30/09/2024 11:32:02 |Black List Yes |Use Type: Business|
+socks://67.213.212.40:51587#🇺🇸 Alabama|Madison|35758|WideOpenWest Finance LLC| 143.59.208.170 |Time View 30/09/2024 11:32:00 |Black List No |Use Type: Business|
