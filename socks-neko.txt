@@ -37,3 +37,12 @@ socks://212.83.138.245:54253|United Kingdom|England|Bradford|BD9|brad-27-b2-v4wa
 socks://51.83.116.3:11940|United Kingdom|England|Huddersfield|HD2|cpc105942-hudd12-2-0-cust249.4-1.cable.virginm.net| 82.11.182.250 |Time View 01/10/2024 14:19:35 |Black List Yes |Use Type: Residential|
 socks://67.213.212.50:43979#🇺🇸 New Jersey|Elizabeth|07206|ool-18b875e3.dyn.optonline.net| 24.184.117.227 |Time View 01/10/2024 14:18:39 |Black List Yes |Use Type: Business|
 socks://209.159.153.22:46517#🇺🇸 Connecticut|Torrington|06790|ool-43518224.dyn.optonline.net| 67.81.130.36 |Time View 01/10/2024 14:18:30 |Black List Yes |Use Type: Residential|
+socks://162.0.220.217:10432#🇺🇸 Arkansas|Hot Springs|71913|hsprings01cpe-212.ark.cablelynx.com| 24.89.41.212 |Time View 02/10/2024 01:20:20 |Black List No |Use Type: Residential|
+socks://66.29.128.241:18630#🇺🇸 Arkansas|Fort Smith|72903|72x18x39x173.static.newroadstelecom.net| 72.18.39.173 |Time View 02/10/2024 01:20:16 |Black List No |Use Type: Business|
+socks://67.213.212.36:36398#🇺🇸 Arkansas|Johnson|72741|wsip-98-185-72-22.fv.ks.cox.net| 98.185.72.22 |Time View 02/10/2024 01:20:12 |Black List No |Use Type: Business|
+socks://67.213.212.50:42720#🇺🇸 Arkansas|Little Rock|72223|c-71-238-141-44.hsd1.ar.comcast.net| 71.238.141.44 |Time View 02/10/2024 01:20:04 |Black List Yes |Use Type: Residential|
+socks://212.83.137.165:62494#🇺🇸 Arkansas|Sidney|72577|Hillbilly Wireless INC.| 206.183.174.248 |Time View 02/10/2024 01:20:01 |Black List No |Use Type: Cellular|
+socks://212.83.137.239:61380#🇺🇸 Arkansas|Newark|72562|Hillbilly Wireless INC.| 162.219.116.107 |Time View 02/10/2024 01:19:58 |Black List No |Use Type: Cellular|
+socks://162.19.7.59:48145#🇺🇸 Arkansas|Ashdown|71822|Four States Fiber| 209.35.148.204 |Time View 02/10/2024 01:19:54 |Black List Yes |Use Type: Residential|
+socks://174.138.176.78:20351#🇺🇸 Arkansas|Searcy|72143|Ritter Communications| 216.163.18.66 |Time View 02/10/2024 01:19:50 |Black List No |Use Type: Business|
+socks://67.213.212.39:55933#🇺🇸 Arkansas|White Hall|71602|216-163-28-4.ritternet.com| 216.163.28.4 |Time View 02/10/2024 01:19:48 |Black List No |Use Type: Business|
