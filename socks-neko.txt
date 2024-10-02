@@ -1,50 +1,15 @@
-socks://209.159.153.22:13435#🇺🇸 Michigan|Utica|48316|WideOpenWest Finance LLC| 23.28.146.125 |Time View 01/10/2024 23:37:08 |Black List Yes |Use Type: Business|
-socks://108.181.132.118:20263#🇺🇸 Mississippi|Batesville|38606|Tallahatchie Valley Internet Services, LLC| 152.86.16.168 |Time View 01/10/2024 23:34:50 |Black List No |Use Type: Residential|
-socks://66.29.129.52:28688#🇺🇸 Mississippi|Sarah|38665|Tallahatchie Valley Internet Services, LLC| 216.245.100.147 |Time View 01/10/2024 23:34:44 |Black List No |Use Type: Residential|
-socks://66.29.129.53:47148#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.252.197 |Time View 01/10/2024 23:34:08 |Black List No |Use Type: Business|
-socks://212.83.137.239:49348#🇺🇸 Arkansas|Beebe|72012|G5 INTERNET, LLC| 199.46.104.178 |Time View 01/10/2024 23:33:46 |Black List No |Use Type: Business|
-socks://67.213.210.168:19416#🇺🇸 Mississippi|Iuka|38852|Tishomingo Connect, LLC| 74.126.168.173 |Time View 01/10/2024 23:33:42 |Black List No |Use Type: Business|
-socks://209.159.153.22:48402#🇺🇸 Connecticut|West Hartford|06117|NetSpeed LLC| 64.224.251.195 |Time View 01/10/2024 23:33:34 |Black List No |Use Type: Hosting|
-socks://195.154.43.184:54430#🇺🇸 Colorado|Montrose|81403|Elite Broadband LLC| 209.198.58.81 |Time View 01/10/2024 23:33:32 |Black List No |Use Type: Residential|
-socks://66.23.233.210:20683#🇺🇸 North Carolina|Wadesboro|28170|Windstream Communications LLC| 209.155.61.182 |Time View 01/10/2024 23:33:22 |Black List No |Use Type: Business|
-socks://212.83.137.239:33894#🇺🇸 Illinois|Le Roy|61752|CIRBN, LLC| 158.222.16.120 |Time View 01/10/2024 23:33:17 |Black List No |Use Type: Cellular|
-socks://66.29.129.53:32825#🇺🇸 Washington|Lake Stevens|98258|Wholesail networks LLC| 50.46.48.136 |Time View 01/10/2024 23:33:10 |Black List No |Use Type: Residential|
-socks://23.105.170.33:24264#🇺🇸 Arizona|Yuma|85364|Beamspeed LLC| 38.126.242.207 |Time View 01/10/2024 23:33:06 |Black List No |Use Type: Cellular|
-socks://67.213.212.40:35288#🇺🇸 Utah|Salt Lake City|84106|FirstDigital Communications, LLC| 97.75.170.119 |Time View 01/10/2024 23:33:03 |Black List Yes |Use Type: Business|
-socks://67.213.210.167:12763#🇺🇸 Virginia|Edinburg|22824|Shenandoah Cable Television LLC| 204.111.103.166 |Time View 01/10/2024 23:33:00 |Black List No |Use Type: Residential|
-socks://67.213.212.36:47341#🇺🇸 Arizona|Buckeye|85396|CenturyLink Communications, LLC| 65.152.6.66 |Time View 01/10/2024 23:32:58 |Black List No |Use Type: Business|
-socks://67.213.212.39:19769#🇺🇸 Michigan|Dearborn Heights|48127|WideOpenWest Finance LLC| 143.59.25.159 |Time View 01/10/2024 23:32:51 |Black List No |Use Type: Business|
-socks://66.29.128.246:46073#🇺🇸 Washington|Cle Elum|98922|Symplified Technologies LLC| 69.55.218.23 |Time View 01/10/2024 23:32:46 |Black List No |Use Type: Business|
-socks://174.138.176.75:46574#🇺🇸 Texas|Seguin|78155|GVEC.net, LLC| 38.67.58.243 |Time View 01/10/2024 23:32:44 |Black List No |Use Type: Business|
-socks://212.83.138.60:30820#🇺🇸 Colorado|Montrose|81401|Elite Broadband LLC| 216.189.31.123 |Time View 01/10/2024 23:32:42 |Black List No |Use Type: Hosting|
-socks://162.19.7.59:61412#🇺🇸 Virginia|Harrisonburg|22802|Comcast Cable Communications, LLC| 50.224.5.73 |Time View 01/10/2024 23:32:38 |Black List No |Use Type: Residential|
-socks://66.29.129.53:45169#🇺🇸 Virginia|Edinburg|22824|Shenandoah Cable Television LLC| 204.111.103.200 |Time View 01/10/2024 23:32:34 |Black List No |Use Type: Residential|
-socks://195.154.43.184:24955#🇺🇸 Washington|Walla Walla|99362|360 Communications, LLC| 199.101.82.183 |Time View 01/10/2024 23:32:29 |Black List No |Use Type: Business|
-socks://212.83.137.239:13856#🇺🇸 Kansas|Parsons|67357|Wave Wireless LLC| 161.38.52.13 |Time View 01/10/2024 23:32:26 |Black List No |Use Type: Cellular|
-socks://174.138.176.75:13849#🇺🇸 Alabama|Haleyville|35565|Tombigbee Communications, LLC| 192.228.40.114 |Time View 01/10/2024 23:32:22 |Black List No |Use Type: Business|
-socks://67.213.212.51:38799#🇺🇸 California|Oakland|94612|Another Corporate ISP, LLC| 170.39.170.192 |Time View 01/10/2024 23:32:20 |Black List No |Use Type: Business|
-socks://66.29.128.241:16745#🇺🇸 Florida|Orlando|32821|Granite Telecommunications LLC| 157.96.54.130 |Time View 01/10/2024 23:32:18 |Black List No |Use Type: Business|
-socks://162.0.220.215:40315#🇺🇸 Mississippi|Como|38619|Tallahatchie Valley Internet Services, LLC| 216.245.106.226 |Time View 01/10/2024 23:32:13 |Black List Yes |Use Type: Residential|
-socks://108.181.132.117:28054#🇺🇸 Virginia|Roanoke|24018|Shenandoah Cable Television LLC| 70.32.193.122 |Time View 01/10/2024 23:32:11 |Black List No |Use Type: Residential|
-socks://67.213.210.61:47874#🇺🇸 Colorado|Beulah|81023|Beulahland Communications, LLC| 137.118.95.237 |Time View 01/10/2024 23:32:08 |Black List No |Use Type: Business|
-socks://67.213.212.50:34947#🇺🇸 Ohio|Cincinnati|45202|Cincinnati Bell Telephone Company LLC| 131.241.0.2 |Time View 01/10/2024 23:32:06 |Black List Yes |Use Type: Business|
-socks://162.0.220.219:17107#🇺🇸 Alabama|Bear Creek|35543|Tombigbee Communications, LLC| 192.228.34.159 |Time View 01/10/2024 23:32:00 |Black List No |Use Type: Business|
-socks://67.213.212.40:51176#🇺🇸 California|Farmersville|93223|Unwired Broadband, LLC| 23.227.98.26 |Time View 01/10/2024 23:31:56 |Black List No |Use Type: Residential|
-socks://162.0.220.161:43349#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.253.221 |Time View 01/10/2024 23:30:35 |Black List No |Use Type: Business|
-socks://174.138.176.74:49398#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.253.117 |Time View 01/10/2024 23:30:33 |Black List No |Use Type: Business|
-socks://212.83.142.100:45909|Belgium|Wallonia|Morlanwelz-Mariemont|7140|200.145-243-81.adsl-dyn.isp.belgacom.be| 81.243.145.200 |Time View 01/10/2024 16:47:21 |Black List Yes |Use Type: Business|
-socks://212.83.138.245:54253|United Kingdom|England|Bradford|BD9|brad-27-b2-v4wan-163970-cust190.vm3.cable.virginm.net| 82.15.0.191 |Time View 01/10/2024 14:19:40 |Black List Yes |Use Type: Residential|
-socks://51.83.116.3:11940|United Kingdom|England|Huddersfield|HD2|cpc105942-hudd12-2-0-cust249.4-1.cable.virginm.net| 82.11.182.250 |Time View 01/10/2024 14:19:35 |Black List Yes |Use Type: Residential|
-socks://67.213.212.50:43979#🇺🇸 New Jersey|Elizabeth|07206|ool-18b875e3.dyn.optonline.net| 24.184.117.227 |Time View 01/10/2024 14:18:39 |Black List Yes |Use Type: Business|
-socks://209.159.153.22:46517#🇺🇸 Connecticut|Torrington|06790|ool-43518224.dyn.optonline.net| 67.81.130.36 |Time View 01/10/2024 14:18:30 |Black List Yes |Use Type: Residential|
-socks://162.0.220.217:10432#🇺🇸 Arkansas|Hot Springs|71913|hsprings01cpe-212.ark.cablelynx.com| 24.89.41.212 |Time View 02/10/2024 01:20:20 |Black List No |Use Type: Residential|
-socks://66.29.128.241:18630#🇺🇸 Arkansas|Fort Smith|72903|72x18x39x173.static.newroadstelecom.net| 72.18.39.173 |Time View 02/10/2024 01:20:16 |Black List No |Use Type: Business|
-socks://67.213.212.36:36398#🇺🇸 Arkansas|Johnson|72741|wsip-98-185-72-22.fv.ks.cox.net| 98.185.72.22 |Time View 02/10/2024 01:20:12 |Black List No |Use Type: Business|
-socks://67.213.212.50:42720#🇺🇸 Arkansas|Little Rock|72223|c-71-238-141-44.hsd1.ar.comcast.net| 71.238.141.44 |Time View 02/10/2024 01:20:04 |Black List Yes |Use Type: Residential|
-socks://212.83.137.165:62494#🇺🇸 Arkansas|Sidney|72577|Hillbilly Wireless INC.| 206.183.174.248 |Time View 02/10/2024 01:20:01 |Black List No |Use Type: Cellular|
-socks://212.83.137.239:61380#🇺🇸 Arkansas|Newark|72562|Hillbilly Wireless INC.| 162.219.116.107 |Time View 02/10/2024 01:19:58 |Black List No |Use Type: Cellular|
-socks://162.19.7.59:48145#🇺🇸 Arkansas|Ashdown|71822|Four States Fiber| 209.35.148.204 |Time View 02/10/2024 01:19:54 |Black List Yes |Use Type: Residential|
-socks://174.138.176.78:20351#🇺🇸 Arkansas|Searcy|72143|Ritter Communications| 216.163.18.66 |Time View 02/10/2024 01:19:50 |Black List No |Use Type: Business|
-socks://67.213.212.39:55933#🇺🇸 Arkansas|White Hall|71602|216-163-28-4.ritternet.com| 216.163.28.4 |Time View 02/10/2024 01:19:48 |Black List No |Use Type: Business|
+socks://67.213.210.115:33824#🇺🇸 Oregon|Estacada|97023|pppoe-216-155-211-085.cascadeaccess.com| 216.155.211.85 |Time View 02/10/2024 20:42:12 |Black List Yes |Use Type: Business|
+socks://67.213.210.115:57500#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.53.127 |Time View 02/10/2024 20:41:59 |Black List Yes |Use Type: Business|
+socks://67.213.210.115:46982#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.205.0 |Time View 02/10/2024 20:41:54 |Black List Yes |Use Type: Business|
+socks://108.181.132.116:33637#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.134.73 |Time View 02/10/2024 20:41:52 |Black List Yes |Use Type: Business|
+socks://174.138.176.78:60102#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.142.155 |Time View 02/10/2024 20:41:49 |Black List Yes |Use Type: Business|
+socks://67.213.210.61:51217#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.180.204 |Time View 02/10/2024 20:41:47 |Black List Yes |Use Type: Business|
+socks://162.0.220.215:43222#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.132.53 |Time View 02/10/2024 20:41:44 |Black List Yes |Use Type: Business|
+socks://162.0.220.220:22325#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.179.149 |Time View 02/10/2024 20:41:42 |Black List Yes |Use Type: Business|
+socks://38.91.107.2:49879#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.131.165 |Time View 02/10/2024 20:41:39 |Black List Yes |Use Type: Business|
+socks://67.213.210.175:29319#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.86 |Time View 02/10/2024 20:41:37 |Black List Yes |Use Type: Business|
+socks://108.181.133.59:45705#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.131.70 |Time View 02/10/2024 20:41:35 |Black List Yes |Use Type: Business|
+socks://108.181.133.58:50062#🇺🇸 Oregon|Estacada|97023|pppoe-173-239-82-223.cascadeaccess.com| 173.239.82.223 |Time View 02/10/2024 20:41:21 |Black List No |Use Type: Residential|
 socks://162.0.220.161:33050#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.253.221 |Time View 02/10/2024 15:10:39 |Black List No |Use Type: Business|
-socks://108.181.133.58:55312#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.254.64 |Time View 02/10/2024 15:10:34 |Black List No |Use Type: Business|
+socks://212.83.143.97:20990|Japan|Osaka|Nankohigashi|558-0001|y022164.ppp.asahi-net.or.jp| 118.243.22.164 |Time View 02/10/2024 15:00:44 |Black List Yes |Use Type: Business|
+socks://174.138.176.78:20351#🇺🇸 Arkansas|Searcy|72143|Ritter Communications| 216.163.18.66 |Time View 02/10/2024 01:19:50 |Black List No |Use Type: Business|
