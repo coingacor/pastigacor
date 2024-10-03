@@ -31,3 +31,12 @@ socks://38.91.107.2:49879#🇺🇸 Tennessee|Rogersville|37857|Holston Electric 
 socks://67.213.210.175:29319#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.86 |Time View 02/10/2024 20:41:37 |Black List Yes |Use Type: Business|
 socks://108.181.133.59:45705#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.131.70 |Time View 02/10/2024 20:41:35 |Black List Yes |Use Type: Business|
 socks://212.83.143.97:20990|Japan|Osaka|Nankohigashi|558-0001|y022164.ppp.asahi-net.or.jp| 118.243.22.164 |Time View 02/10/2024 15:00:44 |Black List Yes |Use Type: Business|
+socks://162.0.220.215:21488#🇺🇸 South Carolina|Hilton Head Island|29928|227.158.205.170.dynamic-pool.hargray.net| 170.205.158.227 |Time View 03/10/2024 13:59:22 |Black List Yes |Use Type: Business|
+socks://174.138.176.78:24401#🇺🇸 South Carolina|Bluffton|29910|147.151.205.170.dynamic-pool.hargray.net| 170.205.151.147 |Time View 03/10/2024 13:59:18 |Black List Yes |Use Type: Business|
+socks://108.181.133.59:28154#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.133.164.dyn-e120.pool.hargray.net| 67.20.133.164 |Time View 03/10/2024 13:59:14 |Black List Yes |Use Type: Business|
+socks://67.213.210.61:29643#🇺🇸 South Carolina|Beaufort|29907|152.155.205.170.dynamic-pool.hargray.net| 170.205.155.152 |Time View 03/10/2024 13:59:12 |Black List Yes |Use Type: Business|
+socks://66.29.129.52:39134#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.133.152.dyn-e120.pool.hargray.net| 67.20.133.152 |Time View 03/10/2024 13:59:08 |Black List Yes |Use Type: Business|
+socks://66.29.129.53:43107#🇺🇸 Oregon|Elkton|97436|pppoe-173-239-84-122-elkton.cascadeaccess.com| 173.239.84.122 |Time View 03/10/2024 13:58:06 |Black List No |Use Type: Residential|
+socks://162.0.220.218:25694#🇺🇸 Oregon|Estacada|97023|pppoe-38-126-64-041.cascadeaccess.com| 38.126.64.41 |Time View 03/10/2024 13:58:02 |Black List No |Use Type: Residential|
+socks://162.0.220.161:60835#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.254.168 |Time View 03/10/2024 13:57:19 |Black List No |Use Type: Business|
+socks://66.29.129.53:65166#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.252.197 |Time View 03/10/2024 13:57:15 |Black List No |Use Type: Business|
