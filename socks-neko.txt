@@ -1,9 +1,13 @@
-socks://108.181.133.59:29888#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.196.206 |Time View 04/10/2024 12:29:33 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://67.213.210.62:16645#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.143.159 |Time View 04/10/2024 12:29:30 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://108.181.132.117:17519#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.248 |Time View 04/10/2024 12:29:21 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://67.213.210.168:45682#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.204.183 |Time View 04/10/2024 12:29:18 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://108.181.132.116:31011#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.133 |Time View 04/10/2024 12:29:14 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://108.181.132.118:20203#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.130.25 |Time View 04/10/2024 12:29:06 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://174.138.176.75:34557#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.207.118 |Time View 04/10/2024 12:29:04 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://162.0.220.214:53195#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 65.17.179.73 |Time View 04/10/2024 12:29:00 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://67.213.210.62:30838#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.180.192 |Time View 04/10/2024 12:28:58 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://38.91.107.229:14328#🇺🇸 Oklahoma|Kingfisher|73750|65-255-70-209.dyn.hsi.pldi.net| 65.255.70.209 |Time View 04/10/2024 13:57:05 |Black List Yes |Use Type: Business|
+socks://162.0.220.216:37462#🇺🇸 Oklahoma|Mooreland|73852|208-114-40-154.dyn.hsi.pldi.net| 208.114.40.154 |Time View 04/10/2024 13:56:58 |Black List Yes |Use Type: Business|
+socks://38.91.106.214:32480#🇺🇸 Oklahoma|Kingfisher|73750|65-255-65-208.dyn.hsi.pldi.net| 65.255.65.208 |Time View 04/10/2024 13:56:55 |Black List Yes |Use Type: Business|
+socks://162.0.220.214:36158#🇺🇸 Oklahoma|Newcastle|73065|68-235-152-105.dynsouth.hsi.pldi.net| 68.235.152.105 |Time View 04/10/2024 13:56:48 |Black List Yes |Use Type: Business|
+socks://108.181.133.59:29888#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.196.206 |Time View 04/10/2024 12:29:33 |Black List No |Use Type: Business|
+socks://67.213.210.62:16645#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.143.159 |Time View 04/10/2024 12:29:30 |Black List Yes |Use Type: Business|
+socks://108.181.132.117:17519#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.248 |Time View 04/10/2024 12:29:21 |Black List Yes |Use Type: Business|
+socks://67.213.210.168:45682#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.204.183 |Time View 04/10/2024 12:29:18 |Black List Yes |Use Type: Business|
+socks://108.181.132.116:31011#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.133 |Time View 04/10/2024 12:29:14 |Black List Yes |Use Type: Business|
+socks://108.181.132.118:20203#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.130.25 |Time View 04/10/2024 12:29:06 |Black List Yes |Use Type: Business|
+socks://174.138.176.75:34557#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.207.118 |Time View 04/10/2024 12:29:04 |Black List Yes |Use Type: Business|
+socks://162.0.220.214:53195#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 65.17.179.73 |Time View 04/10/2024 12:29:00 |Black List Yes |Use Type: Business|
+socks://67.213.210.62:30838#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.180.192 |Time View 04/10/2024 12:28:58 |Black List Yes |Use Type: Business|
