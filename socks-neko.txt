@@ -1,10 +1,16 @@
+socks://51.254.167.45:29352#🇺🇸 California|Irvine|92620|136-52-22-38.googlefiber.net| 136.52.22.38 |Time View 04/10/2024 16:58:57 |Black List Yes |Use Type: Residential|
+socks://174.138.176.78:64668#🇺🇸 California|Union City|94587|c-76-132-135-118.hsd1.ca.comcast.net| 76.132.135.118 |Time View 04/10/2024 16:58:46 |Black List Yes |Use Type: Residential|
+socks://67.213.212.40:12710#🇺🇸 California|Oakland|94611|135-180-211-37.dsl.dynamic.sonic.net| 135.180.211.37 |Time View 04/10/2024 16:58:32 |Black List Yes |Use Type: Residential|
+socks://66.29.128.241:65272#🇺🇸 California|Salinas|93906|c-71-198-182-159.hsd1.ca.comcast.net| 71.198.182.159 |Time View 04/10/2024 16:58:29 |Black List Yes |Use Type: Residential|
+socks://66.29.128.244:35724#🇺🇸 California|San Francisco|94110|c-98-35-184-13.hsd1.ca.comcast.net| 98.35.184.13 |Time View 04/10/2024 16:58:25 |Black List Yes |Use Type: Residential|
+socks://108.181.132.116:19023#🇺🇸 California|Granite Bay|95746|68-67-80-163.wavecable.com| 68.67.80.163 |Time View 04/10/2024 16:58:12 |Black List Yes |Use Type: Residential|
+socks://67.213.210.62:32029#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.198.85 |Time View 04/10/2024 16:29:24 |Black List No |Use Type: Business|
+socks://108.181.132.118:28050#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.181.114 |Time View 04/10/2024 16:25:11 |Black List Yes |Use Type: Business|
 socks://38.91.107.229:14328#🇺🇸 Oklahoma|Kingfisher|73750|65-255-70-209.dyn.hsi.pldi.net| 65.255.70.209 |Time View 04/10/2024 13:57:05 |Black List Yes |Use Type: Business|
 socks://162.0.220.216:37462#🇺🇸 Oklahoma|Mooreland|73852|208-114-40-154.dyn.hsi.pldi.net| 208.114.40.154 |Time View 04/10/2024 13:56:58 |Black List Yes |Use Type: Business|
 socks://38.91.106.214:32480#🇺🇸 Oklahoma|Kingfisher|73750|65-255-65-208.dyn.hsi.pldi.net| 65.255.65.208 |Time View 04/10/2024 13:56:55 |Black List Yes |Use Type: Business|
-socks://162.0.220.214:36158#🇺🇸 Oklahoma|Newcastle|73065|68-235-152-105.dynsouth.hsi.pldi.net| 68.235.152.105 |Time View 04/10/2024 13:56:48 |Black List Yes |Use Type: Business|
 socks://108.181.133.59:29888#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.196.206 |Time View 04/10/2024 12:29:33 |Black List No |Use Type: Business|
 socks://67.213.210.62:16645#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.143.159 |Time View 04/10/2024 12:29:30 |Black List Yes |Use Type: Business|
-socks://108.181.132.117:17519#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.248 |Time View 04/10/2024 12:29:21 |Black List Yes |Use Type: Business|
 socks://67.213.210.168:45682#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.204.183 |Time View 04/10/2024 12:29:18 |Black List Yes |Use Type: Business|
 socks://108.181.132.116:31011#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.133 |Time View 04/10/2024 12:29:14 |Black List Yes |Use Type: Business|
 socks://108.181.132.118:20203#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.130.25 |Time View 04/10/2024 12:29:06 |Black List Yes |Use Type: Business|
