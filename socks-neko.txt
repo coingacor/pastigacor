@@ -1,3 +1,20 @@
+socks://23.105.170.32:46738#🇺🇸 California|Indio|92201|47-158-5-229.lsan.ca.frontiernet.net| 47.158.5.229 |Time View 05/10/2024 20:52:00 |Black List Yes |Use Type: Residential|
+socks://212.83.137.239:27650#🇺🇸 California|Napa|94558|209-76-98-90.ded.pacbell.net| 209.76.98.90 |Time View 05/10/2024 20:51:35 |Black List Yes |Use Type: Business|
+socks://209.159.153.22:29310#🇺🇸 California|Monterey|93940|Comcast Cable Communications, LLC| 73.231.102.97 |Time View 05/10/2024 20:51:09 |Black List Yes |Use Type: Business|
+socks://174.138.176.77:33065#🇺🇸 Virginia|Floyd|24091|172-093-060-171.citizip.com| 172.93.60.171 |Time View 05/10/2024 20:43:13 |Black List No |Use Type: Business|
+socks://108.181.133.59:10777#🇺🇸 Virginia|Floyd|24091|216-222-128-057.citizip.com| 216.222.128.57 |Time View 05/10/2024 20:42:38 |Black List Yes |Use Type: Business|
+socks://66.29.128.244:27090#🇺🇸 California|Berkeley|94703|135-180-144-255.fiber.dynamic.sonic.net| 135.180.144.255 |Time View 05/10/2024 20:35:59 |Black List No |Use Type: Residential|
+socks://66.29.128.242:13696#🇺🇸 California|Oakland|94611|135-180-210-89.dsl.dynamic.sonic.net| 135.180.210.89 |Time View 05/10/2024 20:35:57 |Black List No |Use Type: Residential|
+socks://66.29.129.56:44892#🇺🇸 California|Richmond|94804|135-180-93-142.fiber.dynamic.sonic.net| 135.180.93.142 |Time View 05/10/2024 20:35:55 |Black List No |Use Type: Residential|
+socks://67.213.212.40:51473#🇺🇸 Michigan|Mason|48854|d4-50-210-24.try.wideopenwest.com| 50.4.24.210 |Time View 05/10/2024 20:30:44 |Black List Yes |Use Type: Business|
+socks://66.29.128.242:13161#🇺🇸 Michigan|Clinton Township|48035|d192-24-235-221.try.wideopenwest.com| 24.192.221.235 |Time View 05/10/2024 20:30:40 |Black List Yes |Use Type: Business|
+socks://67.213.212.57:12661#🇺🇸 Michigan|Redford|48240|d28-23-225-112.dim.wideopenwest.com| 23.28.112.225 |Time View 05/10/2024 20:30:31 |Black List Yes |Use Type: Business|
+socks://67.213.212.55:16240#🇺🇸 Michigan|Birmingham|48009|d192-24-159-253.nap.wideopenwest.com| 24.192.253.159 |Time View 05/10/2024 20:30:00 |Black List Yes |Use Type: Business|
+socks://67.213.212.47:64558#🇺🇸 Georgia|Columbus|31909|dynamic-24-35-26-187.wideopenwest.com| 24.35.26.187 |Time View 05/10/2024 20:29:38 |Black List Yes |Use Type: Business|
+socks://162.0.220.161:39660#🇺🇸 Tennessee|Church Hill|37642|Holston Electric Cooperative| 162.0.200.153 |Time View 05/10/2024 20:29:12 |Black List Yes |Use Type: Business|
+socks://209.159.153.19:37439#🇺🇸 North Carolina|Lexington|27292|h64.64.23.98.dynamic.ip.windstream.net| 98.23.64.64 |Time View 05/10/2024 20:28:26 |Black List Yes |Use Type: Business|
+socks://209.159.153.22:22095#🇺🇸 North Carolina|Supply|28462|70-35-185-205.atmc.net| 70.35.185.205 |Time View 05/10/2024 20:28:14 |Black List Yes |Use Type: Residential|
+socks://67.213.212.51:31821#🇺🇸 North Carolina|High Point|27260|74-124-191-218-static.northstate.net| 74.124.191.218 |Time View 05/10/2024 20:27:25 |Black List Yes |Use Type: Business|
 socks://174.138.176.77:17295#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.141.105 |Time View 05/10/2024 20:23:08 |Black List Yes |Use Type: Business|
 socks://108.181.133.58:63689#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.193.67 |Time View 05/10/2024 20:23:05 |Black List No |Use Type: Business|
 socks://67.213.210.61:41501#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.188.32 |Time View 05/10/2024 20:23:03 |Black List Yes |Use Type: Business|
@@ -9,9 +26,6 @@ socks://67.213.210.168:60698#🇺🇸 Tennessee|Rogersville|37857|Holston Electr
 socks://38.91.107.229:50964#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.49.7 |Time View 05/10/2024 20:22:20 |Black List Yes |Use Type: Business|
 socks://67.213.210.115:30857#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.128.180 |Time View 05/10/2024 20:22:07 |Black List Yes |Use Type: Business|
 socks://108.181.132.116:12744#🇺🇸 Oregon|Haines|97833|pppoe-173-239-86-041-haines.cascadeaccess.com| 173.239.86.41 |Time View 05/10/2024 20:21:08 |Black List No |Use Type: Residential|
-socks://108.181.132.115:51905#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 38.109.252.183 |Time View 05/10/2024 20:20:54 |Black List No |Use Type: Business|
-socks://95.168.166.109:21820|Indonesia|West Kalimantan|Pontianak|Unknown|PT. TELKOM INDONESIA| 180.242.234.162 |Time View 05/10/2024 19:18:28 |Black List Yes |Use Type: Business|
-socks://174.138.176.78:17738#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.51.28 |Time View 05/10/2024 13:21:24 |Black List Yes |Use Type: Business|
 socks://108.181.133.58:46527#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.186.65 |Time View 05/10/2024 13:21:16 |Black List No |Use Type: Business|
 socks://174.138.176.75:31426#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.188.22 |Time View 05/10/2024 13:21:12 |Black List Yes |Use Type: Business|
 socks://67.213.210.62:15278#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.51.46 |Time View 05/10/2024 13:21:07 |Black List Yes |Use Type: Business|
