@@ -8,3 +8,6 @@ socks://38.91.107.2:10042#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electri
 socks://67.213.210.167:35627#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.50.238 |Time View 05/10/2024 13:20:47 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://162.0.220.219:56636#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.48.219 |Time View 05/10/2024 13:20:42 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://212.83.142.131:48285|Ireland|Connacht|Galway|H91|86-44-137-139-dynamic.agg2.sla.mvw-sla.eircom.net| 86.44.137.139 |Time View 05/10/2024 13:08:34 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://95.168.166.109:4037#🇮🇩 West Java|Bandung|Unknown|PT. Indonesia Comnet Plus| 202.46.68.29 |Time View 05/10/2024 19:18:30 |Black List Yes |Use Type: Business|
+socks://95.168.166.109:21820#🇮🇩 West Kalimantan|Pontianak|Unknown|PT. TELKOM INDONESIA| 180.242.234.162 |Time View 05/10/2024 19:18:28 |Black List Yes |Use Type: Business|
+socks://95.168.166.109:4137#🇮🇩 North Sumatra|Medan|Unknown|ip-103-154-148-34.moratelindo.net.id| 103.154.148.34 |Time View 05/10/2024 19:18:10 |Black List No |Use Type: Business|
