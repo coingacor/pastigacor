@@ -1,15 +1,21 @@
-socks://174.138.176.74:18514#🇺🇸 Virginia|Newport News|23608|pool-70-105-8-33.rcmdva.fios.verizon.net| 70.105.8.33 |Time View 07/10/2024 00:20:33 |Black List Yes |Use Type: Residential|
-socks://198.7.56.72:19998#🇺🇸 New York|Monsey|10952|static-71-183-76-68.nycmny.fios.verizon.net| 71.183.76.68 |Time View 07/10/2024 00:20:16 |Black List Yes |Use Type: Business|
-socks://66.29.128.242:41974#🇺🇸 Maryland|Parkville|21234|pool-71-121-171-145.bltmmd.fios.verizon.net| 71.121.171.145 |Time View 07/10/2024 00:20:01 |Black List Yes |Use Type: Business|
-socks://162.19.7.61:48481#🇺🇸 Maryland|West Friendship|21794|pool-96-244-240-37.bltmmd.fios.verizon.net| 96.244.240.37 |Time View 07/10/2024 00:19:57 |Black List Yes |Use Type: Business|
-socks://38.91.107.229:11154#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc.| 64.53.71.142 |Time View 07/10/2024 00:19:31 |Black List Yes |Use Type: Business|
-socks://174.138.176.77:18162#🇺🇸 South Carolina|Bluffton|29910|67.20.142.211.dyn-e120.pool.hargray.net| 67.20.142.211 |Time View 07/10/2024 00:19:27 |Black List Yes |Use Type: Business|
-socks://174.138.176.76:11135#🇺🇸 South Carolina|Hilton Head Island|29928|160.158.205.170.dynamic-pool.hargray.net| 170.205.158.160 |Time View 07/10/2024 00:19:19 |Black List Yes |Use Type: Business|
-socks://162.0.220.215:40646#🇺🇸 South Carolina|Hilton Head Island|29928|67.216.153.103.pool.hargray.net| 67.216.153.103 |Time View 07/10/2024 00:19:09 |Black List Yes |Use Type: Business|
-socks://174.138.176.75:64792#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.140.53 |Time View 07/10/2024 00:18:33 |Black List Yes |Use Type: Business|
-socks://67.213.210.168:25400#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.130.125 |Time View 07/10/2024 00:18:17 |Black List Yes |Use Type: Business|
-socks://162.0.220.217:22514#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.135.99 |Time View 07/10/2024 00:18:13 |Black List Yes |Use Type: Business|
-socks://67.213.210.168:24219#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.50.147 |Time View 07/10/2024 00:18:02 |Black List Yes |Use Type: Business|
-socks://38.91.106.214:31690#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.134.250 |Time View 07/10/2024 00:17:33 |Black List Yes |Use Type: Business|
-socks://67.213.210.167:58740#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.143.139 |Time View 07/10/2024 00:17:24 |Black List Yes |Use Type: Business|
-socks://38.91.106.252:22065#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.135.97 |Time View 07/10/2024 00:17:08 |Black List Yes |Use Type: Business|
+socks://108.181.132.115:53515#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.48.89 |Time View 07/10/2024 22:44:38 |Black List Yes |Use Type: Business|
+socks://108.181.133.58:20728#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.48.161 |Time View 07/10/2024 22:44:35 |Black List Yes |Use Type: Business|
+socks://108.181.132.115:39757#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.89 |Time View 07/10/2024 22:44:29 |Black List Yes |Use Type: Business|
+socks://162.0.220.217:14050#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.51.76 |Time View 07/10/2024 22:44:26 |Black List Yes |Use Type: Business|
+socks://38.91.106.214:13602#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.193.226 |Time View 07/10/2024 22:44:24 |Black List No |Use Type: Business|
+socks://162.0.220.161:14159#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.142.206 |Time View 07/10/2024 22:44:22 |Black List Yes |Use Type: Business|
+socks://108.181.132.116:62362#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.199.224 |Time View 07/10/2024 22:44:19 |Black List No |Use Type: Business|
+socks://108.181.132.117:59707#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.195.71 |Time View 07/10/2024 22:44:17 |Black List No |Use Type: Business|
+socks://162.0.220.217:52758#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.135.99 |Time View 07/10/2024 22:44:14 |Black List Yes |Use Type: Business|
+socks://67.213.210.62:39498#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.53.53 |Time View 07/10/2024 22:44:12 |Black List Yes |Use Type: Business|
+socks://67.213.210.60:60067#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.48.120 |Time View 07/10/2024 22:44:10 |Black List Yes |Use Type: Business|
+socks://174.138.176.76:56415#🇺🇸 Tennessee|Church Hill|37642|Holston Electric Cooperative| 162.0.201.117 |Time View 07/10/2024 22:44:08 |Black List Yes |Use Type: Business|
+socks://67.213.210.61:30507#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.206.177 |Time View 07/10/2024 22:44:06 |Black List Yes |Use Type: Business|
+socks://162.0.220.215:55487#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.186.177 |Time View 07/10/2024 22:44:04 |Black List No |Use Type: Business|
+socks://174.138.176.76:12221#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.206.119 |Time View 07/10/2024 22:44:02 |Black List Yes |Use Type: Business|
+socks://108.181.133.59:54295#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.50.43 |Time View 07/10/2024 22:44:00 |Black List Yes |Use Type: Business|
+socks://67.213.210.175:50402#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.48.130 |Time View 07/10/2024 22:43:58 |Black List Yes |Use Type: Business|
+socks://162.0.220.215:39787#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.48 |Time View 07/10/2024 22:43:56 |Black List Yes |Use Type: Business|
+socks://67.213.210.115:34355#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.193.90 |Time View 07/10/2024 22:43:55 |Black List Yes |Use Type: Business|
+socks://174.138.176.76:13064#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.192.98 |Time View 07/10/2024 22:43:51 |Black List No |Use Type: Business|
+socks://108.181.132.118:41248#🇺🇸 Tennessee|Church Hill|37642|Holston Electric Cooperative| 143.55.137.22 |Time View 07/10/2024 22:43:49 |Black List Yes |Use Type: Business|
