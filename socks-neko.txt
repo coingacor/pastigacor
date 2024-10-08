@@ -1,21 +1,33 @@
-socks://108.181.132.115:53515#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.48.89 |Time View 07/10/2024 22:44:38 |Black List Yes |Use Type: Business|
-socks://108.181.133.58:20728#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.48.161 |Time View 07/10/2024 22:44:35 |Black List Yes |Use Type: Business|
-socks://108.181.132.115:39757#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.89 |Time View 07/10/2024 22:44:29 |Black List Yes |Use Type: Business|
-socks://162.0.220.217:14050#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.51.76 |Time View 07/10/2024 22:44:26 |Black List Yes |Use Type: Business|
-socks://38.91.106.214:13602#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.193.226 |Time View 07/10/2024 22:44:24 |Black List No |Use Type: Business|
-socks://162.0.220.161:14159#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.142.206 |Time View 07/10/2024 22:44:22 |Black List Yes |Use Type: Business|
-socks://108.181.132.116:62362#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.199.224 |Time View 07/10/2024 22:44:19 |Black List No |Use Type: Business|
-socks://108.181.132.117:59707#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.195.71 |Time View 07/10/2024 22:44:17 |Black List No |Use Type: Business|
-socks://162.0.220.217:52758#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.135.99 |Time View 07/10/2024 22:44:14 |Black List Yes |Use Type: Business|
-socks://67.213.210.62:39498#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.53.53 |Time View 07/10/2024 22:44:12 |Black List Yes |Use Type: Business|
-socks://67.213.210.60:60067#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.48.120 |Time View 07/10/2024 22:44:10 |Black List Yes |Use Type: Business|
-socks://174.138.176.76:56415#🇺🇸 Tennessee|Church Hill|37642|Holston Electric Cooperative| 162.0.201.117 |Time View 07/10/2024 22:44:08 |Black List Yes |Use Type: Business|
-socks://67.213.210.61:30507#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.206.177 |Time View 07/10/2024 22:44:06 |Black List Yes |Use Type: Business|
-socks://162.0.220.215:55487#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.186.177 |Time View 07/10/2024 22:44:04 |Black List No |Use Type: Business|
-socks://174.138.176.76:12221#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.206.119 |Time View 07/10/2024 22:44:02 |Black List Yes |Use Type: Business|
-socks://108.181.133.59:54295#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.50.43 |Time View 07/10/2024 22:44:00 |Black List Yes |Use Type: Business|
-socks://67.213.210.175:50402#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.48.130 |Time View 07/10/2024 22:43:58 |Black List Yes |Use Type: Business|
-socks://162.0.220.215:39787#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.48 |Time View 07/10/2024 22:43:56 |Black List Yes |Use Type: Business|
-socks://67.213.210.115:34355#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.193.90 |Time View 07/10/2024 22:43:55 |Black List Yes |Use Type: Business|
-socks://174.138.176.76:13064#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.192.98 |Time View 07/10/2024 22:43:51 |Black List No |Use Type: Business|
-socks://108.181.132.118:41248#🇺🇸 Tennessee|Church Hill|37642|Holston Electric Cooperative| 143.55.137.22 |Time View 07/10/2024 22:43:49 |Black List Yes |Use Type: Business|
+socks://46.105.44.29:24905#🇺🇸 New Jersey|Browns Mills|08015|c-174-166-94-220.hsd1.nj.comcast.net| 174.166.94.220 |Time View 08/10/2024 23:08:34 |Black List Yes |Use Type: Residential|
+socks://66.29.129.54:16445#🇺🇸 New Jersey|Elizabeth|07208|ool-435281f6.dyn.optonline.net| 67.82.129.246 |Time View 08/10/2024 23:08:27 |Black List Yes |Use Type: Residential|
+socks://67.213.212.56:22729#🇺🇸 New Jersey|Middlesex|08846|ool-45773a85.dyn.optonline.net| 69.119.58.133 |Time View 08/10/2024 23:08:12 |Black List Yes |Use Type: Residential|
+socks://67.213.212.38:31890#🇺🇸 New Jersey|Hackensack|07601|ool-ad0330c5.dyn.optonline.net| 173.3.48.197 |Time View 08/10/2024 23:08:11 |Black List Yes |Use Type: Residential|
+socks://67.213.210.115:50723#🇺🇸 New Jersey|Flemington|08822|c-73-198-199-125.hsd1.nj.comcast.net| 73.198.199.125 |Time View 08/10/2024 23:08:08 |Black List Yes |Use Type: Business|
+socks://66.29.128.242:26648#🇺🇸 New Jersey|Trenton|08610|pool-173-61-67-170.cmdnnj.fios.verizon.net| 173.61.67.170 |Time View 08/10/2024 23:08:07 |Black List Yes |Use Type: Residential|
+socks://209.159.153.21:33893#🇺🇸 New Jersey|Neptune City|07753|ool-45735cec.dyn.optonline.net| 69.115.92.236 |Time View 08/10/2024 23:08:04 |Black List Yes |Use Type: Residential|
+socks://67.213.212.57:42808#🇺🇸 New Jersey|Elmwood Park|07407|ool-182d6666.dyn.optonline.net| 24.45.102.102 |Time View 08/10/2024 23:08:02 |Black List Yes |Use Type: Business|
+socks://67.213.212.38:62312#🇺🇸 New Jersey|Red Bank|07701|pool-100-35-142-42.nwrknj.fios.verizon.net| 100.35.142.42 |Time View 08/10/2024 23:07:59 |Black List Yes |Use Type: Residential|
+socks://67.213.212.38:49194#🇺🇸 New Jersey|Union|07083|c-73-215-186-238.hsd1.nj.comcast.net| 73.215.186.238 |Time View 08/10/2024 23:07:56 |Black List Yes |Use Type: Residential|
+socks://67.213.212.54:32223#🇺🇸 New Jersey|Teaneck|07666|ool-45786f3e.dyn.optonline.net| 69.120.111.62 |Time View 08/10/2024 23:07:54 |Black List Yes |Use Type: Residential|
+socks://66.23.233.210:43133#🇺🇸 New Jersey|Jersey City|07305|c-73-160-215-107.hsd1.nj.comcast.net| 73.160.215.107 |Time View 08/10/2024 23:07:52 |Black List Yes |Use Type: Residential|
+socks://162.210.192.135:48918#🇺🇸 New Jersey|Sewell|08080|c-68-83-34-66.hsd1.nj.comcast.net| 68.83.34.66 |Time View 08/10/2024 23:07:51 |Black List Yes |Use Type: Residential|
+socks://67.213.212.56:15926#🇺🇸 New Jersey|Little Falls|07424|static-71-187-210-3.nwrknj.fios.verizon.net| 71.187.210.3 |Time View 08/10/2024 23:07:49 |Black List Yes |Use Type: Residential|
+socks://67.213.212.39:40972#🇺🇸 New Jersey|Basking Ridge|07920|pool-173-54-181-95.nwrknj.fios.verizon.net| 173.54.181.95 |Time View 08/10/2024 23:07:46 |Black List Yes |Use Type: Residential|
+socks://51.254.167.45:22398#🇺🇸 New Jersey|Sewell|08080|c-73-194-166-155.hsd1.nj.comcast.net| 73.194.166.155 |Time View 08/10/2024 23:07:44 |Black List Yes |Use Type: Residential|
+socks://66.29.129.56:15539#🇺🇸 New Jersey|Belleville|07109|pool-74-105-169-17.nwrknj.fios.verizon.net| 74.105.169.17 |Time View 08/10/2024 23:07:39 |Black List Yes |Use Type: Residential|
+socks://67.213.212.54:25010#🇺🇸 New Jersey|Belmar|07719|pool-72-76-247-164.nwrknj.fios.verizon.net| 72.76.247.164 |Time View 08/10/2024 23:07:37 |Black List Yes |Use Type: Business|
+socks://67.213.210.118:54662#🇺🇸 Florida|Palm City|34990|167-248-235-98.static4.bluestreamfiber.net| 167.248.235.98 |Time View 08/10/2024 23:07:19 |Black List Yes |Use Type: Business|
+socks://198.7.56.71:35185#🇺🇸 Florida|Palm Harbor|34683|WideOpenWest Finance LLC| 67.149.211.167 |Time View 08/10/2024 23:07:17 |Black List Yes |Use Type: Business|
+socks://198.7.56.73:29039#🇺🇸 Florida|Coral Springs|33065|57-135-150-55.static4.bluestreamfiber.net| 57.135.150.55 |Time View 08/10/2024 23:06:55 |Black List Yes |Use Type: Residential|
+socks://67.213.212.49:13100#🇺🇸 Florida|Miami|33186|c-73-204-93-159.hsd1.fl.comcast.net| 73.204.93.159 |Time View 08/10/2024 23:06:44 |Black List Yes |Use Type: Residential|
+socks://108.181.132.116:48180#🇺🇸 Florida|Eastpoint|32328|Consolidated Communications| 67.158.131.128 |Time View 08/10/2024 23:06:05 |Black List Yes |Use Type: Business|
+socks://67.213.210.118:14472#🇺🇸 Florida|Port Saint Joe|32456|Consolidated Communications, Inc.| 209.105.173.219 |Time View 08/10/2024 23:06:01 |Black List Yes |Use Type: Business|
+socks://174.138.176.76:32848#🇺🇸 Florida|Port Saint Joe|32456|Consolidated Communications, Inc.| 67.158.181.55 |Time View 08/10/2024 23:05:53 |Black List Yes |Use Type: Business|
+socks://209.159.153.19:63324#🇺🇸 Florida|Delray Beach|33445|c-65-34-238-11.hsd1.fl.comcast.net| 65.34.238.11 |Time View 08/10/2024 23:05:46 |Black List Yes |Use Type: Residential|
+socks://67.213.212.58:39768#🇺🇸 Florida|Miami|33176|c-73-138-73-43.hsd1.fl.comcast.net| 73.138.73.43 |Time View 08/10/2024 23:05:44 |Black List Yes |Use Type: Residential|
+socks://67.213.212.52:53583#🇺🇸 Florida|Orlando|32837|c-76-134-134-85.hsd1.fl.comcast.net| 76.134.134.85 |Time View 08/10/2024 23:05:41 |Black List Yes |Use Type: Residential|
+socks://67.213.212.54:15188#🇺🇸 Florida|Boca Raton|33433|c-71-196-114-166.hsd1.fl.comcast.net| 71.196.114.166 |Time View 08/10/2024 23:05:35 |Black List Yes |Use Type: Residential|
+socks://174.138.176.75:30546#🇺🇸 Florida|Winter Garden|34787|syn-068-204-228-003.res.spectrum.com| 68.204.228.3 |Time View 08/10/2024 23:05:33 |Black List Yes |Use Type: Business|
+socks://162.0.220.219:61770#🇺🇸 Florida|Cape Coral|33914|c-73-107-63-247.hsd1.fl.comcast.net| 73.107.63.247 |Time View 08/10/2024 23:05:24 |Black List Yes |Use Type: Residential|
+socks://66.29.129.54:63686#🇺🇸 Florida|Ruskin|33570|47-198-238-39.tamp.fl.frontiernet.net| 47.198.238.39 |Time View 08/10/2024 23:05:22 |Black List Yes |Use Type: Residential|
+socks://38.91.106.252:36422#🇺🇸 Florida|Fort Lauderdale|33312|c-98-53-62-54.hsd1.fl.comcast.net| 98.53.62.54 |Time View 08/10/2024 23:05:19 |Black List Yes |Use Type: Residential|
