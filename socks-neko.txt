@@ -1,4 +1,3 @@
-socks://212.83.142.114:20964#🇬🇧 England|Leeds|LS26|Sky UK Limited| 94.12.150.86 |Time View 10/10/2024 18:01:44 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.227:48508#🇬🇧 England|Blackpool|FY4|3392EB7c.skybroadband.com| 51.146.235.124 |Time View 10/10/2024 18:01:39 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://138.201.21.238:37367#🇬🇧 England|St Helens|WA10|know-19-b2-v4wan-168934-cust2434.vm29.cable.virginm.net| 82.46.249.131 |Time View 10/10/2024 18:01:37 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://144.76.167.23:39285#🇬🇧 England|Abbots Bromley|WS15|British Telecommunications PLC| 31.96.124.96 |Time View 10/10/2024 18:01:33 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.55:39348#🇯🇵 Hokkaido|Sapporo|064-0801|p1714230-ipxg06501aobadori.miyagi.ocn.ne.jp| 153.208.241.230 |Time View 11/10/2024 23:42:29 |Black List Yes |Use Type: Business|
+socks://212.83.143.60:32051#🇯🇵 Fukushima|Fukushima|960-8061|ag046098.f.east.v6connect.net| 157.107.46.98 |Time View 11/10/2024 23:42:25 |Black List No |Use Type: Business|
+socks://67.213.212.55:19453#🇯🇵 Nara|Okidome|636-0121|i60-46-155-201.s41.a029.ap.plala.or.jp| 60.46.155.201 |Time View 11/10/2024 23:42:21 |Black List No |Use Type: Business|
