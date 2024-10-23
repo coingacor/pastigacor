@@ -1,5 +1,1 @@
-socks://212.83.143.60:64296#🇯🇵 Tokyo|Tokyo|151-0071|y095122.ppp.asahi-net.or.jp| 118.243.95.122 |Time View 14/10/2024 09:10:20 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://144.76.167.34:12402#🇯🇵 Okinawa|Naha|903-0821|p727140-ipxg00c01toyamahon.toyama.ocn.ne.jp| 153.203.250.140 |Time View 14/10/2024 09:10:16 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://51.83.116.3:36952#🇯🇵 Hyōgo|Aioichō|650-0021|pl24616.ag2003.nttpc.ne.jp| 128.53.253.40 |Time View 14/10/2024 09:10:12 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://51.83.116.3:62787#🇯🇵 Saitama|Honjō|367-0201|ag238067.dynamic.ppp.asahi-net.or.jp| 157.107.238.67 |Time View 14/10/2024 09:10:08 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://212.83.142.114:47330#🇯🇵 Tokyo|Tokyo|151-0071|pl8107.ag1212.nttpc.ne.jp| 210.165.149.171 |Time View 14/10/2024 09:10:05 |Black List No |Use Type: Business|https://dichvusocks.net
+socks5://162.0.220.214:54334/
