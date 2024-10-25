@@ -1,6 +1,6 @@
-socks://138.201.21.238:32994|Canada|Ontario|Stittsville|K2S|pool-173-33-188-26.cpe.net.cable.rogers.com| 173.33.188.26 |Time View 25/10/2024 23:59:22 |Black List No |Use Type: Residential|
-socks://138.201.21.227:54965|Canada|Ontario|Pembroke|K8A|NRTC Communications| 45.62.78.6 |Time View 25/10/2024 23:59:15 |Black List No |Use Type: Business|
-socks://162.19.7.50:47663|Canada|Ontario|Woodstock|N4S|pool-99-226-136-153.cpe.net.cable.rogers.com| 99.226.136.153 |Time View 25/10/2024 23:59:11 |Black List Yes |Use Type: Residential|
+socks://138.201.21.238:32994#🇨🇦 Ontario|Stittsville|K2S|pool-173-33-188-26.cpe.net.cable.rogers.com| 173.33.188.26 |Time View 25/10/2024 23:59:22 |Black List No |Use Type: Residential|
+socks://138.201.21.227:54965#🇨🇦 Ontario|Pembroke|K8A|NRTC Communications| 45.62.78.6 |Time View 25/10/2024 23:59:15 |Black List No |Use Type: Business|
+socks://162.19.7.50:47663#🇨🇦 Ontario|Woodstock|N4S|pool-99-226-136-153.cpe.net.cable.rogers.com| 99.226.136.153 |Time View 25/10/2024 23:59:11 |Black List Yes |Use Type: Residential|
 socks://67.213.210.118:51769#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.140.90 |Time View 25/10/2024 23:58:59 |Black List Yes |Use Type: Business|
 socks://162.0.220.218:51636#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.135.108 |Time View 25/10/2024 23:58:52 |Black List Yes |Use Type: Business|
 socks://174.138.176.77:14936#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.128.228 |Time View 25/10/2024 23:58:50 |Black List Yes |Use Type: Business|
