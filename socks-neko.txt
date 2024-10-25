@@ -1,10 +1,15 @@
+socks://138.201.21.238:32994|Canada|Ontario|Stittsville|K2S|pool-173-33-188-26.cpe.net.cable.rogers.com| 173.33.188.26 |Time View 25/10/2024 23:59:22 |Black List No |Use Type: Residential|
+socks://138.201.21.227:54965|Canada|Ontario|Pembroke|K8A|NRTC Communications| 45.62.78.6 |Time View 25/10/2024 23:59:15 |Black List No |Use Type: Business|
+socks://162.19.7.50:47663|Canada|Ontario|Woodstock|N4S|pool-99-226-136-153.cpe.net.cable.rogers.com| 99.226.136.153 |Time View 25/10/2024 23:59:11 |Black List Yes |Use Type: Residential|
+socks://67.213.210.118:51769#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.140.90 |Time View 25/10/2024 23:58:59 |Black List Yes |Use Type: Business|
+socks://162.0.220.218:51636#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.135.108 |Time View 25/10/2024 23:58:52 |Black List Yes |Use Type: Business|
+socks://174.138.176.77:14936#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.128.228 |Time View 25/10/2024 23:58:50 |Black List Yes |Use Type: Business|
 socks://67.213.210.168:48636#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.141.137 |Time View 25/10/2024 20:59:09 |Black List Yes |Use Type: Business|
 socks://67.213.210.167:24881#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.134.143 |Time View 25/10/2024 20:59:07 |Black List Yes |Use Type: Business|
 socks://108.181.132.117:26486#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.178.65 |Time View 25/10/2024 20:58:52 |Black List Yes |Use Type: Business|
 socks://174.138.176.76:27668#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.142.197 |Time View 25/10/2024 20:58:50 |Black List Yes |Use Type: Business|
 socks://108.181.133.58:29636#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.189.46 |Time View 25/10/2024 20:58:47 |Black List No |Use Type: Business|
 socks://23.105.170.35:56832#🇺🇸 Texas|Austin|78758|136-62-245-63.googlefiber.net| 136.62.245.63 |Time View 25/10/2024 18:44:32 |Black List Yes |Use Type: Residential|
-socks://67.213.212.48:53155#🇺🇸 Iowa|Des Moines|50312|136-48-7-144.dsm.googlefiber.net| 136.48.7.144 |Time View 25/10/2024 18:44:30 |Black List Yes |Use Type: Residential|
 socks://67.213.212.39:19485#🇺🇸 Alabama|Huntsville|35801|136-44-32-168.hsv.googlefiber.net| 136.44.32.168 |Time View 25/10/2024 18:44:27 |Black List No |Use Type: Residential|
 socks://67.213.212.40:25546#🇺🇸 Kansas|Olathe|66062|136-37-146-223.googlefiber.net| 136.37.146.223 |Time View 25/10/2024 18:44:25 |Black List Yes |Use Type: Residential|
 socks://67.213.212.53:54676#🇺🇸 Utah|Salt Lake City|84106|136-38-146-253.googlefiber.net| 136.38.146.253 |Time View 25/10/2024 18:44:23 |Black List Yes |Use Type: Residential|
@@ -12,13 +17,8 @@ socks://162.0.220.220:11665#🇺🇸 Nevada|Mesquite|89027|Cascade Access, LLC| 
 socks://162.0.220.161:16233#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.131.164 |Time View 25/10/2024 18:43:59 |Black List Yes |Use Type: Business|
 socks://38.91.106.252:52834#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.140.168 |Time View 25/10/2024 18:43:55 |Black List Yes |Use Type: Business|
 socks://174.138.176.78:10367#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.53.96 |Time View 25/10/2024 18:43:50 |Black List Yes |Use Type: Business|
-socks://108.181.132.116:40776#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.207.213 |Time View 25/10/2024 18:43:48 |Black List Yes |Use Type: Business|
 socks://66.29.129.56:25778#🇺🇸 South Carolina|Hilton Head Island|29928|6.158.205.170.dynamic-pool.hargray.net| 170.205.158.6 |Time View 25/10/2024 18:43:36 |Black List Yes |Use Type: Business|
 socks://162.0.220.217:32030#🇺🇸 South Carolina|Bluffton|29909|67.216.156.246.pool.hargray.net| 67.216.156.246 |Time View 25/10/2024 18:43:27 |Black List Yes |Use Type: Business|
-socks://67.213.210.60:60238#🇺🇸 South Carolina|Beaufort|29906|64.203.198.167.dyn-cm-pool57.hargray.net| 64.203.198.167 |Time View 25/10/2024 18:43:21 |Black List Yes |Use Type: Business|
-socks://66.29.129.52:53955#🇺🇸 South Carolina|Bluffton|29909|67.216.156.105.pool.hargray.net| 67.216.156.105 |Time View 25/10/2024 18:43:16 |Black List Yes |Use Type: Business|
-socks://108.181.132.117:32041#🇺🇸 South Carolina|Bluffton|29909|Hargray Communications Group, Inc| 206.74.64.65 |Time View 25/10/2024 18:43:11 |Black List Yes |Use Type: Business|
-socks://108.181.133.59:36706#🇺🇸 Tennessee|Surgoinsville|37873|Holston Electric Cooperative| 65.17.186.59 |Time View 25/10/2024 10:47:46 |Black List No |Use Type: Business|
 socks://212.83.143.103:39387|Japan|Tokyo|Tokyo|151-0071|aq209016.dynamic.ppp.asahi-net.or.jp| 220.146.209.16 |Time View 25/10/2024 10:41:35 |Black List No |Use Type: Business|
 socks://212.83.142.100:52972|Japan|Yamanashi|Kofu|400-0031|p957172-ipxg04301morioka.iwate.ocn.ne.jp| 180.14.13.172 |Time View 25/10/2024 10:41:31 |Black List Yes |Use Type: Business|
 socks://212.83.142.100:34396|Japan|Aichi|Kiyosu|452-0941|118-105-158-169.dz.commufa.jp| 118.105.158.169 |Time View 25/10/2024 10:41:26 |Black List Yes |Use Type: Business|
