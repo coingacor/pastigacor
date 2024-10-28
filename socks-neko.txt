@@ -1,9 +1,28 @@
-socks://162.19.7.59:18689#🇺🇸 Georgia|Columbus|31909|d149-67-56-55.col.wideopenwest.com| 67.149.55.56 |Time View 27/10/2024 22:12:20 |Black List Yes |Use Type: Business|
-socks://67.213.212.47:25268#🇺🇸 New Jersey|Wayne|07470|ool-45777d5d.dyn.optonline.net| 69.119.125.93 |Time View 27/10/2024 22:11:43 |Black List Yes |Use Type: Residential|
-socks://66.29.128.246:18977#🇺🇸 New Jersey|Bayonne|07002|ool-44c268be.dyn.optonline.net| 68.194.104.190 |Time View 27/10/2024 22:11:19 |Black List Yes |Use Type: Residential|
-socks://66.29.129.54:13241#🇺🇸 New Jersey|Morganville|07751|ool-44c701c9.dyn.optonline.net| 68.199.1.201 |Time View 27/10/2024 22:11:17 |Black List Yes |Use Type: Residential|
-socks://67.213.212.40:13919#🇺🇸 New Jersey|Morristown|07960|ool-ad025357.dyn.optonline.net| 173.2.83.87 |Time View 27/10/2024 22:11:11 |Black List Yes |Use Type: Residential|
-socks://37.221.193.221:37391#🇺🇸 New Jersey|Hackensack|07601|static-72-76-250-128.nwrknj.fios.verizon.net| 72.76.250.128 |Time View 27/10/2024 22:10:32 |Black List Yes |Use Type: Business|
-socks://67.213.212.53:17640#🇺🇸 New Jersey|Ridgewood|07450|static-74-105-83-85.nwrknj.fios.verizon.net| 74.105.83.85 |Time View 27/10/2024 22:10:18 |Black List No |Use Type: Business|
-socks://67.213.212.49:63357#🇺🇸 New Jersey|Lavallette|08735|static-72-90-198-229.nwrknj.east.verizon.net| 72.90.198.229 |Time View 27/10/2024 22:10:16 |Black List No |Use Type: Business|
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmdnN5MjAxUTlXUktrR0lZTC9lMVVNZFV4eWY3UGtJaTZvZEpwNFhlU0ZrPQ@iklan.ucuwardani.my.id:55050#FIRST
+socks://37.221.193.221:16495#🇺🇸 Oregon|McMinnville|97128|206-212-226-99.dynamic.onlinenw.com| 206.212.226.99 |Time View 28/10/2024 23:25:41 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://66.29.129.53:37882#🇺🇸 Texas|Lipan|76462|dynamicDSL-250.lipan.net| 69.60.181.251 |Time View 28/10/2024 23:08:42 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://38.91.107.229:35515#🇺🇸 Louisiana|Prairieville|70769|ip-66-186-232-250.dynamic.eatel.net| 66.186.232.250 |Time View 28/10/2024 23:08:35 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://162.19.7.57:36657#🇺🇸 Kansas|Emporia|66801|IdeaTek Telcom, LLC| 204.107.216.70 |Time View 28/10/2024 23:08:27 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.58:54417#🇺🇸 Virginia|Lynchburg|24504|66-207-71-225.fsvl.fttp.ntelos.net| 66.207.71.225 |Time View 28/10/2024 23:08:13 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.53:30094#🇺🇸 Georgia|Savannah|31405|Clearwave Communications| 66.111.78.210 |Time View 28/10/2024 23:07:06 |Black List No |Use Type: Hosting|https://dichvusocks.net
+socks://67.213.212.55:54706#🇺🇸 Colorado|Fort Collins|80526|Lrm-Com, Inc.| 192.190.114.96 |Time View 28/10/2024 23:06:44 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://23.105.170.34:41271#🇺🇸 Kansas|Salina|67401|p124n23.ruraltel.net| 24.225.23.124 |Time View 28/10/2024 23:06:40 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://108.181.132.118:44171#🇺🇸 Minnesota|Pine Island|55963|Inteliquent| 206.146.82.67 |Time View 28/10/2024 23:06:23 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.210.167:17617#🇺🇸 Minnesota|Pine Island|55963|Inteliquent| 206.146.87.82 |Time View 28/10/2024 23:06:20 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.39:43815#🇺🇸 North Carolina|Mooresville|28115|h135-131-165-69.mrvinc.broadband.dynamic.tds.net| 135.131.165.69 |Time View 28/10/2024 23:05:47 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.246:44953#🇺🇸 Washington|Camano|98282|Wave Broadband| 172.92.237.127 |Time View 28/10/2024 23:03:05 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://23.105.170.33:43976#🇺🇸 California|Rocklin|95765|Wave Broadband| 104.220.27.94 |Time View 28/10/2024 23:02:40 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://162.210.192.135:49393#🇺🇸 California|San Luis Obispo|93401|Wave Broadband| 74.82.133.83 |Time View 28/10/2024 23:02:17 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://108.181.132.115:13920#🇺🇸 Georgia|Waycross|31503|Vyve Broadband| 38.178.91.98 |Time View 28/10/2024 23:02:14 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://162.19.7.49:63004#🇺🇸 New Mexico|Alamogordo|88310|h134-215-233-79.almgnm.broadband.dynamic.tds.net| 134.215.233.79 |Time View 28/10/2024 23:02:11 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.56:23425#🇺🇸 California|Arcadia|91006|216-165-226-99.championbroadband.com| 216.165.226.99 |Time View 28/10/2024 23:02:05 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.47:37504#🇺🇸 Washington|Camano|98282|Wave Broadband| 172.92.197.87 |Time View 28/10/2024 23:01:59 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://162.0.220.214:34926#🇺🇸 California|Concord|94519|184-23-29-147.dsl.dynamic.fusionbroadband.com| 184.23.29.147 |Time View 28/10/2024 23:01:46 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.40:51148#🇺🇸 Wisconsin|Verona|53593|h135-134-204-16.mdsnwi.broadband.dynamic.tds.net| 135.134.204.16 |Time View 28/10/2024 23:01:44 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://212.83.138.60:53945#🇺🇸 Colorado|Montrose|81401|Elite Broadband LLC| 216.189.31.123 |Time View 28/10/2024 23:01:40 |Black List No |Use Type: Hosting|https://dichvusocks.net
+socks://67.213.212.39:34931#🇺🇸 Maryland|Hagerstown|21742|Antietam Broadband| 147.185.193.93 |Time View 28/10/2024 23:01:18 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://23.105.170.32:65149#🇺🇸 California|San Luis Obispo|93401|Wave Broadband| 72.29.169.98 |Time View 28/10/2024 23:01:05 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://23.105.170.34:65223#🇺🇸 California|Granite Bay|95746|Wave Broadband| 104.220.94.95 |Time View 28/10/2024 23:00:33 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.50:34730#🇺🇸 Wisconsin|Appleton|54915|h135-134-236-106.ashwwi.broadband.dynamic.tds.net| 135.134.236.106 |Time View 28/10/2024 22:59:24 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://67.213.210.61:26679#🇺🇸 Florida|Orlando|32827|Summit Broadband| 66.42.4.90 |Time View 28/10/2024 22:56:14 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://174.138.176.74:18291#🇺🇸 Florida|Orlando|32826|Summit Broadband| 216.189.219.10 |Time View 28/10/2024 22:56:10 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://38.91.107.224:42998#🇺🇸 Florida|Naples|34108|Summit Broadband| 199.73.104.67 |Time View 28/10/2024 18:49:40 |Black List No |Use Type: Residential|https://dichvusocks.net
