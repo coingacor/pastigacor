@@ -1,39 +1,30 @@
-socks://162.0.220.219:31842#🇺🇸 South Carolina|Lake Wylie|29710|208-104-145-155.brvd.dsl.dyn.comporium.net| 208.104.145.155 |Time View 29/10/2024 22:06:39 |Black List Yes |Use Type: Residential|
-socks://67.213.212.38:56175#🇺🇸 South Carolina|Myrtle Beach|29577|85.162-252-5-net.sccoast.net| 162.252.5.85 |Time View 29/10/2024 22:06:22 |Black List No |Use Type: Business|
-socks://174.138.176.76:28625#🇺🇸 South Carolina|Hilton Head Island|29928|64.20.157.10.dyn-e-pool30.pool.hargray.net| 64.20.157.10 |Time View 29/10/2024 22:06:19 |Black List No |Use Type: Business|
-socks://67.213.210.118:48096#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 199.119.159.232 |Time View 29/10/2024 22:06:15 |Black List No |Use Type: Business|
-socks://37.221.193.221:29372#🇺🇸 South Carolina|Lexington|29072|Windstream Communications LLC| 173.211.245.17 |Time View 29/10/2024 22:06:08 |Black List Yes |Use Type: Business|
-socks://38.91.107.224:51810#🇺🇸 South Carolina|Hilton Head Island|29926|Hargray Communications Group, Inc.| 170.205.181.136 |Time View 29/10/2024 22:05:56 |Black List No |Use Type: Business|
-socks://108.181.132.115:43708#🇺🇸 South Carolina|Hilton Head Island|29928|26.51.246.162.dynamic-pool.hargray.net| 162.246.51.26 |Time View 29/10/2024 22:05:51 |Black List No |Use Type: Business|
-socks://174.138.176.75:56792#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.128.95.dyn-e120.pool.hargray.net| 67.20.128.95 |Time View 29/10/2024 22:05:49 |Black List No |Use Type: Business|
-socks://66.29.128.244:52934#🇺🇸 South Carolina|Summerville|29483|syn-024-171-177-162.biz.spectrum.com| 24.171.177.162 |Time View 29/10/2024 22:05:42 |Black List No |Use Type: Business|
-socks://38.91.107.229:47484#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.133.43.dyn-e120.pool.hargray.net| 67.20.133.43 |Time View 29/10/2024 22:05:39 |Black List Yes |Use Type: Business|
-socks://174.138.176.75:14487#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 108.175.194.142 |Time View 29/10/2024 22:05:37 |Black List No |Use Type: Business|
-socks://108.181.132.118:61506#🇺🇸 South Carolina|Hilton Head Island|29926|64.20.145.214.dyn-e-pool18.pool.hargray.net| 64.20.145.214 |Time View 29/10/2024 22:05:32 |Black List No |Use Type: Business|
-socks://108.181.132.117:17586#🇺🇸 South Carolina|Bluffton|29909|64.20.138.132.dyn-e-pool11.pool.hargray.net| 64.20.138.132 |Time View 29/10/2024 22:05:30 |Black List No |Use Type: Business|
-socks://67.213.212.51:13927#🇺🇸 South Carolina|Myrtle Beach|29579|106.152-44-126-net.sccoast.net| 152.44.126.106 |Time View 29/10/2024 22:05:21 |Black List Yes |Use Type: Business|
-socks://67.213.210.115:22671#🇺🇸 South Carolina|Hilton Head Island|29928|67.20.128.21.dyn-e120.pool.hargray.net| 67.20.128.21 |Time View 29/10/2024 22:04:56 |Black List No |Use Type: Business|
-socks://108.181.133.58:46243#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 108.175.194.48 |Time View 29/10/2024 22:04:53 |Black List No |Use Type: Business|
-socks://162.0.220.161:17232#🇺🇸 South Carolina|Hilton Head Island|29928|Hargray Communications Group, Inc.| 66.111.71.118 |Time View 29/10/2024 22:04:51 |Black List No |Use Type: Hosting|
-socks://67.213.210.167:59962#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.189.23 |Time View 29/10/2024 22:04:34 |Black List No |Use Type: Business|
-socks://162.0.220.216:21875#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.189.85 |Time View 29/10/2024 22:04:32 |Black List No |Use Type: Business|
-socks://162.0.220.217:32474#🇺🇸 Tennessee|Morristown|37813|Holston Electric Cooperative| 162.0.207.174 |Time View 29/10/2024 22:04:29 |Black List Yes |Use Type: Business|
-socks://108.181.132.118:25318#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.197.139 |Time View 29/10/2024 22:04:26 |Black List No |Use Type: Business|
-socks://162.0.220.218:29309#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.196.238 |Time View 29/10/2024 22:04:24 |Black List No |Use Type: Business|
-socks://67.213.210.62:62627#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.132.144 |Time View 29/10/2024 22:04:21 |Black List Yes |Use Type: Business|
-socks://38.91.106.252:24097#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.131.48 |Time View 29/10/2024 22:04:17 |Black List Yes |Use Type: Business|
-socks://67.213.210.62:52408#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.196.15 |Time View 29/10/2024 22:04:15 |Black List No |Use Type: Business|
-socks://67.213.210.118:28090#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.199.119 |Time View 29/10/2024 22:04:12 |Black List No |Use Type: Business|
-socks://174.138.176.76:35915#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.143.113 |Time View 29/10/2024 22:04:10 |Black List Yes |Use Type: Business|
-socks://67.213.212.57:15067#🇺🇸 Nevada|Las Vegas|89147|ip68-108-87-135.lv.lv.cox.net| 68.108.87.135 |Time View 29/10/2024 20:09:25 |Black List Yes |Use Type: Business|
-socks://37.221.193.221:22547#🇺🇸 California|San Clemente|92672|wsip-174-76-18-170.oc.oc.cox.net| 174.76.18.170 |Time View 29/10/2024 20:09:22 |Black List Yes |Use Type: Business|
-socks://162.210.192.135:30402#🇺🇸 Florida|Pensacola|32514|wsip-70-167-233-120.pn.at.cox.net| 70.167.233.120 |Time View 29/10/2024 20:08:52 |Black List No |Use Type: Business|
-socks://162.0.220.219:10701#🇺🇸 Virginia|Norfolk|23502|wsip-70-184-181-233.hr.hr.cox.net| 70.184.181.233 |Time View 29/10/2024 20:08:49 |Black List No |Use Type: Business|
-socks://108.181.132.116:41109#🇺🇸 Georgia|Warner Robins|31088|ip70-177-149-233.mc.at.cox.net| 70.177.149.233 |Time View 29/10/2024 20:08:46 |Black List No |Use Type: Business|
-socks://66.29.129.54:39734#🇺🇸 California|San Diego|92114|ip72-197-11-239.sd.sd.cox.net| 72.197.11.239 |Time View 29/10/2024 20:08:40 |Black List No |Use Type: Business|
-socks://67.213.212.40:16628#🇺🇸 Arkansas|Bentonville|72712|ip68-1-247-137.fv.ks.cox.net| 68.1.247.137 |Time View 29/10/2024 20:08:38 |Black List Yes |Use Type: Business|
-socks://66.29.128.241:36089#🇺🇸 Rhode Island|West Warwick|02893|Cox Communications Inc.| 68.15.51.187 |Time View 29/10/2024 20:08:35 |Black List No |Use Type: Business|
-socks://67.213.212.49:61064#🇺🇸 California|Santa Barbara|93101|wsip-98-179-251-178.sb.sd.cox.net| 98.179.251.178 |Time View 29/10/2024 20:08:26 |Black List No |Use Type: Business|
-socks://67.213.212.49:30686#🇺🇸 Arkansas|Springdale|72764|wsip-70-182-24-250.fv.ks.cox.net| 70.182.24.250 |Time View 29/10/2024 20:08:17 |Black List No |Use Type: Business|
-socks://23.105.170.32:24635#🇺🇸 California|Vista|92084|ip174-65-151-238.sd.sd.cox.net| 174.65.151.238 |Time View 29/10/2024 20:08:11 |Black List No |Use Type: Business|
-socks://66.23.233.210:31669#🇺🇸 Virginia|Roanoke|24012|ip24-254-7-21.rn.hr.cox.net| 24.254.7.21 |Time View 29/10/2024 20:08:02 |Black List No |Use Type: Business|
+socks://67.213.212.40:26866#🇺🇸 California|Berkeley|94708|c-73-158-186-229.hsd1.ca.comcast.net| 73.158.186.229 |Time View 30/10/2024 23:11:01 |Black List Yes |Use Type: Residential|
+socks://108.181.133.59:42168#🇺🇸 California|Richmond|94804|135-180-93-142.fiber.dynamic.sonic.net| 135.180.93.142 |Time View 30/10/2024 23:10:46 |Black List No |Use Type: Residential|
+socks://66.29.128.241:56039#🇺🇸 California|Berkeley|94707|23-93-98-173.fiber.dynamic.sonic.net| 23.93.98.173 |Time View 30/10/2024 23:10:44 |Black List No |Use Type: Business|
+socks://67.213.212.55:21971#🇺🇸 California|San Francisco|94122|135-180-16-101.dsl.dynamic.sonic.net| 135.180.16.101 |Time View 30/10/2024 23:10:42 |Black List No |Use Type: Residential|
+socks://174.138.176.76:42007#🇺🇸 California|San Carlos|94070|157-131-215-159.fiber.dynamic.sonic.net| 157.131.215.159 |Time View 30/10/2024 23:10:40 |Black List No |Use Type: Residential|
+socks://66.29.128.245:16679#🇺🇸 North Carolina|Morrisville|27560|136-61-43-164.googlefiber.net| 136.61.43.164 |Time View 30/10/2024 23:10:25 |Black List Yes |Use Type: Residential|
+socks://174.138.176.77:10275#🇺🇸 South Carolina|Hilton Head Island|29928|115.23.5.207.dynamic-pool.hargray.net| 207.5.23.115 |Time View 30/10/2024 23:10:05 |Black List No |Use Type: Business|
+socks://174.138.176.77:30644#🇺🇸 South Carolina|Hilton Head Island|29928|17.158.205.170.dynamic-pool.hargray.net| 170.205.158.17 |Time View 30/10/2024 23:10:03 |Black List Yes |Use Type: Business|
+socks://174.138.176.78:61190#🇺🇸 South Carolina|Hilton Head Island|29928|64.203.222.162.dyn-cm-pool-31.pool.hargray.net| 64.203.222.162 |Time View 30/10/2024 23:10:00 |Black List Yes |Use Type: Business|
+socks://38.91.107.2:22087#🇺🇸 South Carolina|Hilton Head Island|29928|64.20.157.224.dyn-e-pool30.pool.hargray.net| 64.20.157.224 |Time View 30/10/2024 23:09:58 |Black List No |Use Type: Business|
+socks://108.181.132.118:61506#🇺🇸 South Carolina|Hilton Head Island|29926|64.20.145.214.dyn-e-pool18.pool.hargray.net| 64.20.145.214 |Time View 30/10/2024 23:09:56 |Black List No |Use Type: Business|
+socks://67.213.210.168:36674#🇺🇸 South Carolina|Hilton Head Island|29926|67.20.147.78.pool.hargray.net| 67.20.147.78 |Time View 30/10/2024 23:09:54 |Black List No |Use Type: Business|
+socks://174.138.176.78:15397#🇺🇸 South Carolina|Hilton Head Island|29926|64.20.135.192.dyn-e-pool8.pool.hargray.net| 64.20.135.192 |Time View 30/10/2024 23:09:50 |Black List No |Use Type: Business|
+socks://108.181.132.117:26556#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.55.75 |Time View 30/10/2024 23:09:40 |Black List No |Use Type: Business|
+socks://108.181.132.116:32366#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.133.133 |Time View 30/10/2024 23:09:39 |Black List Yes |Use Type: Business|
+socks://67.213.210.167:61009#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.178.133 |Time View 30/10/2024 23:09:37 |Black List Yes |Use Type: Business|
+socks://67.213.210.175:55935#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.48.130 |Time View 30/10/2024 23:09:35 |Black List Yes |Use Type: Business|
+socks://108.181.133.59:26984#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.130.117 |Time View 30/10/2024 23:09:33 |Black List Yes |Use Type: Business|
+socks://174.138.176.78:29091#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.190.217 |Time View 30/10/2024 23:09:30 |Black List No |Use Type: Business|
+socks://174.138.176.74:32460#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.130.132 |Time View 30/10/2024 23:09:28 |Black List Yes |Use Type: Business|
+socks://67.213.210.61:49745#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.178.81 |Time View 30/10/2024 23:09:26 |Black List Yes |Use Type: Business|
+socks://162.0.220.161:50121#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.189.250 |Time View 30/10/2024 23:09:23 |Black List No |Use Type: Business|
+socks://108.181.132.116:33831#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 143.55.142.168 |Time View 30/10/2024 23:09:21 |Black List Yes |Use Type: Business|
+socks://174.138.176.76:62318#🇺🇸 Tennessee|Mooresburg|37811|Holston Electric Cooperative| 162.0.195.50 |Time View 30/10/2024 23:09:19 |Black List No |Use Type: Business|
+socks://67.213.210.60:62460#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.179.95 |Time View 30/10/2024 23:09:15 |Black List Yes |Use Type: Business|
+socks://67.213.210.60:64162#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 162.0.197.218 |Time View 30/10/2024 23:09:13 |Black List No |Use Type: Business|
+socks://162.0.220.219:40680#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 66.232.53.133 |Time View 30/10/2024 23:09:11 |Black List Yes |Use Type: Business|
+socks://174.138.176.76:40908#🇺🇸 Tennessee|Rogersville|37857|Holston Electric Cooperative| 65.17.189.113 |Time View 30/10/2024 23:09:09 |Black List No |Use Type: Business|
+socks://174.138.176.74:26965#🇺🇸 South Carolina|Bluffton|29909|67.20.139.170.dyn-e120.pool.hargray.net| 67.20.139.170 |Time View 30/10/2024 21:17:33 |Black List No |Use Type: Business|
+socks://67.213.210.167:30712#🇺🇸 South Carolina|Beaufort|29907|Hargray Communications Group, Inc.| 192.152.152.91 |Time View 30/10/2024 21:16:26 |Black List No |Use Type: Business|
