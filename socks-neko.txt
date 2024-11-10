@@ -9,3 +9,6 @@ socks://67.213.212.48:43614#🇺🇸 New York|Staten Island|10306|static-72-69-2
 socks://152.53.36.109:38843#🇺🇸 California|Los Angeles|90049|syn-045-049-248-224.res.spectrum.com| 45.49.248.224 |Time View 10/11/2024 19:18:14 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://209.159.153.21:12870#🇺🇸 California|Los Angeles|90077|syn-076-091-009-103.res.spectrum.com| 76.91.9.103 |Time View 10/11/2024 19:18:12 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://67.213.212.52:61795#🇺🇸 California|Los Angeles|90042|syn-076-178-071-249.res.spectrum.com| 76.178.71.249 |Time View 10/11/2024 19:18:09 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://23.105.170.33:25162#🇺🇸 California|San Francisco|94131|Comcast Cable Communications| 73.202.34.213 |Time View 10/11/2024 19:27:46 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://46.105.44.29:41099#🇺🇸 California|San Francisco|94102|Comcast Cable Communications, LLC| 98.51.4.78 |Time View 10/11/2024 19:27:43 |Black List Yes |Use Type: Cellular|https://dichvusocks.net
+socks://37.221.193.221:13365#🇺🇸 California|San Francisco|94124|DigitalOcean, LLC| 162.243.153.55 |Time View 10/11/2024 19:27:31 |Black List No |Use Type: Hosting|https://dichvusocks.net
