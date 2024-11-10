@@ -3,3 +3,6 @@ socks://162.210.192.171:21911#🇺🇸 Virginia|Washington|22747|Microsoft Corpo
 socks://162.210.197.69:22952#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 74.235.223.211 |Time View 10/11/2024 12:37:07 |Black List Yes |Use Type: Hosting|https://dichvusocks.net
 socks://162.210.192.171:24387#🇺🇸 Virginia|Boydton|23917|Microsoft Corporation| 74.249.50.248 |Time View 10/11/2024 12:37:04 |Black List Yes |Use Type: Hosting|https://dichvusocks.net
 socks://162.210.197.69:57986#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 20.163.226.120 |Time View 10/11/2024 12:37:00 |Black List No |Use Type: Hosting|https://dichvusocks.net
+socks://67.213.212.53:62492#🇺🇸 New York|Lindenhurst|11757|pool-108-30-216-203.nycmny.fios.verizon.net| 108.30.216.203 |Time View 10/11/2024 12:58:18 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.245:49540#🇺🇸 New York|Valhalla|10595|ool-2f15e67a.static.optonline.net| 47.21.230.122 |Time View 10/11/2024 12:58:16 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.48:43614#🇺🇸 New York|Staten Island|10306|static-72-69-245-129.nycmny.fios.verizon.net| 72.69.245.129 |Time View 10/11/2024 12:58:12 |Black List No |Use Type: Residential|https://dichvusocks.net
