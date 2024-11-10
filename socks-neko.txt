@@ -6,3 +6,6 @@ socks://162.210.197.69:57986#🇺🇸 Virginia|Washington|22747|Microsoft Corpor
 socks://67.213.212.53:62492#🇺🇸 New York|Lindenhurst|11757|pool-108-30-216-203.nycmny.fios.verizon.net| 108.30.216.203 |Time View 10/11/2024 12:58:18 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://66.29.128.245:49540#🇺🇸 New York|Valhalla|10595|ool-2f15e67a.static.optonline.net| 47.21.230.122 |Time View 10/11/2024 12:58:16 |Black List No |Use Type: Business|https://dichvusocks.net
 socks://67.213.212.48:43614#🇺🇸 New York|Staten Island|10306|static-72-69-245-129.nycmny.fios.verizon.net| 72.69.245.129 |Time View 10/11/2024 12:58:12 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://152.53.36.109:38843#🇺🇸 California|Los Angeles|90049|syn-045-049-248-224.res.spectrum.com| 45.49.248.224 |Time View 10/11/2024 19:18:14 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://209.159.153.21:12870#🇺🇸 California|Los Angeles|90077|syn-076-091-009-103.res.spectrum.com| 76.91.9.103 |Time View 10/11/2024 19:18:12 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.52:61795#🇺🇸 California|Los Angeles|90042|syn-076-178-071-249.res.spectrum.com| 76.178.71.249 |Time View 10/11/2024 19:18:09 |Black List Yes |Use Type: Business|https://dichvusocks.net
