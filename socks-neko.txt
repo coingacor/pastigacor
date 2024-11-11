@@ -4,3 +4,5 @@ socks://212.83.143.223:12623#🇺🇸 New York|New York|10011|DigitalOcean, LLC|
 socks://37.221.193.221:36920#🇺🇸 Illinois|Chicago|60602|Microsoft Corporation| 23.96.237.52 |Time View 11/11/2024 12:54:01 |Black List No |Use Type: Hosting|https://dichvusocks.net
 socks://162.210.197.91:31317#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 52.147.214.221 |Time View 11/11/2024 12:53:55 |Black List No |Use Type: Hosting|https://dichvusocks.net
 socks://162.210.197.69:11179#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 104.211.41.183 |Time View 11/11/2024 12:53:53 |Black List No |Use Type: Hosting|https://dichvusocks.net
+socks://89.58.45.94:45722#🇦🇺 New South Wales|Sydney|2000|ec2-52-62-10-115.ap-southeast-2.compute.amazonaws.com| 52.62.10.115 |Time View 11/11/2024 13:13:04 |Black List No |Use Type: Hosting|https://dichvusocks.net
+socks://212.83.143.103:62654#🇦🇺 South Australia|Adelaide|5000|cpe-101-174-154-48.sb04.sa.asp.telstra.net| 101.174.154.48 |Time View 11/11/2024 13:13:00 |Black List Yes |Use Type: Business|https://dichvusocks.net
