@@ -6,3 +6,4 @@ socks://162.210.197.91:31317#🇺🇸 Virginia|Washington|22747|Microsoft Corpor
 socks://162.210.197.69:11179#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 104.211.41.183 |Time View 11/11/2024 12:53:53 |Black List No |Use Type: Hosting|https://dichvusocks.net
 socks://89.58.45.94:45722#🇦🇺 New South Wales|Sydney|2000|ec2-52-62-10-115.ap-southeast-2.compute.amazonaws.com| 52.62.10.115 |Time View 11/11/2024 13:13:04 |Black List No |Use Type: Hosting|https://dichvusocks.net
 socks://212.83.143.103:62654#🇦🇺 South Australia|Adelaide|5000|cpe-101-174-154-48.sb04.sa.asp.telstra.net| 101.174.154.48 |Time View 11/11/2024 13:13:00 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://162.19.7.56:48087#🇺🇸 California|Corona|92881|syn-104-033-152-165.res.spectrum.com| 104.33.152.165 |Time View 11/11/2024 13:33:50 |Black List Yes |Use Type: Business|https://dichvusocks.net
