@@ -27,3 +27,18 @@ socks://162.245.185.35:15881#🇺🇸 Kansas|Wichita|67212|ip68-103-41-152.ks.ok
 socks://66.29.128.242:39035#🇺🇸 Rhode Island|Saunderstown|02874|ip24-250-38-24.ri.ri.cox.net| 24.250.38.24 |Time View 13/11/2024 14:34:27 |Black List No |Use Type: Business|https://dichvusocks.net
 socks://67.213.212.51:49675#🇺🇸 Arizona|Phoenix|85048|ip70-176-182-237.ph.ph.cox.net| 70.176.182.237 |Time View 13/11/2024 14:34:22 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://67.213.212.47:29706#🇺🇸 Arizona|Scottsdale|85254|ip68-98-47-49.ph.ph.cox.net| 68.98.47.49 |Time View 13/11/2024 14:34:16 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://193.29.62.48:13547#🇨🇦 Alberta|Calgary|T2V|Shaw Communications Inc.| 184.68.123.34 |Time View 14/11/2024 05:41:10 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://212.83.138.192:42659#🇨🇦 Alberta|Calgary|T3N|TELUS Communications Inc.| 50.99.122.41 |Time View 14/11/2024 05:41:07 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://212.83.143.60:40485#🇨🇦 Alberta|Edmonton|T5H|S01069cc9ebde7144.ed.shawcable.net| 68.149.240.141 |Time View 14/11/2024 05:41:01 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://209.159.153.21:28739#🇺🇸 Virginia|Alexandria|22303|ip98-169-242-43.dc.dc.cox.net| 98.169.242.43 |Time View 14/11/2024 05:40:27 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://162.0.220.161:29472#🇺🇸 Nevada|Henderson|89052|ip50-158-177-227.lv.lv.cox.net| 50.158.177.227 |Time View 14/11/2024 05:40:20 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.40:41046#🇺🇸 Virginia|Virginia Beach|23457|wsip-70-169-6-72.hr.hr.cox.net| 70.169.6.72 |Time View 14/11/2024 05:40:16 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://209.159.153.20:64763#🇺🇸 California|Irvine|92612|ip68-109-197-165.oc.oc.cox.net| 68.109.197.165 |Time View 14/11/2024 05:40:08 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://23.105.170.30:42869#🇺🇸 California|Irvine|92620|ip70-187-191-89.oc.oc.cox.net| 70.187.191.89 |Time View 14/11/2024 05:40:05 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://66.23.233.210:58367#🇺🇸 Nevada|Las Vegas|89117|ip50-159-188-140.lv.lv.cox.net| 50.159.188.140 |Time View 14/11/2024 05:40:01 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://23.105.170.34:59649#🇺🇸 California|Spring Valley|91977|wsip-68-230-178-4.sd.sd.cox.net| 68.230.178.4 |Time View 14/11/2024 05:38:58 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://209.159.153.19:60552#🇺🇸 California|Irvine|92612|ip98-184-208-244.oc.oc.cox.net| 98.184.208.244 |Time View 14/11/2024 05:38:55 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://23.105.170.34:41241#🇺🇸 Nevada|Las Vegas|89108|ip72-207-186-250.lv.lv.cox.net| 72.207.186.250 |Time View 14/11/2024 05:38:52 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.47:41805#🇺🇸 California|Chula Vista|91915|ip72-220-235-200.sd.sd.cox.net| 72.220.235.200 |Time View 14/11/2024 05:38:48 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.39:39590#🇺🇸 California|Irvine|92620|wsip-72-203-216-170.oc.oc.cox.net| 72.203.216.170 |Time View 14/11/2024 05:38:46 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://38.91.107.229:47029#🇺🇸 California|Mission Viejo|92692|ip68-231-218-126.oc.oc.cox.net| 68.231.218.126 |Time View 14/11/2024 05:38:22 |Black List No |Use Type: Business|https://dichvusocks.net
