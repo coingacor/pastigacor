@@ -1,20 +1,20 @@
-socks://38.91.107.229:57216#🇺🇸 Arizona|Scottsdale|85251|wsip-174-67-180-93.ph.ph.cox.net| 174.67.180.93 |Time View 14/11/2024 14:39:39 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.40:12205#🇺🇸 California|Reseda|91335|syn-172-088-017-188.res.spectrum.com| 172.88.17.188 |Time View 14/11/2024 17:03:36 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://162.245.185.37:50309#🇺🇸 California|Riverside|92504|syn-097-093-085-193.res.spectrum.com| 97.93.85.193 |Time View 14/11/2024 17:03:32 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://134.195.90.170:23480#🇺🇸 New York|Buffalo|14201|syn-208-105-196-214.biz.spectrum.com| 208.105.196.214 |Time View 14/11/2024 17:03:29 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.47:19242#🇺🇸 Nevada|Reno|89511|syn-096-038-185-023.res.spectrum.com| 96.38.185.23 |Time View 14/11/2024 17:03:23 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://66.23.233.210:61609#🇺🇸 California|Los Angeles|90004|syn-107-185-145-012.res.spectrum.com| 107.185.145.12 |Time View 14/11/2024 17:03:04 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://23.105.170.35:10055#🇺🇸 California|Los Angeles|90004|syn-076-176-016-185.res.spectrum.com| 76.176.16.185 |Time View 14/11/2024 17:03:00 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.210.60:23796#🇺🇸 California|Los Angeles|90047|syn-108-184-231-039.res.spectrum.com| 108.184.231.39 |Time View 14/11/2024 17:02:46 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://66.29.128.242:23992#🇺🇸 Oklahoma|Oklahoma City|73120|wsip-24-248-244-219.ok.ok.cox.net| 24.248.244.219 |Time View 14/11/2024 14:39:36 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://66.23.233.210:42949#🇺🇸 Arizona|Surprise|85374|ip72-216-68-133.ph.ph.cox.net| 72.216.68.133 |Time View 14/11/2024 14:39:34 |Black List No |Use Type: Business|https://dichvusocks.net
 socks://212.83.143.151:31372#🇨🇦 Ontario|Toronto|M5A|Microsoft Corporation| 4.174.213.95 |Time View 14/11/2024 14:39:09 |Black List No |Use Type: Hosting|https://dichvusocks.net
 socks://67.213.212.38:26974#🇺🇸 California|San Juan Capistrano|92675|wsip-98-189-167-39.oc.oc.cox.net| 98.189.167.39 |Time View 14/11/2024 14:38:44 |Black List No |Use Type: Business|https://dichvusocks.net
 socks://162.19.7.46:25349#🇺🇸 California|Corona|92881|syn-104-033-152-165.res.spectrum.com| 104.33.152.165 |Time View 14/11/2024 14:38:32 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://67.213.212.54:28054#🇺🇸 California|San Ramon|94583|99-127-225-64.lightspeed.sntcca.sbcglobal.net| 99.127.225.64 |Time View 14/11/2024 14:38:23 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://67.213.212.51:64550#🇺🇸 California|Temecula|92592|199-5-189-53.accelwireless.net| 199.5.189.53 |Time View 14/11/2024 14:38:20 |Black List No |Use Type: Cellular|https://dichvusocks.net
 socks://67.213.212.54:28782#🇺🇸 California|Oakland|94611|135-180-211-37.dsl.dynamic.sonic.net| 135.180.211.37 |Time View 14/11/2024 14:38:14 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://108.181.132.116:58545#🇺🇸 California|Rancho Cucamonga|91737|syn-068-187-061-232.res.spectrum.com| 68.187.61.232 |Time View 14/11/2024 14:38:00 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://66.23.233.210:29754#🇺🇸 California|San Francisco|94112|c-50-175-251-212.unallocated.comcastbusiness.net| 50.175.251.212 |Time View 14/11/2024 14:37:54 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://209.159.153.20:48836#🇺🇸 California|San Diego|92130|syn-075-085-186-062.res.spectrum.com| 75.85.186.62 |Time View 14/11/2024 14:37:43 |Black List Yes |Use Type: Residential|https://dichvusocks.net
 socks://108.181.133.58:60746#🇺🇸 California|Imperial|92251|syn-098-145-027-231.res.spectrum.com| 98.145.27.231 |Time View 14/11/2024 14:37:39 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://162.210.197.69:26792#🇺🇸 Virginia|Washington|22747|Microsoft Corporation| 104.211.41.183 |Time View 14/11/2024 07:19:47 |Black List No |Use Type: Hosting|https://dichvusocks.net
 socks://193.29.62.48:13547#🇨🇦 Alberta|Calgary|T2V|Shaw Communications Inc.| 184.68.123.34 |Time View 14/11/2024 05:41:10 |Black List Yes |Use Type: Business|https://dichvusocks.net
 socks://212.83.138.192:42659#🇨🇦 Alberta|Calgary|T3N|TELUS Communications Inc.| 50.99.122.41 |Time View 14/11/2024 05:41:07 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://162.0.220.161:29472#🇺🇸 Nevada|Henderson|89052|ip50-158-177-227.lv.lv.cox.net| 50.158.177.227 |Time View 14/11/2024 05:40:20 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://66.23.233.210:58367#🇺🇸 Nevada|Las Vegas|89117|ip50-159-188-140.lv.lv.cox.net| 50.159.188.140 |Time View 14/11/2024 05:40:01 |Black List No |Use Type: Residential|https://dichvusocks.net
 socks://23.105.170.34:41241#🇺🇸 Nevada|Las Vegas|89108|ip72-207-186-250.lv.lv.cox.net| 72.207.186.250 |Time View 14/11/2024 05:38:52 |Black List No |Use Type: Business|https://dichvusocks.net
 socks://67.213.212.47:41805#🇺🇸 California|Chula Vista|91915|ip72-220-235-200.sd.sd.cox.net| 72.220.235.200 |Time View 14/11/2024 05:38:48 |Black List No |Use Type: Business|https://dichvusocks.net
