@@ -1,32 +1,21 @@
-socks://66.29.129.52:62367#🇺🇸 Florida|Orlando|32835|syn-050-088-008-194.biz.spectrum.com| 50.88.8.194 |Time View 16/11/2024 20:04:28 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://66.29.128.241:29010#🇺🇸 Florida|Tampa|33615|syn-097-106-005-083.res.spectrum.com| 97.106.5.83 |Time View 16/11/2024 20:04:25 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://209.159.153.22:24887#🇺🇸 California|North Hollywood|91602|syn-172-118-010-055.res.spectrum.com| 172.118.10.55 |Time View 16/11/2024 20:04:10 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://161.129.66.141:18180#🇺🇸 California|Seal Beach|90740|syn-076-166-215-155.res.spectrum.com| 76.166.215.155 |Time View 16/11/2024 20:04:06 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://66.29.128.245:18954#🇺🇸 California|Sacramento|95826|Comcast Cable Communications, LLC| 98.208.32.255 |Time View 16/11/2024 20:04:04 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://23.105.170.34:43531#🇺🇸 California|Los Angeles|90016|syn-172-112-090-156.res.spectrum.com| 172.112.90.156 |Time View 16/11/2024 20:04:01 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://67.213.210.62:29221#🇺🇸 California|Los Angeles|90065|syn-172-249-169-174.res.spectrum.com| 172.249.169.174 |Time View 16/11/2024 20:03:56 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://66.29.128.244:43885#🇺🇸 California|Los Angeles|90068|syn-075-080-119-074.res.spectrum.com| 75.80.119.74 |Time View 16/11/2024 20:03:53 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://162.19.7.48:25557#🇺🇸 California|Temecula|92592|Frontier Communications Solutions| 47.150.1.194 |Time View 16/11/2024 20:03:51 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://67.213.212.48:19815#🇺🇸 California|Claremont|91711|syn-075-084-048-127.res.spectrum.com| 75.84.48.127 |Time View 16/11/2024 20:03:47 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://66.29.128.244:26272#🇺🇸 California|Irvine|92620|136-52-41-136.googlefiber.net| 136.52.41.136 |Time View 16/11/2024 20:03:39 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://67.213.212.51:59036#🇺🇸 California|Pasadena|91101|syn-071-083-222-135.biz.spectrum.com| 71.83.222.135 |Time View 16/11/2024 20:03:38 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://23.105.170.30:32630#🇺🇸 California|Calabasas|91302|syn-075-082-186-027.res.spectrum.com| 75.82.186.27 |Time View 16/11/2024 20:03:35 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://67.213.212.52:48250#🇺🇸 California|Fresno|93720|c-76-114-21-159.hsd1.ca.comcast.net| 76.114.21.159 |Time View 16/11/2024 20:03:32 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://67.213.212.49:46437#🇺🇸 California|Pasadena|91103|syn-068-190-210-140.res.spectrum.com| 68.190.210.140 |Time View 16/11/2024 20:03:29 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://209.159.153.21:11599#🇺🇸 California|Manteca|95337|c-67-187-252-127.hsd1.ca.comcast.net| 67.187.252.127 |Time View 16/11/2024 20:03:24 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://67.213.212.56:41482#🇺🇸 California|Moreno Valley|92553|syn-104-175-141-168.res.spectrum.com| 104.175.141.168 |Time View 16/11/2024 20:03:22 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://67.213.212.52:15246#🇺🇸 California|Dublin|94568|c-73-241-231-95.hsd1.ca.comcast.net| 73.241.231.95 |Time View 16/11/2024 20:03:19 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://67.213.212.49:42268#🇺🇸 California|San Francisco|94122|c-98-47-236-86.hsd1.ca.comcast.net| 98.47.236.86 |Time View 16/11/2024 20:03:16 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://67.213.212.49:30427#🇺🇸 California|Martinez|94553|c-76-133-165-4.hsd1.ca.comcast.net| 76.133.165.4 |Time View 16/11/2024 20:03:13 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://209.159.153.20:19926#🇺🇸 California|Hawthorne|90250|syn-172-113-125-007.res.spectrum.com| 172.113.125.7 |Time View 16/11/2024 20:03:10 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://37.221.193.221:37321#🇺🇸 California|San Francisco|94109|c-73-71-51-231.hsd1.ca.comcast.net| 73.71.51.231 |Time View 16/11/2024 20:03:07 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://108.181.132.115:28842#🇺🇸 Nebraska|Clarks|68628|70-37-193-18.nntc.net| 70.37.193.18 |Time View 16/11/2024 20:02:40 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://162.245.185.38:37891#🇺🇸 Nebraska|Newcastle|68757|70-37-202-155.nntc.net| 70.37.202.155 |Time View 16/11/2024 20:02:38 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://108.181.133.58:20697#🇺🇸 Nebraska|Bartlett|68622|70-37-219-155.nntc.net| 70.37.219.155 |Time View 16/11/2024 20:02:35 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://162.0.220.214:27976#🇺🇸 Nebraska|Staplehurst|68439|70-37-214-40.nntc.net| 70.37.214.40 |Time View 16/11/2024 20:02:31 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://198.7.56.73:43295#🇺🇸 Nebraska|Lincoln|68512|syn-098-100-117-194.biz.spectrum.com| 98.100.117.194 |Time View 16/11/2024 20:02:27 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://162.245.185.35:30541#🇺🇸 Nebraska|Spencer|68777|70-37-204-201.nntc.net| 70.37.204.201 |Time View 16/11/2024 20:02:17 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://38.91.106.252:24149#🇺🇸 Nebraska|Weston|68070|70-37-206-140.nntc.net| 70.37.206.140 |Time View 16/11/2024 20:02:15 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://162.245.185.38:35276#🇺🇸 Nebraska|Clarks|68628|70-37-195-113.nntc.net| 70.37.195.113 |Time View 16/11/2024 20:02:12 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://162.210.192.136:42505#🇺🇸 Nebraska|Omaha|68104|97-119-109-148.omah.qwest.net| 97.119.109.148 |Time View 16/11/2024 20:02:03 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://67.213.212.38:35103#🇺🇸 Nebraska|Lincoln|68510|72-46-56-159.lnk02-oa02.lnk.ne.allofiber.net| 72.46.56.159 |Time View 16/11/2024 20:01:12 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://209.159.153.22:13537#🇺🇸 Connecticut|Southington|06489|ip184-183-241-33.ri.ri.cox.net| 184.183.241.33 |Time View 17/11/2024 19:54:32 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://66.29.128.243:35227#🇺🇸 Nevada|Las Vegas|89123|ip50-159-70-219.lv.lv.cox.net| 50.159.70.219 |Time View 17/11/2024 19:53:42 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://37.59.213.49:35659#🇺🇸 Arizona|Scottsdale|85258|ip72-200-115-64.tc.ph.cox.net| 72.200.115.64 |Time View 17/11/2024 19:53:40 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.40:25579#🇺🇸 California|San Clemente|92673|wsip-174-76-17-135.oc.oc.cox.net| 174.76.17.135 |Time View 17/11/2024 19:53:38 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://209.159.153.20:18150#🇺🇸 Arizona|Phoenix|85032|ip72-201-148-38.ph.ph.cox.net| 72.201.148.38 |Time View 17/11/2024 19:53:22 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://66.29.128.243:59909#🇺🇸 California|Rancho Palos Verdes|90275|ip68-111-73-230.oc.oc.cox.net| 68.111.73.230 |Time View 17/11/2024 19:53:16 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.54:60364#🇺🇸 Virginia|Virginia Beach|23456|ip98-183-252-41.hr.hr.cox.net| 98.183.252.41 |Time View 17/11/2024 19:53:14 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://174.138.176.74:65444#🇺🇸 Nebraska|Crawford|69339|23.29.86.181.bbc.net| 23.29.86.181 |Time View 17/11/2024 19:52:41 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://108.181.133.58:28857#🇺🇸 Nebraska|North Bend|68649|gpc-173-240-91-168-ne.gpcom.net| 173.240.91.168 |Time View 17/11/2024 19:52:38 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://66.29.129.53:27580#🇺🇸 Nebraska|Gordon|69343|gpc-72-8-232-190-ne.gpcom.net| 72.8.232.190 |Time View 17/11/2024 19:52:36 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://162.210.192.135:41933#🇺🇸 Nebraska|Omaha|68132|wsip-184-189-188-50.om.om.cox.net| 184.189.188.50 |Time View 17/11/2024 19:52:34 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://66.29.128.241:33885#🇺🇸 Nebraska|Omaha|68116|ip174-71-118-185.om.om.cox.net| 174.71.118.185 |Time View 17/11/2024 19:52:31 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://162.245.185.37:51908#🇺🇸 Nebraska|Wynot|68792|gpc-72-8-199-185-ne.gpcom.net| 72.8.199.185 |Time View 17/11/2024 19:52:29 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://174.138.176.74:59839#🇺🇸 Nebraska|Verdigre|68783|gpc-64-64-155-240-ne.gpcom.net| 64.64.155.240 |Time View 17/11/2024 19:52:27 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.210.167:15104#🇺🇸 Montana|Missoula|59801|66.109.136.69.adsl.montana.com| 66.109.136.69 |Time View 17/11/2024 19:52:09 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://162.0.220.214:60759#🇺🇸 Montana|Thompson Falls|59873|216-14-231-170.static.blackfoot.net| 216.14.231.170 |Time View 17/11/2024 19:52:06 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://38.91.106.252:64637#🇺🇸 Montana|Thompson Falls|59873|216-14-231-208.static.blackfoot.net| 216.14.231.208 |Time View 17/11/2024 19:52:04 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://161.129.66.138:14830#🇺🇸 Montana|Missoula|59808|216-14-237-150.static.blackfoot.net| 216.14.237.150 |Time View 17/11/2024 19:50:24 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://198.7.56.73:39832#🇺🇸 Nebraska|Lincoln|68512|syn-098-100-117-194.biz.spectrum.com| 98.100.117.194 |Time View 17/11/2024 19:44:58 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://67.213.212.52:25492#🇺🇸 Nebraska|Lincoln|68516|167-248-0-26.lnk01-oa01.lnk.ne.allofiber.net| 167.248.0.26 |Time View 17/11/2024 19:44:36 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.38:35103#🇺🇸 Nebraska|Lincoln|68510|72-46-56-159.lnk02-oa02.lnk.ne.allofiber.net| 72.46.56.159 |Time View 17/11/2024 19:44:34 |Black List No |Use Type: Business|https://dichvusocks.net
