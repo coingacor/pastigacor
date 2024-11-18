@@ -40,3 +40,5 @@ socks://38.91.106.252:64637#🇺🇸 Montana|Thompson Falls|59873|216-14-231-208
 socks://198.7.56.73:39832#🇺🇸 Nebraska|Lincoln|68512|syn-098-100-117-194.biz.spectrum.com| 98.100.117.194 |Time View 17/11/2024 19:44:58 |Black List No |Use Type: Residential|
 socks://67.213.212.52:25492#🇺🇸 Nebraska|Lincoln|68516|167-248-0-26.lnk01-oa01.lnk.ne.allofiber.net| 167.248.0.26 |Time View 17/11/2024 19:44:36 |Black List Yes |Use Type: Business|
 socks://67.213.212.38:35103#🇺🇸 Nebraska|Lincoln|68510|72-46-56-159.lnk02-oa02.lnk.ne.allofiber.net| 72.46.56.159 |Time View 17/11/2024 19:44:34 |Black List No |Use Type: Business|
+socks://67.213.212.38:35103#🇺🇸 Nebraska|Lincoln|68510|72-46-56-159.lnk02-oa02.lnk.ne.allofiber.net| 72.46.56.159 |Time View 18/11/2024 09:52:26 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.52:14423#🇺🇸 Nebraska|Lincoln|68516|167-248-0-26.lnk01-oa01.lnk.ne.allofiber.net| 167.248.0.26 |Time View 18/11/2024 09:52:24 |Black List Yes |Use Type: Business|https://dichvusocks.net
