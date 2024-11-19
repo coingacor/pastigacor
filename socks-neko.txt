@@ -1,13 +1,11 @@
-socks://23.105.170.33:60942#🇺🇸 California|Temecula|92592|Charter Communications Inc| 23.177.64.185 |Time View 18/11/2024 19:50:52 |Black List Yes |Use Type: Cellular|https://dichvusocks.net
-socks://67.213.212.47:61401#🇺🇸 California|San Diego|92102|ip72-199-102-62.sd.sd.cox.net| 72.199.102.62 |Time View 18/11/2024 19:50:49 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://173.244.208.81:47625#🇺🇸 California|Los Angeles|90004|syn-076-168-118-139.res.spectrum.com| 76.168.118.139 |Time View 18/11/2024 19:50:26 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://108.181.132.115:10420#🇺🇸 California|Los Angeles|90025|syn-023-241-028-110.res.spectrum.com| 23.241.28.110 |Time View 18/11/2024 19:50:24 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://67.213.210.62:29221#🇺🇸 California|Los Angeles|90065|syn-172-249-169-174.res.spectrum.com| 172.249.169.174 |Time View 18/11/2024 19:50:23 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://66.29.128.243:63312#🇺🇸 California|Los Angeles|90036|99-90-210-18.lightspeed.irvnca.sbcglobal.net| 99.90.210.18 |Time View 18/11/2024 19:49:57 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://162.19.7.48:61150#🇺🇸 California|Los Angeles|90047|75-54-99-51.lightspeed.irvnca.sbcglobal.net| 75.54.99.51 |Time View 18/11/2024 19:49:53 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://23.105.170.33:51213#🇺🇸 California|Los Angeles|90026|71-146-184-29.lightspeed.irvnca.sbcglobal.net| 71.146.184.29 |Time View 18/11/2024 19:49:50 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://66.29.129.56:63537#🇺🇸 Nebraska|Wisner|68791|gpc-72-8-237-148-ne.gpcom.net| 72.8.237.148 |Time View 18/11/2024 19:49:05 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://108.181.132.117:47280#🇺🇸 Nebraska|Cody|69211|gpc-64-64-138-66-ne.gpcom.net| 64.64.138.66 |Time View 18/11/2024 19:49:02 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://174.138.176.74:46738#🇺🇸 Nebraska|Ponca|68770|gpc-72-8-202-87-ne.gpcom.net| 72.8.202.87 |Time View 18/11/2024 19:49:00 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://23.105.170.30:36174#🇺🇸 Nebraska|Bellevue|68005|ip72-196-5-36.om.om.cox.net| 72.196.5.36 |Time View 18/11/2024 19:48:57 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://173.244.208.72:11213#🇺🇸 Nebraska|Elkhorn|68022|ip98-161-31-210.om.om.cox.net| 98.161.31.210 |Time View 18/11/2024 19:48:54 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://173.244.208.83:56813#🇺🇸 California|Berkeley|94702|23-93-81-135.dsl.dynamic.sonic.net| 23.93.81.135 |Time View 19/11/2024 16:30:25 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://66.29.128.242:63652#🇺🇸 California|Palm Springs|92262|syn-072-132-232-106.res.spectrum.com| 72.132.232.106 |Time View 19/11/2024 16:30:23 |Black List Yes |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.47:39936#🇺🇸 California|Pomona|91768|syn-076-053-016-086.biz.spectrum.com| 76.53.16.86 |Time View 19/11/2024 16:29:58 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.39:13677#🇺🇸 California|Arcadia|91007|syn-069-075-171-204.biz.spectrum.com| 69.75.171.204 |Time View 19/11/2024 16:29:52 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.53:60458#🇺🇸 California|Dana Point|92629|wsip-98-178-242-73.oc.oc.cox.net| 98.178.242.73 |Time View 19/11/2024 16:29:48 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://67.213.212.53:17904#🇺🇸 California|Van Nuys|91401|syn-024-043-160-234.biz.spectrum.com| 24.43.160.234 |Time View 19/11/2024 16:29:44 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://173.244.208.83:62556#🇺🇸 California|Los Angeles|90019|162-201-12-81.lightspeed.irvnca.sbcglobal.net| 162.201.12.81 |Time View 19/11/2024 16:29:42 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://162.19.7.61:54330#🇺🇸 California|San Francisco|94114|198-27-191-125.fiber.dynamic.sonic.net| 198.27.191.125 |Time View 19/11/2024 16:29:32 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.245:22552#🇺🇸 California|Vallejo|94591|c-98-37-94-158.hsd1.ca.comcast.net| 98.37.94.158 |Time View 19/11/2024 16:29:29 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://162.245.185.35:41267#🇺🇸 California|Manteca|95337|c-98-242-50-230.hsd1.ca.comcast.net| 98.242.50.230 |Time View 19/11/2024 16:29:26 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://209.159.153.19:26305#🇺🇸 California|Los Angeles|90045|104-1-53-156.lightspeed.irvnca.sbcglobal.net| 104.1.53.156 |Time View 19/11/2024 16:29:19 |Black List No |Use Type: Residential|https://dichvusocks.net
