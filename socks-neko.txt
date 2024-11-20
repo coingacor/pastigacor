@@ -1,11 +1,9 @@
-socks://173.244.208.83:56813#🇺🇸 California|Berkeley|94702|23-93-81-135.dsl.dynamic.sonic.net| 23.93.81.135 |Time View 19/11/2024 16:30:25 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://66.29.128.242:63652#🇺🇸 California|Palm Springs|92262|syn-072-132-232-106.res.spectrum.com| 72.132.232.106 |Time View 19/11/2024 16:30:23 |Black List Yes |Use Type: Business|https://dichvusocks.net
-socks://67.213.212.47:39936#🇺🇸 California|Pomona|91768|syn-076-053-016-086.biz.spectrum.com| 76.53.16.86 |Time View 19/11/2024 16:29:58 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://67.213.212.39:13677#🇺🇸 California|Arcadia|91007|syn-069-075-171-204.biz.spectrum.com| 69.75.171.204 |Time View 19/11/2024 16:29:52 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://67.213.212.53:60458#🇺🇸 California|Dana Point|92629|wsip-98-178-242-73.oc.oc.cox.net| 98.178.242.73 |Time View 19/11/2024 16:29:48 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://67.213.212.53:17904#🇺🇸 California|Van Nuys|91401|syn-024-043-160-234.biz.spectrum.com| 24.43.160.234 |Time View 19/11/2024 16:29:44 |Black List No |Use Type: Business|https://dichvusocks.net
-socks://173.244.208.83:62556#🇺🇸 California|Los Angeles|90019|162-201-12-81.lightspeed.irvnca.sbcglobal.net| 162.201.12.81 |Time View 19/11/2024 16:29:42 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://162.19.7.61:54330#🇺🇸 California|San Francisco|94114|198-27-191-125.fiber.dynamic.sonic.net| 198.27.191.125 |Time View 19/11/2024 16:29:32 |Black List No |Use Type: Residential|https://dichvusocks.net
-socks://66.29.128.245:22552#🇺🇸 California|Vallejo|94591|c-98-37-94-158.hsd1.ca.comcast.net| 98.37.94.158 |Time View 19/11/2024 16:29:29 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://162.245.185.35:41267#🇺🇸 California|Manteca|95337|c-98-242-50-230.hsd1.ca.comcast.net| 98.242.50.230 |Time View 19/11/2024 16:29:26 |Black List Yes |Use Type: Residential|https://dichvusocks.net
-socks://209.159.153.19:26305#🇺🇸 California|Los Angeles|90045|104-1-53-156.lightspeed.irvnca.sbcglobal.net| 104.1.53.156 |Time View 19/11/2024 16:29:19 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://204.13.233.91:42146#🇺🇸 Nevada|Mesquite|89027|pppoe-38-97-228-045.rioaccess.com| 38.97.228.45 |Time View 20/11/2024 14:21:19 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://37.221.193.221:31576#🇺🇸 Florida|Bradenton|34209|Frontier Communications Solutions| 47.206.46.27 |Time View 20/11/2024 14:09:10 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://162.0.220.216:40661#🇺🇸 Indiana|Portage|46368|pool-184-19-31-44.ftwy.in.frontiernet.net| 184.19.31.44 |Time View 20/11/2024 14:09:07 |Black List Yes |Use Type: Residential|https://dichvusocks.net
+socks://162.19.7.59:24826#🇺🇸 California|Hemet|92545|Frontier Communications Corporation| 47.155.159.159 |Time View 20/11/2024 14:08:59 |Black List No |Use Type: Business|https://dichvusocks.net
+socks://162.0.220.215:39272#🇺🇸 Illinois|Lexington|61753|50-40-116-77.vng01.bltn.il.frontiernet.net| 50.40.116.77 |Time View 20/11/2024 14:08:54 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://66.29.129.53:30873#🇺🇸 Indiana|Rushville|46173|Frontier Communications Solutions| 184.16.82.33 |Time View 20/11/2024 14:08:51 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.242:47407#🇺🇸 Texas|Plano|75074|47-185-231-122.dlls.tx.frontiernet.net| 47.185.231.122 |Time View 20/11/2024 14:08:44 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://66.29.128.245:61665#🇺🇸 Texas|Fort Worth|76244|Frontier Communications Solutions| 47.185.18.145 |Time View 20/11/2024 14:08:35 |Black List No |Use Type: Residential|https://dichvusocks.net
+socks://37.59.213.49:59683#🇺🇸 California|Corona|92882|151.sub-174-236-96.myvzw.com| 174.236.96.151 |Time View 20/11/2024 14:08:13 |Black List Yes |Use Type: Cellular|https://dichvusocks.net
